@@ -1,0 +1,58 @@
+name,category,amazon_link,total_mentions,subreddit_mentions
+"Introduction to Algorithms, 3rd Edition (MIT Press)",Books,https://www.amazon.com/Introduction-Algorithms-3rd-Thomas-Cormen/dp/0262033844/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1452656266&amp;sr=1-1&amp;keywords=algorithms,20,4
+Code: The Hidden Language of Computer Hardware and Software,Books,https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319/ref=sr_1_1?ie=UTF8&amp;qid=1450017914&amp;sr=8-1&amp;keywords=code+the+hidden+language+of+computer+hardware+and+software,16,2
+"The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)",Books,https://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959,5,2
+The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine,Books,https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055,3,2
+Quantum Computation and Quantum Information: 10th Anniversary Edition,Books,https://www.amazon.com/Quantum-Computation-Information-Anniversary-Edition/dp/1107002176,3,2
+Design Patterns: Elements of Reusable Object-Oriented Software,Books,https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612,15,1
+"Code Complete: A Practical Handbook of Software Construction, Second Edition",Books,https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670,12,1
+The Design of Everyday Things: Revised and Expanded Edition,Books,https://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654,10,1
+"The Elements of Style, Fourth Edition",Books,https://www.amazon.com/The-Elements-Style-Fourth-Edition/dp/020530902X,7,1
+The Algorithm Design Manual,Books,https://www.amazon.com/exec/obidos/ASIN/1848000693/thealgorithmrepo,7,1
+"The Art of Computer Programming, Volumes 1-4A Boxed Set",Books,https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1452656586&amp;sr=1-1&amp;keywords=donald+knuth,6,1
+Refactoring: Improving the Design of Existing Code,Books,https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672,5,1
+Head First Design Patterns: A Brain-Friendly Guide,Books,https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124,5,1
+Computer Networking: A Top-Down Approach (6th Edition),Books,https://www.amazon.com/Computer-Networking-Top-Down-Approach-6th/dp/0132856204/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1437342508&amp;sr=1-1&amp;keywords=computer+networking+a+top-down+approach,5,1
+Artificial Intelligence: A Modern Approach (3rd Edition),Books,https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597/,5,1
+Algorithms (4th Edition),Books,https://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X,5,1
+Working Effectively with Legacy Code,Books,https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052,4,1
+Hackers: Heroes of the Computer Revolution,Books,https://www.amazon.com/Hackers-Computer-Revolution-Anniversary-Edition/dp/1449388396,4,1
+Hacker's Delight (2nd Edition),Books,https://www.amazon.com/Hackers-Delight-Edition-Henry-Warren/dp/0321842685?sa-no-redirect=1,4,1
+Soft Skills: The software developer's life manual,Books,https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397,3,1
+Effective Java (2nd Edition),Books,https://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683/ref=pd_sim_14_84?ie=UTF8&amp;dpID=51,3,1
+The Soul of A New Machine,Books,https://www.amazon.com/The-Soul-A-New-Machine/dp/0316491977,3,1
+A Guide to Kernel Exploitation: Attacking the Core,Books,https://www.amazon.com/Guide-Kernel-Exploitation-Attacking-Core/dp/1597494860,3,1
+Types and Programming Languages (MIT Press),Books,https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1464967038&amp;sr=1-1&amp;keywords=types+and+programming+languages,3,1
+An Introduction to Database Systems (8th Edition),Books,https://www.amazon.com/Introduction-Database-Systems-8th/dp/0321197844/,3,1
+The Little Schemer - 4th Edition,Books,https://www.amazon.com/Little-Schemer-Daniel-P-Friedman/dp/0262560992,3,1
+Algorithms to Live By: The Computer Science of Human Decisions,Books,https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365,3,1
+Beyond Legacy Code: Nine Practices to Extend the Life (and Value) of Your Software,Books,https://www.amazon.com/Beyond-Legacy-Code-Practices-Software/dp/1680500791,2,1
+Modern Compiler Implementation in Java,Books,https://www.amazon.com/Modern-Compiler-Implementation-Andrew-Appel/dp/052182060X?ie=UTF8&amp;*Version*=1&amp;*entries*=0,2,1
+Zen and the Art of Motorcycle Maintenance: An Inquiry into Values,Books,https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469,2,1
+"The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",Books,https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703/ref=sr_1_1?ie=UTF8&amp;qid=1451825767&amp;sr=8-1&amp;keywords=walter+isaacson,2,1
+Introduction to the Theory of Computation,Books,https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/053494728X/ref=pd_sim_b_2?ie=UTF8&amp;refRID=132950DA8N243NBY5XB1,2,1
+The Algorithm Design Manual,Books,https://www.amazon.com/exec/obidos/ASIN/0387948600/ref=ase_thealgorithmrepo/103-4113747-9788633,2,1
+"Unix Network Programming, Volume 1: The Sockets Networking API (3rd Edition)",Books,https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551,1,1
+"Load Balancing Servers, Firewalls, and Caches",Books,https://www.amazon.com/Load-Balancing-Servers-Firewalls-Caches/dp/0471415502,1,1
+Computer Networking: A Top-Down Approach (7th Edition),Books,https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149,1,1
+From the Metal Up: Fundamentals of Programmable Computers,Books,https://www.amazon.com/From-Metal-Fundamentals-Programmable-Computers/dp/0981280005,1,1
+To Mock a Mockingbird: and Other Logic Puzzles by Raymond Smullyan (April 14 2004),Books,https://www.amazon.com/Mock-Mockingbird-Puzzles-Raymond-Smullyan/dp/B00DIL4IZQ/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1469720181&amp;sr=1-1&amp;keywords=to+mock+a+mockingbird,1,1
+Semantics with Applications: An Appetizer (Undergraduate Topics in Computer Science),Books,https://www.amazon.com/Semantics-Applications-Appetizer-Undergraduate-Computer/dp/1846286913,1,1
+Grokking Algorithms: An illustrated guide for programmers and other curious people,Books,https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230,1,1
+Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems,Books,https://www.amazon.com/Debugging-Indispensable-Software-Hardware-Problems/dp/0814474578,1,1
+Quantum Computing since Democritus,Books,https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565,1,1
+The Grammar of Graphics (Statistics and Computing),Books,https://www.amazon.com/The-Grammar-Graphics-Statistics-Computing/dp/0387245448,1,1
+UNIX Network Programming: Networking APIs: Sockets and XTI; Volume 1,Books,https://www.amazon.com/UNIX-Network-Programming-Networking-Sockets/dp/013490012X/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1452656510&amp;sr=1-2&amp;keywords=unix+network+programming+volume+1,1,1
+Operating Systems Design and Implementation (3rd Edition),Books,https://www.amazon.com/Operating-Systems-Design-Implementation-Edition/dp/0131429388/ref=dp_ob_title_bk,1,1
+Computational Complexity,Books,https://www.amazon.com/Computational-Complexity-Christos-H-Papadimitriou/dp/0201530821,1,1
+Concepts of Physics (Part 1),Books,https://www.amazon.com/Concepts-Physics-Part-H-C-VERMA/dp/8177091875/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1479072522&amp;sr=1-1&amp;keywords=hc+verma+physics,1,1
+Off to Be the Wizard (Magic 2.0),Books,https://www.amazon.com/Off-Be-Wizard-Magic-2-0/dp/1491592192,1,1
+"Postmortems from Game Developer: Insights from the Developers of Unreal Tournament, Black and White, Age of Empires, and Other Top-Selling Games",Books,https://www.amazon.com/Postmortems-Game-Developer-Developers-Top-Selling/dp/1578202140/,1,1
+Concepts of Physics (Part 2),Books,https://www.amazon.com/Concepts-Physics-Part-2-Verma/dp/8177092324/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1479072653&amp;sr=1-2&amp;keywords=hc+verma+physics,1,1
+Introduction to the Theory of Computation. Michael Sipser,Books,https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/1133187811/ref=mt_paperback,1,1
+Linear Algebra with Applications,Books,https://www.amazon.com/Linear-Algebra-Applications-Keith-Nicholson/dp/0070985103/ref=dp_ob_image_bk,1,1
+Computer Systems: A Programmer's Perspective,Books,https://www.amazon.com/gp/product/1292101768,1,1
+Understanding Compression: Data Compression for Modern Developers,Books,https://www.amazon.com/Understanding-Compression-Data-Modern-Developers/dp/1491961538,1,1
+The Hardware Hacker: Adventures in Making and Breaking Hardware,Books,https://www.amazon.com/Hardware-Hacker-Adventures-Making-Breaking/dp/159327758X,1,1
+Meta Math!: The Quest for Omega,Books,https://www.amazon.com/Meta-Math-Quest-Gregory-Chaitin/dp/1400077974,1,1
+Introductory Graph Theory (Dover Books on Mathematics),Books,https://www.amazon.com/Introductory-Graph-Theory-Dover-Mathematics/dp/0486247759,1,1
