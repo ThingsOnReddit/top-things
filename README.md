@@ -17,7 +17,7 @@ reddits/w/Watches.csv
 ```
 
 ## 📚 Definitions
-Below are the column definitions found in each `data.csv` file.
+Below are the column definitions found in each `<subreddit>.csv` file.
 
 #### name
 The name of the product as found on Amazon.
