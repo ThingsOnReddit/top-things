@@ -2,7 +2,7 @@
 
 ## 📁 Methodology
 
-This is a data dump of the top 100 products (ordered by number of mentions) from every subreddit that has posted an amazon product. The data was extracted from [Google Bigquery's Reddit Comment database](https://bigquery.cloud.google.com/dataset/fh-bigquery:reddit_comments). It only extracts Amazon links, so it is certainly a subset of all products posted to Reddit.
+This is a data dump of the top products (ordered by number of mentions) from every subreddit that has posted an amazon product. The data was extracted from [Google Bigquery's Reddit Comment database](https://bigquery.cloud.google.com/dataset/fh-bigquery:reddit_comments). It only extracts Amazon links, so it is certainly a subset of all products posted to Reddit.
 
 The data is organized in a file structure that follows:
 
