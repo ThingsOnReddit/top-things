@@ -1,18 +1,54 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-The Martian,Books,https://www.amazon.com/gp/product/0553418025,8,1
-Understanding Comics: The Invisible Art,Books,https://www.amazon.com/Understanding-Comics-Invisible-Scott-McCloud/dp/006097625X,6,1
-Redshirts: A Novel with Three Codas,Books,https://www.amazon.com/Redshirts-Novel-Three-John-Scalzi/dp/0765334798/ref=sr_1_1?ie=UTF8&amp;qid=1475414654&amp;sr=8-1&amp;keywords=red+shirts+john+scalzi,4,1
-Stories of Your Life and Others,Books,https://www.amazon.com/Stories-Your-Life-Others-Chiang/dp/1931520720/,3,1
-Algorithms to Live By: The Computer Science of Human Decisions,Books,https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365/ref=sr_1_1?ie=UTF8&amp;qid=1466119826&amp;sr=8-1&amp;keywords=algorithms+to+live+by,3,1
-His Dark Materials Omnibus (The Golden Compass; The Subtle Knife; The Amber Spyglass),Books,https://www.amazon.com/Materials-Omnibus-Golden-Compass-Spyglass/dp/0375847227,2,1
-"Squigle Tooth Builder Sensitive Toothpaste - 4oz, 2 Pack",Beauty & Personal Care,https://www.amazon.com/gp/product/B00CMJNO7I,1,1
-The Dream Merchant (Works in Translation),Books,https://www.amazon.com/Dream-Merchant-Works-Translation/dp/0763628808/ref=sr_1_4?s=books&amp;ie=UTF8&amp;qid=1442111651&amp;sr=1-4&amp;keywords=the+dream+merchant,1,1
-Echopraxia,Books,https://www.amazon.com/dp/076532802X/ref=wl_it_dp_o_pC_S_ttl?_encoding=UTF8&amp;colid=CEAXUAH4BUHV&amp;coliid=I23BYBUF8SBA29,1,1
-The Sea of Trolls (Sea of Trolls Trilogy (Paperback)),Books,https://www.amazon.com/Sea-Trolls-Trilogy/dp/0689867468/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1442111847&amp;sr=1-1&amp;keywords=the+sea+of+trolls,1,1
-Math Girls,Books,https://www.amazon.com/Math-Girls-Hiroshi-Yuki/dp/0983951306,1,1
-Singularity Sky,Books,https://www.amazon.com/gp/product/0441011799,1,1
-Infoquake (Jump 225 Trilogy) (v. 1),Books,https://www.amazon.com/Infoquake-Jump-225-Trilogy-v/dp/1591024420/ref=sr_1_1?ie=UTF8&amp;qid=1467999736&amp;sr=8-1&amp;keywords=infoquake,1,1
-Iron Sunrise (Singularity),Books,https://www.amazon.com/Iron-Sunrise-Singularity-Charles-Stross/dp/0441012965,1,1
-bang: an apocalypse,Books,https://www.amazon.com/bang-apocalypse-Mason-Tailsteak-Williams/dp/1453806466,1,1
-Indera Men's Cotton 1 x 1 Rib Union Suit,Sports & Outdoors,https://www.amazon.com/Indera-Mills-Classic-Union-865us/dp/B000V5CQKG/ref=sr_1_6?ie=UTF8&amp;qid=1427874009&amp;sr=8-6&amp;keywords=long+underwear+cotton+men+suit,1,1
-Neanderthal Man: In Search of Lost Genomes,Books,https://www.amazon.com/Neanderthal-Man-Search-Lost-Genomes/dp/0465054951,1,1
+Stories of Your Life and Others,Book,http://www.amazon.com/dp/1931520720/,6,3
+Forging Divinity (The War of Broken Mirrors),Book,http://www.amazon.com/dp/1505886554/,20,2
+Sufficiently Advanced Magic (Arcane Ascension Book 1),eBooks,http://www.amazon.com/dp/B06XBFD7CB/,17,2
+Pay Attention: a novella of psychological horror,eBooks,http://www.amazon.com/dp/B00V4ZIEMQ/,2,2
+The Two Year Emperor:  The Deor War,eBooks,http://www.amazon.com/dp/B011DQOT74/,2,2
+"The 10,000 Year Explosion: How Civilization Accelerated Human Evolution",eBooks,http://www.amazon.com/dp/B0042FZRPC/,,1
+Baby Blues,eBooks,http://www.amazon.com/dp/B00V52XRIE/,,1
+The Black Swan: Second Edition: The Impact of the Highly Improbable (Incerto),eBooks,http://www.amazon.com/dp/B00139XTG4/,,1
+Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto),eBooks,http://www.amazon.com/dp/B001FA0W5W/,,1
+The Dire Saga: Season One,eBooks,http://www.amazon.com/dp/B01N53O0W7/,,1
+"The Darkness that Comes Before: The Prince of Nothing, Book One (The Prince of Nothing) (The Prince of Nothing Series 1)",eBooks,http://www.amazon.com/dp/B010MEPN14/,,1
+Cast Under an Alien Sun (Destiny's Crucible Book 1),eBooks,http://www.amazon.com/dp/B01I8DTAKQ/,,1
+Orconomics: A Satire (The Dark Profit Saga Book 1),eBooks,http://www.amazon.com/dp/B00O2NDJ2M/,,1
+Dormia,eBooks,http://www.amazon.com/dp/B003K15IO4/,,1
+Jumper,eBooks,http://www.amazon.com/dp/B003Y5HCXG/,,1
+The Shadow of What Was Lost (The Licanius Trilogy),eBooks,http://www.amazon.com/dp/B01HMRF5FI/,,1
+The Case of the Sleeping Beauties: A Utah Sinclair Mystery,eBooks,http://www.amazon.com/dp/B018WXZ1T6/,,1
+Structuring Your Novel Workbook: Hands-On Help for Building Strong and Successful Stories (Helping Writers Become Authors Book 4),eBooks,http://www.amazon.com/dp/B00P72KYWA/,,1
+Lest Darkness Fall & Related Stories,eBooks,http://www.amazon.com/dp/B004Q9U4S4/,,1
+Crystal Society (Crystal Trilogy Book 1),eBooks,http://www.amazon.com/dp/B01AYT6A3C/,,1
+Fimbulwinter (Daniel Black Book 1),eBooks,http://www.amazon.com/dp/B00KZ41LHM/,,1
+Forging Divinity (The War of Broken Mirrors Book 1),eBooks,http://www.amazon.com/dp/B00TKFFR36/,58,1
+"Thinking, Fast and Slow",Book,http://www.amazon.com/dp/0374533555/,35,1
+"Influence: The Psychology of Persuasion, Revised Edition",Book,http://www.amazon.com/dp/006124189X/,18,1
+"Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions",Book,http://www.amazon.com/dp/0061353248/,18,1
+The Martian,Book,http://www.amazon.com/dp/0553418025/,11,1
+On Writing: 10th Anniversary Edition: A Memoir of the Craft,Book,http://www.amazon.com/dp/1439156816/,9,1
+Stealing Sorcery (The War of Broken Mirrors Book 2),eBooks,http://www.amazon.com/dp/B016IPJ1R8/,7,1
+Algorithms to Live By: The Computer Science of Human Decisions,Book,http://www.amazon.com/dp/1627790365/,6,1
+Understanding Comics: The Invisible Art,Book,http://www.amazon.com/dp/006097625X/,6,1
+The Martian: A Novel,eBooks,http://www.amazon.com/dp/B00EMXBDMA/,6,1
+Blindsight (Firefall),eBooks,http://www.amazon.com/dp/B003K15EKM/,5,1
+We Are Legion (We Are Bob) (Bobiverse Book 1),eBooks,http://www.amazon.com/dp/B01LWAESYQ/,5,1
+Blindsight,Book,http://www.amazon.com/dp/0765319640/,4,1
+Redshirts: A Novel with Three Codas,Book,http://www.amazon.com/dp/0765334798/,4,1
+Replay,Book,http://www.amazon.com/dp/068816112X/,4,1
+"Perjure, Book 1: Welcome to the Multiverse",eBooks,http://www.amazon.com/dp/B01CF3MYLW/,3,1
+Redshirts: A Novel with Three Codas (Hugo Award Winner - Best Novel),eBooks,http://www.amazon.com/dp/B0079XPUOW/,3,1
+Antifragile: Things That Gain from Disorder (Incerto),eBooks,http://www.amazon.com/dp/B0083DJWGO/,2,1
+His Dark Materials Omnibus (The Golden Compass; The Subtle Knife; The Amber Spyglass),Book,http://www.amazon.com/dp/0375847227/,2,1
+A Girl Corrupted by the Internet is the Summoned Hero?!,eBooks,http://www.amazon.com/dp/B01B2BP726/,2,1
+Light on Shattered Water (Life of Riley Book 1),eBooks,http://www.amazon.com/dp/B008GASFDA/,2,1
+Neanderthal Man: In Search of Lost Genomes,Book,http://www.amazon.com/dp/0465054951/,2,1
+"Squigle Tooth Builder Sensitive Toothpaste - 4oz, 2 Pack",Beauty,http://www.amazon.com/dp/B00CMJNO7I/,1,1
+Math Girls,Book,http://www.amazon.com/dp/0983951306/,1,1
+Echopraxia,Book,http://www.amazon.com/dp/076532802X/,1,1
+The Dream Merchant (Works in Translation),Book,http://www.amazon.com/dp/0763628808/,1,1
+The Sea of Trolls (Sea of Trolls Trilogy (Paperback)),Book,http://www.amazon.com/dp/0689867468/,1,1
+Iron Sunrise (Singularity),Book,http://www.amazon.com/dp/0441012965/,1,1
+Singularity Sky,Book,http://www.amazon.com/dp/0441011799/,1,1
+Infoquake (Jump 225 Trilogy) (v. 1),Book,http://www.amazon.com/dp/1591024420/,1,1
+bang: an apocalypse,Book,http://www.amazon.com/dp/1453806466/,1,1
+"Indera Men's Cotton 1 x 1 Rib Union Suit, Red, Small",Sports,http://www.amazon.com/dp/B000V5CQKG/,1,1

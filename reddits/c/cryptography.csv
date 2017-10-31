@@ -1,2 +1,4 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Cryptography Engineering: Design Principles and Practical Applications,Books,https://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246,1,1
+The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography,eBooks,http://www.amazon.com/dp/B004IK8PLE/,,1
+Introduction to Modern Cryptography: Principles and Protocols (Chapman & Hall/CRC Cryptography and Network Security Series),Book,http://www.amazon.com/dp/1584885513/,2,1
+Cryptography Engineering: Design Principles and Practical Applications,Book,http://www.amazon.com/dp/0470474246/,1,1

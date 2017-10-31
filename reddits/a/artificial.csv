@@ -1,7 +1,13 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Artificial Intelligence: A Modern Approach (3rd Edition),Books,https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597,5,1
-"The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)",Books,https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576,3,1
-Spikes: Exploring the Neural Code (Computational Neuroscience),Books,https://www.amazon.com/Spikes-Exploring-Neural-Computational-Neuroscience/dp/0262681080/ref=sr_1_fkmr0_1?s=books&amp;ie=UTF8&amp;qid=1439790736&amp;sr=1-1-fkmr0&amp;keywords=spikes+fred+reike,3,1
-Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series),Books,https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020,2,1
-Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning),Books,https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262193981,1,1
-"Descartes' Error: Emotion, Reason, and the Human Brain",Books,https://www.amazon.com/Descartes-Error-Emotion-Reason-Human/dp/014303622X,1,1
+"Superintelligence: Paths, Dangers, Strategies",eBooks,http://www.amazon.com/dp/B00LOOCGB2/,4,2
+Make Your Own Neural Network,eBooks,http://www.amazon.com/dp/B01EER4Z4G/,2,2
+Introduction to the Math of Neural Networks,eBooks,http://www.amazon.com/dp/B00845UQL6/,,1
+Artificial Intelligence for Humans (3 Book Series),Ebook Bundle,http://www.amazon.com/dp/B0198BQ9VA/,,1
+Artificial Intelligence: A Modern Approach (3rd Edition),Book,http://www.amazon.com/dp/0136042597/,9,1
+1984 (Signet Classics),Book,http://www.amazon.com/dp/0451524934/,8,1
+"Superintelligence: Paths, Dangers, Strategies",Book,http://www.amazon.com/dp/0198739834/,7,1
+"The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)",Book,http://www.amazon.com/dp/0387848576/,4,1
+Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series),Book,http://www.amazon.com/dp/0262018020/,4,1
+Spikes: Exploring the Neural Code (Computational Neuroscience),Book,http://www.amazon.com/dp/0262681080/,3,1
+"Descartes' Error: Emotion, Reason, and the Human Brain",Book,http://www.amazon.com/dp/014303622X/,2,1
+Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning),Book,http://www.amazon.com/dp/0262193981/,1,1

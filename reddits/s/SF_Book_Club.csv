@@ -1,14 +1,21 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-The Martian,Books,https://www.amazon.com/Martian-Andy-Weir/dp/0553418025/ref=sr_1_1?ie=UTF8&amp;qid=1422400259&amp;sr=8-1&amp;keywords=the+martian,8,1
-Ventus,Books,https://www.amazon.com/gp/product/0812576357/102-8141064-1860112,2,1
-The Book of Strange New Things: A Novel,Books,https://www.amazon.com/The-Book-Strange-New-Things/dp/0553418866,1,1
-Dark Eden,Books,https://www.amazon.com/Dark-Eden-Chris-Beckett/dp/0804138680/,1,1
-Light,Books,https://www.amazon.com/Light-M-John-Harrison/dp/0553382950,1,1
-On (GollanczF.),Books,https://www.amazon.com/GollanczF-Adam-Roberts/dp/0575071761/ref=sr_1_54?s=books&amp;ie=UTF8&amp;qid=1422398050&amp;sr=1-54&amp;keywords=on+by+adam+roberts,1,1
-Faith,Books,https://www.amazon.com/Faith-John-Love/dp/1597803901/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1454029512&amp;sr=1-1&amp;keywords=faith+john+love',1,1
-Doomsday Book,Books,https://www.amazon.com/Doomsday-Book-Connie-Willis/dp/0553562738,1,1
-Roboteer,Books,https://www.amazon.com/Roboteer-Alex-Lamb/dp/1473206081,1,1
-The Sorcerer's House,Books,https://www.amazon.com/Sorcerers-House-Gene-Wolfe/dp/0765324598/,1,1
-The First Fifteen Lives of Harry August,Books,https://www.amazon.com/First-Fifteen-Lives-Harry-August/dp/0316399620,1,1
-Viriconium,Books,https://www.amazon.com/Viriconium-M-John-Harrison/dp/0553383159,1,1
-Luna: New Moon,Books,https://www.amazon.com/Luna-New-Moon-Ian-McDonald/dp/0765375516,1,1
+The Book of Strange New Things: A Novel,Book,http://www.amazon.com/dp/0553418866/,2,2
+Light,Book,http://www.amazon.com/dp/0553382950/,2,2
+His Majesty's Dragon: A Novel of Temeraire,eBooks,http://www.amazon.com/dp/B000GCFBQA/,,1
+The Time Ships,eBooks,http://www.amazon.com/dp/B00L7BUKV0/,,1
+The Blind Assassin: A Novel,eBooks,http://www.amazon.com/dp/B0012D1CYW/,,1
+The Martian,Book,http://www.amazon.com/dp/0553418025/,11,1
+Do Androids Dream of Electric Sheep?: The inspiration for the films Blade Runner and Blade Runner 2049,eBooks,http://www.amazon.com/dp/B000SEGTI0/,3,1
+"The Long Way to a Small, Angry Planet (Wayfarers)",eBooks,http://www.amazon.com/dp/B00ZP64F28/,2,1
+The Doomsday Book,eBooks,http://www.amazon.com/dp/B004G60FXG/,2,1
+Uprooted,eBooks,http://www.amazon.com/dp/B00KUQIU7O/,2,1
+Ventus,Book,http://www.amazon.com/dp/0812576357/,2,1
+Viriconium,Book,http://www.amazon.com/dp/0553383159/,2,1
+Dark Eden,Book,http://www.amazon.com/dp/0804138680/,1,1
+On (GollanczF.),Book,http://www.amazon.com/dp/0575071761/,1,1
+Roboteer,Book,http://www.amazon.com/dp/1473206081/,1,1
+Faith,Book,http://www.amazon.com/dp/1597803901/,1,1
+Doomsday Book,Book,http://www.amazon.com/dp/0553562738/,1,1
+The First Fifteen Lives of Harry August,Book,http://www.amazon.com/dp/0316399620/,1,1
+The Sorcerer's House,Book,http://www.amazon.com/dp/0765324598/,1,1
+Luna: New Moon,Book,http://www.amazon.com/dp/0765375516/,1,1

@@ -1,3 +1,6 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"Real-Time Rendering, Third Edition",Books,https://www.amazon.com/Real-Time-Rendering-Third-Edition-Akenine-Moller/dp/1568814240,3,1
-Computer Graphics: Principles and Practice (3rd Edition),Books,https://www.amazon.com/Computer-Graphics-Principles-Practice-Edition/dp/0321399528/ref=pd_bxgy_b_text_y,1,1
+Ray Tracing in One Weekend (Ray Tracing Minibooks Book 1),eBooks,http://www.amazon.com/dp/B01B5AODD8/,,1
+Ray Tracing: the Next Week (Ray Tracing Minibooks Book 2),eBooks,http://www.amazon.com/dp/B01CO7PQ8C/,,1
+Ray Tracing: The Rest Of Your Life (Ray Tracing Minibooks Book 3),eBooks,http://www.amazon.com/dp/B01DN58P8C/,,1
+"Real-Time Rendering, Third Edition",Book,http://www.amazon.com/dp/1568814240/,3,1
+Computer Graphics: Principles and Practice (3rd Edition),Book,http://www.amazon.com/dp/0321399528/,1,1
