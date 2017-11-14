@@ -1,12 +1,35 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison-Wesley Signature Series (Fowler))",Book,http://www.amazon.com/dp/0321601912/,6,4
-"The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services, Volume 2",Book,http://www.amazon.com/dp/032194318X/,4,3
-"The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win",Book,http://www.amazon.com/dp/0988262509/,9,2
-"The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win",Book,http://www.amazon.com/dp/0988262592/,4,2
-The Essential Deming: Leadership Principles from the Father of Quality,Books,https://www.amazon.com/Essential-Deming-Leadership-Principles-Business/dp/0071790225/,,1
-The Practice of System and Network Administration: Volume 1: DevOps and other Best Practices for Enterprise IT (3rd Edition),Book,http://www.amazon.com/dp/0321919165/,8,1
-"The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",eBooks,http://www.amazon.com/dp/B00AZRBLHO/,6,1
-The Goal: A Process of Ongoing Improvement,Book,http://www.amazon.com/dp/0884271951/,5,1
-AWS Lambda: A Guide to Serverless Microservices,eBooks,http://www.amazon.com/dp/B016JOMAEE/,2,1
-Site Reliability Engineering: How Google Runs Production Systems,Book,http://www.amazon.com/dp/149192912X/,2,1
-Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)),Book,http://www.amazon.com/dp/1449368425/,1,1
+"Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison-Wesley Signature Series (Fowler))",Book,http://www.amazon.com/dp/0321601912/,23,10
+"The Practice of Cloud System Administration: DevOps and SRE Practices for Web Services, Volume 2",Book,http://www.amazon.com/dp/032194318X/,18,6
+"The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win",Book,http://www.amazon.com/dp/0988262592/,20,5
+"The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win",Book,http://www.amazon.com/dp/0988262509/,28,5
+"Advanced Programming in the UNIX Environment, 3rd Edition",Book,http://www.amazon.com/dp/0321637739/,9,2
+"The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",eBooks,http://www.amazon.com/dp/B00AZRBLHO/,21,2
+"The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations",Book,http://www.amazon.com/dp/1942788002/,3,2
+Site Reliability Engineering: How Google Runs Production Systems,Book,http://www.amazon.com/dp/149192912X/,9,2
+The Design of Everyday Things,Book,http://www.amazon.com/dp/0465067107/,9,1
+One Small Step Can Change Your Life: The Kaizen Way,Book,http://www.amazon.com/dp/0761129235/,1,1
+The Goal: A Process of Ongoing Improvement,Book,http://www.amazon.com/dp/0884271951/,11,1
+Cracking the Coding Interview: 150 Programming Questions and Solutions,Book,http://www.amazon.com/dp/098478280X/,68,1
+Cracking the Coding Interview: 189 Programming Questions and Solutions,Book,http://www.amazon.com/dp/0984782850/,90,1
+AWS Certified Solutions Architect Official Study Guide: Associate Exam,Book,http://www.amazon.com/dp/1119138558/,4,1
+Team Geek: A Software Developer's Guide to Working Well with Others,Book,http://www.amazon.com/dp/1449302440/,5,1
+Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)),Book,http://www.amazon.com/dp/1449368425/,2,1
+The Field Guide to Understanding 'Human Error',Book,http://www.amazon.com/dp/1472439058/,1,1
+Debugging Teams: Better Productivity through Collaboration,Book,http://www.amazon.com/dp/1491932058/,1,1
+The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices,Book,http://www.amazon.com/dp/152391744X/,2,1
+The Linux Programming Interface: A Linux and UNIX System Programming Handbook,Book,http://www.amazon.com/dp/1593272200/,10,1
+"How Linux Works, 2nd Edition: What Every Superuser Should Know",Book,http://www.amazon.com/dp/1593275676/,17,1
+Practical Vim: Edit Text at the Speed of Thought (Pragmatic Programmers),Book,http://www.amazon.com/dp/1934356980/,5,1
+Programming Ruby 1.9 & 2.0: The Pragmatic Programmers' Guide (The Facets of Ruby),Book,http://www.amazon.com/dp/1937785491/,5,1
+Leading the Transformation: Applying Agile and DevOps Principles at Scale,Book,http://www.amazon.com/dp/1942788010/,1,1
+DevOps Hiring,eBooks,http://www.amazon.com/dp/B00KQVXTLA/,1,1
+The Essential Deming: Leadership Principles from the Father of Quality,Book,http://www.amazon.com/dp/0071790225/,2,1
+AWS Lambda: A Guide to Serverless Microservices,eBooks,http://www.amazon.com/dp/B016JOMAEE/,3,1
+Working Effectively with Legacy Code,Book,http://www.amazon.com/dp/0131177052/,59,1
+"Unix Network Programming, Volume 1: The Sockets Networking API (3rd Edition)",Book,http://www.amazon.com/dp/0131411551/,10,1
+Modern Operating Systems (4th Edition),Book,http://www.amazon.com/dp/013359162X/,22,1
+Computer Networking: A Top-Down Approach (5th Edition),Book,http://www.amazon.com/dp/0136079679/,3,1
+"Growing Object-Oriented Software, Guided by Tests",Book,http://www.amazon.com/dp/0321503627/,17,1
+DevOps Troubleshooting: Linux Server Best Practices,Book,http://www.amazon.com/dp/0321832043/,1,1
+The Practice of System and Network Administration: Volume 1: DevOps and other Best Practices for Enterprise IT (3rd Edition),Book,http://www.amazon.com/dp/0321919165/,28,1

@@ -1,68 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Code: The Hidden Language of Computer Hardware and Software,Book,http://www.amazon.com/dp/0735611319/,48,7
-"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,36,5
-"Code Complete: A Practical Handbook of Software Construction, Second Edition",Book,http://www.amazon.com/dp/0735619670/,25,4
-Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,71,3
-The Pragmatic Programmer: From Journeyman to Master,Book,http://www.amazon.com/dp/020161622X/,27,3
-"The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)",Book,http://www.amazon.com/dp/0201835959/,11,3
-Design Patterns: Elements of Reusable Object-Oriented Software,Book,http://www.amazon.com/dp/0201633612/,26,2
-Working Effectively with Legacy Code,Book,http://www.amazon.com/dp/0131177052/,22,2
-Head First Design Patterns: A Brain-Friendly Guide,Book,http://www.amazon.com/dp/0596007124/,14,2
-Refactoring: Improving the Design of Existing Code,Book,http://www.amazon.com/dp/0201485672/,11,2
-Effective Java (2nd Edition),Book,http://www.amazon.com/dp/0321356683/,8,2
-Soft Skills: The software developer's life manual,Book,http://www.amazon.com/dp/1617292397/,7,2
+Code: The Hidden Language of Computer Hardware and Software,Book,http://www.amazon.com/dp/0735611319/,158,17
+"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,112,8
+The Pragmatic Programmer: From Journeyman to Master,Book,http://www.amazon.com/dp/020161622X/,86,8
+The Elements of Computing Systems: Building a Modern Computer from First Principles,Book,http://www.amazon.com/dp/0262640686/,34,6
+Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,236,5
+"Code Complete: A Practical Handbook of Software Construction, Second Edition",Book,http://www.amazon.com/dp/0735619670/,85,5
+Artificial Intelligence: A Modern Approach (3rd Edition),Book,http://www.amazon.com/dp/0136042597/,36,4
+The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine,Book,http://www.amazon.com/dp/0470229055/,6,4
+Computers and Intractability: A Guide to the Theory of NP-Completeness (Series of Books in the Mathematical Sciences),Book,http://www.amazon.com/dp/0716710455/,7,4
+"The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)",Book,http://www.amazon.com/dp/0201835959/,37,4
+The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography,Book,http://www.amazon.com/dp/0385495323/,36,4
+Quantum Computation and Quantum Information: 10th Anniversary Edition,Book,http://www.amazon.com/dp/1107002176/,21,3
+Algorithms (4th Edition),Book,http://www.amazon.com/dp/032157351X/,26,3
+The New Turing Omnibus: Sixty-Six Excursions in Computer Science,Book,http://www.amazon.com/dp/0805071660/,6,3
+Refactoring: Improving the Design of Existing Code,Book,http://www.amazon.com/dp/0201485672/,34,3
+Concrete Mathematics: A Foundation for Computer Science (2nd Edition),Book,http://www.amazon.com/dp/0201558025/,29,3
+Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science),Book,http://www.amazon.com/dp/0262510871/,15,3
+"How to Prove It: A Structured Approach, 2nd Edition",Book,http://www.amazon.com/dp/0521675995/,92,3
+Design Patterns: Elements of Reusable Object-Oriented Software,Book,http://www.amazon.com/dp/0201633612/,87,3
+The Soul of A New Machine,Book,http://www.amazon.com/dp/0316491977/,15,3
+Hackers: Heroes of the Computer Revolution,Book,http://www.amazon.com/dp/1449388396/,16,3
+Algorithm Design,Book,http://www.amazon.com/dp/0321295358/,10,3
+Computer Systems: A Programmer's Perspective (3rd Edition),Book,http://www.amazon.com/dp/013409266X/,13,3
+Cracking the Coding Interview: 150 Programming Questions and Solutions,Book,http://www.amazon.com/dp/098478280X/,68,2
+Advanced Compiler Design and Implementation,Book,http://www.amazon.com/dp/1558603204/,2,2
+"Compilers: Principles, Techniques, and Tools (2nd Edition)",Book,http://www.amazon.com/dp/0321486811/,25,2
+Introduction to Computing Systems: From Bits and Gates to C and Beyond,Book,http://www.amazon.com/dp/0072467509/,8,2
+Computational Complexity,Book,http://www.amazon.com/dp/0201530821/,4,2
+Hacker's Delight (2nd Edition),Book,http://www.amazon.com/dp/0321842685/,11,2
+Head First Design Patterns: A Brain-Friendly Guide,Book,http://www.amazon.com/dp/0596007124/,51,2
+Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems,Book,http://www.amazon.com/dp/0814474578/,7,2
+Effective Java (2nd Edition),Book,http://www.amazon.com/dp/0321356683/,42,2
+"Speech and Language Processing, 2nd Edition",Book,http://www.amazon.com/dp/0131873210/,12,2
+Off to Be the Wizard (Magic 2.0),Book,http://www.amazon.com/dp/1491592192/,4,2
+Soft Skills: The software developer's life manual,Book,http://www.amazon.com/dp/1617292397/,18,2
+"The Art of Computer Programming, Volumes 1-4A Boxed Set",Book,http://www.amazon.com/dp/0321751043/,21,2
 Beyond Legacy Code: Nine Practices to Extend the Life (and Value) of Your Software,Book,http://www.amazon.com/dp/1680500791/,4,2
-Quantum Computation and Quantum Information: 10th Anniversary Edition,Book,http://www.amazon.com/dp/1107002176/,4,2
-The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine,Book,http://www.amazon.com/dp/0470229055/,3,2
-Off to Be the Wizard (Magic 2.0),Book,http://www.amazon.com/dp/1491592192/,2,2
-"Patterns, Principles, and Practices of Domain-Driven Design",eBooks,http://www.amazon.com/dp/B00XLYUA0W/,,1
-The Design of Everyday Things: Revised and Expanded Edition,Book,http://www.amazon.com/dp/0465050654/,14,1
-The Algorithm Design Manual,Book,http://www.amazon.com/dp/1848000693/,10,1
-"The Elements of Style, Fourth Edition",Book,http://www.amazon.com/dp/020530902X/,9,1
-Artificial Intelligence: A Modern Approach (3rd Edition),Book,http://www.amazon.com/dp/0136042597/,9,1
-The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography,Book,http://www.amazon.com/dp/0385495323/,7,1
-The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage,Book,http://www.amazon.com/dp/1416507787/,7,1
-"The Art of Computer Programming, Volumes 1-4A Boxed Set",Book,http://www.amazon.com/dp/0321751043/,7,1
-Algorithms (4th Edition),Book,http://www.amazon.com/dp/032157351X/,7,1
-Concrete Mathematics: A Foundation for Computer Science (2nd Edition),Book,http://www.amazon.com/dp/0201558025/,6,1
-Algorithms to Live By: The Computer Science of Human Decisions,Book,http://www.amazon.com/dp/1627790365/,6,1
-Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science),Book,http://www.amazon.com/dp/0262510871/,5,1
-The Soul of A New Machine,Book,http://www.amazon.com/dp/0316491977/,5,1
-The Little Schemer - 4th Edition,Book,http://www.amazon.com/dp/0262560992/,5,1
-Hacker's Delight (2nd Edition),Book,http://www.amazon.com/dp/0321842685/,5,1
-Computer Networking: A Top-Down Approach (6th Edition),Book,http://www.amazon.com/dp/0132856204/,5,1
-Hackers: Heroes of the Computer Revolution,Book,http://www.amazon.com/dp/1449388396/,4,1
-A Guide to Kernel Exploitation: Attacking the Core,Book,http://www.amazon.com/dp/1597494860/,3,1
-Grokking Algorithms: An illustrated guide for programmers and other curious people,Book,http://www.amazon.com/dp/1617292230/,3,1
-Zen and the Art of Motorcycle Maintenance: An Inquiry into Values,Book,http://www.amazon.com/dp/0060589469/,3,1
-Types and Programming Languages (MIT Press),Book,http://www.amazon.com/dp/0262162091/,3,1
-The Grammar of Graphics (Statistics and Computing),Book,http://www.amazon.com/dp/0387245448/,3,1
-The Elements of Computing Systems: Building a Modern Computer from First Principles,Book,http://www.amazon.com/dp/0262640686/,3,1
+Working Effectively with Legacy Code,Book,http://www.amazon.com/dp/0131177052/,59,2
+Introduction to the Theory of Computation,Book,http://www.amazon.com/dp/113318779X/,15,2
+"The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",Book,http://www.amazon.com/dp/147670869X/,5,2
+The Bug: A Novel,Book,http://www.amazon.com/dp/1250002494/,2,2
+The Little Schemer - 4th Edition,Book,http://www.amazon.com/dp/0262560992/,16,1
+"The Computational Beauty of Nature: Computer Explorations of Fractals, Chaos, Complex Systems, and Adaptation",Book,http://www.amazon.com/dp/0262561271/,2,1
+Readings in Database Systems (MIT Press),Book,http://www.amazon.com/dp/0262693143/,2,1
+The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer (Pantheon Graphic Novels),Book,http://www.amazon.com/dp/0307908275/,4,1
 An Introduction to Database Systems (8th Edition),Book,http://www.amazon.com/dp/0321197844/,3,1
-Algorithms Unlocked (MIT Press),Book,http://www.amazon.com/dp/0262518805/,3,1
-Modern Compiler Implementation in Java,Book,http://www.amazon.com/dp/052182060X/,2,1
-Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems,Book,http://www.amazon.com/dp/0814474578/,2,1
-Implementing Domain-Driven Design,Book,http://www.amazon.com/dp/0321834577/,2,1
-"The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",Book,http://www.amazon.com/dp/1476708703/,2,1
-Introduction to the Theory of Computation,Book,http://www.amazon.com/dp/053494728X/,2,1
-The Algorithm Design Manual,Book,http://www.amazon.com/dp/0387948600/,2,1
-"Unix Network Programming, Volume 1: The Sockets Networking API (3rd Edition)",Book,http://www.amazon.com/dp/0131411551/,1,1
-Computer Networking: A Top-Down Approach (7th Edition),Book,http://www.amazon.com/dp/0133594149/,1,1
-"Load Balancing Servers, Firewalls, and Caches",Book,http://www.amazon.com/dp/0471415502/,1,1
-From the Metal Up: Fundamentals of Programmable Computers,Book,http://www.amazon.com/dp/0981280005/,1,1
-To Mock a Mockingbird: and Other Logic Puzzles by Raymond Smullyan (April 14 2004),Book,http://www.amazon.com/dp/B00DIL4IZQ/,1,1
-Semantics with Applications: An Appetizer (Undergraduate Topics in Computer Science),Book,http://www.amazon.com/dp/1846286913/,1,1
-Operating Systems Design and Implementation (3rd Edition),Book,http://www.amazon.com/dp/0131429388/,1,1
-UNIX Network Programming: Networking APIs: Sockets and XTI; Volume 1,Book,http://www.amazon.com/dp/013490012X/,1,1
-Quantum Computing since Democritus,Book,http://www.amazon.com/dp/0521199565/,1,1
-Computational Complexity,Book,http://www.amazon.com/dp/0201530821/,1,1
-Linear Algebra with Applications,Book,http://www.amazon.com/dp/0070985103/,1,1
-Introduction to the Theory of Computation. Michael Sipser,Book,http://www.amazon.com/dp/1133187811/,1,1
-Computer Systems: A Programmer's Perspective,Book,http://www.amazon.com/dp/1292101768/,1,1
-"Postmortems from Game Developer: Insights from the Developers of Unreal Tournament, Black and White, Age of Empires, and Other Top-Selling Games",Book,http://www.amazon.com/dp/1578202140/,1,1
-Concepts of Physics (Part 1),Book,http://www.amazon.com/dp/8177091875/,1,1
-Concepts of Physics (Part 2),Book,http://www.amazon.com/dp/8177092324/,1,1
-Meta Math!: The Quest for Omega,Book,http://www.amazon.com/dp/1400077974/,1,1
+Refactoring to Patterns,Book,http://www.amazon.com/dp/0321213351/,3,1
+"Introduction to Automata Theory, Languages, and Computation (3rd Edition)",Book,http://www.amazon.com/dp/0321455363/,4,1
+Implementing Domain-Driven Design,Book,http://www.amazon.com/dp/0321834577/,7,1
+Style: Lessons in Clarity and Grace (11th Edition),Book,http://www.amazon.com/dp/0321898680/,2,1
+Peopleware: Productive Projects and Teams (3rd Edition),Book,http://www.amazon.com/dp/0321934113/,19,1
+"Thinking, Fast and Slow",Book,http://www.amazon.com/dp/0374533555/,118,1
+Bird by Bird: Some Instructions on Writing and Life,Book,http://www.amazon.com/dp/0385480016/,12,1
+The Grammar of Graphics (Statistics and Computing),Book,http://www.amazon.com/dp/0387245448/,6,1
+Pattern Recognition and Machine Learning (Information Science and Statistics),Book,http://www.amazon.com/dp/0387310738/,13,1
+The Algorithm Design Manual,Book,http://www.amazon.com/dp/0387948600/,10,1
+Naked Statistics: Stripping the Dread from the Data,Book,http://www.amazon.com/dp/0393071952/,1,1
+"""They Say / I Say"": The Moves That Matter in Academic Writing (Third Edition)",Book,http://www.amazon.com/dp/0393935841/,2,1
+Programming and Scheduling Techniques,Book,http://www.amazon.com/dp/041560169X/,1,1
+The Design of Everyday Things: Revised and Expanded Edition,Book,http://www.amazon.com/dp/0465050654/,49,1
+The Design of Everyday Things Indian ed.: Revised and Expanded Edition,Book,http://www.amazon.com/dp/0465055710/,2,1
+Operating System Concepts,Book,http://www.amazon.com/dp/0470128720/,9,1
+Writing Compilers and Interpreters: A Software Engineering Approach,Book,http://www.amazon.com/dp/0470177071/,2,1
+Fundamentals of Matrix Computations,Book,http://www.amazon.com/dp/0470528338/,2,1
+"Applied Cryptography: Protocols, Algorithms, and Source Code in C",Book,http://www.amazon.com/dp/0471117099/,7,1
+Elements of Information Theory 2nd Edition (Wiley Series in Telecommunications and Signal Processing),Book,http://www.amazon.com/dp/0471241954/,3,1
+"Load Balancing Servers, Firewalls, and Caches",Book,http://www.amazon.com/dp/0471415502/,3,1
+Algorithmic Composition: A Guide to Composing Music with Nyquist,Book,http://www.amazon.com/dp/0472035231/,1,1
+"An Introduction to Information Theory: Symbols, Signals and Noise (Dover Books on Mathematics)",Book,http://www.amazon.com/dp/0486240614/,2,1
 Introductory Graph Theory (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486247759/,1,1
-The Hardware Hacker: Adventures in Making and Breaking Hardware,Book,http://www.amazon.com/dp/159327758X/,1,1
-Understanding Compression: Data Compression for Modern Developers,Book,http://www.amazon.com/dp/1491961538/,1,1
+Concepts of Modern Mathematics (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486284247/,5,1
+Combinatorial Optimization: Algorithms and Complexity (Dover Books on Computer Science),Book,http://www.amazon.com/dp/0486402584/,5,1
+Discrete Mathematics with Applications,Book,http://www.amazon.com/dp/0495391328/,20,1
+What Smart Students Know: Maximum Grades. Optimum Learning. Minimum Time.,Book,http://www.amazon.com/dp/0517880857/,7,1
+Quantum Computing since Democritus,Book,http://www.amazon.com/dp/0521199565/,6,1
+Multiple View Geometry in Computer Vision,Book,http://www.amazon.com/dp/0521540518/,2,1
+Logic in Computer Science: Modelling and Reasoning about Systems,Book,http://www.amazon.com/dp/052154310X/,1,1
+Purely Functional Data Structures,Book,http://www.amazon.com/dp/0521663504/,21,1
+Modern Compiler Implementation in Java,Book,http://www.amazon.com/dp/052182060X/,4,1
+Introduction to the Theory of Computation,Book,http://www.amazon.com/dp/053494728X/,4,1
+Introduction to the Theory of Computation,Book,http://www.amazon.com/dp/0534950973/,4,1
+"The Joy of x: A Guided Tour of Math, from One to Infinity",Book,http://www.amazon.com/dp/0544105850/,5,1
+Killer Game Programming in Java,Book,http://www.amazon.com/dp/0596007302/,3,1
+JavaScript: The Good Parts,Book,http://www.amazon.com/dp/0596517742/,60,1
+JavaScript: The Definitive Guide: Activate Your Web Pages (Definitive Guides),Book,http://www.amazon.com/dp/0596805527/,9,1
+"Making Software: What Really Works, and Why We Believe It",Book,http://www.amazon.com/dp/0596808321/,5,1
+Coding the Matrix: Linear Algebra through Applications to Computer Science,Book,http://www.amazon.com/dp/0615880991/,6,1
+Deduction: Introductory Symbolic Logic,Book,http://www.amazon.com/dp/063122713X/,1,1
+Linux Kernel Development (3rd Edition),Book,http://www.amazon.com/dp/0672329468/,5,1
+Dicey's Song (The Tillerman Series #2),Book,http://www.amazon.com/dp/0689851316/,1,1
+Feynman Lectures On Computation,Book,http://www.amazon.com/dp/0738202967/,1,1
+Linguistic Geometry: From Search to Construction (Operations Research/Computer Science Interfaces Series),Book,http://www.amazon.com/dp/0792377389/,1,1
+The Language of Mathematics: Making the Invisible Visible,Book,http://www.amazon.com/dp/0805072543/,1,1
+Billy Budd (Tor Classics),Book,http://www.amazon.com/dp/0812504267/,1,1
+Numerical Linear Algebra,Book,http://www.amazon.com/dp/0898713617/,6,1
+There Are No Electrons: Electronics for Earthlings,Book,http://www.amazon.com/dp/0962781592/,3,1
+From the Metal Up: Fundamentals of Programmable Computers,Book,http://www.amazon.com/dp/0981280005/,1,1
+Cracking the Coding Interview: 189 Programming Questions and Solutions,Book,http://www.amazon.com/dp/0984782850/,90,1
+Performance Modeling and Design of Computer Systems: Queueing Theory in Action,Book,http://www.amazon.com/dp/1107027500/,3,1
+Program Logics for Certified Compilers,Book,http://www.amazon.com/dp/110704801X/,1,1

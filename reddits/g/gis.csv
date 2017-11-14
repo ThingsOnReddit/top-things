@@ -1,16 +1,46 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Python Scripting for ArcGIS,Book,http://www.amazon.com/dp/1589482824/,5,4
-An Introduction to R for Spatial Analysis and Mapping,Book,http://www.amazon.com/dp/1446272958/,3,3
-Automate the Boring Stuff with Python: Practical Programming for Total Beginners,Book,http://www.amazon.com/dp/1593275994/,10,1
-Discovering Statistics Using R,Book,http://www.amazon.com/dp/1446200469/,3,1
-How to Lie with Maps (2nd Edition),Book,http://www.amazon.com/dp/0226534219/,2,1
-Spatial Statistics and Geostatistics: Theory and Applications for Geographic Information Science and Technology (SAGE Advances in Geographic Information Science and Technology Series),Book,http://www.amazon.com/dp/1446201740/,1,1
-Spatial and Spatio-temporal Bayesian Models with R - INLA,Book,http://www.amazon.com/dp/1118326555/,1,1
+Python Scripting for ArcGIS,Book,http://www.amazon.com/dp/1589482824/,9,7
+An Introduction to R for Spatial Analysis and Mapping,Book,http://www.amazon.com/dp/1446272958/,6,4
+How to Lie with Maps (2nd Edition),Book,http://www.amazon.com/dp/0226534219/,6,4
+Getting to Know ArcGIS for Desktop,Book,http://www.amazon.com/dp/1589483081/,4,4
+"Cartographer's Toolkit: Colors, Typography, Patterns",Book,http://www.amazon.com/dp/0615467946/,3,3
+Python Scripting for ArcGIS,Book,http://www.amazon.com/dp/1589483715/,2,2
+GIS Tutorial 2: Spatial Analysis Workbook (GIS Tutorials),Book,http://www.amazon.com/dp/1589483375/,2,2
+Designing Better Maps: A Guide for GIS Users,Book,http://www.amazon.com/dp/1589480899/,2,2
+Designing Better Maps: A Guide for GIS Users,Book,http://www.amazon.com/dp/1589484401/,3,2
+Think Python,Book,http://www.amazon.com/dp/144933072X/,2,1
 SAS for Epidemiologists: Applications and Methods,Book,http://www.amazon.com/dp/1461448530/,1,1
-Think Python,Book,http://www.amazon.com/dp/144933072X/,1,1
-Digital Communications: Fundamentals and Applications,Book,http://www.amazon.com/dp/0132119390/,1,1
-Thinking About GIS: Geographic Information System Planning for Managers,Book,http://www.amazon.com/dp/1589482735/,1,1
-"Cartographer's Toolkit: Colors, Typography, Patterns",Book,http://www.amazon.com/dp/0615467946/,1,1
 Applied Spatial Data Analysis with R (Use R!),Book,http://www.amazon.com/dp/1461476178/,1,1
-Getting to Know ArcGIS for Desktop,Book,http://www.amazon.com/dp/1589483081/,1,1
-Python Scripting for ArcGIS,Book,http://www.amazon.com/dp/1589483715/,1,1
+Data Science from Scratch: First Principles with Python,Book,http://www.amazon.com/dp/149190142X/,13,1
+GIS for the Urban Environment,Book,http://www.amazon.com/dp/1589480821/,1,1
+A to Z GIS: An Illustrated Dictionary of Geographic Information Systems,Book,http://www.amazon.com/dp/1589481402/,1,1
+GIS Tutorial 3: Advanced Workbook (GIS Tutorials),Book,http://www.amazon.com/dp/1589482077/,1,1
+GIS Tutorial for Crime Analysis (GIS Tutorials),Book,http://www.amazon.com/dp/158948214X/,1,1
+GIS Tutorial 1: Basic Workbook,Book,http://www.amazon.com/dp/158948259X/,1,1
+Thinking About GIS: Geographic Information System Planning for Managers,Book,http://www.amazon.com/dp/1589482735/,1,1
+"GIS Tutorial 1: Basic Workbook, 10.1 Edition (GIS Tutorials)",Book,http://www.amazon.com/dp/1589483359/,2,1
+Lining Up Data in ArcGIS: A Guide to Map Projections,Book,http://www.amazon.com/dp/1589483421/,1,1
+Getting to Know ArcGIS,Book,http://www.amazon.com/dp/1589483820/,3,1
+Automate the Boring Stuff with Python: Practical Programming for Total Beginners,Book,http://www.amazon.com/dp/1593275994/,29,1
+Practical Data Science with R,Book,http://www.amazon.com/dp/1617291560/,1,1
+Learning QGIS 2.0,Book,http://www.amazon.com/dp/178216748X/,1,1
+"Genuine Dell K251D 6-Button Grey Gray Silver Black USB Scroll Wheel Optical Laser Mouse, Works Perfectly With Windows 95, 98, NT 4.0, 2000, XP, Vista, and Windows 7, and Will Work With ANY Computer System That Supports USB Connectors, Compatible Part Numbers: M534D, Y357C, Model Number: M-UAV-DEL8",PC Accessory,http://www.amazon.com/dp/B005O239FW/,1,1
+GlobalSat BU-353-S4 USB GPS Receiver (Black),Wireless,http://www.amazon.com/dp/B008200LHW/,5,1
+Razer DeathAdder 2013 Essential Gaming Mouse,PC Accessory,http://www.amazon.com/dp/B00ABS62C6/,3,1
+"LuguLake Vertical Ergonomic Mouse Optical Mice, Wired, Right Hand Stress Relieving Black",Office Product,http://www.amazon.com/dp/B00CEO4SH6/,1,1
+Official BluBlocker Black Nylon Sunglasses,Apparel,http://www.amazon.com/dp/B00DE0MWAY/,1,1
+"G602 Lag-Free Wireless Gaming Mouse – 11 Programmable Buttons, Up to 2500 DPI",Personal Computer,http://www.amazon.com/dp/B00E4MQODC/,68,1
+"Redragon M801 Mammoth 16400 DPI Programmable Laser Gaming Mouse for PC, 9 Programmable Buttons, 5 User Profiles, Weight Tuning, Omron Switches, Black",Personal Computer,http://www.amazon.com/dp/B00GU4F4OM/,17,1
+"Hubsan X4 H107L 2.4GHz 4CH RC Quadcopter with LED Lights RTF, Black/White",Hobby,http://www.amazon.com/dp/B00OV4VVU4/,10,1
+Datacolor Spyder5PRO – Designed for Serious Photographers and Designers (S5P100),Photography,http://www.amazon.com/dp/B00UBSL31Q/,11,1
+"Lenovo Flex 4 - 2-in-1 Laptop/Tablet 15.6"" Full HD Touchscreen Display (Intel Core i7, 16 GB RAM, 256 GB SSD, Windows 10) 80SB0004US",Personal Computer,http://www.amazon.com/dp/B01FJFML16/,1,1
+Digital Communications: Fundamentals and Applications,Book,http://www.amazon.com/dp/0132119390/,1,1
+"Asus UX501JW-UB71T 15.6"" i7-4720 16gb 512gb ssd 4k UHD, Silver, 15.6""",Personal Computer,http://www.amazon.com/dp/B01I92N3J0/,1,1
+Starting Out with Python (2nd Edition) (Gaddis Series),Book,http://www.amazon.com/dp/0132576376/,1,1
+Introductory Geographic Information Systems (Prentice Hall Series in Geographic Information Science),Book,http://www.amazon.com/dp/0136147763/,1,1
+"No Dig, No Fly, No Go: How Maps Restrict and Control",Book,http://www.amazon.com/dp/0226534685/,1,1
+Spatial and Spatio-temporal Bayesian Models with R - INLA,Book,http://www.amazon.com/dp/1118326555/,1,1
+"Spatial Database Systems: Design, Implementation and Project Management (GeoJournal Library)",Book,http://www.amazon.com/dp/1402053916/,1,1
+Discovering Statistics Using R,Book,http://www.amazon.com/dp/1446200469/,18,1
+Spatial Statistics and Geostatistics: Theory and Applications for Geographic Information Science and Technology (SAGE Advances in Geographic Information Science and Technology Series),Book,http://www.amazon.com/dp/1446201740/,1,1
+R Graphics Cookbook: Practical Recipes for Visualizing Data,Book,http://www.amazon.com/dp/1449316956/,3,1

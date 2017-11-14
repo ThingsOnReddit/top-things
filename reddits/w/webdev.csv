@@ -1,47 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,71,5
-JavaScript: The Good Parts,Book,http://www.amazon.com/dp/0596517742/,15,5
-The Pragmatic Programmer: From Journeyman to Master,Book,http://www.amazon.com/dp/020161622X/,27,3
-The Clean Coder: A Code of Conduct for Professional Programmers,Book,http://www.amazon.com/dp/0137081073/,9,3
-HTML and CSS: Design and Build Websites,Book,http://www.amazon.com/dp/1118008189/,4,3
-Design Patterns: Elements of Reusable Object-Oriented Software,Book,http://www.amazon.com/dp/0201633612/,26,2
-"Code Complete: A Practical Handbook of Software Construction, Second Edition",Book,http://www.amazon.com/dp/0735619670/,25,2
-CanaKit Raspberry Pi 3 Complete Starter Kit - 32 GB Edition,PC Accessory,http://www.amazon.com/dp/B01C6Q2GSY/,23,2
-Working Effectively with Legacy Code,Book,http://www.amazon.com/dp/0131177052/,22,2
-Cracking the Coding Interview: 189 Programming Questions and Solutions,Book,http://www.amazon.com/dp/0984782850/,21,2
-Head First Design Patterns: A Brain-Friendly Guide,Book,http://www.amazon.com/dp/0596007124/,14,2
-Refactoring: Improving the Design of Existing Code,Book,http://www.amazon.com/dp/0201485672/,11,2
-Secrets of the JavaScript Ninja,Book,http://www.amazon.com/dp/193398869X/,5,2
-Rework,eBooks,http://www.amazon.com/dp/B002MUAJ2A/,,1
-Code: The Hidden Language of Computer Hardware and Software,Book,http://www.amazon.com/dp/0735611319/,48,1
-"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,36,1
-"C Programming Language, 2nd Edition",Book,http://www.amazon.com/dp/0131103628/,34,1
-"Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) (Voices That Matter)",Book,http://www.amazon.com/dp/0321965515/,13,1
-JavaScript and JQuery: Interactive Front-End Web Development,Book,http://www.amazon.com/dp/1118531647/,10,1
-"Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison-Wesley Signature Series (Fowler))",Book,http://www.amazon.com/dp/0321601912/,6,1
-Practical Object-Oriented Design in Ruby: An Agile Primer (Addison-Wesley Professional Ruby),Book,http://www.amazon.com/dp/0321721330/,6,1
-C# 5.0 in a Nutshell: The Definitive Reference,Book,http://www.amazon.com/dp/1449320104/,4,1
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life),Books,https://www.amazon.com/dp/product/1934356344,4,1
-"Pitch Anything: An Innovative Method for Presenting, Persuading, and Winning the Deal",Book,http://www.amazon.com/dp/0071752854/,3,1
-JavaScript: The Definitive Guide,Book,http://www.amazon.com/dp/0596000480/,3,1
-The Non-Designer's Design Book (4th Edition),Book,http://www.amazon.com/dp/0133966151/,3,1
-Healing Back Pain: The Mind-Body Connection,Book,http://www.amazon.com/dp/0446557684/,3,1
-Design for Hackers: Reverse Engineering Beauty,Book,http://www.amazon.com/dp/1119998956/,3,1
-"iQunix Edin Adjustable Vertical Laptop Stand for MacBook Pro/Air, Microsoft Surface / Dell XPS / HP | Aluminum Desktop Space-saving Stand",Office Product,http://www.amazon.com/dp/B018G8E6BG/,2,1
-Data Structures and Other Objects Using C++ (4th Edition),Book,http://www.amazon.com/dp/0132129485/,2,1
-Modern PHP: New Features and Good Practices,Book,http://www.amazon.com/dp/1491905018/,2,1
-Hangzhou Great Star Indust 152293 BV 6 in 1 Claw Hammer,Home Improvement,http://www.amazon.com/dp/B00C4TR49U/,1,1
-Hilti 305179 DX460-F8 Full Automatic Powder-Actuated Fastening Nail Gun Package,Home Improvement,http://www.amazon.com/dp/B00UNBGPL4/,1,1
-"Stiletto TBM14RMS TiBone Mini-14 ounce Replaceable Milled Face Hammer with a Straight 16"" Titanium Handle",Home Improvement,http://www.amazon.com/dp/B000JS2WSQ/,1,1
-Programming Ruby 1.9 & 2.0: The Pragmatic Programmers' Guide (The Facets of Ruby),Book,http://www.amazon.com/dp/1937785491/,1,1
-Ordering Disorder: Grid Principles for Web Design (Voices That Matter),Book,http://www.amazon.com/dp/0321703537/,1,1
-C# 2012 for Programmers (5th Edition) (Deitel Developer Series),Book,http://www.amazon.com/dp/0133440575/,1,1
-Wonder Bread Family Loaf Pack of 2,Grocery,http://www.amazon.com/dp/B0038EUT9W/,1,1
-CA$HVERTISING: How to Use More than 100 Secrets of Ad-Agency Psychology to Make Big Money Selling Anything to Anyone,Book,http://www.amazon.com/dp/1601630328/,1,1
-JavaScript by Example (2nd Edition),Book,http://www.amazon.com/dp/0137054890/,1,1
-Secrets of the JavaScript Ninja,Book,http://www.amazon.com/dp/1617292850/,1,1
-"Powerful 36 LED Array Shoe Mount Adjustable LED Video Light for Panasonic Lumix DMC-LC1, DMC-LC5, DMC-LX100, DMC-LX3, DMC-LX5, DMC-LX7, DMC-FZ1000, DMC-FZ200 Cameras: Stackable LED Light Panel",Photography,http://www.amazon.com/dp/B01IAMVU30/,1,1
-JavaScript Patterns: Build Better Applications with Coding and Design Patterns,Book,http://www.amazon.com/dp/0596806752/,1,1
+JavaScript: The Good Parts,Book,http://www.amazon.com/dp/0596517742/,60,11
+Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,236,9
+HTML and CSS: Design and Build Websites,Book,http://www.amazon.com/dp/1118008189/,26,8
+JavaScript and JQuery: Interactive Front-End Web Development,Book,http://www.amazon.com/dp/1118531647/,34,6
+The Pragmatic Programmer: From Journeyman to Master,Book,http://www.amazon.com/dp/020161622X/,86,5
+"Web Design with HTML, CSS, JavaScript and jQuery Set",Book,http://www.amazon.com/dp/1118907442/,25,5
+CSS Secrets: Better Solutions to Everyday Web Design Problems,Book,http://www.amazon.com/dp/1449372635/,5,4
+Design for Hackers: Reverse Engineering Beauty,Book,http://www.amazon.com/dp/1119998956/,9,4
+Cracking the Coding Interview: 189 Programming Questions and Solutions,Book,http://www.amazon.com/dp/0984782850/,90,4
+Design Patterns: Elements of Reusable Object-Oriented Software,Book,http://www.amazon.com/dp/0201633612/,87,4
+Code: The Hidden Language of Computer Hardware and Software,Book,http://www.amazon.com/dp/0735611319/,158,3
+Domain-Driven Design: Tackling Complexity in the Heart of Software,Book,http://www.amazon.com/dp/0321125215/,24,3
+A Smarter Way to Learn JavaScript. The new tech-assisted approach that requires half the effort,Book,http://www.amazon.com/dp/1497408180/,11,3
+Working Effectively with Legacy Code,Book,http://www.amazon.com/dp/0131177052/,59,3
+The Clean Coder: A Code of Conduct for Professional Programmers,Book,http://www.amazon.com/dp/0137081073/,23,3
+A Smarter Way to Learn JavaScript: The new approach that uses technology to cut your effort in half,eBooks,http://www.amazon.com/dp/B00H1W9I6C/,8,3
+"Code Complete: A Practical Handbook of Software Construction, Second Edition",Book,http://www.amazon.com/dp/0735619670/,85,3
+Head First HTML and CSS: A Learner's Guide to Creating Standards-Based Web Pages,Book,http://www.amazon.com/dp/0596159900/,2,2
+Cherry MX Rubber O-Ring Switch Dampeners Red 40A-L - 0.2mm Reduction (125pcs),PC Accessory,http://www.amazon.com/dp/B00AZQ3966/,14,2
+"Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) (Voices That Matter)",Book,http://www.amazon.com/dp/0321965515/,42,2
+PHP and MySQL Web Development (4th Edition),Book,http://www.amazon.com/dp/0672329166/,5,2
+Soft Skills: The software developer's life manual,Book,http://www.amazon.com/dp/1617292397/,18,2
+"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,112,2
+Refactoring: Improving the Design of Existing Code,Book,http://www.amazon.com/dp/0201485672/,34,2
+Secrets of the JavaScript Ninja,Book,http://www.amazon.com/dp/193398869X/,14,2
+100 Things Every Designer Needs to Know About People (Voices That Matter),Book,http://www.amazon.com/dp/0321767535/,7,2
+JavaScript: The Definitive Guide,Book,http://www.amazon.com/dp/0596000480/,8,2
+Agile Web Development with Rails 4 (Facets of Ruby),Book,http://www.amazon.com/dp/1937785564/,4,2
+Head First Design Patterns: A Brain-Friendly Guide,Book,http://www.amazon.com/dp/0596007124/,51,2
+HTML5 & CSS3 For The Real World: Powerful HTML5 and CSS3 Techniques You Can Use Today!,Book,http://www.amazon.com/dp/0987467484/,2,2
+CanaKit Raspberry Pi 3 Complete Starter Kit - 32 GB Edition,PC Accessory,http://www.amazon.com/dp/B01C6Q2GSY/,108,2
+Patterns of Enterprise Application Architecture,Book,http://www.amazon.com/dp/0321127420/,22,2
+Professional JavaScript for Web Developers,Book,http://www.amazon.com/dp/1118026691/,7,2
+"The Wall Street Journal Guide to Information Graphics: The Dos and Don'ts of Presenting Data, Facts, and Figures",Book,http://www.amazon.com/dp/0393347281/,3,1
+Healing Back Pain: The Mind-Body Connection,Book,http://www.amazon.com/dp/0446557684/,19,1
+The Design of Everyday Things: Revised and Expanded Edition,Book,http://www.amazon.com/dp/0465050654/,49,1
+Purely Functional Data Structures,Book,http://www.amazon.com/dp/0521663504/,21,1
+Information Dashboard Design: The Effective Visual Communication of Data,Book,http://www.amazon.com/dp/0596100167/,3,1
+Even Faster Web Sites: Performance Best Practices for Web Developers,Book,http://www.amazon.com/dp/0596522304/,1,1
+High Performance Web Sites: Essential Knowledge for Front-End Engineers,Book,http://www.amazon.com/dp/0596529309/,2,1
+JavaScript Patterns: Build Better Applications with Coding and Design Patterns,Book,http://www.amazon.com/dp/0596806752/,4,1
+Sams Teach Yourself Java in 24 Hours (Covering Java 7 and Android) (6th Edition) (Sams Teach Yourself...in 24 Hours),Book,http://www.amazon.com/dp/0672335751/,2,1
+"SQL in 10 Minutes, Sams Teach Yourself (4th Edition)",Book,http://www.amazon.com/dp/0672336073/,6,1
+Make It Stick: The Science of Successful Learning,Book,http://www.amazon.com/dp/0674729013/,41,1
+Old Man's War,Book,http://www.amazon.com/dp/0765348276/,16,1
+Harmonograph: A Visual Guide to the Mathematics of Music (Wooden Books),Book,http://www.amazon.com/dp/0802714099/,1,1
+The Merriam-Webster Dictionary,Book,http://www.amazon.com/dp/087779930X/,6,1
+The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,Book,http://www.amazon.com/dp/0887307280/,47,1
+"Starting Strength:  Basic Barbell Training, 3rd edition",Book,http://www.amazon.com/dp/0982522738/,141,1
+PHP & MySQL: Novice to Ninja: The Easy Way to Build Your Own Database Driven Website,Book,http://www.amazon.com/dp/0987153080/,1,1
+Game Programming Patterns,Book,http://www.amazon.com/dp/0990582906/,14,1
+The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws,Book,http://www.amazon.com/dp/1118026470/,41,1
+CompTIA Network+ Study Guide: Exam N10-006 (Comptia Network + Study Guide Authorized Courseware),Book,http://www.amazon.com/dp/1119021243/,12,1
+Data Communications and Networking,Book,http://www.amazon.com/dp/1259064751/,1,1
+"Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software",Book,http://www.amazon.com/dp/1400082471/,3,1
+What Got You Here Won't Get You There: How Successful People Become Even More Successful,Book,http://www.amazon.com/dp/1401301304/,3,1
+"PHP Objects, Patterns and Practice (Expert's Voice in Open Source)",Book,http://www.amazon.com/dp/143022925X/,5,1
+Dart for Absolute Beginners,Book,http://www.amazon.com/dp/1430264810/,2,1
+Above the Fold: Understanding the Principles of Successful Web Site Design,Book,http://www.amazon.com/dp/144030842X/,2,1
+Hatching Twitter,Book,http://www.amazon.com/dp/1444761978/,1,1
+Learning Perl,Book,http://www.amazon.com/dp/1449303587/,4,1
+REST API Design Rulebook,Book,http://www.amazon.com/dp/1449310508/,1,1
+"High Performance MySQL: Optimization, Backups, and Replication",Book,http://www.amazon.com/dp/1449314287/,4,1
+C# 5.0 in a Nutshell: The Definitive Reference,Book,http://www.amazon.com/dp/1449320104/,11,1
+CSS3: The Missing Manual,Book,http://www.amazon.com/dp/1449325947/,1,1
+Learning JavaScript Design Patterns: A JavaScript and jQuery Developer's Guide,Book,http://www.amazon.com/dp/1449331815/,1,1
+Head First JavaScript Programming: A Brain-Friendly Guide,Book,http://www.amazon.com/dp/144934013X/,9,1
+MongoDB: The Definitive Guide: Powerful and Scalable Data Storage,Book,http://www.amazon.com/dp/1449344682/,1,1
+High Performance Browser Networking: What every web developer should know about networking and web performance,Book,http://www.amazon.com/dp/1449344763/,3,1
+"Learning Python, 5th Edition",Book,http://www.amazon.com/dp/1449355730/,20,1
+JavaScript Testing with Jasmine: JavaScript Behavior-Driven Development,Book,http://www.amazon.com/dp/1449356370/,1,1
+Deep Work: Rules for Focused Success in a Distracted World,Book,http://www.amazon.com/dp/1455586692/,16,1
+Using WebPageTest: Web Performance Testing for Novices and Power Users,Book,http://www.amazon.com/dp/1491902590/,1,1
+Modern PHP: New Features and Good Practices,Book,http://www.amazon.com/dp/1491905018/,4,1
 CSS: The Missing Manual,Book,http://www.amazon.com/dp/1491918055/,1,1
-"PHP Objects, Patterns and Practice (Expert's Voice in Open Source)",Book,http://www.amazon.com/dp/143022925X/,1,1
-WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL (OpenGL),Book,http://www.amazon.com/dp/0321902920/,1,1
+"Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5 (Learning Php, Mysql, Javascript, Css & Html5)",Book,http://www.amazon.com/dp/1491918667/,6,1
+Joe Celko's SQL for Smarties: Advanced SQL Programming Second Edition (The Morgan Kaufmann Series in Data Management Systems),Book,http://www.amazon.com/dp/1558605762/,1,1
+Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent,Book,http://www.amazon.com/dp/1590598385/,1,1
+Learn You a Haskell for Great Good!: A Beginner's Guide,Book,http://www.amazon.com/dp/1593272839/,3,1
+"Webbots, Spiders, and Screen Scrapers: A Guide to Developing Internet Agents with PHP/CURL",Book,http://www.amazon.com/dp/1593273975/,1,1
+CA$HVERTISING: How to Use More than 100 Secrets of Ad-Agency Psychology to Make Big Money Selling Anything to Anyone,Book,http://www.amazon.com/dp/1601630328/,8,1
+Grokking Algorithms: An illustrated guide for programmers and other curious people,Book,http://www.amazon.com/dp/1617292230/,9,1
+SPA Design and Architecture: Understanding Single Page Web Applications,Book,http://www.amazon.com/dp/1617292435/,1,1
+Secrets of the JavaScript Ninja,Book,http://www.amazon.com/dp/1617292850/,2,1
+Agile Web Development with Rails 5,Book,http://www.amazon.com/dp/1680501712/,1,1
+MEAN Web Development,Book,http://www.amazon.com/dp/1783983280/,1,1
+Instant Responsive Web Design,Book,http://www.amazon.com/dp/1849699259/,1,1
+The Algorithm Design Manual,Book,http://www.amazon.com/dp/1849967202/,15,1
+The tiger that isn't: seeing through a world of numbers,Book,http://www.amazon.com/dp/1861978391/,1,1
+The ThoughtWorks Anthology: Essays on Software Technology and Innovation (Pragmatic Programmers),Book,http://www.amazon.com/dp/193435614X/,1,1
+"Learn to Program, Second Edition (The Facets of Ruby Series)",Book,http://www.amazon.com/dp/1934356360/,5,1
+Programming Ruby 1.9 & 2.0: The Pragmatic Programmers' Guide (The Facets of Ruby),Book,http://www.amazon.com/dp/1937785491/,5,1
+Carcassonne,Toy,http://www.amazon.com/dp/B00005UNAX/,2,1
+"Genuine Joe Anti-Fatigue Mat, Beveled Edge, 2 by 3-Feet, Black",Kitchen,http://www.amazon.com/dp/B000EFK9KM/,8,1
+"008 Buna-N O-Ring, 70A Durometer, Black, 3/16"" ID, 5/16"" OD, 1/16"" Width (Pack of 100)",BISS,http://www.amazon.com/dp/B000FMWLR8/,27,1
+"Stiletto TBM14RMS TiBone Mini-14 ounce Replaceable Milled Face Hammer with a Straight 16"" Titanium Handle",Home Improvement,http://www.amazon.com/dp/B000JS2WSQ/,1,1
+Fisher 400B Space Bullet Space Pen - Matte Black,Office Product,http://www.amazon.com/dp/B000WGD13U/,34,1
+"The Name of the Wind: Kingkiller Chronicles, Day 1",Audible,http://www.amazon.com/dp/B002A2BO2Y/,4,1
+Rework,eBooks,http://www.amazon.com/dp/B002MUAJ2A/,1,1
+Wonder Bread Family Loaf Pack of 2,Grocery,http://www.amazon.com/dp/B0038EUT9W/,1,1

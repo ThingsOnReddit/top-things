@@ -1,7 +1,13 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Purely Functional Data Structures,Book,http://www.amazon.com/dp/0521663504/,5,1
-The Grammar of Graphics (Statistics and Computing),Book,http://www.amazon.com/dp/0387245448/,3,1
-Mastering Regular Expressions,Book,http://www.amazon.com/dp/0596528124/,2,1
+3D Game Engine Design: A Practical Approach to Real-Time Computer Graphics (Morgan Kaufmann Series in Interactive 3D Technology),Book,http://www.amazon.com/dp/0122290631/,5,1
+Expert C Programming: Deep C Secrets,Book,http://www.amazon.com/dp/0131774298/,20,1
+Modern Operating Systems (4th Edition),Book,http://www.amazon.com/dp/013359162X/,22,1
+Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science),Book,http://www.amazon.com/dp/0262510871/,15,1
+The Grammar of Graphics (Statistics and Computing),Book,http://www.amazon.com/dp/0387245448/,6,1
+Purely Functional Data Structures,Book,http://www.amazon.com/dp/0521663504/,21,1
+Mastering Regular Expressions,Book,http://www.amazon.com/dp/0596528124/,10,1
+"Making Software: What Really Works, and Why We Believe It",Book,http://www.amazon.com/dp/0596808321/,5,1
 Introduction to 64 Bit Intel Assembly Language Programming for Linux,Book,http://www.amazon.com/dp/1466470038/,2,1
-"Making Software: What Really Works, and Why We Believe It",Book,http://www.amazon.com/dp/0596808321/,2,1
-Principles of Program Analysis,Book,http://www.amazon.com/dp/3540654100/,1,1
+"Game Engine Architecture, Second Edition",Book,http://www.amazon.com/dp/1466560010/,42,1
+"Programming Rust: Fast, Safe Systems Development",Book,http://www.amazon.com/dp/1491927283/,2,1
+Principles of Program Analysis,Book,http://www.amazon.com/dp/3540654100/,3,1

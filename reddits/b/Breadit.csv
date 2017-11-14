@@ -1,37 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Flour Water Salt Yeast: The Fundamentals of Artisan Bread and Pizza,Book,http://www.amazon.com/dp/160774273X/,19,11
-"Pure Lye Drain Cleaner / Opener, 2 lbs.",Automotive Parts and Accessories,http://www.amazon.com/dp/B001EDBEZM/,7,3
-Tartine Bread,Book,http://www.amazon.com/dp/0811870413/,4,3
-"Make the Bread, Buy the Butter: What You Should and Shouldn't Cook from Scratch -- Over 120 Recipes for the Best Homemade Foods",eBooks,http://www.amazon.com/dp/B004T4KXMS/,,1
-Tartine Bread,eBooks,http://www.amazon.com/dp/B00F8H0FNW/,,1
-Flour Water Salt Yeast: The Fundamentals of Artisan Bread and Pizza,eBooks,http://www.amazon.com/dp/B007SGLZH6/,,1
-"Ozeri Pronto Digital Multifunction Kitchen and Food Scale, Elegant Black",Kitchen,http://www.amazon.com/dp/B004164SRA/,42,1
-On Food and Cooking: The Science and Lore of the Kitchen,Book,http://www.amazon.com/dp/0684800012/,18,1
-"Lodge EC6D43 Enameled Cast Iron Dutch Oven, 6-Quart, Island Spice Red",Kitchen,http://www.amazon.com/dp/B000N501BK/,9,1
-"PHARMEX 1-78G Permanent Paper Label, ""FOR RECTAL USE"", 1 9/16"" x 3/8"", Blue (500 per Roll, 2 Rolls per Box)",BISS,http://www.amazon.com/dp/B00U2H451G/,6,1
-CDN DTQ450X Digital ProAccurate Instant-Read Thermometer-NSF Certified,Kitchen,http://www.amazon.com/dp/B0021AEAG2/,4,1
-"Lodge LCC3 Cast Iron Combo Cooker, Pre-Seasoned, 3.2-Quart",Kitchen,http://www.amazon.com/dp/B0009JKG9M/,4,1
-"LeadCheck LC-2SDC Disposable Non-Staining Lead Detection Swabs, 2 Per Pack",Home Improvement,http://www.amazon.com/dp/B009NQNL0I/,2,1
-KitchenAid Professional 5 Plus Series Stand Mixers -  Onyx Black,Kitchen,http://www.amazon.com/dp/B0001HLTTI/,2,1
-OXO Good Grips Multi-purpose Stainless Steel Scraper & Chopper,Kitchen,http://www.amazon.com/dp/B00004OCNJ/,2,1
-Hand Crafted Lame - Black Walnut,Kitchen,http://www.amazon.com/dp/B00B3L8P70/,2,1
-"Cuisinart Chef's Classic Stainless Stockpot with Cover, 6-Quart",Kitchen,http://www.amazon.com/dp/B00008CM6I/,1,1
-"Baker's Secret 1061483 10-by-16-Inch Nonstick Cooling Rack, Set of 2",Kitchen,http://www.amazon.com/dp/B00091PNTI/,1,1
-Bien Cuit: The Art of Bread (Features an Exposed Spine),Book,http://www.amazon.com/dp/1941393411/,1,1
-"Wilton 2105-6082 Perfect Results Loaf Pan, 16"" x 4.5""",Kitchen,http://www.amazon.com/dp/B0187NGVKO/,1,1
-Tojiro Bread Slicer 235mm F-737,Kitchen,http://www.amazon.com/dp/B001TPA816/,1,1
-"John Boos JNS02 Maple Top Work Table with Galvanized Base and Shelf, 48"" x 24"" x 1-1/2""",BISS,http://www.amazon.com/dp/B003JMVJ1K/,1,1
-Hoosier Hill Farm Dry Malt (Diastatic) baking Powder 1.5 lb.,Grocery,http://www.amazon.com/dp/B008T9LX3C/,1,1
-"Gluten Free Round Label 1.5"" - 500 labels per roll",Office Product,http://www.amazon.com/dp/B00I0XFKA4/,1,1
-"Lodge ECSSK Replacement Knob, Stainless Steel, 2-inch",Kitchen,http://www.amazon.com/dp/B006VRUH6I/,1,1
-Bellemain Micro-perforated Stainless Steel 5-quart Colander-Dishwasher Safe,Kitchen,http://www.amazon.com/dp/B00O97D0DO/,1,1
-Josey Baker Bread: Get Baking - Make Awesome Bread - Share the Loaves,Book,http://www.amazon.com/dp/1452113688/,1,1
-"Victorinox Cutlery 9-Inch Wavy Edge Bread Knife, Black Polypropylene Handle",Kitchen,http://www.amazon.com/dp/B0019WZ7EW/,1,1
-"How to Make Bread: Step-by-step recipes for yeasted breads, sourdoughs, soda breads and pastries",Book,http://www.amazon.com/dp/1849751404/,1,1
-Tartine Book No. 3: Modern Ancient Classic Whole,Book,http://www.amazon.com/dp/1452114307/,1,1
-"Dansukker Light Syrup (Ljus Sirap) and Dark Syrup (Mörk Sirap), 26.2 fl oz Bottles in a Gift Box (Pack of 2)",Grocery,http://www.amazon.com/dp/B00GCM1RW0/,1,1
-Original Fiddle Bow Knife Oak Right-handed,Kitchen,http://www.amazon.com/dp/B000J3L3EA/,1,1
-"NerdChef Steel Stone - High-Performance Baking Surface for Pizza (.25"" Thick - Standard)",Kitchen,http://www.amazon.com/dp/B00JXVNUHW/,1,1
+Flour Water Salt Yeast: The Fundamentals of Artisan Bread and Pizza,Book,http://www.amazon.com/dp/160774273X/,62,25
+Tartine Bread,Book,http://www.amazon.com/dp/0811870413/,17,8
+"Pure Lye Drain Cleaner / Opener, 2 lbs.",Automotive Parts and Accessories,http://www.amazon.com/dp/B001EDBEZM/,15,5
+"Ozeri Pronto Digital Multifunction Kitchen and Food Scale, Elegant Black",Kitchen,http://www.amazon.com/dp/B004164SRA/,281,5
+Bread: A Baker's Book of Techniques and Recipes,Book,http://www.amazon.com/dp/1118132718/,10,4
+OXO Good Grips Multi-purpose Stainless Steel Scraper & Chopper,Kitchen,http://www.amazon.com/dp/B00004OCNJ/,10,4
+"Kitchen Scale - Bakers Math Kitchen Scale - KD8000 Scale by My Weight, Silver",Home,http://www.amazon.com/dp/B00VEKX35Y/,11,4
+"Lodge LCC3 Cast Iron Combo Cooker, Pre-Seasoned, 3.2-Quart",Kitchen,http://www.amazon.com/dp/B0009JKG9M/,28,4
+"Lodge EC6D43 Enameled Cast Iron Dutch Oven, 6-Quart, Island Spice Red",Kitchen,http://www.amazon.com/dp/B000N501BK/,28,4
+Tartine Book No. 3: Modern Ancient Classic Whole,Book,http://www.amazon.com/dp/1452114307/,3,3
+Tojiro Bread Slicer 235mm F-737,Kitchen,http://www.amazon.com/dp/B001TPA816/,8,3
+Masterproofing 8-inch Round Banneton Proofing Basket,Kitchen,http://www.amazon.com/dp/B005TUCDM4/,3,3
+Norpro Stainless Steel Scraper/Chopper,Kitchen,http://www.amazon.com/dp/B000SSZ4Q4/,8,3
+Round Proofing Basket Banneton Brotform 8.5 Inch,Kitchen,http://www.amazon.com/dp/B006WBMT0K/,3,3
+"Lodge L8DD3 Cast Iron Double Dutch Oven, 5-Quart",Kitchen,http://www.amazon.com/dp/B000LEXR0K/,14,3
+Victorinox 10.25 Inch Fibrox Pro Curved Bread Knife with Serrated Edge,Kitchen,http://www.amazon.com/dp/B00093090Y/,8,3
+CDN DTQ450X Digital ProAccurate Instant-Read Thermometer-NSF Certified,Kitchen,http://www.amazon.com/dp/B0021AEAG2/,38,2
+Original Fiddle Bow Knife Oak Right-handed,Kitchen,http://www.amazon.com/dp/B000J3L3EA/,2,2
+SuperStone /Covered Baker,Kitchen,http://www.amazon.com/dp/B00004S1DW/,2,2
+Flour Water Salt Yeast: The Fundamentals of Artisan Bread and Pizza,eBooks,http://www.amazon.com/dp/B007SGLZH6/,8,2
+The Bread Lover's Bread Machine Cookbook: A Master Baker's 300 Favorite Recipes for Perfect-Every-Time Bread-From Every Kind of Machine,Book,http://www.amazon.com/dp/155832156X/,5,2
+"Forsun 1pcs 8.5"" Round Banneton Brotform Bread Dough Proofing Rising Rattan Basket & Liner",Home,http://www.amazon.com/dp/B01CNV40D6/,2,2
+"Bread Revolution: World-Class Baking with Sprouted and Whole Grains, Heirloom Flours, and Fresh Techniques",Book,http://www.amazon.com/dp/1607746514/,2,2
+"USA Pan Bakeware Pullman Loaf Pan with Cover, 13 x 4 inch, Nonstick & Quick Release Coating, Made in the USA from Aluminized Steel",Kitchen,http://www.amazon.com/dp/B002UNMZPI/,3,2
+Mercer Culinary Millennia 10-Inch Wide Bread Knife,Kitchen,http://www.amazon.com/dp/B000PS1HS6/,6,2
+Briess LME - Rye - 3.3 lb Canister,Office Electronics,http://www.amazon.com/dp/B009WU2TF8/,2,2
+The New Artisan Bread in Five Minutes a Day: The Discovery That Revolutionizes Home Baking,Book,http://www.amazon.com/dp/1250018285/,2,2
+The Bread Baker's Apprentice: Mastering the Art of Extraordinary Bread,Book,http://www.amazon.com/dp/1580082688/,9,2
+The Bread Builders: Hearth Loaves and Masonry Ovens,Book,http://www.amazon.com/dp/1890132055/,3,2
+The Laurel's Kitchen Bread Book: A Guide to Whole-Grain Breadmaking,Book,http://www.amazon.com/dp/0812969677/,2,2
+"Lodge EC6D53 Enameled Cast Iron Dutch Oven, 6-Quart, Emerald Green",Kitchen,http://www.amazon.com/dp/B0012N7G60/,6,2
+"Lodge P10D3 Seasoned Cast Iron Dutch Oven, 4 quart",Kitchen,http://www.amazon.com/dp/B0001DJVGK/,2,2
+The King Arthur Flour Baker's Companion: The All-Purpose Baking Cookbook,Book,http://www.amazon.com/dp/158157178X/,2,2
+"Fat Daddio's APS Contoured Bowl Scraper, 6.25 Inch x 4 Inch",Kitchen,http://www.amazon.com/dp/B0017Z0HL4/,2,2
+Six Thousand Years of Bread: Its Holy and Unholy History,Book,http://www.amazon.com/dp/1602391246/,2,2
+Tartine Bread,eBooks,http://www.amazon.com/dp/B00F8H0FNW/,3,2
+"Victorinox Cutlery 9-Inch Wavy Edge Bread Knife, Black Polypropylene Handle",Kitchen,http://www.amazon.com/dp/B0019WZ7EW/,6,2
+"BrotformDotCom Bakers Couche - 100% Pure French Flax Linen Proofing Cloth, with Bonus Mure & Peyrot Fixed Blade Lame, 26""x35"" Inch, the Original Red Stripe Signature Couche",Kitchen,http://www.amazon.com/dp/B0053NRBO2/,3,2
+"Rubbermaid Commercial Carb-X Space Saving Square Food Storage Container, 6-Quart, Clear, FG630600CLR",BISS Basic,http://www.amazon.com/dp/B0006384LI/,3,2
+"Lodge L8DOL3 Cast Iron Dutch Oven with Dual Handles, Pre-Seasoned, 5-Quart",Kitchen,http://www.amazon.com/dp/B00063RWYI/,10,2
+Josey Baker Bread: Get Baking - Make Awesome Bread - Share the Loaves,Book,http://www.amazon.com/dp/1452113688/,4,2
+"Rubbermaid Commercial Stainless Steel Oven Monitoring Thermometer, FGTHO550",BISS Basic,http://www.amazon.com/dp/B005KDEIZ0/,6,2
+WonderMill Electric Grain Grinder - Grain Mill (110 V),Kitchen,http://www.amazon.com/dp/B000CPJKWC/,3,2
 "Camwear Polycarbonate Round Food Storage container, 12 Quart",Kitchen,http://www.amazon.com/dp/B000KIE73I/,1,1
-"Pizzacraft 15"" Square ThermaBond Baking/Pizza Stone - For Oven or Grill - PC9897",Kitchen,http://www.amazon.com/dp/B005IF3086/,1,1
-The Bread Baker's Apprentice: Mastering the Art of Extraordinary Bread,Book,http://www.amazon.com/dp/1580082688/,1,1
+Kidde HD135F Fyrnetics Hardwire Heat Detector with Battery Backup,Home Improvement,http://www.amazon.com/dp/B000P4YY8K/,4,1
+KitchenAid KP26M1XER 6 Qt. Professional 600 Series Bowl-Lift Stand Mixer - Empire Red,Kitchen,http://www.amazon.com/dp/B000P9CWNY/,2,1
+"Bob's Red Mill Organic Amaranth Flour, 22-ounce (Pack of 4)",Grocery,http://www.amazon.com/dp/B000V1O41O/,1,1
+"Hobart HL200-1STD Legacy Planetary Mixer - Standard Accessory Kit, 20 Qt. Tabletop Unit",Kitchen,http://www.amazon.com/dp/B000VVOC20/,1,1
+"OXO Good Grips Stainless Steel Food Scale with Pull-Out Display, 11-Pound",Kitchen,http://www.amazon.com/dp/B000WJMTNA/,17,1
+Mountain Woods Oak Adjustable Fiddle Bow Bread Knife (RIGHT HANDED),Kitchen,http://www.amazon.com/dp/B0010L607A/,1,1
+"USA Pan Bakeware Aluminized Steel Perforated French Loaf Pan, 3-Well",Kitchen,http://www.amazon.com/dp/B00127Z4E2/,1,1
+"Fluker's Heat Mat for Reptiles and Small Animals, Medium (11 x 11 Inches, 12 watt)",Pet Products,http://www.amazon.com/dp/B00164K2H0/,1,1
+"Leviton 80505-I 2-Gang 1-Toggle 1-Duplex Device Combination Wallplate, Midway Size, Ivory",Home Improvement,http://www.amazon.com/dp/B00176IPTE/,1,1
+Hand Operated Grain Mill by VICTORIO VKP1012,Kitchen,http://www.amazon.com/dp/B0018P54TS/,2,1
+"Polder KTH-916201 Retro Bread Box/Bin, White",Kitchen,http://www.amazon.com/dp/B001AQS2CG/,1,1
+Winware 12-Inch Seamless Aluminum Pizza Screen,Kitchen,http://www.amazon.com/dp/B001CI8VGY/,1,1
+"Out of the Woods of Oregon Bread and Bagel Slicer, Alder",Kitchen,http://www.amazon.com/dp/B001DSP81E/,1,1
+Fleischmann's Instant Yeast - 2 pack/each 16 oz. bags,Grocery,http://www.amazon.com/dp/B001EKD3PO/,2,1
+"EatSmart Precision Pro Digital Kitchen Scale, Silver",Kitchen,http://www.amazon.com/dp/B001N07KUE/,33,1
+Non-GMO Project Verified Hard Red Spring Wheat Berries | 100% Non-Irradiated | Certified Kosher Parve | USA Grown | Field Traced (We tell you which field we grew it in),Grocery,http://www.amazon.com/dp/B001PEZLCM/,1,1
+"Rachael Ray Tools Bench Scrape Shovel, Blue",Kitchen,http://www.amazon.com/dp/B001Q6ENKK/,1,1
+American Weigh Scales AMW-SC-2KG Digital Pocket Scale,Kitchen,http://www.amazon.com/dp/B001RF3XJ2/,65,1
+Husky 21113 Folding Sure-Grip Lock Back Utility Knife w/ 10 Disposable Blades Included (Colors Vary),Home Improvement,http://www.amazon.com/dp/B0026SY730/,3,1
+"USA Pan Bakeware Half Sheet Pan, Warp Resistant Nonstick Baking Pan, Made in the USA from Aluminized Steel",Kitchen,http://www.amazon.com/dp/B00282JL7G/,2,1
+USA Pan Bakeware Aluminized Steel 1 Pound Loaf Pan,Kitchen,http://www.amazon.com/dp/B0029JQEIC/,1,1
+"Update International (KP-05) 9"" German Steel Offset Bread Knife",Kitchen,http://www.amazon.com/dp/B0029SMITC/,1,1
+Tinkle Eyebrow Razor (Pack of 3),Health and Beauty,http://www.amazon.com/dp/B002C89J96/,28,1
+"Lodge LDP3 Reversible Grill/Griddle, 9.5-inch x 16.75-inch",Kitchen,http://www.amazon.com/dp/B002CMLTXG/,6,1
+Kitchen Supply 14-Inch x 16-Inch Aluminum Pizza Peel with Wood Handle,Kitchen,http://www.amazon.com/dp/B002JPJ0QY/,6,1
+"BrotformDotCom Danish Dough Whisk, Original European Import, Size Large",Kitchen,http://www.amazon.com/dp/B002PABWJQ/,1,1
+The Spice Lab Premium Gourmet Cyprus White Flake Mediterranean Finishing Salt - A Great Large Flake Finishing Salt - 8oz.,Grocery,http://www.amazon.com/dp/B0030MZMIK/,1,1
+"John Boos JNS02 Maple Top Work Table with Galvanized Base and Shelf, 48"" x 24"" x 1-1/2""",BISS,http://www.amazon.com/dp/B003JMVJ1K/,1,1
+Chicago Metallic Commercial II Non-Stick Perforated Baguette Pan,Kitchen,http://www.amazon.com/dp/B003SZBSUK/,3,1
+Chicago Metallic Commercial II Traditional Uncoated 1-Pound Loaf Pan,Kitchen,http://www.amazon.com/dp/B003YKGRKU/,1,1
+"LOCK & LOCK Airtight Rectangular Food Storage Container with Divider, Bread Box 169.07-oz / 21.13-cup",Kitchen,http://www.amazon.com/dp/B00466I4FW/,1,1
+"Hodgson Mill Flour Rye, 5-Pound (Pack of 3)",Grocery,http://www.amazon.com/dp/B00473SLWU/,1,1
+Yehuda Matzo Squares Gluten-Free 10.5 Ounce Pack of 3,Grocery,http://www.amazon.com/dp/B004DBVJRA/,1,1
+The Bread Baker's Apprentice: Mastering the Art of Extraordinary Bread,eBooks,http://www.amazon.com/dp/B004IK8PV4/,4,1
+"Cambro RFSCW12 12 qt Capacity, 14-7/8"" Top Diameter x 8-3/8"" Height, Camwear Clear Polycarbonate Round Food Storage Container (Cover Sold Separately)",BISS,http://www.amazon.com/dp/B004NEWCDC/,1,1
+Vegalene 14oz. Cooking Spray,Beauty,http://www.amazon.com/dp/B004S7AH18/,1,1
+"Derby Extra Double Edge Razor Blades, 100 Count",Beauty,http://www.amazon.com/dp/B004SGKMA0/,20,1
+"Make the Bread, Buy the Butter: What You Should and Shouldn't Cook from Scratch -- Over 120 Recipes for the Best Homemade Foods",eBooks,http://www.amazon.com/dp/B004T4KXMS/,3,1
+"Deglon 59043 Professional Bread Knife, 15"", Wood Handle",Kitchen,http://www.amazon.com/dp/B004YDJ1AO/,1,1
+Covermate Stretch-to-fit Food Covers Convenient Reclosable Bags,Kitchen,http://www.amazon.com/dp/B005FDMJV0/,1,1
+Pizzacraft PC9899 20 x 13.5 Rectangular ThermaBond Baking/Pizza Stone for Oven or Grill,Lawn & Patio,http://www.amazon.com/dp/B005IF2YOW/,1,1
+"Pizzacraft 15"" Square ThermaBond Baking/Pizza Stone - For Oven or Grill - PC9897",Kitchen,http://www.amazon.com/dp/B005IF3086/,3,1
+Masterproofing Rectangle Banneton Proofing Basket(1000g dough)-- 12-inch by 5-inch,Kitchen,http://www.amazon.com/dp/B005TUP0ZG/,1,1
+"Ozeri The Epicurean LED Kitchen Scale with Removable Glass Weighing Platform, 18-Pound, Black",Kitchen,http://www.amazon.com/dp/B005WLPVUG/,2,1
+"Artisan Silicone Baking Mat for Half-Size Cookie Sheet with Red Border, 16.5 x 11 inches, 2-Pack",Kitchen,http://www.amazon.com/dp/B00629K4YK/,12,1
+"Victorinox 3.25 Inch Swiss Classic Paring Knife with Serrated Edge, Spear Point, Black",Kitchen,http://www.amazon.com/dp/B0067VLY24/,1,1
+Le Creuset Stainless Steel Medium Replacement Knob,Kitchen,http://www.amazon.com/dp/B006MVYE44/,3,1
+Deluxe Grain Mill by VICTORIO VKP1024,Kitchen,http://www.amazon.com/dp/B006P2KG0Q/,1,1
+"Lodge ECSSK Replacement Knob, Stainless Steel, 2-inch",Kitchen,http://www.amazon.com/dp/B006VRUH6I/,2,1
+Masterproofing 10 Inch Round Banneton Proofing Basket,Kitchen,http://www.amazon.com/dp/B006W9R8IU/,1,1
+"Personna Double Edge Razor Blades, 100 Count",Beauty,http://www.amazon.com/dp/B0077LAJT2/,42,1
+Hamilton Beach Flip Belgian Waffle Maker with Removable Plates (26030),Kitchen,http://www.amazon.com/dp/B007AHLIZC/,1,1
+Nouvelle Legende Cotton Flour Sack Towels Commercial Grade 28in X 29in (4-Pack),Home,http://www.amazon.com/dp/B0089E2WCI/,1,1
+"Mush-Mouth Oatmeal Stout, Beer Making Extract Kit",Grocery,http://www.amazon.com/dp/B0089PN6HW/,3,1
+16 X 16 X 1 Square Industrial Pizza Stone,Kitchen,http://www.amazon.com/dp/B008CVFXFQ/,2,1
+"Nordic Ware Pro Cast Traditions Dutch Oven, 6.5-Quart, Cranberry",Kitchen,http://www.amazon.com/dp/B008H0OXZ8/,1,1

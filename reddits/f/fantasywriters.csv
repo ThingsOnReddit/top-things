@@ -1,27 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-The Dungeoneers,eBooks,http://www.amazon.com/dp/B012EHKDTO/,5,4
-Siege of Praetar (Tales of a Dying Star Book 1),eBooks,http://www.amazon.com/dp/B00QXQR7UG/,5,4
-"King Callie: Callie's Saga, Book One",eBooks,http://www.amazon.com/dp/B00UE2F072/,6,3
-Champions: An Anthology of Winning Fantasy Stories,eBooks,http://www.amazon.com/dp/B01JETZWHS/,2,2
-The Dungeoneers: Blackfog Island,eBooks,http://www.amazon.com/dp/B01LZDCRSQ/,,1
-The Book of Lokk: Death's Keep (Volume 1),eBooks,http://www.amazon.com/dp/B00OGTDRNI/,,1
-Autumn's Daughter (The Sidhe Diaries Book 1),eBooks,http://www.amazon.com/dp/B00OGTMICE/,,1
-Autumn's Sister (The Sidhe Diaries Book 2),eBooks,http://www.amazon.com/dp/B01M00J9H8/,,1
-Catalyst Moon: Incursion: A New Adult Fantasy Series,eBooks,http://www.amazon.com/dp/B01IKIDBO0/,,1
-Winds of Aerathiea (Chronicles of Aerathiea Book 1),eBooks,http://www.amazon.com/dp/B016U1H6JA/,,1
-Northern Lights,eBooks,http://www.amazon.com/dp/B01L5VTIRI/,,1
-Alien Racer: Mission 5 (Black Ocean),eBooks,http://www.amazon.com/dp/B00X0GXYRM/,,1
-A Smuggler's Conscience: Mission 2 (Black Ocean),eBooks,http://www.amazon.com/dp/B00QLFKLOS/,,1
-Bloodlust: Red Glory (Domains of The Chosen Book 4),eBooks,http://www.amazon.com/dp/B00TGRY040/,,1
-Rust: One,eBooks,http://www.amazon.com/dp/B00E9WJ71S/,,1
-Kobold Guide to Magic (Kobold Guides),eBooks,http://www.amazon.com/dp/B00JIBM7DU/,,1
-Loose Changeling: A Changeling Wars Novel,eBooks,http://www.amazon.com/dp/B00U52KZBC/,,1
-Mission Pack 1: Missions 1-4 (Black Ocean Mission Pack),eBooks,http://www.amazon.com/dp/B016DVCGVK/,,1
-The Tower of Never There (Ultimate Ending Book 7),eBooks,http://www.amazon.com/dp/B01F22LWO8/,,1
-Without Bloodshed (Starbreaker Series Book 1),eBooks,http://www.amazon.com/dp/B00GQ0BJOO/,14,1
-Black Redneck vs. Space Zombies (A Black Redneck Adventure Book 1),eBooks,http://www.amazon.com/dp/B00EEJ3KDC/,4,1
-"Write Your Novel From The Middle: A New Approach for Plotters, Pantsers and Everyone in Between",eBooks,http://www.amazon.com/dp/B00IMIXI6U/,3,1
-Twinborn Chronicles: Awakening Collection,eBooks,http://www.amazon.com/dp/B00IZOQIRM/,3,1
-Salvage Trouble: Mission 1 (Black Ocean),eBooks,http://www.amazon.com/dp/B00OWR6IFS/,2,1
-How to Write Dazzling Dialogue: The Fastest Way to Improve Any Manuscript,Book,http://www.amazon.com/dp/0910355142/,1,1
-Red Queen,Book,http://www.amazon.com/dp/0062310631/,1,1
+Catalyst Moon: Incursion: A New Adult Fantasy Series,eBooks,http://www.amazon.com/dp/B01IKIDBO0/,16,8
+The Dungeoneers,eBooks,http://www.amazon.com/dp/B012EHKDTO/,15,7
+"King Callie: Callie's Saga, Book One",eBooks,http://www.amazon.com/dp/B00UE2F072/,10,6
+"Write Your Novel From The Middle: A New Approach for Plotters, Pantsers and Everyone in Between",eBooks,http://www.amazon.com/dp/B00IMIXI6U/,17,4
+Demon Slayer (Lone Wolf Book 1),eBooks,http://www.amazon.com/dp/B017V7XLEG/,4,4
+Loose Changeling: A Changeling Wars Novel,eBooks,http://www.amazon.com/dp/B00U52KZBC/,6,4
+Siege of Praetar (Tales of a Dying Star Book 1),eBooks,http://www.amazon.com/dp/B00QXQR7UG/,10,4
+Branding of a Heretic (Nihilian Effect Lore Book 1),eBooks,http://www.amazon.com/dp/B008GOH21W/,9,4
+The Apotheosis Break (Skysail Saga Book 1),eBooks,http://www.amazon.com/dp/B01M9CZ909/,13,4
+Cold Reboot (Shadow Decade Book 1),eBooks,http://www.amazon.com/dp/B01BYQ89H4/,4,3
+How To Avoid Death On A Daily Basis (5 Book Series),Ebook Bundle,http://www.amazon.com/dp/B06XH2X4ST/,10,3
+Champions: An Anthology of Winning Fantasy Stories,eBooks,http://www.amazon.com/dp/B01JETZWHS/,3,3
+A Slice of Quietude (Woven Myths Book 1),eBooks,http://www.amazon.com/dp/B00WJGSON8/,20,3
+Alien Racer: Mission 5 (Black Ocean),eBooks,http://www.amazon.com/dp/B00X0GXYRM/,3,3
+Without Bloodshed (Starbreaker Series Book 1),eBooks,http://www.amazon.com/dp/B00GQ0BJOO/,62,3
+Rust: One,eBooks,http://www.amazon.com/dp/B00E9WJ71S/,2,2
+Black Redneck vs. Space Zombies (A Black Redneck Adventure Book 1),eBooks,http://www.amazon.com/dp/B00EEJ3KDC/,21,2
+Winds of Aerathiea (Chronicles of Aerathiea Book 1),eBooks,http://www.amazon.com/dp/B016U1H6JA/,3,2
+Malkonar (The Malkonar Trilogy Book 1),eBooks,http://www.amazon.com/dp/B00UGB2WKE/,6,2
+Zeroth Law (Digitesque Book 1),eBooks,http://www.amazon.com/dp/B01GT90JB0/,6,2
+How To Avoid Death On A Daily Basis 1: Welcome To Probet,eBooks,http://www.amazon.com/dp/B01H5G6ZR8/,6,2
+The Book of Lokk: Death's Keep (Volume 1),Book,http://www.amazon.com/dp/1502471450/,2,2
+The Sorcerous Crimes Division: Devilbone,eBooks,http://www.amazon.com/dp/B00L9I4A58/,6,2
+Devil's Night Dawning: A Gritty Dark Fantasy Epic (The Broken Stone Chronicle Book 1),eBooks,http://www.amazon.com/dp/B01J5WHFVU/,2,2
+Entertaining Tales of Grin the Cheat,eBooks,http://www.amazon.com/dp/B01J92LP7Q/,5,2
+Sword of Blue (Tales of a Dying Star Book 3),eBooks,http://www.amazon.com/dp/B00W5COG3I/,6,2
+The Dungeoneers: Blackfog Island,eBooks,http://www.amazon.com/dp/B01LZDCRSQ/,2,2
+"Compounded Interest: A tale of revenge, love and greed",Book,http://www.amazon.com/dp/152094540X/,2,2
+Nihilian Effect Lore: Books 1-3,Book,http://www.amazon.com/dp/1508673047/,7,2
+The Ancillary (Tales of a Dying Star Book 2),eBooks,http://www.amazon.com/dp/B00TKU1CXU/,5,2
+Don't Know Much About Mythology: Everything You Need to Know About the Greatest Stories in Human History but Never Learned (Don't Know Much About Series),eBooks,http://www.amazon.com/dp/B0030CVRNY/,2,2
+Writing Active Hooks (2 Book Series),Ebook Bundle,http://www.amazon.com/dp/B016DFB1NK/,4,2
+The Oneironauts: Schools of Thought (Volume 1),Book,http://www.amazon.com/dp/1501050974/,7,1
+I Am Pilgrim: A Thriller,Book,http://www.amazon.com/dp/1501119451/,10,1
+The Girl Next Door,Book,http://www.amazon.com/dp/1503950565/,1,1
+Writing Fight Scenes (Writer's Craft),Book,http://www.amazon.com/dp/1507891407/,1,1
+Almost Night II: The Wicked Witch Of The Unspeakable Dimension (Volume 2),Book,http://www.amazon.com/dp/1517784743/,1,1
+How to Write Science Fiction & Fantasy,Book,http://www.amazon.com/dp/158297103X/,8,1
+Plot & Structure: Techniques and Exercises for Crafting a Plot That Grips Readers from Start to Finish,Book,http://www.amazon.com/dp/158297294X/,3,1
+The Writer's Digest Character Naming Sourcebook,Book,http://www.amazon.com/dp/1582979200/,2,1
+The Blade Itself (The First Law: Book One),Book,http://www.amazon.com/dp/159102594X/,9,1
+"Saga, Vol. 1 (Saga (Comic Series))",Book,http://www.amazon.com/dp/1607066017/,31,1
+Million Dollar Outlines (Million Dollar Writing Series),Book,http://www.amazon.com/dp/1614751765/,3,1
+Ours Is the Storm,Book,http://www.amazon.com/dp/1633370208/,19,1
+The Mythic Bestiary: The Illustrated Guide to the World's Most Fantastical Creatures,Book,http://www.amazon.com/dp/1844834840/,1,1
+Prince of Thorns  (The Broken Empire),Book,http://www.amazon.com/dp/1937007685/,16,1
+Sand and Ash (Rutejimo),Book,http://www.amazon.com/dp/1940509165/,1,1
+On the Road: The Original Scroll: (Penguin Classics Deluxe Edition),eBooks,http://www.amazon.com/dp/B000UZQIUG/,1,1
+Write Great Fiction - Plot & Structure,eBooks,http://www.amazon.com/dp/B001UISGV6/,5,1
+Blue Yeti USB Microphone - Silver,Musical Instruments,http://www.amazon.com/dp/B002VA464S/,102,1
+The Care and Feeding of Griffins (Lords of Arcadia Book 1),eBooks,http://www.amazon.com/dp/B003FGWV2Q/,1,1
+"A Dance with Dragons (A Song of Ice and Fire, Book 5)",eBooks,http://www.amazon.com/dp/B003YL4LYI/,1,1
+Daughter of Smoke & Bone (Daughter of Smoke and Bone Book 1),eBooks,http://www.amazon.com/dp/B004QX076Y/,2,1
+How to Write a Damn Good Novel: A Step-by-Step No Nonsense Guide to Dramatic Storytelling,eBooks,http://www.amazon.com/dp/B004WPGF4Y/,5,1
+"Legend (A Legend Novel, Book 1)",eBooks,http://www.amazon.com/dp/B0052RDJAO/,2,1
+Prince of Thorns (The Broken Empire Book 1),eBooks,http://www.amazon.com/dp/B0052RERW8/,15,1
+Elements of Fiction Writing - Characters & Viewpoint,Book,http://www.amazon.com/dp/B005B1AFBW/,2,1
+The Chronicles of Master Li and Number Ten Ox,eBooks,http://www.amazon.com/dp/B005ISOYLK/,7,1
+The Illustrated Guide to Mythical Creatures,Book,http://www.amazon.com/dp/B006QS5XAC/,1,1
+Across The Battlefield (Conflict Anthology Book 1),eBooks,http://www.amazon.com/dp/B006ZA9DCU/,1,1
+The Law of Superheroes,eBooks,http://www.amazon.com/dp/B007T99LK0/,4,1
+The Emotion Thesaurus: A Writer's Guide to Character Expression,eBooks,http://www.amazon.com/dp/B00822WM2M/,7,1
+Three Parts Dead (Craft Sequence Book 1),eBooks,http://www.amazon.com/dp/B0085UEQDO/,5,1
+"Writing Scary Scenes: Professional Techniques for Thrillers, Horror and Other Exciting Fiction (Writer's Craft Book 2)",eBooks,http://www.amazon.com/dp/B008IEJTSE/,1,1
+Promise of Blood (Powder Mage series Book 1),eBooks,http://www.amazon.com/dp/B0092XHPIG/,6,1
+Brandscaping: Unleashing the Power of Partnerships,eBooks,http://www.amazon.com/dp/B0094KJNF0/,1,1
+Soldier of the Mist,eBooks,http://www.amazon.com/dp/B009E6VSBG/,2,1
+Three Parts Dead,Book,http://www.amazon.com/dp/B00D00VKYW/,3,1
+"Primates: The Fearless Science of Jane Goodall, Dian Fossey, and Biruté Galdikas",eBooks,http://www.amazon.com/dp/B00D6KLWD0/,1,1
+Scalebane: Willem's Tale,eBooks,http://www.amazon.com/dp/B00DE6VK7O/,2,1
+STAT (Doctors Behaving Badly Book 2),eBooks,http://www.amazon.com/dp/B00DTMO836/,1,1
+Heir to Agon (The Sixth Age of Doulairen Book 1),eBooks,http://www.amazon.com/dp/B00ERK9LQ8/,2,1
+The Werechicken: A Terra Novel,eBooks,http://www.amazon.com/dp/B00IGYRZVE/,1,1
+Mad Tinker's Daughter (Twinborn Chronicles Book 4),eBooks,http://www.amazon.com/dp/B00IQBW30K/,2,1
+Twinborn Chronicles: Awakening Collection,eBooks,http://www.amazon.com/dp/B00IZOQIRM/,5,1
+"Larkspur, or A Necromancer's Romance (The Larkspur Series vol. 1) (Stories of Clandestina)",eBooks,http://www.amazon.com/dp/B00J7H9JIG/,74,1
+Kobold Guide to Magic (Kobold Guides),eBooks,http://www.amazon.com/dp/B00JIBM7DU/,1,1
+Cash N Guns Second Edition,Toy,http://www.amazon.com/dp/B00KU10OUU/,6,1
+The Grace of Kings (The Dandelion Dynasty),eBooks,http://www.amazon.com/dp/B00KU4O1CY/,4,1
+Magebound,eBooks,http://www.amazon.com/dp/B00NFQT5AW/,1,1
+Bartleby and James: Edwardian Steampunk Chronicle (Galvanic Century Book 1),eBooks,http://www.amazon.com/dp/B00NHY8SYG/,1,1
+Ghost Marshal: A Tale of the Weird West (The Ghost Marshal Chronicles Book 1),eBooks,http://www.amazon.com/dp/B00NJRE9Y4/,1,1
+Glengarry Glen Ross,eBooks,http://www.amazon.com/dp/B00NKY9B94/,1,1
+Orconomics: A Satire (The Dark Profit Saga Book 1),eBooks,http://www.amazon.com/dp/B00O2NDJ2M/,6,1
+The Book of Lokk: Death's Keep (Volume 1),eBooks,http://www.amazon.com/dp/B00OGTDRNI/,4,1
+Autumn's Daughter (The Sidhe Diaries Book 1),eBooks,http://www.amazon.com/dp/B00OGTMICE/,1,1
+Gotta Read It!: Five Simple Steps to a Fiction Pitch that Sells,eBooks,http://www.amazon.com/dp/B00OI9HHQY/,1,1
+Salvage Trouble: Mission 1 (Black Ocean),eBooks,http://www.amazon.com/dp/B00OWR6IFS/,6,1
+A Smuggler's Conscience: Mission 2 (Black Ocean),eBooks,http://www.amazon.com/dp/B00QLFKLOS/,1,1
+The First Ark: Deathless Prequel,eBooks,http://www.amazon.com/dp/B00R598628/,1,1
+Murder in Marker's Point (Twinborn Chronicles Book 9),eBooks,http://www.amazon.com/dp/B00RNBUJLO/,1,1
+Casting Rights (Nihilian Effect Lore Book 3),eBooks,http://www.amazon.com/dp/B00SO65E62/,6,1
+Veiled Empire: Book One of the Sundered World Trilogy,eBooks,http://www.amazon.com/dp/B00TE9BZRA/,14,1
+Bloodlust: Red Glory (Domains of The Chosen Book 4),eBooks,http://www.amazon.com/dp/B00TGRY040/,6,1
+Between the Worlds: A Collection of Eight Twinborn Stories (Twinborn Chronicles Book 8),eBooks,http://www.amazon.com/dp/B00U87YDRQ/,1,1
+Beneath The Mantle,eBooks,http://www.amazon.com/dp/B00UB7TFZS/,1,1
+Twinborn Chronicles: War of 3 Worlds,eBooks,http://www.amazon.com/dp/B00UCPSLXQ/,3,1
+Spellwrought: Book 2 (Magebound),eBooks,http://www.amazon.com/dp/B00UNLCHJ8/,1,1
+Almost Night: A Parody,eBooks,http://www.amazon.com/dp/B00V2UT95Y/,6,1
+Tales from the Insulan Empire,eBooks,http://www.amazon.com/dp/B00W2EBU9C/,3,1

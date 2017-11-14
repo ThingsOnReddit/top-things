@@ -1,12 +1,29 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,71,2
-"Head First Java, 2nd Edition",Book,http://www.amazon.com/dp/0596009208/,13,1
-Effective Java (2nd Edition),Book,http://www.amazon.com/dp/0321356683/,8,1
-"Growing Object-Oriented Software, Guided by Tests",Book,http://www.amazon.com/dp/0321503627/,7,1
-Patterns of Enterprise Application Architecture,Book,http://www.amazon.com/dp/0321127420/,4,1
-Thinking in Java (4th Edition),Book,http://www.amazon.com/dp/0131872486/,2,1
-Core Java Volume I--Fundamentals (10th Edition) (Core Series),Book,http://www.amazon.com/dp/0134177304/,2,1
+"Head First Java, 2nd Edition",Book,http://www.amazon.com/dp/0596009208/,54,5
+"Intro to Java Programming, Comprehensive Version (10th Edition)",Book,http://www.amazon.com/dp/0133761312/,11,4
+Effective Java (2nd Edition),Book,http://www.amazon.com/dp/0321356683/,42,4
+Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,236,3
+"Java: The Complete Reference, Ninth Edition",Book,http://www.amazon.com/dp/0071808558/,9,2
+"Java: A Beginner's Guide, Sixth Edition",Book,http://www.amazon.com/dp/0071809252/,14,2
+Thinking in Java (4th Edition),Book,http://www.amazon.com/dp/0131872486/,4,2
+The Algorithm Design Manual,Book,http://www.amazon.com/dp/1848000693/,39,2
+Java: Introduction to Problem Solving and Programming (5th Edition),Book,http://www.amazon.com/dp/0136072259/,4,1
+Patterns of Enterprise Application Architecture,Book,http://www.amazon.com/dp/0321127420/,22,1
+"Java Puzzlers: Traps, Pitfalls, and Corner Cases",Book,http://www.amazon.com/dp/032133678X/,3,1
+"Growing Object-Oriented Software, Guided by Tests",Book,http://www.amazon.com/dp/0321503627/,17,1
+Head First Design Patterns: A Brain-Friendly Guide,Book,http://www.amazon.com/dp/0596007124/,51,1
+Sams Teach Yourself J2EE in 21 Days (2nd Edition),Book,http://www.amazon.com/dp/0672325586/,1,1
+"Java in 24 Hours, Sams Teach Yourself (Covering Java 8) (7th Edition)",Book,http://www.amazon.com/dp/0672337029/,3,1
+"Java in 21 Days, Sams Teach Yourself (Covering Java 8) (7th Edition)",Book,http://www.amazon.com/dp/067233710X/,2,1
 Big Java: Early Objects,Book,http://www.amazon.com/dp/1118431111/,1,1
-"Intro to Java Programming, Comprehensive Version (10th Edition)",Book,http://www.amazon.com/dp/0133761312/,1,1
-"Java: The Complete Reference, Ninth Edition",Book,http://www.amazon.com/dp/0071808558/,1,1
-"Java Puzzlers: Traps, Pitfalls, and Corner Cases",Book,http://www.amazon.com/dp/032133678X/,1,1
+Beginning Java Programming: The Object-Oriented Approach,Book,http://www.amazon.com/dp/1118739493/,1,1
+Think Java: How to Think Like a Computer Scientist,Book,http://www.amazon.com/dp/1491929561/,1,1
+OCA/OCP Java SE 7 Programmer I & II Study Guide (Exams 1Z0-803 & 1Z0-804) (Certification Press),Book,http://www.amazon.com/dp/0071772006/,5,1
+Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin Series),eBooks,http://www.amazon.com/dp/B001GSTOAM/,3,1
+Java: An Introduction to Problem Solving and Programming (6th Edition),Book,http://www.amazon.com/dp/0132162709/,1,1
+Filthy Rich Clients: Developing Animated and Graphical Effects for Desktop Java Applications,Book,http://www.amazon.com/dp/0132413930/,1,1
+Starting Out with Java: From Control Structures through Objects (5th Edition),Book,http://www.amazon.com/dp/0132855836/,2,1
+Java How To Program (Early Objects) (10th Edition),Book,http://www.amazon.com/dp/0133807800/,3,1
+Starting Out with Java: From Control Structures through Objects (6th Edition),Book,http://www.amazon.com/dp/0133957055/,1,1
+Absolute Java (6th Edition),Book,http://www.amazon.com/dp/0134041674/,1,1
+Core Java Volume I--Fundamentals (10th Edition) (Core Series),Book,http://www.amazon.com/dp/0134177304/,7,1

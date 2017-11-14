@@ -1,70 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-The Signal and the Noise: Why So Many Predictions Fail--but Some Don't,Book,http://www.amazon.com/dp/0143125087/,6,2
-Probability and Measure,Book,http://www.amazon.com/dp/1118122372/,4,2
-Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,Book,http://www.amazon.com/dp/1629561010/,3,2
-"Doing Bayesian Data Analysis, Second Edition: A Tutorial with R, JAGS, and Stan",Book,http://www.amazon.com/dp/0124058884/,2,2
-"Bayesian Data Analysis, Third Edition (Chapman & Hall/CRC Texts in Statistical Science)",Book,http://www.amazon.com/dp/1439840954/,2,2
-The Lady Tasting Tea: How Statistics Revolutionized Science in the Twentieth Century,eBooks,http://www.amazon.com/dp/B00633W4A2/,,1
-Mostly Harmless Econometrics: An Empiricist's Companion,eBooks,http://www.amazon.com/dp/B003TSELA0/,,1
-Mastering ’Metrics: The Path from Cause to Effect,eBooks,http://www.amazon.com/dp/B00MZG71MC/,,1
-An R Companion to Applied Regression,eBooks,http://www.amazon.com/dp/B008P5BJIO/,,1
-Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,71,1
-"Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython",Book,http://www.amazon.com/dp/1449319793/,6,1
-The Visual Display of Quantitative Information,Book,http://www.amazon.com/dp/0961392142/,6,1
-Chaos: Making a New Science,Book,http://www.amazon.com/dp/0143113453/,4,1
-"The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)",Book,http://www.amazon.com/dp/0387848576/,4,1
-Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series),Book,http://www.amazon.com/dp/0262018020/,4,1
-Naked Statistics: Stripping the Dread from the Data,Book,http://www.amazon.com/dp/039334777X/,3,1
-Envisioning Information,Book,http://www.amazon.com/dp/0961392118/,3,1
-An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics),Book,http://www.amazon.com/dp/1461471370/,3,1
-Probabilistic Graphical Models: Principles and Techniques (Adaptive Computation and Machine Learning series),Book,http://www.amazon.com/dp/0262013193/,3,1
-Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids,Book,http://www.amazon.com/dp/0521629713/,3,1
-Elementary Linear Algebra,Book,http://www.amazon.com/dp/1133110878/,2,1
-Introduction to Probability (Chapman & Hall/CRC Texts in Statistical Science),Book,http://www.amazon.com/dp/1466575573/,2,1
-Asymptotic Statistics (Cambridge Series in Statistical and Probabilistic Mathematics),Book,http://www.amazon.com/dp/0521784506/,2,1
-The Lady Tasting Tea: How Statistics Revolutionized Science in the Twentieth Century,Book,http://www.amazon.com/dp/0805071342/,2,1
-The Cartoon Guide to Statistics,Book,http://www.amazon.com/dp/0062731025/,2,1
-Applied Econometrics with R (Use R!),Book,http://www.amazon.com/dp/0387773169/,2,1
-"The Cult of Statistical Significance: How the Standard Error Costs Us Jobs, Justice, and Lives (Economics, Cognition, and Society)",Book,http://www.amazon.com/dp/0472050079/,1,1
-Outlier Analysis,Book,http://www.amazon.com/dp/1461463955/,1,1
-Outliers in Statistical Data,Book,http://www.amazon.com/dp/0471930946/,1,1
-Introduction to Mathematical Statistics,Book,http://www.amazon.com/dp/0130085073/,1,1
-Applied Predictive Modeling,Book,http://www.amazon.com/dp/1461468485/,1,1
-Statistics Done Wrong: The Woefully Complete Guide,Book,http://www.amazon.com/dp/1593276206/,1,1
-Urban Politics: Cities and Suburbs in a Global Age,Book,http://www.amazon.com/dp/0765646250/,1,1
-Matrix Algebra From a Statistician's Perspective,Book,http://www.amazon.com/dp/038794978X/,1,1
-Matrix Algebra Useful for Statistics,Book,http://www.amazon.com/dp/0470009616/,1,1
-Linear Algebra and Its Applications (3rd Edition),Book,http://www.amazon.com/dp/0201709708/,1,1
-Plane Answers to Complex Questions: The Theory of Linear Models (Springer Texts in Statistics),Book,http://www.amazon.com/dp/1461428858/,1,1
-Elementary Linear Algebra,Book,http://www.amazon.com/dp/0618783768/,1,1
-"Matrix Algebra: Theory, Computations, and Applications in Statistics (Springer Texts in Statistics)",Book,http://www.amazon.com/dp/0387708723/,1,1
-Applied Linear Statistical Models,Book,http://www.amazon.com/dp/0256117365/,1,1
-A First Course in Bayesian Statistical Methods (Springer Texts in Statistics),Book,http://www.amazon.com/dp/0387922997/,1,1
-Statistical Inference,Book,http://www.amazon.com/dp/0534243126/,1,1
-Networks: An Introduction,Book,http://www.amazon.com/dp/0199206651/,1,1
-Probability and Statistical Inference,Book,http://www.amazon.com/dp/0132546086/,1,1
-"Exponential Random Graph Models for Social Networks: Theory, Methods, and Applications (Structural Analysis in the Social Sciences)",Book,http://www.amazon.com/dp/0521141389/,1,1
-A First Course in Probability (9th Edition),Book,http://www.amazon.com/dp/032179477X/,1,1
+"Doing Bayesian Data Analysis, Second Edition: A Tutorial with R, JAGS, and Stan",Book,http://www.amazon.com/dp/0124058884/,11,7
+Statistics Done Wrong: The Woefully Complete Guide,Book,http://www.amazon.com/dp/1593276206/,10,6
+Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,Book,http://www.amazon.com/dp/1629561010/,8,6
+"Statistics, 4th Edition",Book,http://www.amazon.com/dp/0393929728/,6,5
+The Visual Display of Quantitative Information,Book,http://www.amazon.com/dp/0961392142/,22,4
+"SQL in 10 Minutes, Sams Teach Yourself (4th Edition)",Book,http://www.amazon.com/dp/0672336073/,6,4
+Statistical Inference,Book,http://www.amazon.com/dp/0534243126/,9,4
+Who's #1?: The Science of Rating and Ranking,Book,http://www.amazon.com/dp/0691154228/,4,3
+An Introduction to Categorical Data Analysis,Book,http://www.amazon.com/dp/0471226181/,3,3
+Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series),Book,http://www.amazon.com/dp/0262018020/,16,3
+Discovering Statistics Using R,Book,http://www.amazon.com/dp/1446200469/,18,3
+"Discovering Statistics Using IBM SPSS Statistics, 4th Edition",Book,http://www.amazon.com/dp/1446249182/,9,3
+Data Analysis Using Regression and Multilevel/Hierarchical Models,Book,http://www.amazon.com/dp/052168689X/,3,2
+Probability and Measure,Book,http://www.amazon.com/dp/1118122372/,6,2
+"Bayesian Data Analysis, Third Edition (Chapman & Hall/CRC Texts in Statistical Science)",Book,http://www.amazon.com/dp/1439840954/,7,2
+Introduction to Mathematical Statistics,Book,http://www.amazon.com/dp/0130085073/,2,2
+Asymptotic Statistics (Cambridge Series in Statistical and Probabilistic Mathematics),Book,http://www.amazon.com/dp/0521784506/,3,2
+Design of Observational Studies (Springer Series in Statistics),Book,http://www.amazon.com/dp/1441912126/,2,2
+"Statistics, Third Edition",Book,http://www.amazon.com/dp/0393970833/,4,2
+Time Series Analysis and Its Applications: With R Examples (Springer Texts in Statistics),Book,http://www.amazon.com/dp/144197864X/,3,2
+The Lady Tasting Tea: How Statistics Revolutionized Science in the Twentieth Century,Book,http://www.amazon.com/dp/0805071342/,7,2
+Sampling: Design and Analysis (Advanced Series),Book,http://www.amazon.com/dp/0495105279/,2,2
+Applied Linear Regression Models,Book,http://www.amazon.com/dp/0073013447/,2,2
+Applied Predictive Modeling,Book,http://www.amazon.com/dp/1461468485/,8,2
+The Cartoon Guide to Statistics,Book,http://www.amazon.com/dp/0062731025/,5,2
+Statistical Rethinking: A Bayesian Course with Examples in R and Stan (Chapman & Hall/CRC Texts in Statistical Science),Book,http://www.amazon.com/dp/1482253445/,5,2
+The Signal and the Noise: Why So Many Predictions Fail--but Some Don't,Book,http://www.amazon.com/dp/0143125087/,13,2
+Applied Linear Statistical Models,Book,http://www.amazon.com/dp/007310874X/,2,2
+Probability Theory: The Logic of Science,Book,http://www.amazon.com/dp/0521592712/,13,2
+Data Smart: Using Data Science to Transform Information into Insight,Book,http://www.amazon.com/dp/111866146X/,11,2
+Introduction to Mathematical Statistics (7th Edition),Book,http://www.amazon.com/dp/0321795431/,2,1
+Probability and Statistical Inference (9th Edition),Book,http://www.amazon.com/dp/0321923278/,3,1
+"Thinking, Fast and Slow",Book,http://www.amazon.com/dp/0374533555/,118,1
+A Mathematician Reads the Newspaper,Book,http://www.amazon.com/dp/038548254X/,1,1
+The Grammar of Graphics (Statistics and Computing),Book,http://www.amazon.com/dp/0387245448/,6,1
 All of Nonparametric Statistics (Springer Texts in Statistics),Book,http://www.amazon.com/dp/0387251456/,1,1
-"Introduction to Probability Models, Tenth Edition",Book,http://www.amazon.com/dp/0123756863/,1,1
+Pattern Recognition and Machine Learning (Information Science and Statistics),Book,http://www.amazon.com/dp/0387310738/,13,1
+All of Statistics: A Concise Course in Statistical Inference (Springer Texts in Statistics),Book,http://www.amazon.com/dp/0387402721/,10,1
+"Matrix Algebra: Theory, Computations, and Applications in Statistics (Springer Texts in Statistics)",Book,http://www.amazon.com/dp/0387708723/,1,1
+"Statistical Decision Theory: Estimation, Testing, and Selection (Springer Series in Statistics)",Book,http://www.amazon.com/dp/0387731938/,2,1
+Model Based Inference in the Life Sciences: A Primer on Evidence,Book,http://www.amazon.com/dp/0387740732/,1,1
+Time Series Analysis: With Applications in R (Springer Texts in Statistics),Book,http://www.amazon.com/dp/0387759581/,1,1
+Applied Econometrics with R (Use R!),Book,http://www.amazon.com/dp/0387773169/,2,1
+Introductory Statistics with R (Statistics and Computing),Book,http://www.amazon.com/dp/0387790535/,1,1
+"The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)",Book,http://www.amazon.com/dp/0387848576/,9,1
+Introductory Time Series with R (Use R!),Book,http://www.amazon.com/dp/0387886974/,1,1
+A First Course in Bayesian Statistical Methods (Springer Texts in Statistics),Book,http://www.amazon.com/dp/0387922997/,1,1
+Matrix Algebra From a Statistician's Perspective,Book,http://www.amazon.com/dp/038794978X/,1,1
+Introductory Statistics with R (Statistics and Computing),Book,http://www.amazon.com/dp/0387954759/,1,1
 Probability (Springer Texts in Statistics),Book,http://www.amazon.com/dp/0387979743/,1,1
-R in Action: Data Analysis and Graphics with R,Book,http://www.amazon.com/dp/1617291382/,1,1
-Probability with Martingales (Cambridge Mathematical Textbooks),Book,http://www.amazon.com/dp/0521406056/,1,1
-Testing Statistical Hypotheses of Equivalence,Book,http://www.amazon.com/dp/1584881607/,1,1
-An Introduction to Categorical Data Analysis,Book,http://www.amazon.com/dp/0471226181/,1,1
+Probability for Statisticians (Springer Texts in Statistics),Book,http://www.amazon.com/dp/0387989536/,1,1
+Naked Statistics: Stripping the Dread from the Data,Book,http://www.amazon.com/dp/039334777X/,6,1
+Experimental and Quasi-Experimental Designs for Generalized Causal Inference,Book,http://www.amazon.com/dp/0395615569/,1,1
+An Introduction to the Bootstrap (Chapman & Hall/CRC Monographs on Statistics & Applied Probability),Book,http://www.amazon.com/dp/0412042312/,3,1
+Practical Statistics for Medical Research (Chapman & Hall/CRC Texts in Statistical Science),Book,http://www.amazon.com/dp/0412276305/,1,1
+Matrix Algebra Useful for Statistics,Book,http://www.amazon.com/dp/0470009616/,1,1
+Analysis of Ordinal Categorical Data,Book,http://www.amazon.com/dp/0470082895/,1,1
+Sampling,Book,http://www.amazon.com/dp/0470402318/,1,1
+Categorical Data Analysis,Book,http://www.amazon.com/dp/0470463635/,1,1
+Applied Logistic Regression,Book,http://www.amazon.com/dp/0470582472/,1,1
+Nonnegative Matrix and Tensor Factorizations: Applications to Exploratory Multi-way Data Analysis and Blind Source Separation,Book,http://www.amazon.com/dp/0470746661/,1,1
+Applied Linear Regression,Book,http://www.amazon.com/dp/0471663794/,1,1
+"Internet, Mail, and Mixed-Mode Surveys: The Tailored Design Method",Book,http://www.amazon.com/dp/0471698687/,1,1
+"Statistics for Experimenters: Design, Innovation, and Discovery, 2nd Edition",Book,http://www.amazon.com/dp/0471718130/,1,1
+Outliers in Statistical Data,Book,http://www.amazon.com/dp/0471930946/,1,1
+"The Cult of Statistical Significance: How the Standard Error Costs Us Jobs, Justice, and Lives (Economics, Cognition, and Society)",Book,http://www.amazon.com/dp/0472050079/,2,1
+Combinatorial Optimization: Algorithms and Complexity (Dover Books on Computer Science),Book,http://www.amazon.com/dp/0486402584/,5,1
+General Topology (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486434796/,4,1
+A Book of Abstract Algebra: Second Edition (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486474178/,25,1
+Counterexamples in Probability: Third Edition (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486499987/,3,1
+Tensor Calculus,Book,http://www.amazon.com/dp/0486636127/,2,1
+Optimal Control and Estimation (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486682005/,1,1
+Mathematical Statistics with Applications,Book,http://www.amazon.com/dp/0495110817/,6,1
+"Fundamental Statistics for the Behavioral Sciences, 7th Edition",Book,http://www.amazon.com/dp/0495811254/,1,1
+"Exponential Random Graph Models for Social Networks: Theory, Methods, and Applications (Structural Analysis in the Social Sciences)",Book,http://www.amazon.com/dp/0521141389/,1,1
+Probability with Martingales (Cambridge Mathematical Textbooks),Book,http://www.amazon.com/dp/0521406056/,2,1
+Bootstrap Methods and their Application (Cambridge Series in Statistical and Probabilistic Mathematics),Book,http://www.amazon.com/dp/0521574714/,1,1
+Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids,Book,http://www.amazon.com/dp/0521629713/,7,1
+Statistical Models: Theory and Practice,Book,http://www.amazon.com/dp/0521743850/,1,1
+"Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction",Book,http://www.amazon.com/dp/0521885884/,2,1
+Statistics for the Behavioral Sciences (PSY 200 (300) Quantitative Methods in Psychology),Book,http://www.amazon.com/dp/0534634036/,1,1
+Probability and Statistics for Engineering and the Sciences,Book,http://www.amazon.com/dp/0538733527/,1,1
+Super Crunchers: Why Thinking-By-Numbers is the New Way To Be Smart,Book,http://www.amazon.com/dp/0553384732/,1,1
+Playing at the World,Book,http://www.amazon.com/dp/0615642047/,10,1
+Elementary Linear Algebra,Book,http://www.amazon.com/dp/0618783768/,2,1
+The Seven Pillars of Statistical Wisdom,Book,http://www.amazon.com/dp/0674088913/,1,1
+Mostly Harmless Econometrics: An Empiricist's Companion,Book,http://www.amazon.com/dp/0691120358/,9,1
+Ecological Models and Data in R,Book,http://www.amazon.com/dp/0691125228/,1,1
+"Picturing the Uncertain World: How to Understand, Communicate, and Control Uncertainty through Graphical Display",Book,http://www.amazon.com/dp/0691152675/,1,1
+Statistics (The Easier Way) with R: an informal text on applied statistics,Book,http://www.amazon.com/dp/0692339426/,1,1
+Gravitation,Book,http://www.amazon.com/dp/0716703440/,12,1
+Introduction to the Practice of Statistics,Book,http://www.amazon.com/dp/0716764008/,1,1
+Logistic Regression Models for Ordinal Response Variables (Quantitative Applications in the Social Sciences),Book,http://www.amazon.com/dp/0761929894/,2,1
+Urban Politics: Cities and Suburbs in a Global Age,Book,http://www.amazon.com/dp/0765646250/,1,1
+Statistical Power Analysis for the Behavioral Sciences (2nd Edition),Book,http://www.amazon.com/dp/0805802835/,1,1
+Discovering Statistics,Book,http://www.amazon.com/dp/0918091861/,1,1
+Envisioning Information,Book,http://www.amazon.com/dp/0961392118/,5,1
+Visualizing Data,Book,http://www.amazon.com/dp/0963488406/,1,1
 Classic Problems of Probability,Book,http://www.amazon.com/dp/1118063252/,1,1
 Foundations of Linear and Generalized Linear Models (Wiley Series in Probability and Statistics),Book,http://www.amazon.com/dp/1118730038/,1,1
-Classic Topics on the History of Modern Mathematical Statistics: From Laplace to More Recent Times,Book,http://www.amazon.com/dp/1119127920/,1,1
-A Primer on Linear Models (Chapman & Hall/CRC Texts in Statistical Science),Book,http://www.amazon.com/dp/1420062018/,1,1
-Applied Logistic Regression,Book,http://www.amazon.com/dp/0470582472/,1,1
-Plane Answers to Complex Questions: The Theory of Linear Models (Springer Texts in Statistics),Book,http://www.amazon.com/dp/1441998152/,1,1
-Model Based Inference in the Life Sciences: A Primer on Evidence,Book,http://www.amazon.com/dp/0387740732/,1,1
-Applied Linear Statistical Models w/Student CD-ROM,Book,http://www.amazon.com/dp/0071122214/,1,1
-Sampling,Book,http://www.amazon.com/dp/0470402318/,1,1
-"Statistics, 4th Edition",Book,http://www.amazon.com/dp/0393929728/,1,1
-Introductory Statistics with R (Statistics and Computing),Book,http://www.amazon.com/dp/0387790535/,1,1
-Design of Observational Studies (Springer Series in Statistics),Book,http://www.amazon.com/dp/1441912126/,1,1
-Time Series Analysis and Its Applications: With R Examples (Springer Texts in Statistics),Book,http://www.amazon.com/dp/144197864X/,1,1
-"Statistical Decision Theory: Estimation, Testing, and Selection (Springer Series in Statistics)",Book,http://www.amazon.com/dp/0387731938/,1,1
-"Principles and Practice of Structural Equation Modeling, Third Edition (Methodology in the Social Sciences)",Book,http://www.amazon.com/dp/1606238760/,1,1
-The Drunkard's Walk: How Randomness Rules Our Lives,Audible,http://www.amazon.com/dp/B001BSJHRC/,1,1

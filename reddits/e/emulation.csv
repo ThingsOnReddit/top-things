@@ -1,50 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Buffalo iBuffalo Classic USB Gamepad for PC BSGP801GY,Personal Computer,http://www.amazon.com/dp/B002B9XB0E/,37,6
-Mayflash Wireless Sensor DolphinBar,Personal Computer,http://www.amazon.com/dp/B00HZWEB74/,15,5
-"IPEGA PG-9023 Telescopic Wireless Bluetooth Game Controller Gamepad for iPhone iPod iPad iOS System, Samsung Galaxy Note HTC LG Android Tablet PC",Wireless,http://www.amazon.com/dp/B00RE6FMD8/,8,3
-Mayflash Wireless Wii U Pro Controller to PC USB Adapter,Personal Computer,http://www.amazon.com/dp/B00E6553PW/,17,2
-Classic USB NES Controller for PC / Mac - (Not Compatible with NES Classic System),Video Games,http://www.amazon.com/dp/B002YVD3KM/,11,2
-But How Do It Know? - The Basic Principles of Computers for Everyone,eBooks,http://www.amazon.com/dp/B00F25LEVC/,,1
-"Raspberry PI 3 Model B 1.2GHz 64-bit quad-core ARMv8 CPU, 1GB RAM",Personal Computer,http://www.amazon.com/dp/B01CD5VC92/,24,1
-"NES case for Raspberry Pi 3,2 and B+ by Old Skool Tools",PC Accessory,http://www.amazon.com/dp/B01M4OOY4U/,19,1
-Samsung EVO 32GB Class 10 Micro SDHC Card with Adapter (MB-MP32DA/AM),Electronics,https://www.amazon.com/gp/product/B00IVPU786/,12,1
-CanaKit 5V 2.5A Raspberry Pi 3 Power Supply / Adapter / Charger (UL Listed),Personal Computer,http://www.amazon.com/dp/B00MARDJZ4/,9,1
-HORI Fighting Commander 4 Controller for PlayStation 4/3,Video Games,http://www.amazon.com/dp/B00TKLFES8/,8,1
-"Retrolink Nintendo 64 Classic USB Enabled Wired Controller for PC and MAC, Black",Video Games,http://www.amazon.com/dp/B008L3UUPS/,7,1
-AmazonBasics High-Speed HDMI Cable - 6 Feet (Latest Standard),Electronics,https://www.amazon.com/AmazonBasics-High-Speed-HDMI-Cable-Standard/dp/B014I8SSD0/ref=sr_1_1?ie=UTF8&amp;qid=1478268495&amp;sr=8-1&amp;keywords=hdmi,7,1
-Logitech Gamepad F310,Electronics,https://www.amazon.com/gp/product/B003VAHYQY,7,1
-NVIDIA SHIELD TV Streaming Media Player [2017 Version],Video Games,http://www.amazon.com/dp/B01N1NT9Y6/,6,1
-Gigabyte GeForce GTX 970 Mini ITX Overclocked 4GB GDDR5 PCiE Video Card GV-N970IXOC-4GD,Personal Computer,http://www.amazon.com/dp/B00OQUMGM0/,6,1
-Fire TV - Previous Generation,Amazon SMP,http://www.amazon.com/dp/B00U3FPN4U/,5,1
-"Raspberry Pi RPI3CASE-BG Official Raspberry Pi 3 Case, Black/Grey",BISS,http://www.amazon.com/dp/B01F1PSFY6/,4,1
-CanaKit Raspberry Pi 3 Kit with Clear Case and 2.5A Power Supply,PC Accessory,http://www.amazon.com/dp/B01C6EQNNK/,3,1
-SanDisk Extreme 16GB microSDHC UHS-1 Card with Adapter - SDSQXNE-016G-GN6MA [Old Version],Personal Computer,http://www.amazon.com/dp/B013CP5F90/,2,1
-Nintendo 64 Hori Mini Pad Controller,Video Games,http://www.amazon.com/dp/B000031KAG/,2,1
-CZM Wireless Bluetooth Telescopic Controller Gamepad Joypad Joystick for Ipad/Iphone/ Samsung Galaxy/HTC Android Tablet PC ETC,PC Accessory,http://www.amazon.com/dp/B01EN5WA3C/,2,1
-Die Hard [Blu-ray],DVD,http://www.amazon.com/dp/B000W4HIX6/,2,1
-Zune A/V Output Cable (Discontinued by Manufacturer),Electronics,https://www.amazon.com/gp/product/B000IXLHOM,2,1
-Addicore Raspberry Pi Heatsink Set for B B+ 2 and 3 (Set of 3 Aluminum Heat Sinks),PC Accessory,http://www.amazon.com/dp/B00HPQGTI4/,2,1
-Megadream Bluetooth Mini Wireless Chatpad Message Game Controller Keyboard Chatpad for Sony Playstation PS4 Controller - Black,CE,http://www.amazon.com/dp/B00NL4EC1U/,2,1
-DragonPad Wireless Bluetooth Telescopic Game Controller Joystick For IOS iPhone iPod iPad Samsung HTC Moto Android PC IP117,Wireless,http://www.amazon.com/dp/B00MUG3JPU/,2,1
-SEGA 200158 Genesis Ultimate Portable Game Player Deluxe,Video Games,http://www.amazon.com/dp/B017S4B554/,1,1
-"Sero 8 Tablet with WiFi 8"" HD Touchscreen Tablet PC Quad-Core Android 4.4.2 (KitKat) - (Certified Refurbished)",Personal Computer,http://www.amazon.com/dp/B00SK97B28/,1,1
-"Hisense SERO E2281 8.0"" 16 GB Tablet",Electronics,https://www.amazon.com/Hisense-E2281-8-Inch-Quad-Core-Android/dp/B00P49MH3K/ref=sr_1_1?s=pc&amp;ie=UTF8&amp;qid=1469989759&amp;sr=1-1&amp;keywords=hisense+sero+8+pro,1,1
-CamRom® Telescopic Wireless Bluetooth Game Controller Gamepad Joystick for Samsung iPhone iPod iPad Android Phone Tablet PC CA1042ZR,PC Accessory,http://www.amazon.com/dp/B01DZR5WJI/,1,1
-"Astro Tab A737 – 7” Quad Core Android 6.0 Marshmallow Tablet PC with HD IPS Display 1280 x 800, 1GB RAM, 8GB Storage, Bluetooth 4.0, 7 inch screen, Google Play (Black)",Single Detail Page Misc,http://www.amazon.com/dp/B01ALMT0H0/,1,1
+Mayflash Wireless Sensor DolphinBar,Personal Computer,http://www.amazon.com/dp/B00HZWEB74/,64,13
+Buffalo iBuffalo Classic USB Gamepad for PC BSGP801GY,Personal Computer,http://www.amazon.com/dp/B002B9XB0E/,141,10
+"IPEGA PG-9023 Telescopic Wireless Bluetooth Game Controller Gamepad for iPhone iPod iPad iOS System, Samsung Galaxy Note HTC LG Android Tablet PC",Wireless,http://www.amazon.com/dp/B00RE6FMD8/,34,8
+"Mayflash GameCube Controller Adapter for Wii U, PC USB and Switch, 4 Port",Personal Computer,http://www.amazon.com/dp/B00RSXRLUE/,149,4
+Mayflash Wireless Wii U Pro Controller to PC USB Adapter,Personal Computer,http://www.amazon.com/dp/B00E6553PW/,88,4
+MAYFLASH N64 Controller Adapter For Pc,Toy,http://www.amazon.com/dp/B002B9FIUU/,30,4
+Classic USB NES Controller for PC / Mac - (Not Compatible with NES Classic System),Video Games,http://www.amazon.com/dp/B002YVD3KM/,31,3
+DragonPad Wireless Bluetooth Telescopic Game Controller Joystick For IOS iPhone iPod iPad Samsung HTC Moto Android PC IP117,Wireless,http://www.amazon.com/dp/B00MUG3JPU/,22,3
+"Sero 8 Tablet with WiFi 8"" HD Touchscreen Tablet PC Quad-Core Android 4.4.2 (KitKat) - (Certified Refurbished)",Personal Computer,http://www.amazon.com/dp/B00SK97B28/,2,2
+CanaKit Raspberry Pi 2 Complete Starter Kit (9-Items),Personal Computer,http://www.amazon.com/dp/B008XVAVAW/,63,2
+HP Slate S7-4400US 7-Inch 16 GB Tablet (Slate Silver),Personal Computer,http://www.amazon.com/dp/B00GN648WG/,9,2
+Tomee NES to USB Controller Adapter,Video Games,http://www.amazon.com/dp/B00HM3QCN2/,9,2
+Trenro Dual PlayStation/PlayStation 2 to PC USB Controller Adapter,Video Games,http://www.amazon.com/dp/B000F6BGXY/,11,2
+"Retro - Bit 8Bitdo RB8 - 64 Wireless Bluetooth N64 Styled Controller for iOS, Android, PC, Mac, Linux",Video Games,http://www.amazon.com/dp/B01M1KP9GT/,10,2
+SNES Controller to Adapter for PC USB,Video Games,http://www.amazon.com/dp/B002IXZ5DE/,27,2
+"Kinivo BTD-400 Bluetooth 4.0 Low Energy USB Adapter - Works With Windows 10 / 8.1 / 8 / Windows 7 / Vista, Raspberry Pi , Linux",Personal Computer,http://www.amazon.com/dp/B007Q45EF4/,38,2
+BLU R1 HD - 16 GB - Black - Prime Exclusive - with Lockscreen Offers & Ads,Wireless,http://www.amazon.com/dp/B01H2E0J5M/,62,2
+"Azio BTD-V201 USB Micro Bluetooth Adapter, Class 1, V2.1 + EDR",Personal Computer,http://www.amazon.com/dp/B003765X38/,4,2
+"Raspberry PI 3 Model B 1.2GHz 64-bit quad-core ARMv8 CPU, 1GB RAM",Personal Computer,http://www.amazon.com/dp/B01CD5VC92/,76,2
+"Retrolink Nintendo 64 Classic USB Enabled Wired Controller for PC and MAC, Black",Video Games,http://www.amazon.com/dp/B008L3UUPS/,26,2
+Super Smash Bros. GameCube Adapter for Wii U,Video Games,http://www.amazon.com/dp/B00L3LQ1FI/,53,2
+CZM Wireless Bluetooth Telescopic Controller Gamepad Joypad Joystick for Ipad/Iphone/ Samsung Galaxy/HTC Android Tablet PC ETC,PC Accessory,http://www.amazon.com/dp/B01EN5WA3C/,3,2
+Microsoft Xbox 360 Wireless Receiver for Windows,Personal Computer,http://www.amazon.com/dp/B000HZFCT2/,179,2
+CanaKit 5V 2.5A Raspberry Pi 3 Power Supply / Adapter / Charger (UL Listed),Personal Computer,http://www.amazon.com/dp/B00MARDJZ4/,45,2
+Club Nintendo Wii Super Famicom Snes Classic Controller,Video Games,http://www.amazon.com/dp/B004TL1K0A/,8,1
+"Mueller Sports Medicine Reversible Thumb Stabilizer, Black, Measure Around Wrist- Fits 5.5 - 10.5 Inches (Packaging May Vary)",Health and Beauty,http://www.amazon.com/dp/B004YIFA2C/,3,1
+"Kinivo BTD-300 Bluetooth 3.0 Low Energy USB adapter - For Windows 10 / 8.1 / 8 / 7 / Vista, Mac OS 10.3.9 or Later",BISS,http://www.amazon.com/dp/B005Z5HT2M/,3,1
+Mad Catz Officially Licensed Major League Gaming Pro Circuit MLG Controller for Xbox 360,Video Games,http://www.amazon.com/dp/B0063BCQ1Q/,3,1
+Tomee N64 USB Controller,Video Games,http://www.amazon.com/dp/B00647NG54/,3,1
+Insten VGA to TV S-Video 3 RCA PC Computer AV Adapter Cable,Personal Computer,http://www.amazon.com/dp/B006I0IKVM/,3,1
+Mayflash Sega Saturn - N64 - PS2 Controller Adapter for PC USB,Personal Computer,http://www.amazon.com/dp/B006ZBHXEO/,3,1
+Zettaguard Wireless PC USB Gaming Receiver for Xbox 360 Compact Disc,Video Games,http://www.amazon.com/dp/B0076HD2W8/,48,1
+"SanDisk Cruzer Blade CZ50 16GB USB 2.0 Flash Drive, Frustration-Free Packaging- SDCZ50-016G-AFFP",CE,http://www.amazon.com/dp/B007KFAFZ8/,7,1
+Mayflash SS Sega Saturn Controller Adapter Converter for PC,Personal Computer,http://www.amazon.com/dp/B0089O10BC/,4,1
+Trio Linker Plus II,Video Games,http://www.amazon.com/dp/B008EL7R7G/,1,1
+Fosmon HD1831 3-Port HDMI Switch with Pigtail Cable,Speakers,http://www.amazon.com/dp/B008GVOVK0/,32,1
 "Nintendo DSi 3.25"" LCD Display Game System - Matte Blue",Video Games,http://www.amazon.com/dp/B008UQWX0Q/,1,1
-"Hisense SERO E2281 8.0"" 16 GB Tablet",Personal Computer,http://www.amazon.com/dp/B016FH4E30/,1,1
-Elecrow RPA05010R HDMI 5-Inch 800x480 TFT LCD Display with Touch Screen Monitor for Raspberry Pi B+/2B/3B,PC Accessory,http://www.amazon.com/dp/B013JECYF2/,1,1
-"Azio BTD-V201 USB Micro Bluetooth Adapter, Class 1, V2.1 + EDR",Personal Computer,http://www.amazon.com/dp/B003765X38/,1,1
+dreamGEAR Comfort Grip for your Old Nintendo 3DS XL,Video Games,http://www.amazon.com/dp/B008XHCLFO/,19,1
+HDE PlayStation 2 Controller to USB Adapter for PC or Playstation 3 Converter Cable for Sony DualShock PS2 PS3 Controllers,Video Games,http://www.amazon.com/dp/B0096PSFBG/,7,1
+VGA to RGB Cable Male - Male (1.8m),Speakers,http://www.amazon.com/dp/B0096TTOHG/,1,1
+Logitech Harmony Smart Control - Black,Speakers,http://www.amazon.com/dp/B00BQ5RYI4/,32,1
 "FUTURO Deluxe Thumb Stabilizer 45844EN, Large/X-Large",Health and Beauty,http://www.amazon.com/dp/B00CRF0Z1K/,1,1
-"Mueller Sports Medicine Reversible Thumb Stabilizer, Black, Measure Around Wrist- Fits 5.5 - 10.5 Inches (Packaging May Vary)",Health and Beauty,http://www.amazon.com/dp/B004YIFA2C/,1,1
-AmazonBasics High-Speed HDMI Cable - 3 Feet (Latest Standard),Electronics,https://www.amazon.com/gp/product/B014I8SIJY,1,1
-Sudroid 8BITDO NES30 Pro Wireless Bluetooth Controller Dual Classic Joystick For Android Gamepad - PC Mac Linux,PC Accessory,http://www.amazon.com/dp/B01HROAK8I/,1,1
-"Proto-pasta CDP11701 Electrically Conductive Carbon Loose Coil , PLA Composite 1.75 mm, 125g , Black",Boost,http://www.amazon.com/dp/B01BDL4BY0/,1,1
-Mayflash Sega Saturn - N64 - PS2 Controller Adapter for PC USB,Personal Computer,http://www.amazon.com/dp/B006ZBHXEO/,1,1
+"3x Garmin Nuvi 2597 2597LT 2597LM 2597LMT 5.0"" GPS GPS Premium Anti-Glare Anti-Fingerprint Matte Finishing LCD Screen Protector Cover Guard Shield Protective Film Kits (Package by GUARMOR)",Wireless,http://www.amazon.com/dp/B00DMLO5LY/,1,1
+But How Do It Know? - The Basic Principles of Computers for Everyone,eBooks,http://www.amazon.com/dp/B00F25LEVC/,1,1
+"Nyko Smart Clip – PlayStation DualShock 4 Controller Clip On Mount for Android Phones, Samsung Galaxy, S7, S6, Edge, Note 5, HTC One, Sony Xperia, Max Clamp 6 Inches",Video Games,http://www.amazon.com/dp/B00FLLFGO8/,35,1
+Raspberry Pi Micro USB Cable with ON/OFF Switch - Easy Start / Reboot !,PC Accessory,http://www.amazon.com/dp/B00GGX94JI/,5,1
+iPEGA PG-9025 Bluetooth Wireless Game Controller Gamepad Joystick for iPhone / iPod / iPad / Android Phone / Tablet PC,CE,http://www.amazon.com/dp/B00GJJ6UYQ/,8,1
+"Cable Matters Micro-USB 2.0 On-The-Go (OTG) Adapter 6-Inch, Black, Pack of 2",Wireless,http://www.amazon.com/dp/B00GM0OZ4O/,16,1
+Addicore Raspberry Pi Heatsink Set for B B+ 2 and 3 (Set of 3 Aluminum Heat Sinks),PC Accessory,http://www.amazon.com/dp/B00HPQGTI4/,11,1
+KontrolFreek Ultra Performance Thumbsticks for Xbox One Controller,PC Accessory,http://www.amazon.com/dp/B00HUWANOO/,5,1
+"SilverStone Technology Raven Z Mini-ITX / DTX Small Form Factor SFX Computer Case with PCI-E Riser and Custom Low Profile Fans, Black (RVZ01B)",Personal Computer,http://www.amazon.com/dp/B00I3EKXDE/,5,1
+Pc- Controller - Wired - Atari Style - Usb Controller For Pc & Mac - Black (retro-link),Video Games,http://www.amazon.com/dp/B00IIO4G8W/,4,1
+"[UL Listed] Pwr+ Extra Long 6.5 Ft 3.5A Fastest Tablet-Ac-Adapter for Google-Nexus 7, 9, 10 Tablet Tab; Samsung Galaxy Tab 3, 4 7.0, 8.0, Note 5 Phone; Nexus S Phone; Asus Transformer Book T100 Memo Pad 7, 8, 10 Hd FHD Smart; Galaxy S2, S3, S4, S6, S7 Edge; HTC One A9 M7 M8 M9, Desire; BLU Advance, Studio 5.0 5.5 6.0 7.0, One X Plus, Win HD, Life Play, Vivo Air, PURE XL, LIFE ONE X2 Phone; Motorola Moto G, RAZR M, X Pure; Huawei Honor 5X; BlackBerry DTEK50; Anker Battery Cell Phone-Power-Cord",Wireless,http://www.amazon.com/dp/B00IJKG9R6/,13,1
+IPEGA II Generic Bluetooth Controller Android Wireless Game Controller Gamepad Joystick for iPhone/iPod/iPad/Android Phone/Tablet PC Black,Video Games,http://www.amazon.com/dp/B00IP6EC00/,2,1
+AceShot Thumb Grips (8pc) for Xbox One (& One S) by Foamy Lizard ® Sweat Free 100% Silicone Precision Raised Antislip Rubber Analog Stick Grips For Xbox One Controller (8 grips) BLACK,Video Games,http://www.amazon.com/dp/B00JQMV3F4/,3,1
+Mayflash Dreamcast Controller To Pc Usb Converter Adapter [Mayflash],Toy,http://www.amazon.com/dp/B00K7YK0YA/,2,1
+Evoplus White PC USB Gaming Receiver Adapter White For Xbox 360 Wireless Controller,Video Games,http://www.amazon.com/dp/B00LMS2DTK/,2,1
+Thermaltake Core V1 Black Edition SPCC Mini ITX Cube Computer Chassis CA-1B8-00S1WN-00,Personal Computer,http://www.amazon.com/dp/B00M2UKGSM/,6,1
+Noctua NF-A8 PWM Premium 80mm PC Computer Case Fan,Personal Computer,http://www.amazon.com/dp/B00NEMG62M/,2,1
+AmazonBasics USB 2.0 Extension Cable - A-Male to A-Female - 9.8 Feet (3 Meters),Personal Computer,http://www.amazon.com/dp/B00NH11PEY/,13,1
+Megadream Bluetooth Mini Wireless Chatpad Message Game Controller Keyboard Chatpad for Sony Playstation PS4 Controller - Black,CE,http://www.amazon.com/dp/B00NL4EC1U/,6,1
+ZD-V+ USB Wired Gaming Controller Gamepad For PC(Windows XP/7/8/10) & PS3 & Android - [Black],PC Accessory,http://www.amazon.com/dp/B00OAYHIRA/,7,1
+Gigabyte GeForce GTX 970 Mini ITX Overclocked 4GB GDDR5 PCiE Video Card GV-N970IXOC-4GD,Personal Computer,http://www.amazon.com/dp/B00OQUMGM0/,38,1
+"iPega Newest Extendable gamepad Game Controller Portable Bluetooth Wireless Gamepad Joystick Control for Android Samsung Galaxy Note 3 S5 HTC Sony Xperia LG and iOS iPhone 6 5S 5C 5 iPad 5 4 iPod, Supports Up to 10"" Smartphone or Tablet PC",Wireless,http://www.amazon.com/dp/B00OZEO576/,1,1
+RioRand 1080p HDMI to Composite / AV S-Video Converter RCA CVBS/L/R Video Converter Adapter PAL / NTSC CVBS / S-Video Switch High-definition multimedia interface 1080P for PS3/DVD/Camara,Speakers,http://www.amazon.com/dp/B00P7RL5C8/,1,1
+Mayflash Md Mega Drive Genesis Controller Adapter for PC USB,Personal Computer,http://www.amazon.com/dp/B00QRZ1HVS/,3,1
+HORI Fighting Commander 4 Controller for PlayStation 4/3,Video Games,http://www.amazon.com/dp/B00TKLFES8/,65,1
+Fire TV - Previous Generation,Amazon SMP,http://www.amazon.com/dp/B00U3FPN4U/,30,1
+GameCube Controller Adapter for Wii U and PC USB Two ports,Personal Computer,http://www.amazon.com/dp/B00YH2TGYS/,5,1
+Cyber Gadget Retro Freak Controller Adapter Set,Video Games,http://www.amazon.com/dp/B00ZZ70KMG/,2,1
+SanDisk Extreme 16GB microSDHC UHS-1 Card with Adapter - SDSQXNE-016G-GN6MA [Old Version],Personal Computer,http://www.amazon.com/dp/B013CP5F90/,4,1
+Elecrow RPA05010R HDMI 5-Inch 800x480 TFT LCD Display with Touch Screen Monitor for Raspberry Pi B+/2B/3B,PC Accessory,http://www.amazon.com/dp/B013JECYF2/,7,1
+POWER A Wired Controller for Xbox One,Video Games,http://www.amazon.com/dp/B013JLB0DC/,1,1
 NinjaFlex TPU Flexible Filament 1.75mm 50g Lava (orange),BISS,http://www.amazon.com/dp/B0153SFQPW/,1,1
-iPEGA PG-9025 Bluetooth Wireless Game Controller Gamepad Joystick for iPhone / iPod / iPad / Android Phone / Tablet PC,CE,http://www.amazon.com/dp/B00GJJ6UYQ/,1,1
-Gamecube Broadband Adapter,Video Games,https://www.amazon.com/Gamecube-Broadband-Adapter/dp/B0002IMLR0,1,1
-HP Slate S7-4400US 7-Inch 16 GB Tablet (Slate Silver),Personal Computer,http://www.amazon.com/dp/B00GN648WG/,1,1
-Mad Catz Officially Licensed Major League Gaming Pro Circuit MLG Controller for Xbox 360,Video Games,http://www.amazon.com/dp/B0063BCQ1Q/,1,1
-Halo 2 Multiplayer Map Pack - Xbox,Video Games,http://www.amazon.com/dp/B000930DA0/,1,1
-Final Fantasy III,Video Games,http://www.amazon.com/dp/B000GABOTU/,1,1
+8BITDO Zero Wireless Game Controller for Android/ iOS/ Windows,Personal Computer,http://www.amazon.com/dp/B0156IC8M8/,6,1
+"Hisense SERO E2281 8.0"" 16 GB Tablet",Personal Computer,http://www.amazon.com/dp/B016FH4E30/,4,1
+"VicTsing Gold-Plated HDMI to VGA Converter Adapter for PC, Laptop, DVD, Desktop and other HDMI Input Devices - Black (VS1-VC38BVT-VD)",Personal Computer,http://www.amazon.com/dp/B016HL4CAY/,13,1
+SNES Retro USB Super Nintendo Controller for Windows PC/MAC (Grey/Purple) (Pack of 2),Video Games,http://www.amazon.com/dp/B016K08OHY/,1,1
+GPD XD RK3288 2GB/32GB Quad Core 5 Inches IPS Video Game Player Gamepad Handheld Game Console Black (Black),Video Games,http://www.amazon.com/dp/B016RJGHXG/,1,1
+BEBONCOOL Wireless Bluetooth Game Controller with Clip for Android Phone / Tablet / Samsung Gear VR/ Game Boy Emulator(Red),Personal Computer,http://www.amazon.com/dp/B0171JGYF2/,16,1
+SEGA 200158 Genesis Ultimate Portable Game Player Deluxe,Video Games,http://www.amazon.com/dp/B017S4B554/,1,1
+Willgoo® 8bitdo SFC30 Wireless Bluetooth Controller Dual Classic Joystick for IOS / Android Gamepad - PC Mac Linux With Xstander,Personal Computer,http://www.amazon.com/dp/B017SFNVZ0/,1,1
+LoveRPi Raspberry Pi 3 Retro Gaming Kit for RetroPie RetroArch Emulation Station - 32GB Model,PC Accessory,http://www.amazon.com/dp/B019DJYJ1E/,4,1
+"Astro Tab A737 – 7” Quad Core Android 6.0 Marshmallow Tablet PC with HD IPS Display 1280 x 800, 1GB RAM, 8GB Storage, Bluetooth 4.0, 7 inch screen, Google Play (Black)",Single Detail Page Misc,http://www.amazon.com/dp/B01ALMT0H0/,1,1
+GPD XD RK3288 2G/32G 5' Quad Core H-IPS Android Video Game Player Game Console Handheld game consoles Black,PC Accessory,http://www.amazon.com/dp/B01B4BNHMQ/,2,1
+"GPD XD by DroidBOX Gaming Handheld 5"" Touchscreen Android 4.4.4; Extra fast RK3288 Quad Core 1.8GHz CPU, a Mali-T764 GPU, 2GB RAM and 32GB ROM",Personal Computer,http://www.amazon.com/dp/B01B4DH2QQ/,3,1
+"Proto-pasta CDP11701 Electrically Conductive Carbon Loose Coil , PLA Composite 1.75 mm, 125g , Black",Boost,http://www.amazon.com/dp/B01BDL4BY0/,1,1
+CanaKit Raspberry Pi 3 Kit with Clear Case and 2.5A Power Supply,PC Accessory,http://www.amazon.com/dp/B01C6EQNNK/,30,1
+CanaKit Raspberry Pi 3 Complete Starter Kit - 32 GB Edition,PC Accessory,http://www.amazon.com/dp/B01C6Q2GSY/,108,1
+Generic Wii USB Sensor Bar,Video Games,http://www.amazon.com/dp/B01DGLM1SS/,1,1
+CamRom® Telescopic Wireless Bluetooth Game Controller Gamepad Joystick for Samsung iPhone iPod iPad Android Phone Tablet PC CA1042ZR,PC Accessory,http://www.amazon.com/dp/B01DZR5WJI/,5,1
+ASUS VivoMini mini PC Barebones with i7-6500U (UN65H-M061M),Personal Computer,http://www.amazon.com/dp/B01EZGZ5AE/,1,1
+"Raspberry Pi RPI3CASE-BG Official Raspberry Pi 3 Case, Black/Grey",BISS,http://www.amazon.com/dp/B01F1PSFY6/,13,1
+BLU R1 HD - 8 GB - Black - Prime Exclusive - with Lockscreen Offers & Ads,Wireless,http://www.amazon.com/dp/B01F9N5QXI/,32,1
+MSI Computer Radeon R7 240 2GB DirectX 12 Low Profile 4K Resolution Support Graphics Card R7 240 2GD3 LPV6,Personal Computer,http://www.amazon.com/dp/B01GIUYQ3M/,1,1
+Sudroid 8BITDO NES30 Pro Wireless Bluetooth Controller Dual Classic Joystick For Android Gamepad - PC Mac Linux,PC Accessory,http://www.amazon.com/dp/B01HROAK8I/,1,1
+New Improved D-Pad - Mad Catz Street Fighter V FightPad PRO for PlayStation4 and PlayStation3 - White - PlayStation 4,Video Games,http://www.amazon.com/dp/B01HT2TT0I/,3,1
+Fxexblin TX3 Pro Android TV Box 1Gb/8Gb 4K Android 6.0 Amlogic S905X Quad Core Smart Tv Box,Home Theater,http://www.amazon.com/dp/B01J2XCK7G/,1,1
+"Willgoo 8Bitdo Xstander Clip Holder for NES30 Pro or FC30 Pro - For Android Mobile Phones, Galaxy S3 S4 S5 S6 Note 2 3 4 & iPhone 4 4s 5 5s 6 (stander only without the controller)",CE,http://www.amazon.com/dp/B01LCP1ROO/,5,1
+"NES case for Raspberry Pi 3,2 and B+ by Old Skool Tools",PC Accessory,http://www.amazon.com/dp/B01M4OOY4U/,47,1

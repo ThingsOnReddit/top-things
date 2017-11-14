@@ -1,21 +1,82 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"Superintelligence: Paths, Dangers, Strategies",Book,http://www.amazon.com/dp/1501227742/,12,4
-"Superintelligence: Paths, Dangers, Strategies",Book,http://www.amazon.com/dp/0199678111/,13,1
-Linear Algebra Done Right (Undergraduate Texts in Mathematics),Book,http://www.amazon.com/dp/0387982582/,8,1
-"Simulacra and Simulation (The Body, In Theory: Histories of Cultural Materialism)",Book,http://www.amazon.com/dp/0472065211/,4,1
-"The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)",Book,http://www.amazon.com/dp/0387848576/,4,1
-Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series),Book,http://www.amazon.com/dp/0262018020/,4,1
-Probabilistic Graphical Models: Principles and Techniques (Adaptive Computation and Machine Learning series),Book,http://www.amazon.com/dp/0262013193/,3,1
-Probability Theory: The Logic of Science,Book,http://www.amazon.com/dp/0521592712/,3,1
-All of Statistics: A Concise Course in Statistical Inference (Springer Texts in Statistics),Book,http://www.amazon.com/dp/0387402721/,2,1
-Vehicles: Experiments in Synthetic Psychology,Book,http://www.amazon.com/dp/0262521121/,2,1
-Pattern Recognition and Machine Learning (Information Science and Statistics),Book,http://www.amazon.com/dp/0387310738/,2,1
-Arduino Uno R3 Microcontroller A000066,Personal Computer,http://www.amazon.com/dp/B008GRTSV6/,2,1
-Quantitative Trading: How to Build Your Own Algorithmic Trading Business,Book,http://www.amazon.com/dp/0470284889/,2,1
-Python Machine Learning,Book,http://www.amazon.com/dp/1783555130/,1,1
-Elements of the Theory of Functions and Functional Analysis (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486406830/,1,1
-Elements of Information Theory 2nd Edition (Wiley Series in Telecommunications and Signal Processing),Book,http://www.amazon.com/dp/0471241954/,1,1
-Behind Deep Blue: Building the Computer that Defeated the World Chess Champion,Book,http://www.amazon.com/dp/0691118183/,1,1
-CAN-BUS Shield Compatible with Arduino and Seeeduino,Personal Computer,http://www.amazon.com/dp/B00NQVH666/,1,1
-Topology for Computing (Cambridge Monographs on Applied and Computational Mathematics),Book,http://www.amazon.com/dp/0521136091/,1,1
+Pattern Recognition and Machine Learning (Information Science and Statistics),Book,http://www.amazon.com/dp/0387310738/,13,5
+"Superintelligence: Paths, Dangers, Strategies",Book,http://www.amazon.com/dp/1501227742/,25,4
+Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series),Book,http://www.amazon.com/dp/0262018020/,16,3
+"Python Machine Learning, 1st Edition",Book,http://www.amazon.com/dp/1783555130/,9,3
+An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics),Book,http://www.amazon.com/dp/1461471370/,11,3
+Data Smart: Using Data Science to Transform Information into Insight,Book,http://www.amazon.com/dp/111866146X/,11,3
+All of Statistics: A Concise Course in Statistical Inference (Springer Texts in Statistics),Book,http://www.amazon.com/dp/0387402721/,10,2
+Probability Theory: The Logic of Science,Book,http://www.amazon.com/dp/0521592712/,13,2
+NVIDIA Tesla K40 GPU Computing Processor Graphic Cards 900-22081-2250-000,Personal Computer,http://www.amazon.com/dp/B00KDRRTB8/,2,2
+Data Science from Scratch: First Principles with Python,Book,http://www.amazon.com/dp/149190142X/,13,2
+Topology for Computing (Cambridge Monographs on Applied and Computational Mathematics),Book,http://www.amazon.com/dp/0521136091/,2,2
+"The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)",Book,http://www.amazon.com/dp/0387848576/,9,2
+Probabilistic Graphical Models: Principles and Techniques (Adaptive Computation and Machine Learning series),Book,http://www.amazon.com/dp/0262013193/,6,2
+Linear Algebra Done Right (Undergraduate Texts in Mathematics),Book,http://www.amazon.com/dp/0387982582/,17,2
+Deep Learning (Adaptive Computation and Machine Learning series),Book,http://www.amazon.com/dp/0262035618/,5,1
+Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning),Book,http://www.amazon.com/dp/0262193981/,2,1
+Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science),Book,http://www.amazon.com/dp/0262510871/,15,1
+Vehicles: Experiments in Synthetic Psychology,Book,http://www.amazon.com/dp/0262521121/,3,1
+Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems (Computational Neuroscience Series),Book,http://www.amazon.com/dp/0262541858/,8,1
+Algorithm Design,Book,http://www.amazon.com/dp/0321295358/,10,1
+High Performance Discovery In Time Series: Techniques and Case Studies (Monographs in Computer Science),Book,http://www.amazon.com/dp/0387008578/,1,1
+Real Mathematical Analysis (Undergraduate Texts in Mathematics),Book,http://www.amazon.com/dp/0387952977/,4,1
+Global Stability of Dynamical Systems,Book,http://www.amazon.com/dp/0387962956/,1,1
+The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World,Book,http://www.amazon.com/dp/0465065708/,2,1
+Quantitative Trading: How to Build Your Own Algorithmic Trading Business,Book,http://www.amazon.com/dp/0470284889/,5,1
+Principal Component Neural Networks: Theory and Applications,Book,http://www.amazon.com/dp/0471054364/,1,1
+Elements of Information Theory 2nd Edition (Wiley Series in Telecommunications and Signal Processing),Book,http://www.amazon.com/dp/0471241954/,3,1
+Introductory Functional Analysis with Applications,Book,http://www.amazon.com/dp/0471504599/,3,1
+Statistics for Spatio-Temporal Data,Book,http://www.amazon.com/dp/0471692743/,1,1
+"Simulacra and Simulation (The Body, In Theory: Histories of Cultural Materialism)",Book,http://www.amazon.com/dp/0472065211/,5,1
+Elements of the Theory of Functions and Functional Analysis (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486406830/,4,1
+Introduction to Graph Theory (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486678709/,9,1
+Mathematical Statistics with Applications,Book,http://www.amazon.com/dp/0495110817/,6,1
+Convex Optimization,Book,http://www.amazon.com/dp/0521833787/,2,1
+Coding the Matrix: Linear Algebra through Applications to Computer Science,Book,http://www.amazon.com/dp/0615880991/,6,1
+The Society of Mind,Book,http://www.amazon.com/dp/0671657135/,6,1
+Behind Deep Blue: Building the Computer that Defeated the World Chess Champion,Book,http://www.amazon.com/dp/0691118183/,4,1
+The Traveling Salesman Problem: A Computational Study (Princeton Series in Applied Mathematics),Book,http://www.amazon.com/dp/0691129932/,1,1
+Learning and Memory: From Brain to Behavior,Book,http://www.amazon.com/dp/0716786540/,1,1
+Matrix analysis and applied linear algebra,Book,http://www.amazon.com/dp/0898714540/,3,1
+"Physics for Mathematicians, Mechanics I",Book,http://www.amazon.com/dp/0914098322/,6,1
+"Introduction to Linear Algebra, Fourth Edition",Book,http://www.amazon.com/dp/0980232716/,4,1
+Predictive Learning,Book,http://www.amazon.com/dp/0988986906/,1,1
+"Large-Scale Inference: Empirical Bayes Methods for Estimation, Testing, and Prediction (Institute of Mathematical Statistics Monographs)",Book,http://www.amazon.com/dp/110761967X/,1,1
+Machine Learning in Python: Essential Techniques for Predictive Analysis,Book,http://www.amazon.com/dp/1118961749/,1,1
+Bayesian Ideas and Data Analysis: An Introduction for Scientists and Statisticians (Chapman & Hall/CRC Texts in Statistical Science),Book,http://www.amazon.com/dp/1439803544/,1,1
+"Bayesian Data Analysis, Third Edition (Chapman & Hall/CRC Texts in Statistical Science)",Book,http://www.amazon.com/dp/1439840954/,7,1
+Introduction to Machine Learning with Python: A Guide for Data Scientists,Book,http://www.amazon.com/dp/1449369413/,2,1
+Linear and Geometric Algebra,Book,http://www.amazon.com/dp/1453854932/,2,1
+Elementary Analysis: The Theory of Calculus (Undergraduate Texts in Mathematics),Book,http://www.amazon.com/dp/1461462703/,2,1
+Bayesian Networks in R: with Applications in Systems Biology (Use R!),Book,http://www.amazon.com/dp/1461464455/,1,1
+Vector and Geometric Calculus,Book,http://www.amazon.com/dp/1480132454/,1,1
+Blondie24: Playing at the Edge of AI (The Morgan Kaufmann Series in Artificial Intelligence),Book,http://www.amazon.com/dp/1558607838/,3,1
+Geometry and Meaning,Book,http://www.amazon.com/dp/1575864487/,2,1
+Matching Pursuit and Unification in EEG Analysis (Engineering in Medicine & Biology),Book,http://www.amazon.com/dp/1580533043/,1,1
+The Art of Fermentation: An In-Depth Exploration of Essential Concepts and Processes from around the World,Book,http://www.amazon.com/dp/160358286X/,22,1
+Why Greatness Cannot Be Planned: The Myth of the Objective,Book,http://www.amazon.com/dp/3319155237/,1,1
+How to Solve It: Modern Heuristics,Book,http://www.amazon.com/dp/3540224947/,2,1
+Statistical Inference (2nd English Edition of Original Book),Book,http://www.amazon.com/dp/7111109457/,1,1
 OBD2 16Pin to DB9 Serial Port Adapter Cable--Connecting Your Diagnostic Interface and Your Vehicle with OBD Ⅱ Compliant,PC Accessory,http://www.amazon.com/dp/B007UKTW8E/,1,1
+Arduino Uno R3 Microcontroller A000066,Personal Computer,http://www.amazon.com/dp/B008GRTSV6/,10,1
+Programming Collective Intelligence: Building Smart Web 2.0 Applications,eBooks,http://www.amazon.com/dp/B00F8QDZWG/,2,1
+CAN-BUS Shield Compatible with Arduino and Seeeduino,Personal Computer,http://www.amazon.com/dp/B00NQVH666/,1,1
+The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World,eBooks,http://www.amazon.com/dp/B012271YB2/,2,1
+"Dell 15.6-Inch Gaming Laptop (6th Gen Intel Quad-Core i5-6300HQ Processor up to 3.2GHz, 8GB DDR3, 256GB SSD, Nvidia GeForce GTX 960M, Windows 10)",Personal Computer,http://www.amazon.com/dp/B015PYYDMQ/,799,1
+Tail light Blusmart Bike Rear Light Wireless Rechargeable Remote Control Waterproof LED Safety Light with 7 Red/ Yellow Lights Mode of Turning Flashing Laser Automatic On/off 85 Lumens USB Charging,Sports,http://www.amazon.com/dp/B017JNRP7Q/,1,1
+The Cartoon Guide to Statistics,Book,http://www.amazon.com/dp/0062731025/,5,1
+Deep Learning (Adaptive Computation and Machine Learning series),eBooks,http://www.amazon.com/dp/B01MRVFGX4/,2,1
+Principles of Mathematical Analysis (International Series in Pure and Applied Mathematics),Book,http://www.amazon.com/dp/007054235X/,13,1
+"Principles of Neural Science, Fifth Edition (Principles of Neural Science (Kandel))",Book,http://www.amazon.com/dp/0071390111/,11,1
+"A Wavelet Tour of Signal Processing, Third Edition: The Sparse Way",Book,http://www.amazon.com/dp/0123743702/,1,1
+"Statistical Methods in the Atmospheric Sciences, Volume 100, Third Edition (International Geophysics)",Book,http://www.amazon.com/dp/0123850223/,1,1
+"Fundamental Neuroscience, Fourth Edition (Squire,Fundamental Neuroscience)",Book,http://www.amazon.com/dp/0123858704/,3,1
+"C Programming Language, 2nd Edition",Book,http://www.amazon.com/dp/0131103628/,109,1
+"Fundamentals of Neural Networks: Architectures, Algorithms And Applications",Book,http://www.amazon.com/dp/0133341860/,1,1
+Linear Algebra (2nd Edition),Book,http://www.amazon.com/dp/0135367972/,1,1
+Computational Neuroscience of Vision,Book,http://www.amazon.com/dp/0198524889/,1,1
+"Superintelligence: Paths, Dangers, Strategies",Book,http://www.amazon.com/dp/0199678111/,42,1
+How to Build a Brain: A Neural Architecture for Biological Cognition (Oxford Series on Cognitive Models and Architectures),Book,http://www.amazon.com/dp/0199794545/,1,1
+The Pragmatic Programmer: From Journeyman to Master,Book,http://www.amazon.com/dp/020161622X/,86,1
+Optimization for Machine Learning (Neural Information Processing series),Book,http://www.amazon.com/dp/026201646X/,1,1

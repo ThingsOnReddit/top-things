@@ -1,9 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",Book,http://www.amazon.com/dp/0316051632/,5,1
-QED: The Strange Theory of Light and Matter,Book,http://www.amazon.com/dp/0691024170/,3,1
-"Div, Grad, Curl, and All That: An Informal Text on Vector Calculus (Fourth Edition)",Book,http://www.amazon.com/dp/0393925161/,3,1
-Classical Mechanics,Book,http://www.amazon.com/dp/189138922X/,3,1
-Quantum Field Theory for the Gifted Amateur,Book,http://www.amazon.com/dp/019969933X/,2,1
-Basic Training in Mathematics: A Fitness Program for Science Students,Book,http://www.amazon.com/dp/0306450364/,1,1
+Introduction to Quantum Mechanics (2nd Edition),Book,http://www.amazon.com/dp/0131118927/,17,5
+From Eternity to Here: The Quest for the Ultimate Theory of Time,Book,http://www.amazon.com/dp/0452296544/,9,4
+An Introduction to Thermal Physics,Book,http://www.amazon.com/dp/0201380277/,11,3
+"The Feynman Lectures on Physics, boxed set: The New Millennium Edition",Book,http://www.amazon.com/dp/0465023827/,12,3
+"Div, Grad, Curl, and All That: An Informal Text on Vector Calculus (Fourth Edition)",Book,http://www.amazon.com/dp/0393925161/,18,3
+Classical Mechanics,Book,http://www.amazon.com/dp/189138922X/,11,3
+Physics for Scientists and Engineers: A Strategic Approach with Modern Physics (3rd Edition),Book,http://www.amazon.com/dp/0321740904/,4,2
+A Most Incomprehensible Thing: Notes Towards a Very Gentle Introduction to the Mathematics of Relativity,eBooks,http://www.amazon.com/dp/B008JRJ1VK/,2,2
+Basic Training in Mathematics: A Fitness Program for Science Students,Book,http://www.amazon.com/dp/0306450364/,5,2
+An Introduction to Error Analysis: The Study of Uncertainties in Physical Measurements,Book,http://www.amazon.com/dp/093570275X/,8,2
+The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics,Book,http://www.amazon.com/dp/0316016411/,7,2
+Geometrical Methods of Mathematical Physics,Book,http://www.amazon.com/dp/0521298873/,3,2
+Exploring Black Holes: Introduction to General Relativity,Book,http://www.amazon.com/dp/020138423X/,3,1
+Classical Mechanics (3rd Edition),Book,http://www.amazon.com/dp/0201657023/,4,1
+The Structure of Scientific Revolutions,Book,http://www.amazon.com/dp/0226458083/,7,1
+Quantum Field Theory in Curved Spacetime and Black Hole Thermodynamics (Chicago Lectures in Physics),Book,http://www.amazon.com/dp/0226870278/,2,1
+"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",Book,http://www.amazon.com/dp/0316051632/,9,1
+"Linear Algebra and Its Applications, 4th Edition",Book,http://www.amazon.com/dp/0321385179/,3,1
+Conceptual Physics (11th Edition),Book,http://www.amazon.com/dp/0321568095/,2,1
+University Physics Plus Modern Physics Plus MasteringPhysics with eText -- Access Card Package (13th Edition),Book,http://www.amazon.com/dp/0321675460/,1,1
 Quantum Mechanics: A Paradigms Approach,Book,http://www.amazon.com/dp/0321765796/,1,1
+Introduction to Electrodynamics (4th Edition),Book,http://www.amazon.com/dp/0321856562/,10,1
+College Physics: A Strategic Approach (3rd Edition),Book,http://www.amazon.com/dp/0321879724/,3,1
+University Physics Technology Update (13th Edition),Book,http://www.amazon.com/dp/0321898028/,3,1
+University Physics with Modern Physics (14th Edition),Book,http://www.amazon.com/dp/0321973615/,4,1
+Introduction to Quantum Physics (M.I.T. Introductory Physics Series),Book,http://www.amazon.com/dp/0393091066/,1,1
+"Surely You're Joking, Mr. Feynman! (Adventures of a Curious Character)",Book,http://www.amazon.com/dp/0393316041/,34,1
+"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Book,http://www.amazon.com/dp/039333810X/,17,1
+Physics for Engineers and Scientists (Third Edition)  (Vol. 1),Book,http://www.amazon.com/dp/0393930033/,2,1
+How to Teach Relativity to Your Dog,Book,http://www.amazon.com/dp/0465023312/,2,1
+The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman (Helix Books),Book,http://www.amazon.com/dp/0465023959/,4,1
+"Six Not-So-Easy Pieces: Einstein’s Relativity, Symmetry, and Space-Time",Book,http://www.amazon.com/dp/0465025269/,1,1
+The Theoretical Minimum: What You Need to Know to Start Doing Physics,Book,http://www.amazon.com/dp/0465075681/,3,1
+Radiation Detection and Measurement,Book,http://www.amazon.com/dp/0470131489/,3,1
+Mathematical Methods in the Physical Sciences,Book,http://www.amazon.com/dp/0471198269/,12,1
+"Physics, Volume 1",Book,http://www.amazon.com/dp/0471320579/,3,1
+An Introduction to the Physics of High Energy Accelerators,Book,http://www.amazon.com/dp/0471551635/,1,1
+"Electromagnetic Fields, 2nd Edition",Book,http://www.amazon.com/dp/0471811866/,2,1
+"Black Holes, White Dwarfs and Neutron Stars: The Physics of Compact Objects",Book,http://www.amazon.com/dp/0471873160/,2,1
+Quarks and Leptons: An Introductory Course in Modern Particle Physics,Book,http://www.amazon.com/dp/0471887412/,1,1
+Great Experiments in Physics: Firsthand Accounts from Galileo to Einstein,Book,http://www.amazon.com/dp/0486253465/,1,1
+One Two Three . . . Infinity: Facts and Speculations of Science (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486256642/,4,1
+Flatland: A Romance of Many Dimensions (Dover Thrift Editions),Book,http://www.amazon.com/dp/048627263X/,14,1
+Symmetry: An Introduction to Group Theory and Its Applications (Dover Books on Physics),Book,http://www.amazon.com/dp/0486421821/,2,1
+Light Scattering by Small Particles (Dover Books on Physics),Book,http://www.amazon.com/dp/0486642283/,2,1
+Modern Electrodynamics,Book,http://www.amazon.com/dp/0521896975/,1,1
+"Calculus, 7th Edition",Book,http://www.amazon.com/dp/0538497815/,4,1
+Make: Electronics (Learning by Discovery),Book,http://www.amazon.com/dp/0596153740/,21,1
+The Road to Reality: A Complete Guide to the Laws of the Universe,Book,http://www.amazon.com/dp/0679776311/,8,1
+QED: The Strange Theory of Light and Matter,Book,http://www.amazon.com/dp/0691024170/,10,1
+"Quantum Field Theory in a Nutshell, 2nd Edition (In a nutshell)",Book,http://www.amazon.com/dp/0691140340/,7,1
+Einstein Gravity in a Nutshell,Book,http://www.amazon.com/dp/069114558X/,2,1
+Thermal Physics (2nd Edition),Book,http://www.amazon.com/dp/0716710889/,2,1
+Spacetime Physics,Book,http://www.amazon.com/dp/0716723271/,7,1
 Physics for Scientists and Engineers: Standard Version,Book,http://www.amazon.com/dp/0716783398/,1,1
+"Nonlinear Dynamics And Chaos: With Applications To Physics, Biology, Chemistry, And Engineering (Studies in Nonlinearity)",Book,http://www.amazon.com/dp/0738204536/,12,1
+On The Shoulders Of Giants,Book,http://www.amazon.com/dp/076241698X/,1,1
+Introductory Quantum Mechanics (4th Edition),Book,http://www.amazon.com/dp/0805387145/,1,1
+Hands-On Physics Activities with Real-Life Applications: Easy-to-Use Labs and Demonstrations for Grades 8 - 12,Book,http://www.amazon.com/dp/087628845X/,3,1
+GRE Physics (GRE Test Preparation),Book,http://www.amazon.com/dp/0878918485/,1,1
+"Physics for Mathematicians, Mechanics I",Book,http://www.amazon.com/dp/0914098322/,6,1
+Thinking Physics: Understandable Practical Reality,Book,http://www.amazon.com/dp/0935218084/,3,1
+Lasers,Book,http://www.amazon.com/dp/0935702113/,2,1
+Quantum Computation and Quantum Information: 10th Anniversary Edition,Book,http://www.amazon.com/dp/1107002176/,21,1
+Lectures on Quantum Mechanics,Book,http://www.amazon.com/dp/1107028728/,1,1
+Quantum Field Theory and the Standard Model,Book,http://www.amazon.com/dp/1107034736/,3,1
+"Differential Equations with Boundary-Value Problems, 8th Edition",Book,http://www.amazon.com/dp/1111827060/,2,1
+"Fundamentals of Physics, Volume 1 (Chapters 1 - 20) - Standalone book",Book,http://www.amazon.com/dp/111823376X/,1,1
+"Arduino Cookbook, 2nd Edition",Book,http://www.amazon.com/dp/1449313876/,2,1
+Conquering the Physics GRE,Book,http://www.amazon.com/dp/1479274631/,6,1
+Calculus Made Easy: Being a Very-Simplest Introduction To Those Beautiful Methods Of Reckoning Which Are Generally Called By The Terrifying Names Of The Differential Calculus And The Integral Calculus,Book,http://www.amazon.com/dp/1489595813/,1,1
+Getting In to Grad School for Physics: (or another physical science),Book,http://www.amazon.com/dp/1499732244/,3,1
+We Can Do It!: A Problem Solving Graphic Novel Guide for General Physics,Book,http://www.amazon.com/dp/1517039886/,1,1
+"You Are Not So Smart: Why You Have Too Many Friends on Facebook, Why Your Memory Is Mostly Fiction, an d 46 Other Ways You're Deluding Yourself",Book,http://www.amazon.com/dp/1592407366/,15,1
+The Manga Guide to Physics,Book,http://www.amazon.com/dp/1593271964/,7,1
+Feynman,Book,http://www.amazon.com/dp/1596438274/,2,1
+Permutation City: A Novel,Book,http://www.amazon.com/dp/1597805394/,5,1
+Diaspora: A Novel,Book,http://www.amazon.com/dp/1597805424/,3,1
+Particle Accelerator Physics,Book,http://www.amazon.com/dp/3540490434/,1,1
+Techniques for Nuclear and Particle Physics Experiments: A How-to Approach,Book,http://www.amazon.com/dp/3540572805/,4,1
+Introduction to Electrodynamics,Book,http://www.amazon.com/dp/8120347765/,3,1
+Mathematical Methods in the Physical Sciences,Book,http://www.amazon.com/dp/8126508108/,1,1
+Modern Quantum Mechanics: PNIE,Book,http://www.amazon.com/dp/9332519005/,1,1
+Introduction to Electrodynamics 4e,Book,http://www.amazon.com/dp/9332550441/,2,1
+"4: GAUGE FIELDS, KNOTS AND GRAVITY (Series on Knots and Everything)",Book,http://www.amazon.com/dp/9810220340/,1,1
+"An Introduction To Black Holes, Information And The String Theory Revolution: The Holographic Universe",Book,http://www.amazon.com/dp/9812561315/,2,1
+Polarizing Filter (6 in. x 6 in.),BISS,http://www.amazon.com/dp/B009P8B548/,2,1
+"Ajax Scientific Plastic Tubular Spring Scale, 5000g/50N Weight Capacity, Yellow",BISS,http://www.amazon.com/dp/B00EPQGXUQ/,1,1
+"ELIKE T-92 Self-Recovery Digital Multimeter Amp/Ohm/Volt with Diode,Continuity, Capacitance,hFE,IR Detector and Livewire Identification",Home Improvement,http://www.amazon.com/dp/B01B9P49B0/,2,1
+How We Know What Isn't So: The Fallibility of Human Reason in Everyday Life,Book,http://www.amazon.com/dp/0029117062/,7,1
+Make: Electronics Component Pack 1 - Second Edition Kit Follows the Latest Make: Electronics 2nd ed Educational Book by Charles Platt,Toy,http://www.amazon.com/dp/B01EKO6FZU/,2,1
+Schaum's Outline of Optics,Book,http://www.amazon.com/dp/0070277303/,1,1
+"Schaum's Outline of Electromagnetics, Third Edition (Schaum's Outline Series)",Book,http://www.amazon.com/dp/0071632352/,1,1
+"Schaum's Outline of College Physics, 11th Edition (Schaum's Outlines)",Book,http://www.amazon.com/dp/0071754873/,6,1
+"Schaum's Outline of Calculus, 6th Edition: 1,105 Solved Problems + 30 Videos (Schaum's Outlines)",Book,http://www.amazon.com/dp/0071795537/,8,1
+"Mathematical Methods for Physicists, Seventh Edition: A Comprehensive Guide",Book,http://www.amazon.com/dp/0123846544/,1,1
+Physics for Scientists & Engineers with Modern Physics (4th Edition),Book,http://www.amazon.com/dp/0131495089/,1,1
+The Physics of Particle Accelerators: An Introduction,Book,http://www.amazon.com/dp/0198505493/,1,1
+Atomic Physics (Oxford Master Series in Physics),Book,http://www.amazon.com/dp/0198506961/,2,1
+Renormalization Methods: A Guide For Beginners,Book,http://www.amazon.com/dp/0199236526/,1,1

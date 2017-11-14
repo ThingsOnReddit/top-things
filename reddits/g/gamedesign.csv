@@ -1,23 +1,79 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"The Art of Game Design: A Book of Lenses, Second Edition",Book,http://www.amazon.com/dp/1466598646/,8,3
-Designing Games: A Guide to Engineering Experiences,Book,http://www.amazon.com/dp/1449337937/,5,2
-Rules of Play: Game Design Fundamentals (MIT Press),Book,http://www.amazon.com/dp/0262240459/,4,2
-Challenges for Game Designers,Book,http://www.amazon.com/dp/158450580X/,3,2
-Game Mechanics: Advanced Game Design (Voices That Matter),Book,http://www.amazon.com/dp/0321820274/,3,2
-Glued to Games: How Video Games Draw Us In and Hold Us Spellbound (New Directions in Media),Book,http://www.amazon.com/dp/0313362246/,2,2
-Playing at the World,eBooks,http://www.amazon.com/dp/B008PN6K9Y/,,1
-Community Building on the Web: Secret Strategies for Successful Online Communities,eBooks,http://www.amazon.com/dp/B004SHDFH6/,,1
-Theory of Fun for Game Design,eBooks,http://www.amazon.com/dp/B00GK5SRFY/,,1
-The Art of Game Design: A Book of Lenses,Book,http://www.amazon.com/dp/0123694965/,7,1
-Game Programming Patterns,Book,http://www.amazon.com/dp/0990582906/,5,1
-"Universal Principles of Design, Revised and Updated: 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach through Design",Book,http://www.amazon.com/dp/1592535879/,4,1
-"Speech and Language Processing, 2nd Edition",Book,http://www.amazon.com/dp/0131873210/,3,1
-"The Art of Game Design: A Deck of Lenses, Second Edition",Book,http://www.amazon.com/dp/0692288872/,2,1
-Everything Is Obvious: How Common Sense Fails Us,Book,http://www.amazon.com/dp/0307951790/,2,1
-Level Up! The Guide to Great Video Game Design,Book,http://www.amazon.com/dp/1118877160/,2,1
-NES GAME ATLAS Player's Guide,Book,http://www.amazon.com/dp/B000FG9P6E/,1,1
+Game Mechanics: Advanced Game Design (Voices That Matter),Book,http://www.amazon.com/dp/0321820274/,17,14
+The Art of Game Design: A Book of Lenses,Book,http://www.amazon.com/dp/0123694965/,37,8
+Theory of Fun for Game Design,Book,http://www.amazon.com/dp/1449363210/,22,5
+Glued to Games: How Video Games Draw Us In and Hold Us Spellbound (New Directions in Media),Book,http://www.amazon.com/dp/0313362246/,8,5
+"The Art of Game Design: A Book of Lenses, Second Edition",Book,http://www.amazon.com/dp/1466598646/,36,5
+Designing Games: A Guide to Engineering Experiences,Book,http://www.amazon.com/dp/1449337937/,16,5
+Game Feel: A Game Designer's Guide to Virtual Sensation (Morgan Kaufmann Game Design Books),Book,http://www.amazon.com/dp/0123743281/,22,4
+Challenges for Game Designers,Book,http://www.amazon.com/dp/158450580X/,12,4
+Rules of Play: Game Design Fundamentals (MIT Press),Book,http://www.amazon.com/dp/0262240459/,11,3
+Level Up! The Guide to Great Video Game Design,Book,http://www.amazon.com/dp/1118877160/,13,3
+Patterns in Game Design (Game Development Series),Book,http://www.amazon.com/dp/1584503548/,3,2
+"The Art of Game Design: A Deck of Lenses, Second Edition",Book,http://www.amazon.com/dp/0692288872/,4,2
+Video Game Storytelling: What Every Developer Needs to Know about Narrative Techniques,Book,http://www.amazon.com/dp/0385345828/,3,2
+"Quests: Design, Theory, and History in Games and Narratives",Book,http://www.amazon.com/dp/1568813473/,2,2
+The Design of Everyday Things,Book,http://www.amazon.com/dp/1452654123/,25,2
+The Design of Everyday Things: Revised and Expanded Edition,Book,http://www.amazon.com/dp/0465050654/,49,1
+Problem Seeking: An Architectural Programming Primer,Book,http://www.amazon.com/dp/0471126209/,1,1
+"Architecture: Form, Space, and Order",Book,http://www.amazon.com/dp/0471752169/,4,1
+The Legion Of Shadow: DestinyQuest Book 1,Book,http://www.amazon.com/dp/0575118733/,2,1
+Playing at the World,Book,http://www.amazon.com/dp/0615642047/,10,1
+The Ambiguity of Play,Book,http://www.amazon.com/dp/0674005813/,1,1
+American Dance: The Complete Illustrated History,Book,http://www.amazon.com/dp/0760345996/,1,1
+1001 Movies You Must See Before You Die,Book,http://www.amazon.com/dp/0764167901/,19,1
+Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture,Book,http://www.amazon.com/dp/0812972155/,38,1
+"Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration",Book,http://www.amazon.com/dp/0812993012/,12,1
+"De Bono's Thinking Course, Revised Edition",Book,http://www.amazon.com/dp/0816031789/,1,1
+Re:Play: Game Design and Game Culture (New Literacies and Digital Epistemologies),Book,http://www.amazon.com/dp/0820470538/,1,1
+Waltzing With Bears: Managing Risk on Software Projects,Book,http://www.amazon.com/dp/0932633609/,3,1
+The War-Torn Kingdom (Fabled Lands) (Volume 1),Book,http://www.amazon.com/dp/095673720X/,2,1
+Invisible Ink: A Practical Guide to Building Stories that Resonate,Book,http://www.amazon.com/dp/0984178627/,2,1
+Game Programming Patterns,Book,http://www.amazon.com/dp/0990582906/,14,1
+Clockwork Game Design,Book,http://www.amazon.com/dp/1138798738/,4,1
+The Bedford Introduction to Drama,Book,http://www.amazon.com/dp/1457606321/,1,1
+"Game Engine Architecture, Second Edition",Book,http://www.amazon.com/dp/1466560010/,42,1
+An Architectural Approach to Level Design,Book,http://www.amazon.com/dp/1466585412/,3,1
+The Making of Prince of Persia: Journals 1985 - 1993,Book,http://www.amazon.com/dp/1468093657/,3,1
+"Game Design Workshop: A Playcentric Approach to Creating Innovative Games, Third Edition",Book,http://www.amazon.com/dp/1482217163/,6,1
+Learn to Play: Designing Tutorials for Video Games,Book,http://www.amazon.com/dp/1482220199/,1,1
+Badass: Making Users Awesome,Book,http://www.amazon.com/dp/1491919019/,2,1
+Game Balance,Book,http://www.amazon.com/dp/1498799574/,1,1
+The Magitech Game (Amazing Engine System),Book,http://www.amazon.com/dp/1560766611/,1,1
+Thinkertoys: A Handbook of Creative-Thinking Techniques (2nd Edition),Book,http://www.amazon.com/dp/1580087736/,3,1
+The Ultimate Guide to Video Game Writing and Design,Book,http://www.amazon.com/dp/158065066X/,7,1
+"Universal Principles of Design, Revised and Updated: 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach through Design",Book,http://www.amazon.com/dp/1592535879/,13,1
+Drive: The Surprising Truth About What Motivates Us,Book,http://www.amazon.com/dp/1594484805/,16,1
+Learning C++ by Creating Games with UE4,Book,http://www.amazon.com/dp/1784396575/,4,1
+Blueprints Visual Scripting for Unreal Engine,Book,http://www.amazon.com/dp/1785286013/,2,1
 Convivial Toolbox: Generative Research for the Front End of Design,Book,http://www.amazon.com/dp/9063692846/,1,1
-Patterns in Game Design (Game Development Series) (Charles River Media Game Development),Book,http://www.amazon.com/dp/1584503548/,1,1
-Theory of Fun for Game Design,Books,https://www.amazon.com/A-Theory-Fun-Game-Design/dp/1932111972,1,1
-The Legion Of Shadow: DestinyQuest Book 1,Book,http://www.amazon.com/dp/0575118733/,1,1
-The War-Torn Kingdom (Fabled Lands) (Volume 1),Book,http://www.amazon.com/dp/095673720X/,1,1
+NES GAME ATLAS Player's Guide,Book,http://www.amazon.com/dp/B000FG9P6E/,1,1
+Community Building on the Web: Secret Strategies for Successful Online Communities,eBooks,http://www.amazon.com/dp/B004SHDFH6/,1,1
+Computing: A Concise History (The MIT Press Essential Knowledge series),eBooks,http://www.amazon.com/dp/B008CJ4EE4/,1,1
+Playing at the World,eBooks,http://www.amazon.com/dp/B008PN6K9Y/,2,1
+Anthropology: A Beginner's Guide (Beginner's Guides),eBooks,http://www.amazon.com/dp/B008PU8RIO/,1,1
+Game Design Theory: A New Philosophy for Understanding Games,eBooks,http://www.amazon.com/dp/B00CJHDN0Q/,1,1
+"Sociology: A Brief Introduction, 10th edition",eBooks,http://www.amazon.com/dp/B00DC91ROE/,1,1
+"Philosophy 101: From Plato and Socrates to Ethics and Metaphysics, an Essential Primer on the History of Thought (Adams 101)",eBooks,http://www.amazon.com/dp/B00EKPKRPO/,1,1
+The Cambridge Companion to Religious Studies (Cambridge Companions to Religion),eBooks,http://www.amazon.com/dp/B00FF76VP6/,1,1
+Theory of Fun for Game Design,eBooks,http://www.amazon.com/dp/B00GK5SRFY/,1,1
+Game Design Companion: A Critical Analysis of Wario Land 4,eBooks,http://www.amazon.com/dp/B00HZNS6JW/,1,1
+A Game Design Vocabulary: Exploring the Foundational Principles Behind Good Game Design,eBooks,http://www.amazon.com/dp/B00IJYFDPG/,1,1
+Help Your Kids with Computer Coding,eBooks,http://www.amazon.com/dp/B00KVPKHMK/,1,1
+"The Art of Game Design: A Book of Lenses, Second Edition",eBooks,http://www.amazon.com/dp/B00OYUO4PY/,1,1
+A First Look at Communication Theory (Conversations with Communication Theorists),eBooks,http://www.amazon.com/dp/B00VF61QTC/,1,1
+Dry Erase Blank Cards (Poker Size) (1 Pack),Sports,http://www.amazon.com/dp/B01H4D8ITK/,4,1
+Game Usability: Advancing the Player Experience,Book,http://www.amazon.com/dp/0123744474/,2,1
+"Speech and Language Processing, 2nd Edition",Book,http://www.amazon.com/dp/0131873210/,12,1
+Reality Is Broken: Why Games Make Us Better and How They Can Change the World,Book,http://www.amazon.com/dp/0143120611/,6,1
+Literary Theory: A Very Short Introduction,Book,http://www.amazon.com/dp/0199691347/,3,1
+Understanding Movies (13th Edition),Book,http://www.amazon.com/dp/0205856160/,2,1
+Game Design Workshop: A Playcentric Approach to Creating Innovative Games,Book,http://www.amazon.com/dp/0240809742/,1,1
+The Game Design Reader: A Rules of Play Anthology (MIT Press),Book,http://www.amazon.com/dp/0262195364/,2,1
+Half-Real: Video Games between Real Rules and Fictional Worlds (MIT Press),Book,http://www.amazon.com/dp/0262516519/,2,1
+Rework,Book,http://www.amazon.com/dp/0307463745/,15,1
+Everything Is Obvious: How Common Sense Fails Us,Book,http://www.amazon.com/dp/0307951790/,3,1
+Level Design for Games: Creating Compelling Game Experiences,Book,http://www.amazon.com/dp/0321375971/,3,1
+Fundamentals of Game Design (3rd Edition),Book,http://www.amazon.com/dp/0321929675/,2,1
+"Introduction to Game Design, Prototyping, and Development: From Concept to Playable Game with Unity and C#",Book,http://www.amazon.com/dp/0321933168/,12,1
+Peopleware: Productive Projects and Teams (3rd Edition),Book,http://www.amazon.com/dp/0321934113/,19,1

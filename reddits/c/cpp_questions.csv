@@ -1,4 +1,30 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-C++ Primer (5th Edition),Book,http://www.amazon.com/dp/0321714113/,11,2
-Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14,Book,http://www.amazon.com/dp/1491903996/,11,1
-Effective C++: 55 Specific Ways to Improve Your Programs and Designs (3rd Edition),Book,http://www.amazon.com/dp/0321334876/,6,1
+C++ Primer (5th Edition),Book,http://www.amazon.com/dp/0321714113/,55,5
+Programming: Principles and Practice Using C++ (2nd Edition),Book,http://www.amazon.com/dp/0321992784/,36,5
+Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14,Book,http://www.amazon.com/dp/1491903996/,29,4
+A Tour of C++ (C++ In-Depth),Book,http://www.amazon.com/dp/0321958314/,17,3
+Effective C++: 55 Specific Ways to Improve Your Programs and Designs (3rd Edition),Book,http://www.amazon.com/dp/0321334876/,16,2
+"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,112,2
+C++ Primer,eBooks,http://www.amazon.com/dp/B0091I7FEQ/,2,2
+C++ Templates: The Complete Guide,Book,http://www.amazon.com/dp/0201734842/,4,2
+Design Patterns: Elements of Reusable Object-Oriented Software,Book,http://www.amazon.com/dp/0201633612/,87,2
+"Unix Network Programming, Volume 1: The Sockets Networking API (3rd Edition)",Book,http://www.amazon.com/dp/0131411551/,10,2
+"The C++ Programming Language, 4th Edition",Book,http://www.amazon.com/dp/0321563840/,30,2
+"Applied Cryptography: Protocols, Algorithms and Source Code in C",Book,http://www.amazon.com/dp/1119096723/,3,1
+C++ for Engineers and Scientists,Book,http://www.amazon.com/dp/1133187846/,1,1
+"Game Coding Complete, Fourth Edition",Book,http://www.amazon.com/dp/1133776574/,18,1
+Understanding and Using C Pointers: Core Techniques for Memory Management,Book,http://www.amazon.com/dp/1449344186/,3,1
+"Modern X86 Assembly Language Programming: 32-bit, 64-bit, SSE, and AVX",Book,http://www.amazon.com/dp/1484200659/,2,1
+"Hacking: The Art of Exploitation, 2nd Edition",Book,http://www.amazon.com/dp/1593271441/,41,1
+"The Art of Multiprocessor Programming, Revised Reprint",Book,http://www.amazon.com/dp/0123973376/,3,1
+Boost.Asio C++ Network Programming,eBooks,http://www.amazon.com/dp/B00BAOC2JC/,1,1
+Structured Parallel Programming: Patterns for Efficient Computation,Book,http://www.amazon.com/dp/0124159931/,2,1
+Algorithms + Data Structures = Programs (Prentice-Hall Series in Automatic Computation),Book,http://www.amazon.com/dp/0130224189/,6,1
+Starting Out with C++: Early Objects (9th Edition),Book,http://www.amazon.com/dp/0134400240/,3,1
+Modern C++ Design: Generic Programming and Design Patterns Applied,Book,http://www.amazon.com/dp/0201704315/,7,1
+"Compilers: Principles, Techniques, and Tools (2nd Edition)",Book,http://www.amazon.com/dp/0321486811/,25,1
+Programming: Principles and Practice Using C++,Book,http://www.amazon.com/dp/0321543726/,4,1
+C++ Primer Plus (6th Edition) (Developer's Library),Book,http://www.amazon.com/dp/0321776402/,6,1
+Game Programming Algorithms and Techniques: A Platform-Agnostic Approach (Game Design),Book,http://www.amazon.com/dp/0321940156/,3,1
+Practical Cryptography,Book,http://www.amazon.com/dp/0471223573/,5,1
+Intel Threading Building Blocks: Outfitting C++ for Multi-core Processor Parallelism,Book,http://www.amazon.com/dp/0596514808/,1,1

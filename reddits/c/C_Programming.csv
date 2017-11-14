@@ -1,17 +1,60 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"C Programming: A Modern Approach, 2nd Edition",Book,http://www.amazon.com/dp/0393979504/,13,6
-"C Programming Language, 2nd Edition",Book,http://www.amazon.com/dp/0131103628/,34,4
-Expert C Programming: Deep C Secrets,Book,http://www.amazon.com/dp/0131774298/,5,2
-Mastering CMake,Book,http://www.amazon.com/dp/1930934319/,,1
-"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,36,1
-Design Patterns: Elements of Reusable Object-Oriented Software,Book,http://www.amazon.com/dp/0201633612/,26,1
-Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14,Book,http://www.amazon.com/dp/1491903996/,11,1
-Modern Operating Systems (4th Edition),Book,http://www.amazon.com/dp/013359162X/,6,1
-The Garbage Collection Handbook: The Art of Automatic Memory Management (Chapman & Hall/CRC Applied Algorithms and Data Structures series),Book,http://www.amazon.com/dp/1420082795/,2,1
-"Advanced Programming in the UNIX Environment, 3rd Edition",Book,http://www.amazon.com/dp/0321637739/,2,1
-"Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (7th Edition)",Book,http://www.amazon.com/dp/0735684189/,2,1
-21st Century C: C Tips from the New School,Book,http://www.amazon.com/dp/1491903899/,2,1
-"Algorithms in C, Parts 1-5 (Bundle): Fundamentals, Data Structures, Sorting, Searching, and Graph Algorithms (3rd Edition)",Book,http://www.amazon.com/dp/0201756080/,1,1
-MSP430 Microcontroller Basics,Book,http://www.amazon.com/dp/0750682760/,1,1
+"C Programming Language, 2nd Edition",Book,http://www.amazon.com/dp/0131103628/,109,12
+"C Programming: A Modern Approach, 2nd Edition",Book,http://www.amazon.com/dp/0393979504/,39,10
+Expert C Programming: Deep C Secrets,Book,http://www.amazon.com/dp/0131774298/,20,7
+C Interfaces and Implementations: Techniques for Creating Reusable Software,Book,http://www.amazon.com/dp/0201498413/,6,5
+"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,112,5
+21st Century C: C Tips from the New School,Book,http://www.amazon.com/dp/1491903899/,7,4
+Modern Operating Systems (4th Edition),Book,http://www.amazon.com/dp/013359162X/,22,3
+The Linux Programming Interface: A Linux and UNIX System Programming Handbook,Book,http://www.amazon.com/dp/1593272200/,10,3
+The C Programming Language,Book,http://www.amazon.com/dp/0131101633/,3,2
+Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14,Book,http://www.amazon.com/dp/1491903996/,29,2
+"Algorithms in C, Parts 1-5 (Bundle): Fundamentals, Data Structures, Sorting, Searching, and Graph Algorithms (3rd Edition)",Book,http://www.amazon.com/dp/0201756080/,2,2
+"C: A Reference Manual, 5th Edition",Book,http://www.amazon.com/dp/013089592X/,4,2
+"Hacking: The Art of Exploitation, 2nd Edition",Book,http://www.amazon.com/dp/1593271441/,41,2
+The Practice of Programming (Addison-Wesley Professional Computing Series),Book,http://www.amazon.com/dp/020161586X/,13,2
+"Advanced Programming in the UNIX Environment, 3rd Edition",Book,http://www.amazon.com/dp/0321637739/,9,2
+21st Century C: C Tips from the New School,Book,http://www.amazon.com/dp/1449327141/,5,2
+The Elements of Computing Systems: Building a Modern Computer from First Principles,Book,http://www.amazon.com/dp/0262640686/,34,1
+Algorithm Design,Book,http://www.amazon.com/dp/0321295358/,10,1
+Secure Programming with Static Analysis,Book,http://www.amazon.com/dp/0321424778/,1,1
+C Primer Plus (6th Edition) (Developer's Library),Book,http://www.amazon.com/dp/0321928423/,2,1
+Absolute Beginner's Guide to C (2nd Edition),Book,http://www.amazon.com/dp/0672305100/,2,1
+Extending and Embedding PHP,Book,http://www.amazon.com/dp/067232704X/,1,1
+Linux Kernel Development (3rd Edition),Book,http://www.amazon.com/dp/0672329468/,5,1
+Pointers on C,Book,http://www.amazon.com/dp/0673999866/,2,1
+Compared to What?: An Introduction to the Anaylsis of Algorithms (Principles of Computer Science Series),Book,http://www.amazon.com/dp/071678243X/,1,1
+"Code Complete: A Practical Handbook of Software Construction, Second Edition",Book,http://www.amazon.com/dp/0735619670/,85,1
+"Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (7th Edition)",Book,http://www.amazon.com/dp/0735684189/,4,1
+MSP430 Microcontroller Basics,Book,http://www.amazon.com/dp/0750682760/,5,1
+Bit-mapped Graphics,Book,http://www.amazon.com/dp/0830635580/,1,1
+Supercharged Bitmapped Graphics/Book and Disk,Book,http://www.amazon.com/dp/0830637885/,1,1
+Algorithm Design and Applications,Book,http://www.amazon.com/dp/1118335910/,1,1
+The Garbage Collection Handbook: The Art of Automatic Memory Management (Chapman & Hall/CRC Applied Algorithms and Data Structures series),Book,http://www.amazon.com/dp/1420082795/,5,1
+Understanding and Using C Pointers: Core Techniques for Memory Management,Book,http://www.amazon.com/dp/1449344186/,3,1
+Virtual Machines: Versatile Platforms for Systems and Processes (The Morgan Kaufmann Series in Computer Architecture and Design),Book,http://www.amazon.com/dp/1558609105/,1,1
+Mastering Algorithms with C: Useful Techniques from Sorting to Encryption,Book,http://www.amazon.com/dp/1565924533/,4,1
 Advanced Windows,Book,http://www.amazon.com/dp/1572315482/,1,1
-The Linux Programming Interface: A Linux and UNIX System Programming Handbook,Book,http://www.amazon.com/dp/1593272200/,1,1
+Write Great Code: Volume 1: Understanding the Machine,Book,http://www.amazon.com/dp/1593270038/,2,1
+"Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level",Book,http://www.amazon.com/dp/1593270658/,2,1
+Think Like a Programmer: An Introduction to Creative Problem Solving,Book,http://www.amazon.com/dp/1593274246/,19,1
+The Algorithm Design Manual,Book,http://www.amazon.com/dp/1848000693/,39,1
+Mastering CMake,Book,http://www.amazon.com/dp/1930934319/,1,1
+Let Us C (Computer Science),Book,http://www.amazon.com/dp/1934015253/,1,1
+Understanding UNIX/LINUX  Programming: A Guide to Theory and Practice,Book,http://www.amazon.com/dp/0130083968/,1,1
+"Algorithms in C, Parts 1-5 (Bundle): Fundamentals, Data Structures, Sorting, Searching, and Graph Algorithms (3rd Edition) by Sedgewick, Robert (2001) Paperback",Book,http://www.amazon.com/dp/B00M0OE4GA/,1,1
+Operating Systems Principles,Book,http://www.amazon.com/dp/0130266116/,1,1
+"The C Answer Book: Solutions to the Exercises in 'The C Programming Language,' Second Edition",Book,http://www.amazon.com/dp/0131096532/,1,1
+The Standard C Library,Book,http://www.amazon.com/dp/0131315099/,3,1
+Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,236,1
+"C: How to Program, 7th Edition",Book,http://www.amazon.com/dp/013299044X/,2,1
+Modern Operating Systems (3rd Edition),Book,http://www.amazon.com/dp/0136006639/,3,1
+Software Tools,Book,http://www.amazon.com/dp/020103669X/,2,1
+Software Tools in Pascal,Book,http://www.amazon.com/dp/0201103427/,1,1
+More Programming Pearls: Confessions of a Coder,Book,http://www.amazon.com/dp/0201118890/,1,1
+Data Structures and Algorithm Analysis in C (2nd Edition),Book,http://www.amazon.com/dp/0201498405/,1,1
+The C Puzzle Book,Book,http://www.amazon.com/dp/0201604612/,3,1
+Design Patterns: Elements of Reusable Object-Oriented Software,Book,http://www.amazon.com/dp/0201633612/,87,1
+Programming with POSIX Threads,Book,http://www.amazon.com/dp/0201633922/,2,1
+Programming Pearls (2nd Edition),Book,http://www.amazon.com/dp/0201657880/,8,1
+Algorithms Unlocked (MIT Press),Book,http://www.amazon.com/dp/0262518805/,8,1

@@ -1,57 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-A Knight of the Seven Kingdoms (A Song of Ice and Fire),Book,http://www.amazon.com/dp/0345533488/,16,11
-Rogues,Book,http://www.amazon.com/dp/0345537262/,11,8
-Dangerous Women,Book,http://www.amazon.com/dp/076533206X/,7,6
-A Feast of Ice and Fire: The Official Game of Thrones Companion Cookbook,Book,http://www.amazon.com/dp/0345534492/,13,4
-A Game of Thrones / A Clash of Kings / A Storm of Swords / A Feast for Crows / A Dance with Dragons (Song of Ice and Fire Series),Book,http://www.amazon.com/dp/1101965487/,3,2
-The Ice Dragon,Book,http://www.amazon.com/dp/0765378779/,2,2
-A Song of Ice and Fire 2016 Calendar,Book,http://www.amazon.com/dp/0345537971/,2,2
-The King in Yellow: (illustrated edition),eBooks,http://www.amazon.com/dp/B00IMMX0NC/,,1
-Dance of Dragons,Digital Music Track,http://www.amazon.com/dp/B00YQGTW12/,,1
-Dangerous Women (Outlander series),eBooks,http://www.amazon.com/dp/B00CVMHCJW/,,1
-A Knight of the Seven Kingdoms (A Song of Ice and Fire),eBooks,http://www.amazon.com/dp/B00S3R6HAE/,,1
-"The Accursed Kings Series Books 1-3: The Iron King, The Strangled Queen, The Poisoned Crown",eBooks,http://www.amazon.com/dp/B00NEO1MWY/,,1
-"A Game of Thrones: Comic Book, Issue 1 (Game of Thrones: The Comic Book)",eBooks,http://www.amazon.com/dp/B007WU3EDG/,,1
-Legends II: New Short Novels by the Masters of Modern Fantasy,eBooks,http://www.amazon.com/dp/B000FC0Y0Y/,,1
-The Unofficial Game of Thrones Cookbook: From Direwolf Ale to Auroch Stew - More Than 150 Recipes from Westeros and Beyond (Unofficial Cookbook),eBooks,http://www.amazon.com/dp/B007L7MG70/,,1
-Salt: A World History,Book,http://www.amazon.com/dp/0142001619/,13,1
-A Game of Thrones: The Board Game Second Edition,Toy,http://www.amazon.com/dp/1589947207/,11,1
-The World of Ice & Fire: The Untold History of Westeros and the Game of Thrones,Books,https://www.amazon.com/The-World-Ice-Fire-Westeros/dp/0553805444,10,1
-On Writing: 10th Anniversary Edition: A Memoir of the Craft,Book,http://www.amazon.com/dp/1439156816/,9,1
-The Lands of Ice and Fire (A Game of Thrones): Maps from King's Landing to Across the Narrow Sea,Book,http://www.amazon.com/dp/0345538544/,4,1
-The Official A Game of Thrones Coloring Book: An Adult Coloring Book (A Song of Ice and Fire),Book,http://www.amazon.com/dp/1101965762/,3,1
-"Legend of the Galactic Heroes, Vol. 1: Dawn",Book,http://www.amazon.com/dp/1421584948/,3,1
-Tower of the Hand: A Hymn for Spring,eBooks,http://www.amazon.com/dp/B00VH6DPDK/,2,1
-"A Storm of Swords (A Song of Ice and Fire, Book 3)",Book,http://www.amazon.com/dp/055357342X/,2,1
-Dangerous Women,Book,http://www.amazon.com/dp/0765332078/,2,1
-Rogues,eBooks,http://www.amazon.com/dp/B00IWTTPOI/,2,1
-Star Wars: The Force Awakens (Blu-ray/DVD/Digital HD),Movies & TV,https://www.amazon.com/Star-Wars-Force-Awakens-Blu-ray/dp/B018FK66TU,2,1
-Factory Entertainment George R.R. Martin - Deluxe Talking Plush,Toy,http://www.amazon.com/dp/B00XK42L46/,2,1
-The Killer Angels: The Classic Novel of the Civil War (Civil War Trilogy),Book,http://www.amazon.com/dp/0345348109/,2,1
-Edible Male Gummy Undies - Green Apple,Home & Kitchen,https://www.amazon.com/Best-Edible-Male-Gummy-Undies/dp/B00BGM17HG/,1,1
-A Storm upon Ulster,Book,http://www.amazon.com/dp/0553247107/,1,1
-A Dance with Dragons: A Song of Ice and Fire: Book Five,Book,http://www.amazon.com/dp/055338595X/,1,1
-"A Feast for Crows (A Song of Ice and Fire, Book 4)",Book,http://www.amazon.com/dp/0553582038/,1,1
-Bear Boys Vinyl Apron Celebration Prop with Male Genitals,Lawn & Patio,http://www.amazon.com/dp/B013LAJ4WU/,1,1
-To Green Angel Tower; First Printing,Book,http://www.amazon.com/dp/B001O82C30/,1,1
-"The Eye of the World (The Wheel of Time, Book 1)",Book,http://www.amazon.com/dp/0812511816/,1,1
-"Down and Dirty (Wild Cards, Book 5)",Book,http://www.amazon.com/dp/0553274635/,1,1
-"God, Guns, Grits, and Gravy: and the Dad-Gummed Gummint That Wants to Take Them Away",Book,http://www.amazon.com/dp/1250060990/,1,1
+A Knight of the Seven Kingdoms (A Song of Ice and Fire),Book,http://www.amazon.com/dp/0345533488/,40,27
+A Feast of Ice and Fire: The Official Game of Thrones Companion Cookbook,Book,http://www.amazon.com/dp/0345534492/,47,12
+A Game of Thrones / A Clash of Kings / A Storm of Swords / A Feast for Crows / A Dance with Dragons (Song of Ice and Fire Series),Book,http://www.amazon.com/dp/1101965487/,24,11
+Rogues,Book,http://www.amazon.com/dp/0345537262/,17,9
+The Lands of Ice and Fire (A Game of Thrones): Maps from King's Landing to Across the Narrow Sea,Book,http://www.amazon.com/dp/0345538544/,20,9
+Dangerous Women,Book,http://www.amazon.com/dp/076533206X/,11,7
+A Song of Ice and Fire 2016 Calendar,Book,http://www.amazon.com/dp/0345537971/,6,6
+Legends II: New Short Novels by the Masters of Modern Fantasy,eBooks,http://www.amazon.com/dp/B000FC0Y0Y/,5,4
+A Dance with Dragons (A Song of Ice and Fire),Book,http://www.amazon.com/dp/0553582011/,4,4
+Legends: Stories By The Masters of Modern Fantasy,Book,http://www.amazon.com/dp/0765300354/,6,4
+The Ice Dragon,Book,http://www.amazon.com/dp/0765378779/,6,4
+Warriors,Book,http://www.amazon.com/dp/0765334771/,5,3
+"The Accursed Kings Series Books 1-3: The Iron King, The Strangled Queen, The Poisoned Crown",eBooks,http://www.amazon.com/dp/B00NEO1MWY/,3,3
+Factory Entertainment George R.R. Martin - Deluxe Talking Plush,Toy,http://www.amazon.com/dp/B00XK42L46/,5,3
+Risk: Game of Thrones Board Game,Toy,http://www.amazon.com/dp/B00UD6EXIQ/,7,3
+Hand of the King Beer Bottle Opener With Magnet – Cool Fan Game Merchandise In Gift Box – Letter Opener to Loyally Serve The Throne – Perfect Present For Men & Fans,Kitchen,http://www.amazon.com/dp/B01JAF0IAM/,2,2
+The Sworn Sword: The Graphic Novel (A Game of Thrones),Book,http://www.amazon.com/dp/1477849297/,3,2
+English Passengers: A Novel,Book,http://www.amazon.com/dp/038549744X/,3,2
+"A Storm of Swords (A Song of Ice and Fire, Book 3)",Book,http://www.amazon.com/dp/055357342X/,4,2
+A Game of Thrones: The Graphic Novel: Volume One,Book,http://www.amazon.com/dp/044042321X/,7,2
+The Unofficial Game of Thrones Cookbook: From Direwolf Ale to Auroch Stew - More Than 150 Recipes from Westeros and Beyond (Unofficial Cookbook),Book,http://www.amazon.com/dp/1440538727/,3,2
+"Reynolds Wrap Aluminum Foil, 500 sq ft",Art and Craft Supply,http://www.amazon.com/dp/B001R2NM5U/,14,2
+"Legends: Short Novels By The Masters of Modern Fantasy (Memory, Sorrow, and Thorn)",eBooks,http://www.amazon.com/dp/B005LVO6FS/,2,2
+The Hedge Knight: The Graphic Novel (A Game of Thrones),Book,http://www.amazon.com/dp/1477849106/,4,2
+A Knight of the Seven Kingdoms (A Song of Ice and Fire),eBooks,http://www.amazon.com/dp/B00S3R6HAE/,3,2
+Warriors 1,Book,http://www.amazon.com/dp/0765360268/,2,2
+A Game of Thrones / A Clash of Kings / A Storm of Swords / A Feast of Crows / A Dance with Dragons,Book,http://www.amazon.com/dp/0345535529/,15,2
+A Game of Thrones: The Board Game Second Edition,Toy,http://www.amazon.com/dp/1589947207/,22,2
+A Game of Thrones (Song of Ice and Fire),Book,http://www.amazon.com/dp/0553103547/,3,2
+Game of Thrones House Stark Tournament Banner 18 x 60 in,Toy,http://www.amazon.com/dp/B012EVJ2WO/,6,2
+Bear Boys Vinyl Apron Celebration Prop with Male Genitals,Lawn & Patio,http://www.amazon.com/dp/B013LAJ4WU/,2,2
+The Way of Kings,Book,http://www.amazon.com/dp/0765365278/,22,1
+The Way of Kings (The Stormlight Archive),Book,http://www.amazon.com/dp/0765376679/,1,1
+Too Like the Lightning: A Novel (Terra Ignota),Book,http://www.amazon.com/dp/0765378000/,2,1
+"The Scorpion (Legend of the Five Rings:  Clan War, First Scroll)",Book,http://www.amazon.com/dp/0786916842/,2,1
+Half a War (Shattered Sea),Book,http://www.amazon.com/dp/0804178453/,1,1
+"The Eye of the World (The Wheel of Time, Book 1)",Book,http://www.amazon.com/dp/0812511816/,9,1
+Legends 2 : Short Novels by the Masters of Modern Fantasy,Book,http://www.amazon.com/dp/0812575237/,1,1
+Ender's Shadow (The Shadow Series),Book,http://www.amazon.com/dp/0812575717/,1,1
+A War Like No Other: How the Athenians and Spartans Fought the Peloponnesian War,Book,http://www.amazon.com/dp/0812969707/,1,1
+Battle: A History Of Combat And Culture,Book,http://www.amazon.com/dp/0813333725/,1,1
 A Reader's Guide to Finnegans Wake (Reader's Guides),Book,http://www.amazon.com/dp/0815603851/,1,1
-"Beyond the Wall: Exploring George R. R. Martin's A Song of Ice and Fire, From A Game of Thrones to A Dance with Dragons",Book,http://www.amazon.com/dp/1936661748/,1,1
+Monstrous Races in Medieval Art and Thought (Medieval Studies),Book,http://www.amazon.com/dp/0815628269/,1,1
+"The Dragonbone Chair: Book One of Memory, Sorrow, and Thorn (Osten Ard)",Book,http://www.amazon.com/dp/0886773849/,1,1
+Machine of Death: A Collection of Stories About People Who Know How They Will Die,Book,http://www.amazon.com/dp/0982167121/,9,1
+The Official A Game of Thrones Coloring Book: An Adult Coloring Book (A Song of Ice and Fire),Book,http://www.amazon.com/dp/1101965762/,11,1
+Game of Thrones and Philosophy: Logic Cuts Deeper Than Swords,Book,http://www.amazon.com/dp/1118161998/,1,1
+Game of Thrones versus History: Written in Blood,Book,http://www.amazon.com/dp/1119249422/,1,1
+"God, Guns, Grits, and Gravy: and the Dad-Gummed Gummint That Wants to Take Them Away",Book,http://www.amazon.com/dp/1250060990/,3,1
+The Beatles - All These Years - Extended Special Edition: Volume One: Tune In,Book,http://www.amazon.com/dp/1408704781/,2,1
+"Legend of the Galactic Heroes, Vol. 1: Dawn",Book,http://www.amazon.com/dp/1421584948/,12,1
+On Writing: 10th Anniversary Edition: A Memoir of the Craft,Book,http://www.amazon.com/dp/1439156816/,34,1
+The Pillars of the Earth (The Kingsbridge Novels),Book,http://www.amazon.com/dp/1447265440/,1,1
+A Game of Thrones: D20-Based Open Gaming RPG,Book,http://www.amazon.com/dp/1588469425/,1,1
+The Blade Itself (The First Law: Book One),Book,http://www.amazon.com/dp/159102594X/,9,1
+"The Pun Also Rises: How the Humble Pun Revolutionized Language, Changed History, and Made Wordplay More Than Some Antics",Book,http://www.amazon.com/dp/1592406750/,1,1
+Hannibal and Me: What History's Greatest Military Strategist Can Teach Us About Success and Failu re,Book,http://www.amazon.com/dp/159448659X/,1,1
+Writing Fantasy & Science Fiction: How to Create Out-of-This-World Novels and Short Stories,Book,http://www.amazon.com/dp/1599631407/,2,1
+War Is a Force that Gives Us Meaning,Book,http://www.amazon.com/dp/1610393597/,5,1
+Quartet: Four Tales from the Crossroads,Book,http://www.amazon.com/dp/1886778310/,1,1
 Song Of Ice and Fire Campaign Guide,Book,http://www.amazon.com/dp/1934547492/,1,1
+"Beyond the Wall: Exploring George R. R. Martin's A Song of Ice and Fire, From A Game of Thrones to A Dance with Dragons",Book,http://www.amazon.com/dp/1936661748/,1,1
+Das Lied von Eis und Feuer 09. Sohn des Greifen,Book,http://www.amazon.com/dp/3764531045/,1,1
 "The Weirwoods (Classic Ace Fantasy, G-640)",Book,http://www.amazon.com/dp/B00005X5D5/,1,1
 "ITOYA 18 inch x 24 inch Original Art Profolio Presentation Book/Portfolio- for Art, Photography, and Documents",Photography,http://www.amazon.com/dp/B00009R8XD/,1,1
-Hannibal and Me: What History's Greatest Military Strategist Can Teach Us About Success and Failu re,Book,http://www.amazon.com/dp/159448659X/,1,1
-A Game of Thrones (Song of Ice and Fire),Book,http://www.amazon.com/dp/0553103547/,1,1
-The Pillars of the Earth (The Kingsbridge Novels),Book,http://www.amazon.com/dp/1447265440/,1,1
-Monstrous Races in Medieval Art and Thought (Medieval Studies),Book,http://www.amazon.com/dp/0815628269/,1,1
-The Buried Giant: A novel,Book,http://www.amazon.com/dp/030727103X/,1,1
-Warriors,Book,http://www.amazon.com/dp/0765334771/,1,1
-Alexander the Great and the Logistics of the Macedonian Army,Book,http://www.amazon.com/dp/0520042727/,1,1
-Legends: Stories By The Masters of Modern Fantasy,Book,http://www.amazon.com/dp/0765300354/,1,1
-A Game of Thrones: D20-Based Open Gaming RPG,Book,http://www.amazon.com/dp/1588469425/,1,1
+Celestron 52250 80mm Ultima Zoom Spotting Scope,Photography,http://www.amazon.com/dp/B0002CTZ70/,2,1
+Bright Starts Lots of Links Accessory Toy,Baby Product,http://www.amazon.com/dp/B001ABZGU2/,12,1
+"Leninade SURPRISINGLY SATISFYING SIMPLE SOVIET-STYLE SODA -  ""Na Zdoroviye"", 12-Ounce Glass Bottle (Pack of 12)",Grocery,http://www.amazon.com/dp/B001IVVL94/,7,1
+A Game of Thrones Miniatures - George R.R. Martin Masterworks: Melisandre - Priestess of R'hllor,Toy,http://www.amazon.com/dp/B001N185RA/,1,1
+To Green Angel Tower; First Printing,Book,http://www.amazon.com/dp/B001O82C30/,1,1
+A Feast for Crows: A Song of Ice and Fire: Book 4,Audible,http://www.amazon.com/dp/B006MAAAFW/,1,1
 "Nat and Jules Wolf Plush Toy, Small",Baby Product,http://www.amazon.com/dp/B007B5GZNI/,1,1
-The Hedge Knight: The Graphic Novel (A Game of Thrones),Book,http://www.amazon.com/dp/1477849106/,1,1
-The Sworn Sword: The Graphic Novel (A Game of Thrones),Book,http://www.amazon.com/dp/1477849297/,1,1
-The Unofficial Game of Thrones Cookbook: From Direwolf Ale to Auroch Stew - More Than 150 Recipes from Westeros and Beyond (Unofficial Cookbook),Book,http://www.amazon.com/dp/1440538727/,1,1
+The Unofficial Game of Thrones Cookbook: From Direwolf Ale to Auroch Stew - More Than 150 Recipes from Westeros and Beyond (Unofficial Cookbook),eBooks,http://www.amazon.com/dp/B007L7MG70/,1,1
+"A Game of Thrones: Comic Book, Issue 1 (Game of Thrones: The Comic Book)",eBooks,http://www.amazon.com/dp/B007WU3EDG/,1,1
+"George R. R. Martin's A Game of Thrones 5-Book Boxed Set (Song of Ice and Fire Series): A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, and A Dance with Dragons",eBooks,http://www.amazon.com/dp/B00957T6X6/,6,1
+Dreamsongs 2-Book Bundle: Dreamsongs Volumes I and II,eBooks,http://www.amazon.com/dp/B009CAL3IM/,1,1
+"George R. R. Martin Starter Pack 4-Book Bundle: A Game of Thrones, Dreamsongs: Volume I, Fevre Dream, Armageddon Rag",eBooks,http://www.amazon.com/dp/B009Y4I5DW/,1,1
+Game of Thrones: Fully Licensed Iron Coin of the Faceless Man By Shire Post,Toy,http://www.amazon.com/dp/B00CF5JWIO/,1,1
+"A Game of Thrones: Comic Book, Issue 13 (Game of Thrones: The Comic Book)",eBooks,http://www.amazon.com/dp/B00CRGP4PQ/,1,1
+Dangerous Women (Outlander series),eBooks,http://www.amazon.com/dp/B00CVMHCJW/,1,1
+"Levi's Men's 569 Loose Straight Leg Twill Pant, White, 38x30",Apparel,http://www.amazon.com/dp/B00D2LL0U8/,1,1
+The Hedge Knight (A Game of Thrones),eBooks,http://www.amazon.com/dp/B00DH07FAS/,1,1
+Mens Crows Before Hoes Funny T shirt for Men Vintage Novelty Hilarious Gag Gift,Apparel,http://www.amazon.com/dp/B00DMCKVLG/,1,1
+The Sworn Sword (A Game of Thrones) (The Hedge Knight (A Game of Thrones)),eBooks,http://www.amazon.com/dp/B00DP5H0IC/,1,1
+"Country Time Flavored Drink Mix, Lemonade, 82.5 Ounce Canister",Grocery,http://www.amazon.com/dp/B00FN6HK9U/,2,1
+A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra),eBooks,http://www.amazon.com/dp/B00G3L19ZU/,22,1
+The King in Yellow: (illustrated edition),eBooks,http://www.amazon.com/dp/B00IMMX0NC/,1,1
+The Wars of the Roses: The Fall of the Plantagenets and the Rise of the Tudors,eBooks,http://www.amazon.com/dp/B00INIXM42/,2,1
+Winter Winds,Digital Music Track,http://www.amazon.com/dp/B00IP8J5QO/,1,1
+Game of Thrones Men's House Baelish T-shirt,Sports,http://www.amazon.com/dp/B00ISAI2NG/,1,1
+HBO'S Game of Thrones Men's Got Targaryen Football Jersey T-Shirt,Apparel,http://www.amazon.com/dp/B00IVLMT8G/,1,1
+Rogues,eBooks,http://www.amazon.com/dp/B00IWTTPOI/,4,1
+"Race for the Iron Throne: Political and Historical Analysis of ""A Game of Thrones""",eBooks,http://www.amazon.com/dp/B00JIV2ZT6/,1,1
+"HMS Medieval Dog Mask, Standard",Toy,http://www.amazon.com/dp/B00L9GFDOW/,1,1
+Reynolds Wrap Heavy Duty Aluminum Foil (130 Square Foot Roll),Health and Beauty,http://www.amazon.com/dp/B00M8ZEAW4/,2,1
+Siege of Praetar (Tales of a Dying Star Book 1),eBooks,http://www.amazon.com/dp/B00QXQR7UG/,10,1
+The Pen is Mightier,eBooks,http://www.amazon.com/dp/B00U2L6SU8/,2,1
+Tower of the Hand: A Hymn for Spring,eBooks,http://www.amazon.com/dp/B00VH6DPDK/,2,1
+Dance of Dragons,Digital Music Track,http://www.amazon.com/dp/B00YQGTW12/,1,1
+The red wedding,eBooks,http://www.amazon.com/dp/B0105W2JRE/,1,1

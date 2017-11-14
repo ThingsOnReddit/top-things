@@ -1,15 +1,77 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"Circuits, Matrices and Linear Vector Spaces (Dover Books on Electrical Engineering)",eBooks,http://www.amazon.com/dp/B00CWR4UZU/,,1
-The Art of Electronics,Book,http://www.amazon.com/dp/0521809266/,9,1
-"Practical Electronics for Inventors, Third Edition",Book,http://www.amazon.com/dp/0071771336/,8,1
-Arduino Starter Kit - English Official Kit With 170 Page Book - K000007,Personal Computer,http://www.amazon.com/dp/B009UKZV0A/,6,1
-Neiko 01407A Electronic Digital Caliper with Extra Large LCD Screen | 0 - 6 Inches | Inch/Fractions/Millimeter Conversion,Home Improvement,http://www.amazon.com/dp/B000GSLKIW/,4,1
-"Differential Equations with Applications and Historical Notes, 2nd Edition (International Series in Pure and Applied Mathematics)",Book,http://www.amazon.com/dp/0070575401/,2,1
+The Art of Electronics,Book,http://www.amazon.com/dp/0521809266/,36,4
+"Practical Electronics for Inventors, Third Edition",Book,http://www.amazon.com/dp/0071771336/,35,2
+Getting Started in Electronics,Book,http://www.amazon.com/dp/0945053282/,34,2
+Who Is Fourier? A Mathematical Adventure 2nd Edition,Book,http://www.amazon.com/dp/0964350432/,4,2
+"Protective Relaying: Principles and Applications, Fourth Edition",Book,http://www.amazon.com/dp/1439888116/,3,2
+"Schaum's Outline of Basic Circuit Analysis, Second Edition (Schaum's Outlines)",Book,http://www.amazon.com/dp/0071756434/,3,2
+Designing Audio Power Amplifiers,Book,http://www.amazon.com/dp/007164024X/,5,1
+Build Your Own Transistor Radios: A Hobbyist's Guide to High-Performance and Low-Powered Radio Circuits,Book,http://www.amazon.com/dp/0071799702/,4,1
 "Schaum's Outline of Differential Equations, 4th Edition (Schaum's Outlines)",Book,http://www.amazon.com/dp/0071824855/,2,1
-Signals and Systems (2nd Edition),Book,http://www.amazon.com/dp/0138147574/,1,1
+Power Electronics,Book,http://www.amazon.com/dp/0073380679/,1,1
+Electric Machinery Fundamentals,Book,http://www.amazon.com/dp/0073529540/,1,1
+"EMC for Product Designers, Fifth Edition",Book,http://www.amazon.com/dp/0081010168/,1,1
+High Speed Signal Propagation: Advanced Black Magic,Book,http://www.amazon.com/dp/013084408X/,6,1
 Electrical Engineering: Principles & Applications (6th Edition),Book,http://www.amazon.com/dp/0133116646/,1,1
-Battery Tender 021-1163 5W Solar Maintainer,Automotive Parts and Accessories,http://www.amazon.com/dp/B004Q83TGO/,1,1
-Engineering Circuit Analysis,Books,https://www.amazon.com/Engineering-Circuit-Analysis-Eigth-Edition/dp/B0085AMKI2,1,1
-BM Ceiling Fan Capacitor 5 wire 4.5/5/6,Home,http://www.amazon.com/dp/B0171G7DL4/,1,1
+Electric Circuits (10th Edition),Book,http://www.amazon.com/dp/0133760030/,2,1
+High Speed Digital Design: A Handbook of Black Magic,Book,http://www.amazon.com/dp/0133957241/,14,1
+Electronics,Book,http://www.amazon.com/dp/0136919820/,1,1
+Signals and Systems (2nd Edition),Book,http://www.amazon.com/dp/0138147574/,4,1
+Circuit Design and Simulation with VHDL (MIT Press),Book,http://www.amazon.com/dp/0262014335/,1,1
+Introduction to Electrodynamics (4th Edition),Book,http://www.amazon.com/dp/0321856562/,10,1
+"Div, Grad, Curl, and All That: An Informal Text on Vector Calculus (Fourth Edition)",Book,http://www.amazon.com/dp/0393925161/,18,1
+"Antenna Theory: Analysis and Design, 3rd Edition",Book,http://www.amazon.com/dp/047166782X/,3,1
+Learning the Art of Electronics: A Hands-On Lab Course,Book,http://www.amazon.com/dp/0521177235/,6,1
+The Electronics of Radio,Book,http://www.amazon.com/dp/0521646456/,7,1
+A Student's Guide to Maxwell's Equations,Book,http://www.amazon.com/dp/0521701473/,6,1
+"High Voltage Engineering Fundamentals, Second Edition",Book,http://www.amazon.com/dp/0750636343/,1,1
+"The Circuit Designer's Companion, Second Edition",Book,http://www.amazon.com/dp/0750663707/,1,1
+Principles of Electric Machines and Power Electronics,Book,http://www.amazon.com/dp/111807887X/,2,1
 Power System Relaying,Book,http://www.amazon.com/dp/1118662008/,1,1
-"Protective Relaying: Principles and Applications, Fourth Edition",Book,http://www.amazon.com/dp/1439888116/,1,1
+"Practical Electronics for Inventors, Fourth Edition",Book,http://www.amazon.com/dp/1259587541/,16,1
+"A Technique for Producing Ideas: The simple, five-step formula anyone can use to be more creative in business and in life!",Book,http://www.amazon.com/dp/1434102750/,2,1
+"Distribution System Modeling and Analysis, Third Edition",Book,http://www.amazon.com/dp/1439856222/,1,1
+Logic Design and Verification Using SystemVerilog,Book,http://www.amazon.com/dp/1500385786/,2,1
+FE Electrical and Computer Review Manual,Book,http://www.amazon.com/dp/1591264499/,3,1
+The ARRL Antenna Book for Radio Communications Softcover,Book,http://www.amazon.com/dp/1625950446/,5,1
+Casio fx-115MS PLUS SR Scientific Calculator,CE,http://www.amazon.com/dp/B00004TVDO/,1,1
+Hammond 1591ASBK ABS Project Box Black,Home Improvement,http://www.amazon.com/dp/B0002BBQNM/,2,1
+Linksys WRT54GL Wi-Fi Wireless-G Broadband Router,CE,http://www.amazon.com/dp/B000BTL0OA/,9,1
+Neiko 01407A Electronic Digital Caliper with Extra Large LCD Screen | 0 - 6 Inches | Inch/Fractions/Millimeter Conversion,Home Improvement,http://www.amazon.com/dp/B000GSLKIW/,31,1
+Shock Book-Jokes Shocking and Exploding Prank (1 per package),Toy,http://www.amazon.com/dp/B0034DZCAS/,1,1
+Elenco  130-in-1 Electronic Playground and Learning Center,Toy,http://www.amazon.com/dp/B0035XSZDI/,3,1
+MATRIX DMX PRO 4 Channel Double Output Dimmer Pack,Musical Instruments,http://www.amazon.com/dp/B003ZAKY0S/,1,1
+"BB400 Solderless Plug-in BreadBoard, 400 tie-points, 4 power rails, 3.3 x 2.2 x 0.3in (84 x 55 x 9mm)",Toy,http://www.amazon.com/dp/B0040Z1ERO/,1,1
+Klein Tools NCVT-2 Dual Range Non-Contact Voltage Tester,Home Improvement,http://www.amazon.com/dp/B004FXJOQO/,15,1
+Velleman MK100 Electronic Christmas Tree,BISS,http://www.amazon.com/dp/B004NDXAHK/,1,1
+Battery Tender 021-1163 5W Solar Maintainer,Automotive Parts and Accessories,http://www.amazon.com/dp/B004Q83TGO/,2,1
+"American Educational Corrosion-Resistant Cup Anemometer, with Revolving Wind Cups",BISS,http://www.amazon.com/dp/B005QDQ2JE/,1,1
+"Anker PowerCore+ mini, 3350mAh Lipstick-Sized Portable Charger (3rd Generation, Premium Aluminum Power Bank), One of the Most Compact External Batteries",Wireless,http://www.amazon.com/dp/B005X1Y7I2/,101,1
+4 x MATRIX DMX PRO 4Ch. Double Output Dimmer Pack System w/ 4x XLR DMX Cables,Musical Instruments,http://www.amazon.com/dp/B006LKV7NC/,1,1
+uxcell AC 250V 2A 125V 6A on/off/on 4PDT Toggle Switch with Waterproof Boot,Home Improvement,http://www.amazon.com/dp/B008MJUFQ0/,1,1
+US Robotics 56K USB Soft modem - Fax/Modem (USR5639),Personal Computer,http://www.amazon.com/dp/B009019KR4/,2,1
+Arduino Starter Kit - English Official Kit With 170 Page Book - K000007,Personal Computer,http://www.amazon.com/dp/B009UKZV0A/,19,1
+Autek DC Converter Buck Module 12V convert to 5V usb output power adapter(DCCON-5U-0),Speakers,http://www.amazon.com/dp/B00BMIVFK8/,12,1
+Arduino Uno 3 Ultimate Starter Kit Includes 12 Circuit Learning Guide,Personal Computer,http://www.amazon.com/dp/B00BT0NDB8/,19,1
+DROK Slim DC 3V to 5V Boost Converter Module DC 2.5-6V to 4-12V Voltage Regulator Buck Converter PSP/Phone Charger 1000mA Max Portable Power Supply DIY,BISS,http://www.amazon.com/dp/B00BZJ1DEC/,1,1
+"Circuits, Matrices and Linear Vector Spaces (Dover Books on Electrical Engineering)",eBooks,http://www.amazon.com/dp/B00CWR4UZU/,1,1
+"SunFounder Sidekick Basic Starter Kit w/ Breadboard, Jumper wires, Color Led, Resistors, Buzzer For Arduino UNO R3 Mega2560 Mega328 Nano - Including 42 Page Instructions Book",Personal Computer,http://www.amazon.com/dp/B00DGNZ9G8/,3,1
+UpBright NEW 3-Pin DIN Connector Plug AC/DC Adapter For CD Coming Data CP1230 Power Supply Cord Cable PS Charger Mains PSU (with 3 Prong Connector. NOT 4-Pin. Thanks.),PC Accessory,http://www.amazon.com/dp/B00F25I9MO/,1,1
+DROK DC-DC Buck Voltage Converter 4.5-40V 12V to 5V/2A Step-down Volt Transformer Stabilizer Voltage Regulator Module,BISS,http://www.amazon.com/dp/B00IWOPS8K/,4,1
+HiLetgo XS3868 Bluetooth Stereo Audio Module OVC3860 Stereo Bluetooth BT Module Supports A2DP AVRCP,CE,http://www.amazon.com/dp/B00K85FW4G/,1,1
+8Pcs 52dB Electret Microphone Inserts with PCB Pins Condenser 9x7mm,Speakers,http://www.amazon.com/dp/B00OK60OO2/,1,1
+"GE Remote Wall Switch Light Control, Wireless, No Wiring Needed, Remote Operation up to 100ft Range, Ideal for Lamps and Indoor Lighting, 18279",Photography,http://www.amazon.com/dp/B00R7Q7PT4/,6,1
+"Lotos MIG140 140 Amp MIG Wire Welder Flux Core Welder and Aluminum Gas Shielded Welding with 2T/4T Switch, 110V, Red",BISS,http://www.amazon.com/dp/B00S8R1ST4/,1,1
+Artificial Cube Creative Electric Shock Toy Funny Novelty Prank Toy April Fool's day Gifts Joke Gifts Tricky by Lucky Shop1234,Toy,http://www.amazon.com/dp/B00TZRMOZI/,1,1
+A1185 - Apple MacBook 13-inch Lithium-Polymer Battery-White 5600mAh,Wireless,http://www.amazon.com/dp/B00UK7RTBG/,1,1
+BM Ceiling Fan Capacitor 5 wire 4.5/5/6,Home,http://www.amazon.com/dp/B0171G7DL4/,2,1
+400-AMP 12-VOLT CAR AUDIO CIRCUIT BREAKER MANUAL POWER FUSE RESET. GETWIREDUSA #148-400A,BISS,http://www.amazon.com/dp/B019GHCGOK/,1,1
+"X-DRAGON USB 2.0 Digital Multimeter Power Meter Tester Current and Voltage Monitor, Test Speed of Chargers, Cables, Capacity of Power Banks (7 Modes Monitor, dual USB ports, Accuracy)",Home Improvement,http://www.amazon.com/dp/B019RHJRM8/,1,1
+Elegoo Mega 2560 Project The Most Complete Ultimate Starter Kit w/ TUTORIAL for Arduino Mega2560 UNO Nano,BISS Basic,http://www.amazon.com/dp/B01EWNUUUA/,4,1
+Linear and Nonlinear Circuits,Book,http://www.amazon.com/dp/0070108986/,1,1
+"Smraza Ultimate UNO Project Starter Kit with Stepper Motor, Servo Motor, UNO R3 Board and Ultrasonic Sensor for Arduino UNO R3 Mega2560 NANO(26 Projects)",PC Accessory,http://www.amazon.com/dp/B01L0ZL8N6/,3,1
+Power System Stability and Control,Book,http://www.amazon.com/dp/007035958X/,2,1
+"Differential Equations with Applications and Historical Notes, 2nd Edition (International Series in Pure and Applied Mathematics)",Book,http://www.amazon.com/dp/0070575401/,2,1
+"Introduction to Computing Systems: From Bits and Gates to C and Beyond, 2nd Edition",Book,http://www.amazon.com/dp/0070595003/,1,1
+Power System Analysis,Book,http://www.amazon.com/dp/0070612935/,2,1
+"Radar Handbook, Third Edition",Book,http://www.amazon.com/dp/0071485473/,2,1

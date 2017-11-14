@@ -1,14 +1,61 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Code: The Hidden Language of Computer Hardware and Software,Book,http://www.amazon.com/dp/0735611319/,48,2
-"C Programming Language, 2nd Edition",Book,http://www.amazon.com/dp/0131103628/,34,2
-"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,36,1
-Design Patterns: Elements of Reusable Object-Oriented Software,Book,http://www.amazon.com/dp/0201633612/,26,1
-"Head First Java, 2nd Edition",Book,http://www.amazon.com/dp/0596009208/,13,1
-Artificial Intelligence: A Modern Approach (3rd Edition),Book,http://www.amazon.com/dp/0136042597/,9,1
-Code: The Hidden Language of Computer Hardware and Software (Developer Best Practices),eBooks,http://www.amazon.com/dp/B00JDMPOK2/,5,1
-Mechanical Keyboard - KBC Poker 3 (Pok3r) - Black Case - PBT Keycaps - Cherry Mx-Blue [Metal Casing],Personal Computer,http://www.amazon.com/dp/B00OFM51L2/,4,1
-Logitech G710+ Mechanical Gaming Keyboard with Tactile High-Speed Keys - Black,Personal Computer,http://www.amazon.com/dp/B009C98NPY/,3,1
-The Elements of Computing Systems: Building a Modern Computer from First Principles,Book,http://www.amazon.com/dp/0262640686/,3,1
-"Corsair Gaming K70 LUX RGB Mechanical Keyboard, Backlit RGB LED, Cherry MX RGB Brown",Personal Computer,http://www.amazon.com/dp/B01ER4B7YM/,2,1
-Numerical Recipes 3rd Edition: The Art of Scientific Computing,Book,http://www.amazon.com/dp/0521880688/,1,1
-Fundamentals of Computer Graphics,Book,http://www.amazon.com/dp/1568814690/,1,1
+Code: The Hidden Language of Computer Hardware and Software,Book,http://www.amazon.com/dp/0735611319/,158,6
+"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,112,4
+"C Programming Language, 2nd Edition",Book,http://www.amazon.com/dp/0131103628/,109,4
+The Algorithm Design Manual,Book,http://www.amazon.com/dp/1848000693/,39,3
+The Elements of Computing Systems: Building a Modern Computer from First Principles,Book,http://www.amazon.com/dp/0262640686/,34,3
+"Head First Java, 2nd Edition",Book,http://www.amazon.com/dp/0596009208/,54,3
+The Pragmatic Programmer: From Journeyman to Master,Book,http://www.amazon.com/dp/020161622X/,86,2
+"CompTIA A+ Certification All-in-One Exam Guide, Ninth Edition (Exams 220-901 & 220-902)",Book,http://www.amazon.com/dp/125958951X/,34,2
+Programming: Principles and Practice Using C++ (2nd Edition),Book,http://www.amazon.com/dp/0321992784/,36,2
+Code: The Hidden Language of Computer Hardware and Software (Developer Best Practices),eBooks,http://www.amazon.com/dp/B00JDMPOK2/,17,2
+Cracking the Coding Interview: 150 Programming Questions and Solutions,Book,http://www.amazon.com/dp/098478280X/,68,2
+Cracking the Coding Interview: 189 Programming Questions and Solutions,Book,http://www.amazon.com/dp/0984782850/,90,2
+An Invitation to Discrete Mathematics,Book,http://www.amazon.com/dp/0198570422/,4,1
+The Nature of Computation,Book,http://www.amazon.com/dp/0199233217/,2,1
+Concrete Mathematics: A Foundation for Computer Science (2nd Edition),Book,http://www.amazon.com/dp/0201558025/,29,1
+Design Patterns: Elements of Reusable Object-Oriented Software,Book,http://www.amazon.com/dp/0201633612/,87,1
+Digital Apollo: Human and Machine in Spaceflight (MIT Press),Book,http://www.amazon.com/dp/0262516101/,4,1
+Grace Hopper and the Invention of the Information Age (Lemelson Center Studies in Invention and Innovation series),Book,http://www.amazon.com/dp/0262517264/,3,1
+Algorithms (4th Edition),Book,http://www.amazon.com/dp/032157351X/,26,1
+C++ Primer (5th Edition),Book,http://www.amazon.com/dp/0321714113/,55,1
+Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (3rd Edition) (Zed Shaw's Hard Way Series),Book,http://www.amazon.com/dp/0321884914/,8,1
+Neuromancer,Book,http://www.amazon.com/dp/0441569595/,19,1
+Numerical Recipes 3rd Edition: The Art of Scientific Computing,Book,http://www.amazon.com/dp/0521880688/,3,1
+Introduction to the Theory of Computation,Book,http://www.amazon.com/dp/0534950973/,4,1
+How to Read a Book: The Classic Guide to Intelligent Reading (A Touchstone book),Book,http://www.amazon.com/dp/0671212095/,36,1
+Data Structures and Algorithms in Java (2nd Edition),Book,http://www.amazon.com/dp/0672324539/,5,1
+"From Frege to Godel: A Source Book in Mathematical Logic, 1879-1931 (Source Books in History of Sciences)",Book,http://www.amazon.com/dp/0674324498/,3,1
+"The Golden Ticket: P, NP, and the Search for the Impossible",Book,http://www.amazon.com/dp/0691156492/,2,1
+Jumping into C++,Book,http://www.amazon.com/dp/0988927802/,3,1
+Quantum Computation and Quantum Information: 10th Anniversary Edition,Book,http://www.amazon.com/dp/1107002176/,21,1
+Machine Learning: The Art and Science of Algorithms that Make Sense of Data,Book,http://www.amazon.com/dp/1107422221/,3,1
+"Mathematics for 3D Game Programming and Computer Graphics, Third Edition",Book,http://www.amazon.com/dp/1435458869/,16,1
+Team Geek: A Software Developer's Guide to Working Well with Others,Book,http://www.amazon.com/dp/1449302440/,5,1
+"Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics",Book,http://www.amazon.com/dp/1449319270/,3,1
+Mind Play: A Guide to Erotic Hypnosis,Book,http://www.amazon.com/dp/1484841034/,3,1
+Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14,Book,http://www.amazon.com/dp/1491903996/,29,1
+"Real-Time Rendering, Third Edition",Book,http://www.amazon.com/dp/1568814240/,15,1
+Fundamentals of Computer Graphics,Book,http://www.amazon.com/dp/1568814690/,4,1
+Soft Skills: The software developer's life manual,Book,http://www.amazon.com/dp/1617292397/,18,1
+Understanding Cryptography: A Textbook for Students and Practitioners,Book,http://www.amazon.com/dp/3642041000/,6,1
+Introduction to 64 Bit Intel Assembly Language Programming for Linux: Second Edition,eBooks,http://www.amazon.com/dp/B008H7HL3M/,1,1
+Logitech G710+ Mechanical Gaming Keyboard with Tactile High-Speed Keys - Black,Personal Computer,http://www.amazon.com/dp/B009C98NPY/,56,1
+Where Wizards Stay Up Late: The Origins of the Internet,Audible,http://www.amazon.com/dp/B00AQU7OFS/,1,1
+Mechanical Keyboard - KBC Poker 3 (Pok3r) - Black Case - PBT Keycaps - Cherry Mx-Blue [Metal Casing],Personal Computer,http://www.amazon.com/dp/B00OFM51L2/,13,1
+ASUS UX305 13-Inch Laptop [2015 model],Personal Computer,http://www.amazon.com/dp/B01578SQFU/,16,1
+Hackers: Heroes of the Computer Revolution: 25th Anniversary Edition,Audible,http://www.amazon.com/dp/B017RV1I3C/,1,1
+"ASUS F556UA-AS54 15.6-inch Full-HD Laptop (Core i5, 8GB RAM, 256GB SSD) with Windows 10, Icicle Gold",Personal Computer,http://www.amazon.com/dp/B01CGGOUJM/,66,1
+"Computer Organization and Design, Fourth Edition: The Hardware/Software Interface (The Morgan Kaufmann Series in Computer Architecture and Design)",Book,http://www.amazon.com/dp/0123744938/,3,1
+CORSAIR K70 LUX RGB Mechanical Gaming Keyboard - USB Passthrough & Media Controls - Tactile & Quiet - Cherry MX Brown - RGB LED Backlit,Personal Computer,http://www.amazon.com/dp/B01ER4B7YM/,4,1
+"Computer Organization and Design, Fourth Edition: The Hardware/Software Interface (The Morgan Kaufmann Series in Computer Architecture and Design)",Book,http://www.amazon.com/dp/0123747503/,8,1
+Working Effectively with Legacy Code,Book,http://www.amazon.com/dp/0131177052/,59,1
+PHP 5 Power Programming,Book,http://www.amazon.com/dp/013147149X/,1,1
+Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,236,1
+C++ Without Fear: A Beginner's Guide That Makes You Feel Smart (2nd Edition),Book,http://www.amazon.com/dp/0132673266/,5,1
+Java Foundations (3rd Edition),Book,http://www.amazon.com/dp/0133370461/,3,1
+Starting Out with C++ from Control Structures to Objects (8th Edition),Book,http://www.amazon.com/dp/0133769399/,5,1
+Assembly Language for x86 Processors (7th Edition),Book,http://www.amazon.com/dp/0133769402/,6,1
+Basics of Web Design: HTML5 & CSS3 (3rd Edition),Book,http://www.amazon.com/dp/0133970744/,1,1
+Computer Science: An Interdisciplinary Approach,Book,http://www.amazon.com/dp/0134076427/,1,1
+Artificial Intelligence: A Modern Approach (3rd Edition),Book,http://www.amazon.com/dp/0136042597/,36,1

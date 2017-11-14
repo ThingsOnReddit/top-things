@@ -1,130 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,71,12
-Cracking the Coding Interview: 189 Programming Questions and Solutions,Book,http://www.amazon.com/dp/0984782850/,21,8
-Elements of Programming Interviews: The Insiders' Guide,Book,http://www.amazon.com/dp/1479274836/,8,7
-"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,36,6
-The Pragmatic Programmer: From Journeyman to Master,Book,http://www.amazon.com/dp/020161622X/,27,6
-Design Patterns: Elements of Reusable Object-Oriented Software,Book,http://www.amazon.com/dp/0201633612/,26,6
-Working Effectively with Legacy Code,Book,http://www.amazon.com/dp/0131177052/,22,6
-Head First Design Patterns: A Brain-Friendly Guide,Book,http://www.amazon.com/dp/0596007124/,14,6
-"Code Complete: A Practical Handbook of Software Construction, Second Edition",Book,http://www.amazon.com/dp/0735619670/,25,5
-Cracking the Coding Interview: 150 Programming Questions and Solutions,Book,http://www.amazon.com/dp/098478280X/,15,5
-Refactoring: Improving the Design of Existing Code,Book,http://www.amazon.com/dp/0201485672/,11,5
-Soft Skills: The software developer's life manual,Book,http://www.amazon.com/dp/1617292397/,7,4
-How to Win Friends & Influence People,Book,http://www.amazon.com/dp/0671027034/,63,3
-The Algorithm Design Manual,Book,http://www.amazon.com/dp/1848000693/,10,3
-The Algorithm Design Manual,Book,http://www.amazon.com/dp/1849967202/,6,3
-"C Programming Language, 2nd Edition",Book,http://www.amazon.com/dp/0131103628/,34,2
-"The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)",Book,http://www.amazon.com/dp/0201835959/,11,2
-Peopleware: Productive Projects and Teams (3rd Edition),Book,http://www.amazon.com/dp/0321934113/,8,2
-Algorithms (4th Edition),Book,http://www.amazon.com/dp/032157351X/,7,2
-Code: The Hidden Language of Computer Hardware and Software (Developer Best Practices),eBooks,http://www.amazon.com/dp/B00JDMPOK2/,5,2
-Beyond Legacy Code: Nine Practices to Extend the Life (and Value) of Your Software,Book,http://www.amazon.com/dp/1680500791/,4,2
-Programming Interviews Exposed: Secrets to Landing Your Next Job,Book,http://www.amazon.com/dp/1118261364/,4,2
-Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead,Book,http://www.amazon.com/dp/1455554790/,3,2
+Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,236,36
+Cracking the Coding Interview: 189 Programming Questions and Solutions,Book,http://www.amazon.com/dp/0984782850/,90,34
+Cracking the Coding Interview: 150 Programming Questions and Solutions,Book,http://www.amazon.com/dp/098478280X/,68,26
+"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,112,20
+The Pragmatic Programmer: From Journeyman to Master,Book,http://www.amazon.com/dp/020161622X/,86,16
+Working Effectively with Legacy Code,Book,http://www.amazon.com/dp/0131177052/,59,14
+Design Patterns: Elements of Reusable Object-Oriented Software,Book,http://www.amazon.com/dp/0201633612/,87,14
+"Code Complete: A Practical Handbook of Software Construction, Second Edition",Book,http://www.amazon.com/dp/0735619670/,85,13
+Head First Design Patterns: A Brain-Friendly Guide,Book,http://www.amazon.com/dp/0596007124/,51,12
+Refactoring: Improving the Design of Existing Code,Book,http://www.amazon.com/dp/0201485672/,34,11
+Elements of Programming Interviews: The Insiders' Guide,Book,http://www.amazon.com/dp/1479274836/,15,10
+"The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)",Book,http://www.amazon.com/dp/0201835959/,37,9
+The Algorithm Design Manual,Book,http://www.amazon.com/dp/1848000693/,39,9
+Soft Skills: The software developer's life manual,Book,http://www.amazon.com/dp/1617292397/,18,8
+Programming Interviews Exposed: Secrets to Landing Your Next Job,Book,http://www.amazon.com/dp/1118261364/,13,7
+How to Win Friends & Influence People,Book,http://www.amazon.com/dp/0671027034/,222,7
+Peopleware: Productive Projects and Teams (3rd Edition),Book,http://www.amazon.com/dp/0321934113/,19,6
+Corporate Confidential: 50 Secrets Your Company Doesn't Want You to Know---and What to Do About Them,Book,http://www.amazon.com/dp/0312337361/,11,5
+Algorithms (4th Edition),Book,http://www.amazon.com/dp/032157351X/,26,5
+Cracking the PM Interview: How to Land a Product Manager Job in Technology,Book,http://www.amazon.com/dp/0984782818/,9,5
+Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead,Book,http://www.amazon.com/dp/1455554790/,6,5
+Effective Java (2nd Edition),Book,http://www.amazon.com/dp/0321356683/,42,5
+The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling,Book,http://www.amazon.com/dp/1118530802/,6,4
+The Algorithm Design Manual,Book,http://www.amazon.com/dp/1849967202/,15,4
+Becoming a Technical Leader,eBooks,http://www.amazon.com/dp/B004J4VV3I/,4,4
+Domain-Driven Design: Tackling Complexity in the Heart of Software,Book,http://www.amazon.com/dp/0321125215/,24,4
+The Five Dysfunctions of a Team: A Leadership Fable,Book,http://www.amazon.com/dp/0787960756/,12,4
+"C Programming Language, 2nd Edition",Book,http://www.amazon.com/dp/0131103628/,109,4
+"How to Prove It: A Structured Approach, 2nd Edition",Book,http://www.amazon.com/dp/0521675995/,92,4
+"The Art of Computer Programming, Volumes 1-4A Boxed Set",Book,http://www.amazon.com/dp/0321751043/,21,4
+JavaScript: The Good Parts,Book,http://www.amazon.com/dp/0596517742/,60,4
+Code: The Hidden Language of Computer Hardware and Software,Book,http://www.amazon.com/dp/0735611319/,158,4
+The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life),Book,http://www.amazon.com/dp/1934356344/,7,3
+Rapid Development: Taming Wild Software Schedules,Book,http://www.amazon.com/dp/1556159005/,4,3
+Facts and Fallacies of Software Engineering,eBooks,http://www.amazon.com/dp/B001TKD4RG/,4,3
+"Royal Anti-Fatigue Comfort Mat - 20 in x 39 in x 3/4 in - Ergonomic Multi Surface, Non-Slip - Waterproof All-Purpose Luxurious Comfort - For Kitchen, Bathroom or Workstations - Black",Home,http://www.amazon.com/dp/B00U8L1JUG/,3,3
+Elements of Programming Interviews in Java: The Insiders' Guide,Book,http://www.amazon.com/dp/1517435803/,4,3
+Computer Architecture: A Quantitative Approach,Book,http://www.amazon.com/dp/012383872X/,26,3
+C++ Primer (5th Edition),Book,http://www.amazon.com/dp/0321714113/,55,3
+Ace the Programming Interview: 160 Questions and Answers for Success,Book,http://www.amazon.com/dp/111851856X/,3,3
+The 48 Laws of Power,Book,http://www.amazon.com/dp/0140280197/,33,3
+Patterns of Enterprise Application Architecture,Book,http://www.amazon.com/dp/0321127420/,22,3
+The Clean Coder: A Code of Conduct for Professional Programmers,Book,http://www.amazon.com/dp/0137081073/,23,3
+The Design of Everyday Things: Revised and Expanded Edition,Book,http://www.amazon.com/dp/0465050654/,49,3
+Artificial Intelligence: A Modern Approach (3rd Edition),Book,http://www.amazon.com/dp/0136042597/,36,3
+Real-Time Concepts for Embedded Systems,Book,http://www.amazon.com/dp/1578201241/,2,2
+Algorithms + Data Structures = Programs (Prentice-Hall Series in Automatic Computation),Book,http://www.amazon.com/dp/0130224189/,6,2
+Introduction to Algorithms: A Creative Approach,Book,http://www.amazon.com/dp/0201120372/,2,2
+Code: The Hidden Language of Computer Hardware and Software (Developer Best Practices),eBooks,http://www.amazon.com/dp/B00JDMPOK2/,17,2
+ASUS UX305 13-Inch Laptop [2015 model],Personal Computer,http://www.amazon.com/dp/B00SGS7ZH4/,51,2
+Multipliers: How the Best Leaders Make Everyone Smarter,Book,http://www.amazon.com/dp/0061964395/,5,2
+The Elements of Sea Power,Audible,http://www.amazon.com/dp/B0076O9R2A/,3,2
+Fostex USA 25-Ohms TH900 Premium Stereo Headphones with Japanese Lacquer Earcups and 1.5 Tesla Magnetic Circuit,Musical Instruments,http://www.amazon.com/dp/B007G8UMP2/,6,2
+"Evoluent VerticalMouse 4 ""Regular Size"" Right Hand (model # VM4R) - USB Wired",Personal Computer,http://www.amazon.com/dp/B00427TAIK/,15,2
+A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra),eBooks,http://www.amazon.com/dp/B00G3L19ZU/,22,2
+"ClearArmor 141001 Shooters Hearing Protection Safety Ear Muffs Folding-Padded Head Band Ear Cups, Black",Home Improvement,http://www.amazon.com/dp/B00NKSMPZW/,25,2
+"Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) (Voices That Matter)",Book,http://www.amazon.com/dp/0321965515/,42,2
+Accelerated C++: Practical Programming by Example,Book,http://www.amazon.com/dp/020170353X/,20,2
+"Asperger's on the Job: Must-Have Advice for People with Asperger's or High Functioning Autism and their Employers, Educators, and Advocates",Book,http://www.amazon.com/dp/1935274090/,6,2
+Mindset: The New Psychology of Success,eBooks,http://www.amazon.com/dp/B000FCKPHG/,6,2
+"Doctor's Best Suntheanine L-Theanine, Non-GMO, Gluten Free, Vegan, Helps Reduce Stress and Sleep, 150 mg  90 Veggie Caps",Health and Beauty,http://www.amazon.com/dp/B001OXTGVG/,5,2
+"Audio-Technica ATH-M50x Professional Monitor Headphones, Black",Musical Instruments,http://www.amazon.com/dp/B00HVLUR86/,221,2
+Logicomix: An epic search for truth,Book,http://www.amazon.com/dp/1596914521/,17,2
+Think Like a Programmer: An Introduction to Creative Problem Solving,Book,http://www.amazon.com/dp/1593274246/,19,2
+The Alliance: Managing Talent in the Networked Age,Book,http://www.amazon.com/dp/1625275773/,2,2
 The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change,Book,http://www.amazon.com/dp/1491973897/,2,2
-How to Ace the Brainteaser Interview,Book,http://www.amazon.com/dp/0071440011/,2,2
-How Would You Move Mount Fuji?: Microsoft's Cult of the Puzzle -- How the World's Smartest Companies Select the Most Creative Thinkers,Book,http://www.amazon.com/dp/0316778494/,2,2
-The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer (Pantheon Graphic Novels),eBooks,http://www.amazon.com/dp/B00N6PBHAS/,,1
-"On Writing Well, 30th Anniversary Edition: An Informal Guide to Writing Nonfiction",eBooks,http://www.amazon.com/dp/B0090RVGW0/,,1
-A Friendly Introduction to Software Testing,eBooks,http://www.amazon.com/dp/B01BCPXLHU/,,1
-Becoming a Technical Leader,eBooks,http://www.amazon.com/dp/B004J4VV3I/,,1
-Code: The Hidden Language of Computer Hardware and Software,Book,http://www.amazon.com/dp/0735611319/,48,1
-"Audio-Technica ATH-M50x Professional Monitor Headphones, Black",Musical Instruments,http://www.amazon.com/dp/B00HVLUR86/,33,1
-"How to Prove It: A Structured Approach, 2nd Edition",Book,http://www.amazon.com/dp/0521675995/,26,1
-CanaKit Raspberry Pi 3 Complete Starter Kit - 32 GB Edition,PC Accessory,http://www.amazon.com/dp/B01C6Q2GSY/,23,1
-Sony MDR7506 Professional Large Diaphragm Headphone,Musical Instruments,http://www.amazon.com/dp/B000AJIF4E/,18,1
-"Marpac Dohm-DS All-Natural White Noise Sound Machine, Tan",Health and Beauty,http://www.amazon.com/dp/B000KUHFGM/,16,1
-The Design of Everyday Things: Revised and Expanded Edition,Book,http://www.amazon.com/dp/0465050654/,14,1
-"Head First Java, 2nd Edition",Book,http://www.amazon.com/dp/0596009208/,13,1
-"Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) (Voices That Matter)",Book,http://www.amazon.com/dp/0321965515/,13,1
-"Computer Organization and Design MIPS Edition, Fifth Edition: The Hardware/Software Interface (The Morgan Kaufmann Series in Computer Architecture and Design)",Book,http://www.amazon.com/dp/0124077269/,12,1
-Mindset: The New Psychology of Success,Book,http://www.amazon.com/dp/0345472322/,12,1
-Make It Stick: The Science of Successful Learning,Book,http://www.amazon.com/dp/0674729013/,11,1
-Effective Java (2nd Edition),Book,http://www.amazon.com/dp/0321356683/,8,1
-The 48 Laws of Power,Book,http://www.amazon.com/dp/0140280197/,8,1
-How To Win Friends and Influence People,eBooks,http://www.amazon.com/dp/B003WEAI4E/,7,1
-"Growing Object-Oriented Software, Guided by Tests",Book,http://www.amazon.com/dp/0321503627/,7,1
-Logicomix: An epic search for truth,Book,http://www.amazon.com/dp/1596914521/,7,1
-"Doing Good Better: How Effective Altruism Can Help You Help Others, Do Work that Matters, and Make Smarter Choices about Giving Back",Book,http://www.amazon.com/dp/1592409660/,7,1
-"Digital Design and Computer Architecture, Second Edition",Book,http://www.amazon.com/dp/0123944244/,7,1
-"The Art of Computer Programming, Volumes 1-4A Boxed Set",Book,http://www.amazon.com/dp/0321751043/,7,1
-Computer Architecture: A Quantitative Approach,Book,http://www.amazon.com/dp/012383872X/,7,1
-Algorithms to Live By: The Computer Science of Human Decisions,Book,http://www.amazon.com/dp/1627790365/,6,1
-A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra),eBooks,http://www.amazon.com/dp/B00G3L19ZU/,6,1
-Hoberman Switch Pitch Ball-1 Pack (Colors and Styles May Vary),Toy,http://www.amazon.com/dp/B003KCG9IM/,5,1
-Corporate Confidential: 50 Secrets Your Company Doesn't Want You to Know---and What to Do About Them,Book,http://www.amazon.com/dp/0312337361/,5,1
-ASUS UX305 13-Inch Laptop [2015 model],Personal Computer,http://www.amazon.com/dp/B00SGS7ZH4/,5,1
-The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't,Book,http://www.amazon.com/dp/0446698202/,4,1
-Unwritten Laws of Engineering: Revised and Updated Edition,Book,http://www.amazon.com/dp/0791801624/,4,1
-Java Concurrency in Practice,Book,http://www.amazon.com/dp/0321349601/,4,1
-Patterns of Enterprise Application Architecture,Book,http://www.amazon.com/dp/0321127420/,4,1
-"Alan Turing: The Enigma: The Book That Inspired the Film ""The Imitation Game""",Book,http://www.amazon.com/dp/069116472X/,4,1
-The Manga Guide to Databases,Book,http://www.amazon.com/dp/1593271905/,3,1
-Domain-Driven Design: Tackling Complexity in the Heart of Software,Book,http://www.amazon.com/dp/0321125215/,3,1
-The Five Dysfunctions of a Team: A Leadership Fable,Book,http://www.amazon.com/dp/0787960756/,3,1
-"Crucial Conversations: Tools for Talking When Stakes Are High, Second Edition",Book,http://www.amazon.com/dp/1469266822/,3,1
-Introduction to the Theory of Computation,Book,http://www.amazon.com/dp/113318779X/,3,1
-The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine,Book,http://www.amazon.com/dp/0470229055/,3,1
-What Color Is Your Parachute? 2017: A Practical Manual for Job-Hunters and Career-Changers,Book,http://www.amazon.com/dp/039957820X/,3,1
-"Evoluent VerticalMouse 4 ""Regular Size"" Right Hand (model # VM4R) - USB Wired",Personal Computer,http://www.amazon.com/dp/B00427TAIK/,3,1
-What the Dormouse Said: How the Sixties Counterculture Shaped the Personal Computer Industry,Book,http://www.amazon.com/dp/0143036769/,3,1
-The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling,Book,http://www.amazon.com/dp/1118530802/,2,1
-"The Java Programming Language, 4th Edition",Book,http://www.amazon.com/dp/0321349806/,2,1
-Managing Humans: Biting and Humorous Tales of a Software Engineering Manager,Book,http://www.amazon.com/dp/1484221575/,2,1
-The Elements of Sea Power,Audible,http://www.amazon.com/dp/B0076O9R2A/,2,1
-Programming Challenges: The Programming Contest Training Manual (Texts in Computer Science),Book,http://www.amazon.com/dp/0387001638/,2,1
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life),Book,http://www.amazon.com/dp/1934356344/,2,1
-The Anatomy of Story: 22 Steps to Becoming a Master Storyteller,Book,http://www.amazon.com/dp/0865479933/,2,1
-Facts and Fallacies of Software Engineering,Book,http://www.amazon.com/dp/0321117425/,2,1
-21st Century C: C Tips from the New School,Book,http://www.amazon.com/dp/1449327141/,2,1
-OpenGL Superbible: Comprehensive Tutorial and Reference (7th Edition),Book,http://www.amazon.com/dp/0672337479/,2,1
-Site Reliability Engineering: How Google Runs Production Systems,Book,http://www.amazon.com/dp/149192912X/,2,1
-Kinesis Advantage Keyboard (KB500USB-BLK),Personal Computer,http://www.amazon.com/dp/B000LVJ9W8/,2,1
-Facts and Fallacies of Software Engineering,eBooks,http://www.amazon.com/dp/B001TKD4RG/,2,1
-How to Win Friends & Influence People,Book,http://www.amazon.com/dp/8183220630/,2,1
-Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction,Books,https://www.amazon.com/Bitcoin-Cryptocurrency-Technologies-Comprehensive-Introduction/dp/0691171696/ref=pd_sim_14_5?_encoding=UTF8&amp;pd_rd_i=0691171696&amp;pd_rd_r=ZN5W7A6M6FT1YT1F2ST3&amp;pd_rd_w=GTDgJ&amp;pd_rd_wg=ak6Q4&amp;psc=1&amp;refRID=ZN5W7A6M6FT1YT1F2ST3,2,1
-Thinking in Java (4th Edition),Book,http://www.amazon.com/dp/0131872486/,2,1
-Software Architecture in Practice (3rd Edition) (SEI Series in Software Engineering),Book,http://www.amazon.com/dp/0321815734/,2,1
-Corporate Confidential: 50 Secrets Your Company Doesn't Want You to Know---and What to Do About Them,eBooks,http://www.amazon.com/dp/B003K15PC4/,2,1
-"How To Be A Programmer: A Short, Comprehensive, And Personal Summary",Book,http://www.amazon.com/dp/1440439176/,1,1
-Java Software Structures: Designing and Using Data Structures (4th Edition),Book,http://www.amazon.com/dp/0133250121/,1,1
-Becoming a Technical Leader: An Organic Problem-Solving Approach,Book,http://www.amazon.com/dp/0932633021/,1,1
-Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design (3rd Edition),Book,http://www.amazon.com/dp/0321884493/,1,1
-How Google Tests Software,Book,http://www.amazon.com/dp/0321803027/,1,1
-Agile Software Development with Scrum (Series in Agile Software Development),Book,http://www.amazon.com/dp/0130676349/,1,1
-"Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams",Book,http://www.amazon.com/dp/1491909900/,1,1
-"The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job",Book,http://www.amazon.com/dp/0999081411/,1,1
-"Cracking the Coding Interview, Fourth Edition: 150 Programming Interview Questions and Solutions",Book,http://www.amazon.com/dp/145157827X/,1,1
-Brag!: The Art of Tooting Your Own Horn without Blowing It,Book,http://www.amazon.com/dp/0446692786/,1,1
-A Primer on Scientific Programming with Python (Texts in Computational Science and Engineering),Book,http://www.amazon.com/dp/3642549586/,1,1
-"Analysis for Computer Scientists: Foundations, Methods, and Algorithms (Undergraduate Topics in Computer Science)",Book,http://www.amazon.com/dp/0857294458/,1,1
-"Who Gets Promoted, Who Doesn't, and Why: 10 Things You'd Better Do If You Want to Get Ahead",Book,http://www.amazon.com/dp/1580088201/,1,1
-Introduction to Computation and Programming Using Python (MIT Press),Book,http://www.amazon.com/dp/0262525003/,1,1
-Introduction to Algorithms: A Creative Approach,Book,http://www.amazon.com/dp/0201120372/,1,1
-"Discrete Mathematics, 2nd Edition",Book,http://www.amazon.com/dp/0198507178/,1,1
-Data Structures and Algorithms with Python (Undergraduate Topics in Computer Science),Book,http://www.amazon.com/dp/3319130714/,1,1
-The Moment of Proof: Mathematical Epiphanies,Book,http://www.amazon.com/dp/0195139194/,1,1
-Precalculus: A Prelude to Calculus,Book,http://www.amazon.com/dp/047064804X/,1,1
-Nice Girls Don't Get the Corner Office: 101 Unconscious Mistakes Women Make That Sabotage Their Careers (A NICE GIRLS Book),Book,http://www.amazon.com/dp/0446693316/,1,1
-Professional WebGL Programming: Developing 3D Graphics for the Web,Book,http://www.amazon.com/dp/1119968860/,1,1
+Site Reliability Engineering: How Google Runs Production Systems,Book,http://www.amazon.com/dp/149192912X/,9,2
+Algorithms to Live By: The Computer Science of Human Decisions,Book,http://www.amazon.com/dp/1627790365/,10,2
+Introduction to the Theory of Computation,Book,http://www.amazon.com/dp/113318779X/,15,2
+"Compilers: Principles, Techniques, and Tools (2nd Edition)",Book,http://www.amazon.com/dp/0321486811/,25,2
+Becoming a Technical Leader: An Organic Problem-Solving Approach,Book,http://www.amazon.com/dp/0932633021/,3,2
+"Programming C# 5.0: Building Windows 8, Web, and Desktop Applications for the .NET 4.5 Framework",Book,http://www.amazon.com/dp/1449320414/,7,2
+Beyond Legacy Code: Nine Practices to Extend the Life (and Value) of Your Software,Book,http://www.amazon.com/dp/1680500791/,4,2
+Effective C++: 55 Specific Ways to Improve Your Programs and Designs (3rd Edition),Book,http://www.amazon.com/dp/0321334876/,16,2
+Software Estimation: Demystifying the Black Art (Developer Best Practices),Book,http://www.amazon.com/dp/0735605351/,2,2
+Head First SQL: Your Brain on SQL -- A Learner's Guide,Book,http://www.amazon.com/dp/0596526849/,4,2
+Data Structures and Algorithms in Java (2nd Edition),Book,http://www.amazon.com/dp/0672324539/,5,2
+Unwritten Laws of Engineering: Revised and Updated Edition,Book,http://www.amazon.com/dp/0791801624/,7,2
+Facts and Fallacies of Software Engineering,Book,http://www.amazon.com/dp/0321117425/,4,2
+How to Ace the Brainteaser Interview,Book,http://www.amazon.com/dp/0071440011/,3,2
+How Would You Move Mount Fuji?: Microsoft's Cult of the Puzzle -- How the World's Smartest Companies Select the Most Creative Thinkers,Book,http://www.amazon.com/dp/0316778494/,6,2
+Head First Object-Oriented Analysis and Design,Book,http://www.amazon.com/dp/0596008678/,5,2
+"Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition (Programmer to Programmer)",Book,http://www.amazon.com/dp/047012167X/,2,2
+The Elements of Computing Systems: Building a Modern Computer from First Principles,Book,http://www.amazon.com/dp/0262640686/,34,2
+Mindset: The New Psychology of Success,Book,http://www.amazon.com/dp/0345472322/,44,2
+The Algorithm Design Manual,Book,http://www.amazon.com/dp/0387948600/,10,2
+"Data Structures and Algorithm Analysis in Java, Third Edition (Dover Books on Computer Science)",Book,http://www.amazon.com/dp/0486485811/,3,2
+"Numerical Methods for Engineers and Scientists, Second Edition,",Book,http://www.amazon.com/dp/0824704436/,2,2
+The Elusive Quest for Growth: Economists' Adventures and Misadventures in the Tropics,Book,http://www.amazon.com/dp/0262550423/,1,1
+Introduction to Computation and Programming Using Python (MIT Press),Book,http://www.amazon.com/dp/0262525003/,2,1
+Computer Systems: A Programmer's Perspective (3rd Edition),Book,http://www.amazon.com/dp/013409266X/,13,1
+Algorithms Unlocked (MIT Press),Book,http://www.amazon.com/dp/0262518805/,8,1
+Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series),Book,http://www.amazon.com/dp/0262201623/,3,1
+Computer Networking: A Top-Down Approach (7th Edition),Book,http://www.amazon.com/dp/0133594149/,7,1
+Deep Learning (Adaptive Computation and Machine Learning series),Book,http://www.amazon.com/dp/0262035618/,5,1
 Interactive Computer Graphics: A Top-Down Approach with WebGL (7th Edition),Book,http://www.amazon.com/dp/0133574849/,1,1
-"Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale",Book,http://www.amazon.com/dp/1491926309/,1,1
-Microsoft Visual Studio LightSwitch Unleashed,Book,http://www.amazon.com/dp/0672335530/,1,1
-The History of Information Security: A Comprehensive Handbook,Book,http://www.amazon.com/dp/0444516085/,1,1
-"EXPO Low-Odor Dry Erase Set, Fine Point, Assorted Colors, 7-Piece with Cleaner",Office Products,https://www.amazon.com/gp/product/B00006IFIM/ref=oh_aui_detailpage_o00_s00?ie=UTF8&amp;psc=1,1,1
-Board Dudes Double Sided Dry Erase Lapboard 9 x 12 Inches (DFB52),Office Product,http://www.amazon.com/dp/B002SFLAQ8/,1,1
-Coding the Matrix: Linear Algebra through Applications to Computer Science,Book,http://www.amazon.com/dp/0615880991/,1,1
-The 10X Rule: The Only Difference Between Success and Failure,Book,http://www.amazon.com/dp/0470627603/,1,1
-Algorithmics: The Spirit of Computing (3rd Edition),Book,http://www.amazon.com/dp/0321117840/,1,1
-Illusions: The Adventures of a Reluctant Messiah,Book,http://www.amazon.com/dp/0440204887/,1,1
-SQL Antipatterns: Avoiding the Pitfalls of Database Programming (Pragmatic Programmers),Book,http://www.amazon.com/dp/1934356557/,1,1
-Advanced Penetration Testing for Highly-Secured Environments: The Ultimate Security Guide (Open Source: Community Experience Distilled),Book,http://www.amazon.com/dp/1849517746/,1,1
-Getting an Information Security Job For Dummies,Book,http://www.amazon.com/dp/1119002818/,1,1
-Secrets to Winning at Office Politics: How to Achieve Your Goals and Increase Your Influence at Work,Book,http://www.amazon.com/dp/0312332181/,1,1
-SQL Tuning: Generating Optimal  Execution Plans,Book,http://www.amazon.com/dp/0596005733/,1,1
-Architecting Software Intensive Systems: A Practitioners Guide,Book,http://www.amazon.com/dp/1420045695/,1,1
-Lenovo U310 13.3-Inch Ultrabook (Graphite Grey),Personal Computer,http://www.amazon.com/dp/B009AEPYWQ/,1,1
-USB Missile Launcher,Toy,http://www.amazon.com/dp/B000XYR2CM/,1,1
-"Compilers: Principles, Techniques, and Tools",Book,http://www.amazon.com/dp/0201100886/,1,1
-Beautiful Code: Leading Programmers Explain How They Think (Theory in Practice (O'Reilly)),Book,http://www.amazon.com/dp/0596510047/,1,1
+"Introduction to Algorithms, Second Edition",Book,http://www.amazon.com/dp/0262032937/,2,1
+Scientific Babel: How Science Was Done Before and After Global English,Book,http://www.amazon.com/dp/022600029X/,1,1
+Java Software Structures: Designing and Using Data Structures (4th Edition),Book,http://www.amazon.com/dp/0133250121/,2,1
+"The Basics of Hacking and Penetration Testing, Second Edition: Ethical Hacking and Penetration Testing Made Easy",Book,http://www.amazon.com/dp/0124116442/,6,1

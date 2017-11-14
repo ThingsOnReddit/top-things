@@ -1,14 +1,90 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Quiet: The Power of Introverts in a World That Can't Stop Talking,Book,http://www.amazon.com/dp/0307352153/,17,1
-"CompTIA A+ Certification All-in-One Exam Guide, Ninth Edition (Exams 220-901 & 220-902)",Book,http://www.amazon.com/dp/125958951X/,6,1
-Penetration Testing: A Hands-On Introduction to Hacking,Book,http://www.amazon.com/dp/1593275641/,5,1
-Quiet: The Power of Introverts in a World That Can't Stop Talking,eBooks,http://www.amazon.com/dp/B004J4WNL2/,4,1
-What Color Is Your Parachute? 2016: A Practical Manual for Job-Hunters and Career-Changers,Book,http://www.amazon.com/dp/160774662X/,3,1
-A Guide to the Project Management Body of Knowledge (PMBOK® Guide)–Fifth Edition,Book,http://www.amazon.com/dp/1935589679/,2,1
-CompTIA Network+ Study Guide: Exam N10-006 (Comptia Network + Study Guide Authorized Courseware),Book,http://www.amazon.com/dp/1119021243/,2,1
-Microsoft SQL Server 2012 T-SQL Fundamentals (Developer Reference),Book,http://www.amazon.com/dp/0735658145/,2,1
-The Internet of Things (The MIT Press Essential Knowledge series),Book,http://www.amazon.com/dp/0262527731/,1,1
-"Smart Cities: Big Data, Civic Hackers, and the Quest for a New Utopia",Book,http://www.amazon.com/dp/0393082873/,1,1
+Quiet: The Power of Introverts in a World That Can't Stop Talking,eBooks,http://www.amazon.com/dp/B004J4WNL2/,20,6
+"The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",eBooks,http://www.amazon.com/dp/B00AZRBLHO/,21,5
+The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,eBooks,http://www.amazon.com/dp/B00GOZV3TM/,14,5
+Time Management for System Administrators: Stop Working Late and Start Working Smart,Book,http://www.amazon.com/dp/0596007833/,53,5
+"Writing That Works, 3rd Edition: How to Communicate Effectively in Business",eBooks,http://www.amazon.com/dp/B0040GJDSA/,11,5
+Drive: The Surprising Truth About What Motivates Us,eBooks,http://www.amazon.com/dp/B004P1JDJO/,13,5
+"CompTIA A+ Certification All-in-One Exam Guide, Ninth Edition (Exams 220-901 & 220-902)",Book,http://www.amazon.com/dp/125958951X/,34,4
+"CCNA Routing and Switching Complete Study Guide: Exam 100-105, Exam 200-105, Exam 200-125",Book,http://www.amazon.com/dp/1119288282/,16,3
+Network Warrior: Everything You Need to Know That Wasn't on the CCNA Exam,Book,http://www.amazon.com/dp/1449387861/,26,3
+Quiet: The Power of Introverts in a World That Can't Stop Talking,Book,http://www.amazon.com/dp/0307352153/,68,3
+"RHCSA/RHCE Red Hat Linux Certification Study Guide, Seventh Edition (Exams EX200 & EX300)",Book,http://www.amazon.com/dp/0071841962/,30,3
+CCENT/CCNA ICND1 100-101 Official Cert Guide,Book,http://www.amazon.com/dp/1587143852/,17,2
+DNS and BIND (5th Edition),Book,http://www.amazon.com/dp/0596100574/,3,2
+CCENT/CCNA ICND1 100-105 Official Cert Guide,Book,http://www.amazon.com/dp/1587205807/,15,2
+The Practice of System and Network Administration: Volume 1: DevOps and other Best Practices for Enterprise IT (3rd Edition),Book,http://www.amazon.com/dp/0321919165/,28,2
+"The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win",Book,http://www.amazon.com/dp/0988262509/,28,2
+CanaKit Raspberry Pi 2 Complete Starter Kit (9-Items),Personal Computer,http://www.amazon.com/dp/B008XVAVAW/,63,2
+Learn Windows PowerShell in a Month of Lunches,Book,http://www.amazon.com/dp/1617291080/,74,2
+"RHCSA & RHCE Red Hat Enterprise Linux 7: Training and Exam Preparation Guide (EX200 and EX300), Third Edition",Book,http://www.amazon.com/dp/1495148203/,12,2
+"UNIX and Linux System Administration Handbook, 4th Edition",Book,http://www.amazon.com/dp/0131480057/,51,2
+"MCSA Windows Server 2016 Exam Ref 3-Pack: Exams 70-740, 70-741, and 70-742",Book,http://www.amazon.com/dp/1509303669/,2,2
+CCNA Routing and Switching 200-120 Official Cert Guide Library & CCENT/CCNA ICND1 100-101 Official Cert Guide,Book,http://www.amazon.com/dp/1587143879/,5,2
+Mastering Windows Server 2012 R2,Book,http://www.amazon.com/dp/1118289420/,8,1
+"CCNA Routing and Switching Study Guide: Exams 100-101, 200-101, and 200-120",Book,http://www.amazon.com/dp/1118749618/,16,1
+"MCSA Windows Server 2012 R2 Complete Study Guide: Exams 70-410, 70-411, 70-412",Book,http://www.amazon.com/dp/111885991X/,8,1
+Wireshark for Security Professionals: Using Wireshark and the Metasploit Framework,Book,http://www.amazon.com/dp/1118918215/,2,1
+CompTIA Linux+ Powered by Linux Professional Institute Study Guide: Exam LX0-103 and Exam LX0-104 (Comptia Linux + Study Guide),Book,http://www.amazon.com/dp/1119021219/,9,1
+CompTIA Network+ Study Guide: Exam N10-006 (Comptia Network + Study Guide Authorized Courseware),Book,http://www.amazon.com/dp/1119021243/,12,1
+MCSA Microsoft Windows 10 Study Guide: Exam 70-697,Book,http://www.amazon.com/dp/111925230X/,1,1
+MCSA Windows 10 Study Guide: Exam 70-698,Book,http://www.amazon.com/dp/1119327598/,1,1
+ITIL Foundation Exam Study Guide,Book,http://www.amazon.com/dp/1119942756/,4,1
+Network+ Guide to Networks (with Printed Access Card),Book,http://www.amazon.com/dp/1133608191/,1,1
+Network+ Guide to Networks,Book,http://www.amazon.com/dp/1305090942/,1,1
+CompTIA Linux+ Guide to Linux Certification,Book,http://www.amazon.com/dp/1305107160/,4,1
+Site Reliability Engineering: How Google Runs Production Systems,Book,http://www.amazon.com/dp/149192912X/,9,1
 "Building Smart Cities: Analytics, ICT, and Design Thinking",Book,http://www.amazon.com/dp/1498702767/,1,1
+Learn Python in One Day and Learn It Well: Python for Beginners with Hands-on Project. The only book you need to start coding in Python immediately,Book,http://www.amazon.com/dp/1506094384/,1,1
+End-to-End QoS Network Design: Quality of Service for Rich-Media & Cloud Networks (2nd Edition) (Networking Technology),Book,http://www.amazon.com/dp/1587143690/,14,1
+Designing for Cisco Internetwork Solutions (DESGN) Foundation Learning Guide: (CCDA DESGN 640-864) (3rd Edition) (Foundation Learning Guides),Book,http://www.amazon.com/dp/158720424X/,1,1
+CCNA Routing and Switching ICND2 200-105 Official Cert Guide,Book,http://www.amazon.com/dp/1587205793/,3,1
+Python Programming: An Introduction to Computer Science,Book,http://www.amazon.com/dp/1590282418/,9,1
+The Practice of Network Security Monitoring: Understanding Incident Detection and Response,Book,http://www.amazon.com/dp/1593275099/,9,1
+Penetration Testing: A Hands-On Introduction to Hacking,Book,http://www.amazon.com/dp/1593275641/,20,1
+What Color Is Your Parachute? 2016: A Practical Manual for Job-Hunters and Career-Changers,Book,http://www.amazon.com/dp/160774662X/,10,1
+Learn Windows PowerShell in a Month of Lunches,Book,http://www.amazon.com/dp/1617294160/,23,1
+Women in Tech: Take Your Career to the Next Level with Practical Advice and Inspiring Stories,Book,http://www.amazon.com/dp/1632170663/,1,1
+ITIL Foundation Essentials: The Exam Facts You Need,Book,http://www.amazon.com/dp/1849283990/,4,1
+Wireshark 101: Essential Skills for Network Analysis (Wireshark Solutions),Book,http://www.amazon.com/dp/1893939723/,2,1
+Wireshark Network Analysis (Second Edition): The Official Wireshark Certified Network Analyst Study Guide,Book,http://www.amazon.com/dp/1893939944/,3,1
+Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement,Book,http://www.amazon.com/dp/1934356921/,2,1
+A Guide to the Project Management Body of Knowledge (PMBOK® Guide)–Fifth Edition,Book,http://www.amazon.com/dp/1935589679/,3,1
+"Gaiam Balance Ball Chair - Classic Yoga Ball Chair with 52cm Stability Ball, Pump & Exercise Guide for Home or Office, Black",Sports,http://www.amazon.com/dp/B0007VB4NE/,7,1
+Snow Crash: A Novel,eBooks,http://www.amazon.com/dp/B000FBJCJE/,6,1
+Cryptonomicon,eBooks,http://www.amazon.com/dp/B000FC11A6/,3,1
+Neuromancer (Ace Science Fiction),eBooks,http://www.amazon.com/dp/B000O76ON6/,2,1
+"Samsill Professional Padfolio – Resume Portfolio / Business Portfolio with Secure Zippered Closure, 10.1 Inch Tablet Sleeve, 8.5 x11 Writing Pad, Black",Office Product,http://www.amazon.com/dp/B0013CLTKE/,2,1
+People Styles at Work: Making Bad Relationships Good and Good Relationships Better,eBooks,http://www.amazon.com/dp/B00264GL7O/,1,1
+"""Surely You're Joking, Mr. Feynman!"": Adventures of a Curious Character: Adventures of a Curious Character",eBooks,http://www.amazon.com/dp/B003V1WXKU/,2,1
+"Big Data: A Revolution That Will Transform How We Live, Work, and Think",eBooks,http://www.amazon.com/dp/B009N08NKW/,1,1
 "By Michael Watkins - First 90 Days, Updated and Expanded: Critical Success Strategies for New Leaders at All Levels (Revised edition)",Book,http://www.amazon.com/dp/B00HTJWFDA/,1,1
-Lenovo ThinkPad T410 Intel Core i5 2.5GHz 4GB RAM 320GB HDD Windows 7 Professional,Personal Computer,http://www.amazon.com/dp/B00S1UIG9S/,1,1
+Getting Things Done: The Art of Stress-Free Productivity,eBooks,http://www.amazon.com/dp/B00KWG9M2E/,7,1
+The Ties That Bind: Networking with Style,eBooks,http://www.amazon.com/dp/B00RSM7TKM/,1,1
+Lenovo ThinkPad T410 Intel Core i5 2.5GHz 4GB RAM 320GB HDD Windows 7 Professional,Personal Computer,http://www.amazon.com/dp/B00S1UIG9S/,2,1
+Passing your ITIL Foundation Exam (Best Management Practice),eBooks,http://www.amazon.com/dp/B00U5BTDXO/,1,1
+Lenovo Thinkpad T420 - Intel Core i5 2410M 2.3G 8GB 320GB Windows Professional (Certified Refurbish),Personal Computer,http://www.amazon.com/dp/B00W4AMWCI/,10,1
+Rockport Men's Essential Details II Waterproof Cap Toe Black Leather Oxford 10 M (D),Shoes,http://www.amazon.com/dp/B01BIBY01O/,1,1
+"Influence: The Psychology of Persuasion, Revised Edition",Book,http://www.amazon.com/dp/006124189X/,77,1
+CanaKit Raspberry Pi 3 Complete Starter Kit - 32 GB Edition,PC Accessory,http://www.amazon.com/dp/B01C6Q2GSY/,108,1
+"RHCSA/RHCE Red Hat Linux Certification Study Guide (Exams EX200 & EX300), 6th Edition (Certification Press)",Book,http://www.amazon.com/dp/0071765654/,10,1
+"CompTIA Linux+/LPIC-1 Certification All-in-One Exam Guide, Second Edition (Exams LX0-103 & LX0-104/101-400 & 102-400)",Book,http://www.amazon.com/dp/0071841687/,6,1
+Database Systems: The Complete Book (2nd Edition),Book,http://www.amazon.com/dp/0131873253/,3,1
+The Royal Ranger (Ranger's Apprentice),Book,http://www.amazon.com/dp/0142427314/,1,1
+"TCP/IP Illustrated, Vol. 1: The Protocols (Addison-Wesley Professional Computing Series)",Book,http://www.amazon.com/dp/0201633469/,6,1
+Design Patterns: Elements of Reusable Object-Oriented Software,Book,http://www.amazon.com/dp/0201633612/,87,1
+The Internet of Things (The MIT Press Essential Knowledge series),Book,http://www.amazon.com/dp/0262527731/,1,1
+"TCP/IP Illustrated, Volume 1: The Protocols (2nd Edition) (Addison-Wesley Professional Computing Series)",Book,http://www.amazon.com/dp/0321336313/,12,1
+"The Practice of System and Network Administration, Second Edition",Book,http://www.amazon.com/dp/0321492668/,59,1
+"Smart Cities: Big Data, Civic Hackers, and the Quest for a New Utopia",Book,http://www.amazon.com/dp/0393082873/,1,1
+Social Engineering: The Art of Human Hacking,Book,http://www.amazon.com/dp/0470639539/,12,1
+Mastering VMware vSphere 5,Book,http://www.amazon.com/dp/0470890800/,3,1
+How to Win Friends & Influence People,Book,http://www.amazon.com/dp/0671027034/,222,1
+Windows Server 2012 Unleashed,Book,http://www.amazon.com/dp/0672336227/,1,1
+Microsoft SQL Server 2012 T-SQL Fundamentals (Developer Reference),Book,http://www.amazon.com/dp/0735658145/,6,1
+Red Hat RHCSA/RHCE 7 Cert Guide: Red Hat Enterprise Linux 7 (EX200 and EX300) (Certification Guide),Book,http://www.amazon.com/dp/0789754053/,8,1
+CompTIA Linux+ / LPIC-1 Cert Guide: (Exams LX0-103 & LX0-104/101-400 & 102-400) (Certification Guide),Book,http://www.amazon.com/dp/078975455X/,3,1
+CompTIA A+ 220-901 and 220-902 Exam Cram,Book,http://www.amazon.com/dp/0789756315/,12,1
+The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps,Book,http://www.amazon.com/dp/0975568612/,4,1
+The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws,Book,http://www.amazon.com/dp/1118026470/,41,1
+"Information Storage and Management: Storing, Managing, and Protecting Digital Information in Classic, Virtualized, and Cloud Environments",Book,http://www.amazon.com/dp/1118094832/,3,1

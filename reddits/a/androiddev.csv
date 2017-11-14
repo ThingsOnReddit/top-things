@@ -1,12 +1,69 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,71,2
-Effective Java (2nd Edition),Book,http://www.amazon.com/dp/0321356683/,8,2
-Android Programming: The Big Nerd Ranch Guide (2nd Edition),Book,http://www.amazon.com/dp/0134171454/,2,2
-Android Programming: The Big Nerd Ranch Guide (Big Nerd Ranch Guides),Book,http://www.amazon.com/dp/0321804333/,2,1
-"Breett Lazy Mount Cell Phone Holder, Universal Plastic Cell Phone Clip Holder, Lazy Bracket Flexible Long Arms for iPhone, GPS Devices, Fit on Desktop, Stand for Bedroom, Office, Bathroom, Kitchen, chair, wall cabinet",Wireless,http://www.amazon.com/dp/B00UTD4XV0/,2,1
-Version Control with Git: Powerful tools and techniques for collaborative software development,Book,http://www.amazon.com/dp/1449316387/,1,1
-"Type C, Veckle USB to USB C Cable 10ft Braided Cable for Samsung Galaxy S8, LG G5, ChromeBook Pixel, OnePlus 2, Nexus 6P, 5X, Lumia 950, Nokia N1, Nintendo Switch and Other USB C Devices, Black",Wireless,http://www.amazon.com/dp/B016ZYUG80/,1,1
-kenable Slimline PRO 3.5mm Jack to Stereo Jack Socket Extension Cable 0.3m (~1 foot),Speakers,http://www.amazon.com/dp/B00O2X0OMU/,1,1
-Elements of Programming Interviews in Java: The Insiders' Guide,Book,http://www.amazon.com/dp/1517435803/,1,1
+Android Programming: The Big Nerd Ranch Guide (2nd Edition),Book,http://www.amazon.com/dp/0134171454/,16,12
+Effective Java (2nd Edition),Book,http://www.amazon.com/dp/0321356683/,42,6
+Android Programming: The Big Nerd Ranch Guide (3rd Edition) (Big Nerd Ranch Guides),Book,http://www.amazon.com/dp/0134706056/,18,5
+Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,236,4
+Java Concurrency in Practice,Book,http://www.amazon.com/dp/0321349601/,16,3
+OpenGL ES 2 for Android: A Quick-Start Guide (Pragmatic Programmers),Book,http://www.amazon.com/dp/1937785343/,3,3
+Android Programming: The Big Nerd Ranch Guide (Big Nerd Ranch Guides),Book,http://www.amazon.com/dp/0321804333/,7,3
+Cracking the Coding Interview: 189 Programming Questions and Solutions,Book,http://www.amazon.com/dp/0984782850/,90,2
+Java Generics and Collections: Speed Up the Java Development Process,Book,http://www.amazon.com/dp/0596527756/,4,2
+Patterns of Enterprise Application Architecture,Book,http://www.amazon.com/dp/0321127420/,22,2
+100 Questions and Answers to help you land your Dream Android Job: or to hire the right candidate!,eBooks,http://www.amazon.com/dp/B0115U9720/,2,2
+Refactoring: Improving the Design of Existing Code,Book,http://www.amazon.com/dp/0201485672/,34,2
+Refactoring to Patterns,Book,http://www.amazon.com/dp/0321213351/,3,1
+"Don't Make Me Think: A Common Sense Approach to Web Usability, 2nd Edition",Book,http://www.amazon.com/dp/0321344758/,17,1
+Software Architecture in Practice (3rd Edition) (SEI Series in Software Engineering),Book,http://www.amazon.com/dp/0321815734/,8,1
+"Future Crimes: Everything Is Connected, Everyone Is Vulnerable and What We Can Do About It",Book,http://www.amazon.com/dp/0385539002/,4,1
+Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World,Book,http://www.amazon.com/dp/0393244814/,7,1
+The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't,Book,http://www.amazon.com/dp/0446698202/,8,1
+The Design of Everyday Things,Book,http://www.amazon.com/dp/0465067107/,9,1
+Head First Design Patterns: A Brain-Friendly Guide,Book,http://www.amazon.com/dp/0596007124/,51,1
+"Head First Java, 2nd Edition",Book,http://www.amazon.com/dp/0596009208/,54,1
+The Black Box Society: The Secret Algorithms That Control Money and Information,Book,http://www.amazon.com/dp/0674368274/,1,1
+"Zero to One: Notes on Startups, or How to Build the Future",Book,http://www.amazon.com/dp/0804139296/,25,1
+Cracking the Coding Interview: 150 Programming Questions and Solutions,Book,http://www.amazon.com/dp/098478280X/,68,1
+Global Capitalism and the Crisis of Humanity,Book,http://www.amazon.com/dp/1107691117/,1,1
+Smashing Android UI: Responsive User Interfaces and Design Patterns for Android Phones and Tablets,Book,http://www.amazon.com/dp/1118387287/,1,1
+"Patterns, Principles, and Practices of Domain-Driven Design",Book,http://www.amazon.com/dp/1118714709/,2,1
+Android Programming: Pushing the Limits,Book,http://www.amazon.com/dp/1118717376/,1,1
+The Garbage Collection Handbook: The Art of Automatic Memory Management (Chapman & Hall/CRC Applied Algorithms and Data Structures series),Book,http://www.amazon.com/dp/1420082795/,5,1
+Beginning Android Games,Book,http://www.amazon.com/dp/1430246774/,2,1
+"Embedded Android: Porting, Extending, and Customizing",Book,http://www.amazon.com/dp/1449308295/,1,1
 Making Musical Apps: Real-time audio synthesis on Android and iOS,Book,http://www.amazon.com/dp/1449314902/,1,1
-Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series),Book,http://www.amazon.com/dp/0134494164/,1,1
+Version Control with Git: Powerful tools and techniques for collaborative software development,Book,http://www.amazon.com/dp/1449316387/,2,1
+Head First Android Development: A Brain-Friendly Guide,Book,http://www.amazon.com/dp/1449362184/,5,1
+Efficient Android Threading: Asynchronous Processing Techniques for Android Applications,Book,http://www.amazon.com/dp/1449364136/,1,1
+Who Owns the Future?,Book,http://www.amazon.com/dp/1451654979/,6,1
+"High Performance Android Apps: Improve Ratings with Speed, Optimizations, and Testing",Book,http://www.amazon.com/dp/1491912510/,1,1
+Elements of Programming Interviews in Java: The Insiders' Guide,Book,http://www.amazon.com/dp/1517435803/,4,1
+"Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising",Book,http://www.amazon.com/dp/1591847389/,8,1
+Hooked: How to Build Habit-Forming Products,Book,http://www.amazon.com/dp/1591847788/,9,1
+Functional Programming in Scala,Book,http://www.amazon.com/dp/1617290653/,11,1
+Soft Skills: The software developer's life manual,Book,http://www.amazon.com/dp/1617292397/,18,1
+"Spalding NBA Street Basketball - Intermediate Size 6 (28.5"")",Sports,http://www.amazon.com/dp/B00083HJ44/,2,1
+Buddha Board Original,Art and Craft Supply,http://www.amazon.com/dp/B0010TEFFQ/,8,1
+Pro Android 2,eBooks,http://www.amazon.com/dp/B003U890ZK/,1,1
+4GB Mini Spy Button Camera Hidden DVR Camcorder,Photography,http://www.amazon.com/dp/B0083F7VEC/,3,1
+Vktech Micro USB to USB Retractable Sync Charger Cable Pack of 5,Wireless,http://www.amazon.com/dp/B00DQMHM14/,4,1
+Moto G Black (Boost Mobile),Wireless,http://www.amazon.com/dp/B00HPP3VW2/,10,1
+Sapphire Radeon R9 295X2 8GB GDDR5 DVI-D Quad Mini DP PCI-Express Graphics Card 21234-00-40G,Personal Computer,http://www.amazon.com/dp/B00JS8JRHW/,6,1
+Nokia Lumia 635 (AT&T Go Phone) No Annual Contract,Wireless,http://www.amazon.com/dp/B00LBFFSNM/,16,1
+kenable Slimline PRO 3.5mm Jack to Stereo Jack Socket Extension Cable 0.3m (~1 foot),Speakers,http://www.amazon.com/dp/B00O2X0OMU/,1,1
+Kikkerland Flexible Phone/Tablet Holder - Retail Packaging - Black,Wireless,http://www.amazon.com/dp/B00TXWS26U/,1,1
+"Breett Lazy Mount Cell Phone Holder, Universal Plastic Cell Phone Clip Holder, Lazy Bracket Flexible Long Arms for iPhone, GPS Devices, Fit on Desktop, Stand for Bedroom, Office, Bathroom, Kitchen, chair, wall cabinet",Wireless,http://www.amazon.com/dp/B00UTD4XV0/,4,1
+"Type C, Veckle USB to USB C Cable 10ft Braided Cable for Samsung Galaxy S8, LG G5, ChromeBook Pixel, OnePlus 2, Nexus 6P, 5X, Lumia 950, Nokia N1, Nintendo Switch and Other USB C Devices, Black",Wireless,http://www.amazon.com/dp/B016ZYUG80/,5,1
+HP Elitebook 840 G1 Laptop i5 1.9Ghz 8GB Ram 500GB SATA Windows 7 P MS Office 30 Day Free Trial & Kaspersky Anti-Virus,Personal Computer,http://www.amazon.com/dp/B01C4HRYLE/,1,1
+Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers,Book,http://www.amazon.com/dp/0060517123/,6,1
+"ASUS ZX53VW 15.6"" Gaming Laptop, NVIDIA, GTX 960M 4GB, FHD, Intel Core i5-6300HQ, 8GB DDR4, 512GB SSD, Backlit keyboard, Microsoft signature image, Anti-Glare Matte Display.",Personal Computer,http://www.amazon.com/dp/B01LXCBXQO/,41,1
+ANDROID A PROGRAMMERS GUIDE,Book,http://www.amazon.com/dp/0071599886/,1,1
+Working Effectively with Legacy Code,Book,http://www.amazon.com/dp/0131177052/,59,1
+The Non-Designer's Design Book (4th Edition),Book,http://www.amazon.com/dp/0133966151/,17,1
+More Fearless Change: Strategies for Making Your Ideas Happen,Book,http://www.amazon.com/dp/0133966445/,1,1
+Android Concurrency (Android Deep Dive),Book,http://www.amazon.com/dp/0134177436/,1,1
+Android Database Best Practices (Android Deep Dive),Book,http://www.amazon.com/dp/0134437993/,1,1
+Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series),Book,http://www.amazon.com/dp/0134494164/,2,1
+"Agile Software Development, Principles, Patterns, and Practices",Book,http://www.amazon.com/dp/0135974445/,6,1
+The Clean Coder: A Code of Conduct for Professional Programmers,Book,http://www.amazon.com/dp/0137081073/,23,1
+Design Patterns: Elements of Reusable Object-Oriented Software,Book,http://www.amazon.com/dp/0201633612/,87,1
+Pax Technica: How the Internet of Things May Set Us Free or Lock Us Up,Book,http://www.amazon.com/dp/0300199473/,1,1

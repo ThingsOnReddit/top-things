@@ -1,24 +1,86 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Feeling Good: The New Mood Therapy,Book,http://www.amazon.com/dp/0380810336/,39,2
-The Professor Is In: The Essential Guide To Turning Your Ph.D. Into a Job,Book,http://www.amazon.com/dp/0553419420/,4,2
-Programming ArcGIS 10.1 with Python Cookbook,eBooks,http://www.amazon.com/dp/B00B90PJRY/,,1
-"Delusions of Gender: How Our Minds, Society, and Neurosexism Create Difference",Book,http://www.amazon.com/dp/0393340244/,13,1
-The Power Broker: Robert Moses and the Fall of New York,Book,http://www.amazon.com/dp/0394720245/,10,1
-The Death and Life of Great American Cities,Book,http://www.amazon.com/dp/067974195X/,5,1
-Python Scripting for ArcGIS,Book,http://www.amazon.com/dp/1589482824/,5,1
-The Sixth Extinction: An Unnatural History,Book,http://www.amazon.com/dp/1250062187/,4,1
-Teaching What You Don’t Know,Book,http://www.amazon.com/dp/0674066170/,2,1
-"Field Notes from a Catastrophe: Man, Nature, and Climate Change",Book,http://www.amazon.com/dp/1620409887/,2,1
-"Schaum's Outline of Review of Elementary Mathematics, 2nd Edition (Schaum's Outlines)",Book,http://www.amazon.com/dp/007176254X/,2,1
-"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",eBooks,http://www.amazon.com/dp/B003JTHXZY/,2,1
-The Human Brain Coloring Book (Coloring Concepts Series),Book,http://www.amazon.com/dp/0064603067/,1,1
-So What Are You Going to Do With That?: A Guide for M.A.'s and Ph.D's Seeking Careers Outside the Academy,Book,http://www.amazon.com/dp/0374526214/,1,1
-Kleine Quantenmechanik - German Language,Book,http://www.amazon.com/dp/B00B13J15A/,1,1
-How to Read a Book: The Classic Guide to Intelligent Reading,Book,http://www.amazon.com/dp/B0092GBLHY/,1,1
+Feeling Good: The New Mood Therapy,Book,http://www.amazon.com/dp/0380810336/,228,6
+Getting What You Came For: The Smart Student's Guide to Earning an M.A. or a Ph.D.,Book,http://www.amazon.com/dp/0374524777/,8,2
+The Death and Life of the Great American School System: How Testing and Choice Are Undermining Education,Book,http://www.amazon.com/dp/0465025579/,5,2
+The Flat World and Education: How America's Commitment to Equity Will Determine Our Future (Multicultural Education),Book,http://www.amazon.com/dp/0807749621/,2,2
+The Professor Is In: The Essential Guide To Turning Your Ph.D. Into a Job,Book,http://www.amazon.com/dp/0553419420/,5,2
+50 Myths and Lies That Threaten America's Public Schools: The Real Crisis in Education,eBooks,http://www.amazon.com/dp/B00JMIFTNO/,2,2
+How to Write a Lot: A Practical Guide to Productive Academic Writing (Lifetools: Books for the General Public),Book,http://www.amazon.com/dp/1591477433/,9,2
+Teaching What You Don’t Know,Book,http://www.amazon.com/dp/0674066170/,3,2
+Style: Lessons in Clarity and Grace (12th Edition),Book,http://www.amazon.com/dp/0134080416/,2,1
+Getting Things Done: The Art of Stress-Free Productivity,Book,http://www.amazon.com/dp/0142000280/,34,1
 Climate Change: A Very Short Introduction (Very Short Introductions),Book,http://www.amazon.com/dp/0198719043/,1,1
-Research Genres: Explorations and Applications (Cambridge Applied Linguistics),Book,http://www.amazon.com/dp/0521533341/,1,1
-Genre Analysis: English in Academic and Research Settings (Cambridge Applied Linguistics),Book,http://www.amazon.com/dp/0521338131/,1,1
-"Mastering ArcGIS, 6th Edition",Book,http://www.amazon.com/dp/0078021421/,1,1
-Exploring Geographical Information Systems,Single Detail Page Misc,http://www.amazon.com/dp/0471427314/,1,1
+Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded,Book,http://www.amazon.com/dp/0199760241/,3,1
+Research and Writing in International Relations,Book,http://www.amazon.com/dp/020506065X/,1,1
+Writing in the Sciences: Exploring Conventions of Scientific Discourse (Part of the Allyn & Bacon Series in Technical Communication) (3rd Edition),Book,http://www.amazon.com/dp/0205616712/,1,1
+"The Craft of Research, Third Edition (Chicago Guides to Writing, Editing, and Publishing)",Book,http://www.amazon.com/dp/0226065669/,1,1
+"Writing Ethnographic Fieldnotes (Chicago Guides to Writing, Editing, and Publishing)",Book,http://www.amazon.com/dp/0226206815/,1,1
+"The Craft of Research, Fourth Edition (Chicago Guides to Writing, Editing, and Publishing)",Book,http://www.amazon.com/dp/022623973X/,1,1
+"Tales of the Field: On Writing Ethnography, Second Edition (Chicago Guides to Writing, Editing, and Publishing)",Book,http://www.amazon.com/dp/0226849643/,1,1
+Gaming the System: Designing with Gamestar Mechanic (The John D. and Catherine T. MacArthur Foundation Series on Digital Media and Learning),Book,http://www.amazon.com/dp/026202781X/,1,1
+"Risk, Chance, and Causation: Investigating the Origins and Treatment of Disease",Book,http://www.amazon.com/dp/0300188846/,2,1
+Reign of Error: The Hoax of the Privatization Movement and the Danger to America's Public Schools,Book,http://www.amazon.com/dp/0345806352/,4,1
+So What Are You Going to Do With That?: A Guide for M.A.'s and Ph.D's Seeking Careers Outside the Academy,Book,http://www.amazon.com/dp/0374526214/,1,1
+"Delusions of Gender: How Our Minds, Society, and Neurosexism Create Difference",Book,http://www.amazon.com/dp/0393340244/,27,1
+The Power Broker: Robert Moses and the Fall of New York,Book,http://www.amazon.com/dp/0394720245/,23,1
 Nature (Key Ideas in Geography),Book,http://www.amazon.com/dp/0415339057/,1,1
+The Last Three Minutes: Conjectures About The Ultimate Fate Of The Universe (Science Masters Series),Book,http://www.amazon.com/dp/0465038514/,1,1
+"Engaging Ideas: The Professor's Guide to Integrating Writing, Critical Thinking, and Active Learning in the Classroom",Book,http://www.amazon.com/dp/0470532904/,2,1
+Mathematical Methods in the Physical Sciences,Book,http://www.amazon.com/dp/0471198269/,12,1
+Exploring Geographical Information Systems,Single Detail Page Misc,http://www.amazon.com/dp/0471427314/,1,1
+Genre Analysis: English in Academic and Research Settings (Cambridge Applied Linguistics),Book,http://www.amazon.com/dp/0521338131/,1,1
+Research Genres: Explorations and Applications (Cambridge Applied Linguistics),Book,http://www.amazon.com/dp/0521533341/,1,1
+Black Holes and Baby Universes and Other Essays,Book,http://www.amazon.com/dp/0553374117/,1,1
+How to Read a Book: The Classic Guide to Intelligent Reading (A Touchstone book),Book,http://www.amazon.com/dp/0671212095/,36,1
+Why Are Professors Liberal and Why Do Conservatives Care?,Book,http://www.amazon.com/dp/0674059093/,2,1
+The Death and Life of Great American Cities,Book,http://www.amazon.com/dp/067974195X/,15,1
+Spacetime Physics,Book,http://www.amazon.com/dp/0716723271/,7,1
+Save Our Slides: PowerPoint Design That Works,Book,http://www.amazon.com/dp/0757581226/,1,1
+The Content Analysis Guidebook,Book,http://www.amazon.com/dp/0761919783/,1,1
+Logistic Regression: A Primer (Quantitative Applications in the Social Sciences),Book,http://www.amazon.com/dp/0761920102/,1,1
+Understanding Regression Analysis: An Introductory Guide (Quantitative Applications in the Social Sciences),Book,http://www.amazon.com/dp/0803927584/,1,1
+Gravity: An Introduction to Einstein's General Relativity,Book,http://www.amazon.com/dp/0805386629/,2,1
+Spacetime and Geometry: An Introduction to General Relativity,Book,http://www.amazon.com/dp/0805387323/,6,1
+"City Schools and the American Dream: Reclaiming the Promise of Public Education (Multicultural Education Series (New York, N.Y.).)",Book,http://www.amazon.com/dp/080774381X/,1,1
+"Rhetoric and Reality: Writing Instruction in American Colleges, 1900 - 1985 (Studies in Writing and Rhetoric)",Book,http://www.amazon.com/dp/080931360X/,2,1
+Defining Reality: Definitions and the Politics of Meaning (Rhetorical Philosophy and Theory),Book,http://www.amazon.com/dp/0809325012/,1,1
+"I'm the Teacher, You're the Student: A Semester in the University Classroom",Book,http://www.amazon.com/dp/0812218876/,1,1
+Constructing Grounded Theory (Introducing Qualitative Methods series),Book,http://www.amazon.com/dp/0857029142/,1,1
+Bad Pharma: How Drug Companies Mislead Doctors and Harm Patients,Book,http://www.amazon.com/dp/0865478007/,7,1
+"At the Helm: Leading Your Laboratory, Second Edition",Book,http://www.amazon.com/dp/0879698667/,1,1
+The Well-Fed Writer: Financial Self-Sufficiency as a Commercial Freelancer in Six Months or Less,Book,http://www.amazon.com/dp/0967059879/,2,1
+Artists with PhDs: On the New Doctoral Degree in Studio Art,Book,http://www.amazon.com/dp/0981865453/,1,1
+The Sixth Extinction: An Unnatural History,Book,http://www.amazon.com/dp/1250062187/,9,1
+A Guided Science: History of Psychology in the Mirror of Its Making,Book,http://www.amazon.com/dp/1412851912/,1,1
+Qualitative Inquiry and Research Design: Choosing among Five Approaches,Book,http://www.amazon.com/dp/1412916070/,1,1
+The Coding Manual for Qualitative Researchers,Book,http://www.amazon.com/dp/1446247376/,1,1
+This Changes Everything: Capitalism vs. The Climate,Book,http://www.amazon.com/dp/1451697392/,9,1
+"The Chemistry Book: From Gunpowder to Graphene, 250 Milestones in the History of Chemistry (Sterling Milestones)",Book,http://www.amazon.com/dp/1454911808/,3,1
+Integrating Learning in a Multi-Scale Agent,Book,http://www.amazon.com/dp/1477614737/,1,1
+Evil Geniuses in a Nutshell (In a Nutshell (O'Reilly)),Book,http://www.amazon.com/dp/156592861X/,1,1
+Tropic of Chaos: Climate Change and the New Geography of Violence,Book,http://www.amazon.com/dp/1568587295/,2,1
+"Things Might Go Terribly, Horribly Wrong: A Guide to Life Liberated from Anxiety",Book,http://www.amazon.com/dp/1572247118/,4,1
+Python Scripting for ArcGIS,Book,http://www.amazon.com/dp/1589482824/,9,1
+Should I Go to Grad School?: 41 Answers to An Impossible Question,Book,http://www.amazon.com/dp/1620405989/,2,1
+"Field Notes from a Catastrophe: Man, Nature, and Climate Change",Book,http://www.amazon.com/dp/1620409887/,2,1
+A Modern Approach to Quantum Mechanics,Book,http://www.amazon.com/dp/1891389785/,2,1
+Introduction to Elementary Particles,Book,http://www.amazon.com/dp/3527406018/,7,1
 ValueTale Set (Multiple Volume Value Tales Book Set),Book,http://www.amazon.com/dp/B000OFI0BW/,1,1
+Samson Go Mic Portable USB Condenser Microphone,Musical Instruments,http://www.amazon.com/dp/B001R76D42/,36,1
+A Rulebook for Arguments (Hackett Student Handbooks),eBooks,http://www.amazon.com/dp/B003GEKKX4/,1,1
+"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",eBooks,http://www.amazon.com/dp/B003JTHXZY/,5,1
+How to Read a Book: The Classic Guide to Intelligent Reading,Book,http://www.amazon.com/dp/B0092GBLHY/,1,1
+Essex County,eBooks,http://www.amazon.com/dp/B009DMJ9VC/,1,1
+Kleine Quantenmechanik - German Language,Book,http://www.amazon.com/dp/B00B13J15A/,1,1
+Programming ArcGIS 10.1 with Python Cookbook,eBooks,http://www.amazon.com/dp/B00B90PJRY/,1,1
+Sony ICD-UX533BLK Digital Voice Recorder - Black,CE,http://www.amazon.com/dp/B00BQ7WRAC/,2,1
+Wiztem Jasmine Book Stand (WIZ-JAS),Office Product,http://www.amazon.com/dp/B00N4KVGHE/,1,1
+Calculus,Book,http://www.amazon.com/dp/0030964202/,2,1
+"GraduationMall Classic Doctoral Graduation Gown 51(5'6""-5'8"")",Apparel,http://www.amazon.com/dp/B00RCX6SKE/,1,1
+The Cartoon Guide to Chemistry,Book,http://www.amazon.com/dp/0060936770/,1,1
+The Cartoon Guide to Genetics (Updated Edition),Book,http://www.amazon.com/dp/0062730991/,1,1
+The Human Brain Coloring Book (Coloring Concepts Series),Book,http://www.amazon.com/dp/0064603067/,5,1
+"Schaum's Outline of Review of Elementary Mathematics, 2nd Edition (Schaum's Outlines)",Book,http://www.amazon.com/dp/007176254X/,5,1
+"Mastering ArcGIS, 6th Edition",Book,http://www.amazon.com/dp/0078021421/,1,1
+American Education,Book,http://www.amazon.com/dp/007802451X/,1,1
+Introduction to Quantum Mechanics (2nd Edition),Book,http://www.amazon.com/dp/0131118927/,17,1

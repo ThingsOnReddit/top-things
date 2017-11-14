@@ -1,31 +1,87 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws,Book,http://www.amazon.com/dp/1118026470/,18,3
-"Hacking: The Art of Exploitation, 2nd Edition",Book,http://www.amazon.com/dp/1593271441/,15,2
-The Tangled Web: A Guide to Securing Modern Web Applications,Book,http://www.amazon.com/dp/1593273886/,6,2
-Penetration Testing: A Hands-On Introduction to Hacking,Book,http://www.amazon.com/dp/1593275641/,5,2
-Defensive Security Handbook: Best Practices for Securing Infrastructure,Books,https://www.amazon.com/Defensive-Security-Handbook-Practices-Infrastructure/dp/1491960388/,,1
-Penetration Testing: A Hands-On Introduction to Hacking,eBooks,http://www.amazon.com/dp/B00KME7GN8/,,1
-Practical Malware Analysis: A Hands-On Guide to Dissecting Malicious Software,Book,http://www.amazon.com/dp/1593272901/,10,1
-The Hacker Playbook 2: Practical Guide To Penetration Testing,Book,http://www.amazon.com/dp/1512214566/,7,1
-The Shellcoder's Handbook: Discovering and Exploiting Security Holes,Book,http://www.amazon.com/dp/047008023X/,4,1
-Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder.,Books,https://www.amazon.com/Blue-Team-Handbook-condensed-Responder/dp/1500734756,3,1
-"The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory",Book,http://www.amazon.com/dp/1118825098/,3,1
-"TCP/IP Illustrated, Volume 1: The Protocols (2nd Edition) (Addison-Wesley Professional Computing Series)",Book,http://www.amazon.com/dp/0321336313/,2,1
-Alfa AWUS036NH 2000mW 2W 802.11g/n High Gain USB Wireless G / N Long-Range WiFi Network Adapter with 5dBi Screw-On Swivel Rubber Antenna and 7dBi Panel Antenna and Suction cup / Clip Window Mount,PC Accessory,http://www.amazon.com/dp/B003YIFHJY/,2,1
-The Practice of Network Security Monitoring: Understanding Incident Detection and Response,Book,http://www.amazon.com/dp/1593275099/,2,1
-"CompTIA Network+ Certification All-in-One Exam Guide, 5th Edition (Exam N10-005)",Book,http://www.amazon.com/dp/0071789227/,2,1
-Metasploit: The Penetration Tester's Guide,Book,http://www.amazon.com/dp/159327288X/,2,1
-"Applied Network Security Monitoring: Collection, Detection, and Analysis",Book,http://www.amazon.com/dp/0124172083/,2,1
-"SpongeBob 13"" Plush Stuffed Backpack",Toy,http://www.amazon.com/dp/B00412J70C/,1,1
-Dualcomm DCSW-1005 USB Powered 5-Port 10/100 Fast Ethernet Switch TAP (Port Mirroring),PC Accessory,http://www.amazon.com/dp/B002BSF112/,1,1
-Build Your Own Security Lab: A Field Guide for Network Testing,Book,http://www.amazon.com/dp/0470179864/,1,1
-"Professional Penetration Testing, Second Edition: Creating and Learning in a Hacking Lab",Book,http://www.amazon.com/dp/1597499935/,1,1
-"CEH Certified Ethical Hacker All-in-One Exam Guide, Second Edition",Book,http://www.amazon.com/dp/0071836489/,1,1
+The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws,Book,http://www.amazon.com/dp/1118026470/,41,9
+Penetration Testing: A Hands-On Introduction to Hacking,Book,http://www.amazon.com/dp/1593275641/,20,8
+Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder.,Book,http://www.amazon.com/dp/1500734756/,14,4
+The Practice of Network Security Monitoring: Understanding Incident Detection and Response,Book,http://www.amazon.com/dp/1593275099/,9,3
+Practical Malware Analysis: A Hands-On Guide to Dissecting Malicious Software,Book,http://www.amazon.com/dp/1593272901/,21,3
+Dualcomm DCSW-1005 USB Powered 5-Port 10/100 Fast Ethernet Switch TAP (Port Mirroring),PC Accessory,http://www.amazon.com/dp/B002BSF112/,4,3
+The Tangled Web: A Guide to Securing Modern Web Applications,Book,http://www.amazon.com/dp/1593273886/,12,3
+The Hacker Playbook 2: Practical Guide To Penetration Testing,Book,http://www.amazon.com/dp/1512214566/,27,3
+"Hacking: The Art of Exploitation, 2nd Edition",Book,http://www.amazon.com/dp/1593271441/,41,3
+Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon,Book,http://www.amazon.com/dp/0770436196/,8,2
+The Tao of Network Security Monitoring: Beyond Intrusion Detection,Book,http://www.amazon.com/dp/0321246772/,3,2
+"CEH Certified Ethical Hacker All-in-One Exam Guide, Second Edition",Book,http://www.amazon.com/dp/0071836489/,2,2
+Metasploit: The Penetration Tester's Guide,Book,http://www.amazon.com/dp/159327288X/,8,2
+CompTIA Security+: Get Certified Get Ahead: SY0-401 Study Guide,Book,http://www.amazon.com/dp/1939136024/,30,2
+SharkTap Network Sniffer,PC Accessory,http://www.amazon.com/dp/B00DY77HHK/,10,2
+"The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory",Book,http://www.amazon.com/dp/1118825098/,8,2
+Secure Coding in C and C++ (2nd Edition) (SEI Series in Software Engineering),Book,http://www.amazon.com/dp/0321822137/,2,1
+The Shellcoder's Handbook: Discovering and Exploiting Security Holes,Book,http://www.amazon.com/dp/047008023X/,7,1
+Build Your Own Security Lab: A Field Guide for Network Testing,Book,http://www.amazon.com/dp/0470179864/,4,1
+Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code,Book,http://www.amazon.com/dp/0470613033/,8,1
 Security Monitoring: Proven Methods for Incident Detection on Enterprise Networks,Book,http://www.amazon.com/dp/0596518161/,1,1
+The Blue Nowhere: A Novel,Book,http://www.amazon.com/dp/0671042262/,1,1
+Network Intrusion Detection (3rd Edition),Book,http://www.amazon.com/dp/0735712654/,2,1
+iOS Hacker's Handbook,Book,http://www.amazon.com/dp/1118204123/,7,1
+"Data-Driven Security: Analysis, Visualization and Dashboards",Book,http://www.amazon.com/dp/1118793722/,1,1
+Threat Modeling: Designing for Security,Book,http://www.amazon.com/dp/1118809998/,3,1
+The Antivirus Hacker's Handbook,Book,http://www.amazon.com/dp/1119028752/,2,1
+"CEH Certified Ethical Hacker All-in-One Exam Guide, Third Edition",Book,http://www.amazon.com/dp/125983655X/,1,1
+"CEH Certified Ethical Hacker Practice Exams, Third Edition (All-In-One)",Book,http://www.amazon.com/dp/1259836606/,1,1
+The Personal Internet Address & Password Log Book,Book,http://www.amazon.com/dp/1441303251/,2,1
+Network Security Through Data Analysis: Building Situational Awareness,Book,http://www.amazon.com/dp/1449357903/,1,1
+Glass Jaw: A Manifesto for Defending Fragile Reputations in an Age of Instant Scandal,Book,http://www.amazon.com/dp/1455582972/,1,1
 10 Don'ts on Your Digital Devices: The Non-Techie's Survival Guide to Cyber Security and Privacy,Book,http://www.amazon.com/dp/1484203682/,1,1
-Network Intrusion Detection (3rd Edition),Book,http://www.amazon.com/dp/0735712654/,1,1
-"Incident Response & Computer Forensics, Third Edition",Book,http://www.amazon.com/dp/0071798684/,1,1
-Logging and Log Management: The Authoritative Guide to Understanding the Concepts Surrounding Logging and Log Management,Book,http://www.amazon.com/dp/1597496359/,1,1
+SCADA and Me: A Book for Children and Management,Book,http://www.amazon.com/dp/149127512X/,1,1
+Defensive Security Handbook: Best Practices for Securing Infrastructure,Book,http://www.amazon.com/dp/1491960388/,1,1
+Rtfm: Red Team Field Manual,Book,http://www.amazon.com/dp/1494295504/,14,1
+"RHCSA & RHCE Red Hat Enterprise Linux 7: Training and Exam Preparation Guide (EX200 and EX300), Third Edition",Book,http://www.amazon.com/dp/1495148203/,12,1
+Linux Forensics,Book,http://www.amazon.com/dp/1515037630/,2,1
+Windows Forensics,Book,http://www.amazon.com/dp/1535312432/,2,1
+Building Virtual Machine Labs: A Hands-On Guide,Book,http://www.amazon.com/dp/1546932631/,7,1
+Aluminum Foil Deflector Beanie: Practical Mind Control Protection for Paranoids,Book,http://www.amazon.com/dp/1581603762/,10,1
+"Cryptography: Theory and Practice, Third Edition (Discrete Mathematics and Its Applications)",Book,http://www.amazon.com/dp/1584885084/,1,1
+Silence on the Wire: A Field Guide to Passive Reconnaissance and Indirect Attacks,Book,http://www.amazon.com/dp/1593270461/,1,1
+"The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference",Book,http://www.amazon.com/dp/159327047X/,6,1
+Hacking the Cable Modem: What Cable Companies Don't Want You to Know,Book,http://www.amazon.com/dp/1593271018/,2,1
+Security Data Visualization: Graphical Techniques for Network Analysis,Book,http://www.amazon.com/dp/1593271433/,1,1
+Practical Packet Analysis: Using Wireshark to Solve Real-World Network Problems,Book,http://www.amazon.com/dp/1593272669/,7,1
+The Linux Command Line: A Complete Introduction,Book,http://www.amazon.com/dp/1593273894/,24,1
 SQL Injection Attacks and Defense,Book,http://www.amazon.com/dp/1597494240/,1,1
-The Tao of Network Security Monitoring: Beyond Intrusion Detection,Book,http://www.amazon.com/dp/0321246772/,1,1
-"Hacking Exposed Web Applications, Third Edition",Book,http://www.amazon.com/dp/0071740643/,1,1
+Logging and Log Management: The Authoritative Guide to Understanding the Concepts Surrounding Logging and Log Management,Book,http://www.amazon.com/dp/1597496359/,1,1
+Information Security Risk Assessment Toolkit: Practical Assessments through Data Collection and Data Analysis,Book,http://www.amazon.com/dp/1597497355/,1,1
+"Professional Penetration Testing, Second Edition: Creating and Learning in a Hacking Lab",Book,http://www.amazon.com/dp/1597499935/,2,1
+Building Virtual Pentesting Labs for Advanced Penetration Testing,Book,http://www.amazon.com/dp/1783284773/,1,1
+Kali Linux Network Scanning Cookbook,Book,http://www.amazon.com/dp/1783982144/,1,1
+Computer Networks 5th By Andrew S. Tanenbaum (International Economy Edition),Book,http://www.amazon.com/dp/9332518742/,2,1
+The Trusted Advisor,eBooks,http://www.amazon.com/dp/B000FC0VWA/,1,1
+Alfa AWUS051NH 500mW Dual-band Wireless USB Adapter,PC Accessory,http://www.amazon.com/dp/B00286CNKO/,1,1
+Alfa AWUS036NH 2000mW 2W 802.11g/n High Gain USB Wireless G / N Long-Range WiFi Network Adapter with 5dBi Screw-On Swivel Rubber Antenna and 7dBi Panel Antenna and Suction cup / Clip Window Mount,PC Accessory,http://www.amazon.com/dp/B003YIFHJY/,12,1
+"SpongeBob 13"" Plush Stuffed Backpack",Toy,http://www.amazon.com/dp/B00412J70C/,1,1
+Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground,eBooks,http://www.amazon.com/dp/B004IK8Q2M/,2,1
+BARSKA Breakable Emergency Key Box w/ Attached Hammer,Sports,http://www.amazon.com/dp/B008HQ6YCM/,1,1
+Ubiquiti EdgeMax EdgeRouter Lite ERLite-3 512MB Memory 3 Ethernet Ports Router,Personal Computer,http://www.amazon.com/dp/B00CPRVF5K/,36,1
+BLACK+DECKER BDCMTSB Matrix Wide-Mouth Storage Bag,Home Improvement,http://www.amazon.com/dp/B00FFZQ11M/,1,1
+Sony VAIO Pro SVP1321HGXBI 13.3' LED (Triluminos) Ultrabook - Intel Core i7 i7-4500U 1.80 GHz - Black,PC Accessory,http://www.amazon.com/dp/B00G1BQ8RG/,1,1
+"Incognito Toolkit - Tools, Apps, and Creative Methods for Remaining Anonymous, Private, and Secure While Communicating, Publishing, Buying, and Researching Online",eBooks,http://www.amazon.com/dp/B00G2A2A1O/,1,1
+NETGEAR GS105Ev2 5-Port Gigabit Smart Managed Plus Switch | ProSAFE Lifetime Protection,Personal Computer,http://www.amazon.com/dp/B00HGLVZLY/,12,1
+Penetration Testing: A Hands-On Introduction to Hacking,eBooks,http://www.amazon.com/dp/B00KME7GN8/,3,1
+TP-Link 5-Port Gigabit Ethernet Easy Smart Switch | Managed Plus | Plug and Play | Desktop | Sturdy Metal w/ Sheilded Ports | Limited Lifetime Replacement (TL-SG105E),Personal Computer,http://www.amazon.com/dp/B00N0OHEMA/,8,1
+"HooToo Wireless Travel Router, USB Port, High Performance, 10400mAh External Battery Pack Travel Charger - TripMate Titan (Not a Hotspot)",Personal Computer,http://www.amazon.com/dp/B00RVIGY1I/,15,1
+24 Deadly Sins of Software Security: Programming Flaws and How to Fix Them,Book,http://www.amazon.com/dp/0071626751/,3,1
+"Surge Backpack, HIGH RISE GREY / COSMIC BLUE",PC Accessory,http://www.amazon.com/dp/B019R0BG9C/,1,1
+"Hacking Exposed Web Applications, Third Edition",Book,http://www.amazon.com/dp/0071740643/,2,1
+"CompTIA Network+ Certification All-in-One Exam Guide, 5th Edition (Exam N10-005)",Book,http://www.amazon.com/dp/0071789227/,7,1
+The Computer Incident Response Planning Handbook:  Executable Plans for Protecting Information at Risk,Book,http://www.amazon.com/dp/007179039X/,1,1
+"Incident Response & Computer Forensics, Third Edition",Book,http://www.amazon.com/dp/0071798684/,1,1
+"The Basics of Hacking and Penetration Testing, Second Edition: Ethical Hacking and Penetration Testing Made Easy",Book,http://www.amazon.com/dp/0124116442/,6,1
+"Applied Network Security Monitoring: Collection, Detection, and Analysis",Book,http://www.amazon.com/dp/0124172083/,2,1
+"C Programming Language, 2nd Edition",Book,http://www.amazon.com/dp/0131103628/,109,1
+Computer Networks (5th Edition),Book,http://www.amazon.com/dp/0132126958/,7,1
+Computer Networking: A Top-Down Approach (7th Edition),Book,http://www.amazon.com/dp/0133594149/,7,1
+"Interconnections: Bridges, Routers, Switches, and Internetworking Protocols (2nd Edition)",Book,http://www.amazon.com/dp/0201634481/,4,1
+Enterprise Security for the Executive: Setting the Tone from the Top (PSI Business Security),Book,http://www.amazon.com/dp/0313376603/,1,1
+"TCP/IP Illustrated, Volume 1: The Protocols (2nd Edition) (Addison-Wesley Professional Computing Series)",Book,http://www.amazon.com/dp/0321336313/,12,1
+"Security Metrics: Replacing Fear, Uncertainty, and Doubt",Book,http://www.amazon.com/dp/0321349989/,1,1
+The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities (2 Volume set),Book,http://www.amazon.com/dp/0321444426/,5,1
+Applied Security Visualization,Book,http://www.amazon.com/dp/0321510100/,1,1

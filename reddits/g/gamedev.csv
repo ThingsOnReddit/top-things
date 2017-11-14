@@ -1,110 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"Game Engine Architecture, Second Edition",Book,http://www.amazon.com/dp/1466560010/,16,10
-Unity in Action: Multiplatform Game Development in C# with Unity 5,Book,http://www.amazon.com/dp/161729232X/,8,7
-"The Art of Game Design: A Book of Lenses, Second Edition",Book,http://www.amazon.com/dp/1466598646/,8,4
-The Art of Game Design: A Book of Lenses,Book,http://www.amazon.com/dp/0123694965/,7,3
-Programming Game AI By Example (Wordware Game Developers Library),Book,http://www.amazon.com/dp/1556220782/,5,3
-"Game Coding Complete, Fourth Edition",Book,http://www.amazon.com/dp/1133776574/,5,3
-Theory of Fun for Game Design,Book,http://www.amazon.com/dp/1449363210/,4,3
-"Drawing on the Right Side of the Brain: The Definitive, 4th Edition",Book,http://www.amazon.com/dp/1585429201/,19,2
-Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture,Book,http://www.amazon.com/dp/0812972155/,18,2
-How to Draw: drawing and sketching objects and environments from your imagination,Book,http://www.amazon.com/dp/1933492732/,12,2
-Game Programming Patterns,Book,http://www.amazon.com/dp/0990582906/,5,2
-Designing Games: A Guide to Engineering Experiences,Book,http://www.amazon.com/dp/1449337937/,5,2
-Rules of Play: Game Design Fundamentals (MIT Press),Book,http://www.amazon.com/dp/0262240459/,4,2
-Designing Virtual Worlds,Book,http://www.amazon.com/dp/0131018167/,3,2
-"3D Math Primer for Graphics and Game Development, 2nd Edition",Book,http://www.amazon.com/dp/1568817231/,3,2
-3D Game Engine Design: A Practical Approach to Real-Time Computer Graphics (Morgan Kaufmann Series in Interactive 3D Technology),Book,http://www.amazon.com/dp/0122290631/,2,2
-"Alfred's Basic Adult All-in-One Course, Book 1: Learn How to Play Piano with Lesson, Theory and Technic (Alfred's Basic Adult Piano Course)",eBooks,http://www.amazon.com/dp/B017OBN7CK/,,1
-"Drawing on the Right Side of the Brain: The Definitive, 4th Edition",eBooks,http://www.amazon.com/dp/B005GSYXU4/,,1
-Game Programming Patterns,eBooks,http://www.amazon.com/dp/B00P5URD96/,,1
-The Definitive Guide to Taxes for Indie Game Developers,eBooks,http://www.amazon.com/dp/B0197G82MK/,,1
-Designing Games: A Guide to Engineering Experiences,eBooks,http://www.amazon.com/dp/B00AWKX1FO/,,1
-"Primalbranding: Create Zealots for Your Brand, Your Company, and Your Future",eBooks,http://www.amazon.com/dp/B000FCKRWY/,,1
-"Game Engine Architecture, Second Edition",eBooks,http://www.amazon.com/dp/B00MMOJ076/,,1
-Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,71,1
-How to Win Friends & Influence People,Books,https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034/ref=sr_1_1?ie=UTF8&amp;qid=1504870726&amp;sr=8-1&amp;keywords=how+to+win+friends+and+influence+people,63,1
-Feeling Good: The New Mood Therapy,Book,http://www.amazon.com/dp/0380810336/,39,1
-"C Programming Language, 2nd Edition",Book,http://www.amazon.com/dp/0131103628/,34,1
-The Power of Habit: Why We Do What We Do in Life and Business,Book,http://www.amazon.com/dp/081298160X/,30,1
-The Pragmatic Programmer: From Journeyman to Master,Book,http://www.amazon.com/dp/020161622X/,27,1
-"Code Complete: A Practical Handbook of Software Construction, Second Edition",Book,http://www.amazon.com/dp/0735619670/,25,1
-JavaScript: The Good Parts,Book,http://www.amazon.com/dp/0596517742/,15,1
-The Design of Everyday Things: Revised and Expanded Edition,Book,http://www.amazon.com/dp/0465050654/,14,1
-Mindset: The New Psychology of Success,Book,http://www.amazon.com/dp/0345472322/,12,1
-C++ Primer (5th Edition),Book,http://www.amazon.com/dp/0321714113/,11,1
-"The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)",Book,http://www.amazon.com/dp/0201835959/,11,1
-Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14,Book,http://www.amazon.com/dp/1491903996/,11,1
-Flow: The Psychology of Optimal Experience (Harper Perennial Modern Classics),Book,http://www.amazon.com/dp/0061339202/,9,1
-"The C++ Programming Language, 4th Edition",Book,http://www.amazon.com/dp/0321563840/,9,1
-How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life,Book,http://www.amazon.com/dp/1591847745/,8,1
-Figure Drawing for All It's Worth,Book,http://www.amazon.com/dp/0857680986/,8,1
-"The Animator's Survival Kit: A Manual of Methods, Principles and Formulas for Classical, Computer, Games, Stop Motion and Internet Animators",Book,http://www.amazon.com/dp/086547897X/,6,1
-Effective C++: 55 Specific Ways to Improve Your Programs and Designs (3rd Edition),Book,http://www.amazon.com/dp/0321334876/,6,1
-Bird by Bird: Some Instructions on Writing and Life,Book,http://www.amazon.com/dp/0385480016/,5,1
-"Danby 120 Can Beverage Center, Stainless Steel DBC120BLS",Major Appliances,http://www.amazon.com/dp/B002MPLYEW/,5,1
-ASUS UX305 13-Inch Laptop [2015 model],Personal Computer,http://www.amazon.com/dp/B00SGS7ZH4/,5,1
-Accelerated C++: Practical Programming by Example,Book,http://www.amazon.com/dp/020170353X/,5,1
-Color Correction Handbook: Professional Techniques for Video and Cinema (2nd Edition) (Digital Video & Audio Editing Courses),Book,http://www.amazon.com/dp/0321929667/,4,1
-"Universal Principles of Design, Revised and Updated: 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach through Design",Book,http://www.amazon.com/dp/1592535879/,4,1
-Programming: Principles and Practice Using C++ (2nd Edition),Book,http://www.amazon.com/dp/0321992784/,4,1
-Real-Time Collision Detection (The Morgan Kaufmann Series in Interactive 3-D Technology),Book,http://www.amazon.com/dp/1558607323/,3,1
-"Game Design Workshop: A Playcentric Approach to Creating Innovative Games, Third Edition",Book,http://www.amazon.com/dp/1482217163/,3,1
-"Real-Time Rendering, Third Edition",Book,http://www.amazon.com/dp/1568814240/,3,1
-Rework,Book,http://www.amazon.com/dp/0307463745/,3,1
-Game Feel: A Game Designer's Guide to Virtual Sensation (Morgan Kaufmann Game Design Books),Book,http://www.amazon.com/dp/0123743281/,3,1
-"How to Render: the fundamentals of light, shadow and reflectivity",Book,http://www.amazon.com/dp/1933492961/,3,1
-Game Mechanics: Advanced Game Design (Voices That Matter),Book,http://www.amazon.com/dp/0321820274/,3,1
-The Everything Store: Jeff Bezos and the Age of Amazon,Book,http://www.amazon.com/dp/0316219266/,2,1
-"12 Pack- Acoustic Panels Studio Foam Wedges 1"" X 12"" X 12""",Musical Instruments,http://www.amazon.com/dp/B010GPFRUQ/,2,1
-The Timeless Way of Building,Book,http://www.amazon.com/dp/0195024028/,2,1
-ASUS UX501 15-Inch Laptop [4th Gen CPU model],Personal Computer,http://www.amazon.com/dp/B00VQPLR50/,2,1
-"ASUS K501LX 15.6 Inch Laptop (Intel Core i7, 8 GB, 256GB SSD) NVIDIA GeForce GTX 950M",Personal Computer,http://www.amazon.com/dp/B00YR6BMS2/,2,1
-Grit: The Power of Passion and Perseverance,Book,http://www.amazon.com/dp/1501111108/,2,1
-OpenGL Superbible: Comprehensive Tutorial and Reference (7th Edition),Book,http://www.amazon.com/dp/0672337479/,2,1
-The Dip: A Little Book That Teaches You When to Quit (and When to Stick),Book,http://www.amazon.com/dp/1591841666/,2,1
-Monoprice MP1060-HA60 Graphic Drawing Tablet,Personal Computer,http://www.amazon.com/dp/B004C4ZT0G/,2,1
-The New Drawing on the Right Side of the Brain,Book,http://www.amazon.com/dp/0874774241/,2,1
-Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems,Book,http://www.amazon.com/dp/0814474578/,2,1
-"Mathematics for 3D Game Programming and Computer Graphics, Third Edition",Book,http://www.amazon.com/dp/1435458869/,2,1
-Formula D,Toy,http://www.amazon.com/dp/2914849648/,2,1
-"Beginning C++ Through Game Programming, Fourth Edition",eBooks,http://www.amazon.com/dp/B00LZW07P0/,2,1
-Wacom Intuos Pen and Touch Small Tablet (Old Version),Electronics,https://www.amazon.com/Wacom-Intuos-Touch-Small-Tablet/dp/B00EN27U9U/,2,1
-Drawing the Head and Hands,Book,http://www.amazon.com/dp/0857680978/,2,1
-Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library,Book,http://www.amazon.com/dp/0201749629/,2,1
-The Natural Way to Draw: A Working Plan for Art Study,Book,http://www.amazon.com/dp/0395530075/,2,1
-Business and Legal Forms for Illustrators (Business and Legal Forms Series),Book,http://www.amazon.com/dp/1581153643/,1,1
-"Essential Mathematics for Games and Interactive Applications: A Programmer's Guide, Second Edition",Book,http://www.amazon.com/dp/0123742978/,1,1
-Walt Disney Imagineering: A Behind the Dreams Look At Making the Magic Real (A Walt Disney Imagineering Book),Book,http://www.amazon.com/dp/0786883723/,1,1
-Game Architecture and Design: A New Edition,Book,http://www.amazon.com/dp/0735713634/,1,1
-Advanced Engineering Mathematics,Book,http://www.amazon.com/dp/0763779660/,1,1
-"3D Games: Real-Time Rendering and Software Technology, Volume 1 (With CD-ROM)",Book,http://www.amazon.com/dp/0201619210/,1,1
-The Ultimate Guide to Video Game Writing and Design,Book,http://www.amazon.com/dp/158065066X/,1,1
+Unity in Action: Multiplatform Game Development in C# with Unity 5,Book,http://www.amazon.com/dp/161729232X/,68,58
+"Game Engine Architecture, Second Edition",Book,http://www.amazon.com/dp/1466560010/,42,24
+"The Art of Game Design: A Book of Lenses, Second Edition",Book,http://www.amazon.com/dp/1466598646/,36,16
+The Art of Game Design: A Book of Lenses,Book,http://www.amazon.com/dp/0123694965/,37,14
+"Game Coding Complete, Fourth Edition",Book,http://www.amazon.com/dp/1133776574/,18,10
+"3D Math Primer for Graphics and Game Development, 2nd Edition",Book,http://www.amazon.com/dp/1568817231/,20,9
+"Mathematics for 3D Game Programming and Computer Graphics, Third Edition",Book,http://www.amazon.com/dp/1435458869/,16,9
+Theory of Fun for Game Design,Book,http://www.amazon.com/dp/1449363210/,22,8
+Design Patterns: Elements of Reusable Object-Oriented Software,Book,http://www.amazon.com/dp/0201633612/,87,7
+Game Engine Architecture,Book,http://www.amazon.com/dp/1568814135/,11,7
+The Pragmatic Programmer: From Journeyman to Master,Book,http://www.amazon.com/dp/020161622X/,86,6
+Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,236,6
+"Drawing on the Right Side of the Brain: The Definitive, 4th Edition",Book,http://www.amazon.com/dp/1585429201/,79,6
+Multiplayer Game Programming: Architecting Networked Games (Game Design),Book,http://www.amazon.com/dp/0134034309/,6,6
+Level Up! The Guide to Great Video Game Design,Book,http://www.amazon.com/dp/1118877160/,13,6
+Game Feel: A Game Designer's Guide to Virtual Sensation (Morgan Kaufmann Game Design Books),Book,http://www.amazon.com/dp/0123743281/,22,6
+Programming Game AI By Example (Wordware Game Developers Library),Book,http://www.amazon.com/dp/1556220782/,11,6
+Real-Time Collision Detection (The Morgan Kaufmann Series in Interactive 3-D Technology),Book,http://www.amazon.com/dp/1558607323/,9,5
+Head First Design Patterns: A Brain-Friendly Guide,Book,http://www.amazon.com/dp/0596007124/,51,5
+"Code Complete: A Practical Handbook of Software Construction, Second Edition",Book,http://www.amazon.com/dp/0735619670/,85,5
+Game Programming Patterns,Book,http://www.amazon.com/dp/0990582906/,14,5
+3D Game Engine Design: A Practical Approach to Real-Time Computer Graphics (Morgan Kaufmann Series in Interactive 3D Technology),Book,http://www.amazon.com/dp/0122290631/,5,4
+Game Programming Patterns,eBooks,http://www.amazon.com/dp/B00P5URD96/,4,4
+"Real-Time Rendering, Third Edition",Book,http://www.amazon.com/dp/1568814240/,15,4
+Designing Games: A Guide to Engineering Experiences,Book,http://www.amazon.com/dp/1449337937/,16,4
+The Design of Everyday Things: Revised and Expanded Edition,Book,http://www.amazon.com/dp/0465050654/,49,4
+Programming: Principles and Practice Using C++ (2nd Edition),Book,http://www.amazon.com/dp/0321992784/,36,4
+"The Animator's Survival Kit: A Manual of Methods, Principles and Formulas for Classical, Computer, Games, Stop Motion and Internet Animators",Book,http://www.amazon.com/dp/086547897X/,39,4
+Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture,Book,http://www.amazon.com/dp/0812972155/,38,4
+Tricks of the 3D Game Programming Gurus-Advanced 3D Graphics and Rasterization (Other Sams),Book,http://www.amazon.com/dp/0672318350/,4,4
+Introduction to 3D Game Programming with DirectX 11,Book,http://www.amazon.com/dp/1936420228/,9,4
+Glued to Games: How Video Games Draw Us In and Hold Us Spellbound (New Directions in Media),Book,http://www.amazon.com/dp/0313362246/,8,3
+Rules of Play: Game Design Fundamentals (MIT Press),Book,http://www.amazon.com/dp/0262240459/,11,3
+"Jab, Jab, Jab, Right Hook: How to Tell Your Story in a Noisy Social World",Book,http://www.amazon.com/dp/006227306X/,9,3
+C++ Primer (5th Edition),Book,http://www.amazon.com/dp/0321714113/,55,3
+How to Draw: drawing and sketching objects and environments from your imagination,Book,http://www.amazon.com/dp/1933492732/,43,3
+"The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)",Book,http://www.amazon.com/dp/0201835959/,37,3
+"Game Engine Architecture, Second Edition",eBooks,http://www.amazon.com/dp/B00MMOJ076/,3,3
+The Ultimate Guide to Video Game Writing and Design,Book,http://www.amazon.com/dp/158065066X/,7,3
+Challenges for Game Designers,Book,http://www.amazon.com/dp/158450580X/,12,3
+No-Code Video Game Development Using Unity and Playmaker,Book,http://www.amazon.com/dp/1498735657/,3,3
+"Essential Mathematics for Games and Interactive Applications, Third Edition",Book,http://www.amazon.com/dp/1482250926/,5,3
+OpenGL Superbible: Comprehensive Tutorial and Reference (7th Edition),Book,http://www.amazon.com/dp/0672337479/,5,3
+"Foundations of Game Engine Development, Volume 1: Mathematics",Book,http://www.amazon.com/dp/0985811749/,3,3
+Effective C++: 55 Specific Ways to Improve Your Programs and Designs (3rd Edition),Book,http://www.amazon.com/dp/0321334876/,16,3
+The Illusion of Life: Disney Animation,Book,http://www.amazon.com/dp/0786860707/,18,3
+"Physically Based Rendering, Second Edition: From Theory to Implementation",Book,http://www.amazon.com/dp/0123750792/,5,3
+Rework,Book,http://www.amazon.com/dp/0307463745/,15,2
+Game Physics,Book,http://www.amazon.com/dp/0123749034/,2,2
+The Complete Film Production Handbook (American Film Market Presents),Book,http://www.amazon.com/dp/024081150X/,5,2
+The Natural Way to Draw: A Working Plan for Art Study,Book,http://www.amazon.com/dp/0395530075/,10,2
+Stay Awhile and Listen: Book I Legendary Edition: How Two Blizzards Unleashed Diablo and Forged a Video-Game Empire,eBooks,http://www.amazon.com/dp/B00G8UL474/,12,2
+Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library,Book,http://www.amazon.com/dp/0201749629/,3,2
+Introduction to 3D Game Programming with DirectX 12 (Computer Science),Book,http://www.amazon.com/dp/1942270062/,2,2
+Homo Ludens: A Study of the Play-Element in Culture,Book,http://www.amazon.com/dp/1614277060/,2,2
+"Essential Mathematics for Games and Interactive Applications: A Programmer's Guide, Second Edition",Book,http://www.amazon.com/dp/0123742978/,3,2
+"Universal Principles of Design, Revised and Updated: 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach through Design",Book,http://www.amazon.com/dp/1592535879/,13,2
+"ASUS K501LX 15.6 Inch Laptop (Intel Core i7, 8 GB, 256GB SSD) NVIDIA GeForce GTX 950M",Personal Computer,http://www.amazon.com/dp/B00YR6BMS2/,19,2
+Designing Virtual Worlds,Book,http://www.amazon.com/dp/0131018167/,5,2
+Game Programming Algorithms and Techniques: A Platform-Agnostic Approach (Game Design),Book,http://www.amazon.com/dp/0321940156/,3,2
+3D Math Primer For Graphics and Game Development (Wordware Game Math Library),Book,http://www.amazon.com/dp/1556229119/,9,2
+"Texturing and Modeling, Third Edition: A Procedural Approach (The Morgan Kaufmann Series in Computer Graphics)",Book,http://www.amazon.com/dp/1558608486/,5,2
+The Design of Everyday Things,Book,http://www.amazon.com/dp/1452654123/,25,2
+GPU Pro 6: Advanced Rendering Techniques,Book,http://www.amazon.com/dp/1482264617/,2,2
+Game Analytics: Maximizing the Value of Player Data,Book,http://www.amazon.com/dp/1447147685/,3,2
+OpenGL Insights,Book,http://www.amazon.com/dp/1439893764/,3,2
+"Head First C#: A Learner's Guide to Real-World Programming with C#, XAML, and .NET",Book,http://www.amazon.com/dp/1449343503/,10,2
+Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14,Book,http://www.amazon.com/dp/1491903996/,29,2
+Wonderbook: The Illustrated Guide to Creating Imaginative Fiction,Book,http://www.amazon.com/dp/1419704427/,7,2
+How to Win Friends & Influence People,Book,http://www.amazon.com/dp/0671027034/,222,2
+Building XNA 2.0 Games: A Practical Guide for Independent Game Development (Books for Professionals by Professionals),Book,http://www.amazon.com/dp/1430209798/,3,2
+"A Software Engineer Learns HTML5, JavaScript and jQuery",Book,http://www.amazon.com/dp/1493692615/,2,2
+Domain-Driven Design: Tackling Complexity in the Heart of Software,Book,http://www.amazon.com/dp/0321125215/,24,1
+The Everything Store: Jeff Bezos and the Age of Amazon,Book,http://www.amazon.com/dp/0316219266/,3,1
+Core Java Volume I--Fundamentals (10th Edition) (Core Series),Book,http://www.amazon.com/dp/0134177304/,7,1
+Computer Systems: A Programmer's Perspective (3rd Edition),Book,http://www.amazon.com/dp/013409266X/,13,1
+All Your Base Are Belong to Us: How Fifty Years of Videogames Conquered Pop Culture,Book,http://www.amazon.com/dp/0307463559/,2,1
+"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,112,1
+Virtual Economies: Design and Analysis (Information Policy),Book,http://www.amazon.com/dp/0262027259/,1,1
+The Non-Designer's Design Book (4th Edition),Book,http://www.amazon.com/dp/0133966151/,17,1
+Artificial Intelligence for Games,Book,http://www.amazon.com/dp/0123747317/,3,1
+A Composer's Guide to Game Music (MIT Press),Book,http://www.amazon.com/dp/0262026643/,8,1
+The Audio Programming Book (MIT Press),Book,http://www.amazon.com/dp/0262014467/,4,1
+Racing the Beam: The Atari Video Computer System (Platform Studies),Book,http://www.amazon.com/dp/026201257X/,7,1
+Data Structures & Algorithm Analysis in C++,Book,http://www.amazon.com/dp/013284737X/,2,1
+Drawn to Life: 20 Golden Years of Disney Master Classes: Volume 2: The Walt Stanchfield Lectures,Book,http://www.amazon.com/dp/0240811070/,2,1
+Drawn to Life: 20 Golden Years of Disney Master Classes: Volume 1: The Walt Stanchfield Lectures,Book,http://www.amazon.com/dp/0240810961/,4,1
+Chris Crawford on Game Design,Book,http://www.amazon.com/dp/0131460994/,2,1
+Producing Games: From Business and Budgets to Creativity and Design,Book,http://www.amazon.com/dp/0240810708/,1,1
+"Mindstorms: Children, Computers, And Powerful Ideas",Book,http://www.amazon.com/dp/0465046746/,4,1
+"The Art of Computer Programming, Vol. 1: Fundamental Algorithms, 3rd Edition",Book,http://www.amazon.com/dp/0201896834/,5,1
+"ADTs, Data Structures, and Problem Solving with C++ (2nd Edition)",Book,http://www.amazon.com/dp/0131409093/,2,1
+Game Usability: Advancing the Player Experience,Book,http://www.amazon.com/dp/0123744474/,2,1
+Visualizing Quaternions (The Morgan Kaufmann Series in Interactive 3D Technology),Book,http://www.amazon.com/dp/0120884003/,1,1
+Neuromancer,Book,http://www.amazon.com/dp/0441569595/,19,1
 Chinese Industrial Espionage: Technology Acquisition and Military Modernisation (Asian Security Studies),Book,http://www.amazon.com/dp/0415821428/,1,1
-Minecraft: The Unlikely Tale of Markus 'Notch' Persson and the Game that Changed Everything,Audible,http://www.amazon.com/dp/B00IMW2UV0/,1,1
-Adobe Creative Cloud Photography plan (Photoshop CC + Lightroom),Digital Software,http://www.amazon.com/dp/B00KNDCCE6/,1,1
-Programming Pearls (2nd Edition),Book,http://www.amazon.com/dp/0201657880/,1,1
-Game Physics Engine Development (The Morgan Kaufmann Series in Interactive 3D Technology),Book,http://www.amazon.com/dp/012369471X/,1,1
-The Mythical Man-Month: Essays on Software Engineering,Book,http://www.amazon.com/dp/0201006502/,1,1
-Real-Time Collision Detection (The Morgan Kaufmann Series in Interactive 3-D Technology),Books,https://www.amazon.com/exec/obidos/tg/detail/-/1558607323?tag=realtimecolli-20,1,1
-Adobe Photoshop CC - 12-month Plan,Digital Software,http://www.amazon.com/dp/B00CS75KKI/,1,1
-Wacom Intuos5 Touch Small Pen Tablet (PTH450),Personal Computer,http://www.amazon.com/dp/B0076HMDQO/,1,1
-Artificial Intelligence for Games,Book,http://www.amazon.com/dp/0123747317/,1,1
-Atari S. T. Internals: The Authoritative Insider's Guide,Book,http://www.amazon.com/dp/0916439461/,1,1
-Black Art of 3D Game Programming: Writing Your Own High-Speed 3D Polygon Video Games in C,Book,http://www.amazon.com/dp/1571690042/,1,1
-Michael Abrash's Graphics Programming Black Book (Special Edition),Book,http://www.amazon.com/dp/1576101746/,1,1
-Universal Principles of Design,Books,https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530079?ie=UTF8&amp;*Version*=1&amp;*entries*=0,1,1
-Homo Ludens: A Study of the Play-Element in Culture,Book,http://www.amazon.com/dp/1614277060/,1,1
-Zen of Graphics Programming: The Ultimate Guide to Writing Fast PC Graphics,Book,http://www.amazon.com/dp/188357708X/,1,1
-Building a 3D Game Engine in C++,Book,http://www.amazon.com/dp/0471123269/,1,1
-"A Software Engineer Learns HTML5, JavaScript and jQuery",Book,http://www.amazon.com/dp/1493692615/,1,1
-David Perry on Game Design: A Brainstorming ToolBox,Book,http://www.amazon.com/dp/1584506687/,1,1
-Agile Testing: A Practical Guide for Testers and Agile Teams,Book,http://www.amazon.com/dp/0321534468/,1,1
-Introduction to 3D Game Programming with DirectX 12 (Computer Science),Book,http://www.amazon.com/dp/1942270062/,1,1
-Introduction to 3D Game Programming with DirectX 11,Book,http://www.amazon.com/dp/1936420228/,1,1
-Puzzles for Hackers,Book,http://www.amazon.com/dp/1931769451/,1,1
-The Design and Evolution of C++,Book,http://www.amazon.com/dp/0201543303/,1,1
-"Thinking in C++, Vol. 1: Introduction to Standard C++, 2nd Edition",Book,http://www.amazon.com/dp/0139798099/,1,1
-The Standard C Library,Book,http://www.amazon.com/dp/0131315099/,1,1
-"Programming in Lua, Fourth Edition",Book,http://www.amazon.com/dp/8590379868/,1,1
-Successful Drawing,Book,http://www.amazon.com/dp/0857687611/,1,1
+Algorithms and Networking for Computer Games,Book,http://www.amazon.com/dp/0470018127/,1,1
+Limited Liability Companies For Dummies,Book,http://www.amazon.com/dp/0470173289/,1,1
+Parsing Techniques: A Practical Guide (Monographs in Computer Science),Book,http://www.amazon.com/dp/038720248X/,2,1
+The Standard C Library,Book,http://www.amazon.com/dp/0131315099/,3,1

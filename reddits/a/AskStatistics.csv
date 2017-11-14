@@ -1,2 +1,33 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Discovering Statistics Using R,Book,http://www.amazon.com/dp/1446200469/,3,1
+Statistical Tools for Measuring Agreement,Book,http://www.amazon.com/dp/1461405610/,2,2
+Discovering Statistics Using R,Book,http://www.amazon.com/dp/1446200469/,18,2
+"Discovering Statistics Using IBM SPSS Statistics, 4th Edition",Book,http://www.amazon.com/dp/1446249182/,9,2
+Introduction to Probability (Chapman & Hall/CRC Texts in Statistical Science),Book,http://www.amazon.com/dp/1466575573/,6,2
+A First Course in Probability (9th Edition),Book,http://www.amazon.com/dp/032179477X/,4,1
+The Grammar of Graphics (Statistics and Computing),Book,http://www.amazon.com/dp/0387245448/,6,1
+All of Statistics: A Concise Course in Statistical Inference (Springer Texts in Statistics),Book,http://www.amazon.com/dp/0387402721/,10,1
+Asymptotic Theory of Statistics and Probability (Springer Texts in Statistics),Book,http://www.amazon.com/dp/0387759700/,1,1
+A Probabilistic Theory of Pattern Recognition (Stochastic Modelling and Applied Probability),Book,http://www.amazon.com/dp/0387946187/,1,1
+Naked Statistics: Stripping the Dread from the Data,Book,http://www.amazon.com/dp/039334777X/,6,1
+"Statistics, 4th Edition",Book,http://www.amazon.com/dp/0393929728/,6,1
+Introduction to Meta-Analysis,Book,http://www.amazon.com/dp/0470057246/,1,1
+"An Introduction to Probability Theory and Its Applications, Vol. 1, 3rd Edition",Book,http://www.amazon.com/dp/0471257087/,2,1
+Statistical Inference,Book,http://www.amazon.com/dp/0534243126/,9,1
+The Myth of the Rational Voter: Why Democracies Choose Bad Policies,Book,http://www.amazon.com/dp/0691138737/,12,1
+Multiple Regression: Testing and Interpreting Interactions,Book,http://www.amazon.com/dp/0761907122/,2,1
+Missing Data (Quantitative Applications in the Social Sciences),Book,http://www.amazon.com/dp/0761916725/,1,1
+Logistic Regression Models for Ordinal Response Variables (Quantitative Applications in the Social Sciences),Book,http://www.amazon.com/dp/0761929894/,2,1
+"How to Think About Statistics, 6th Edition",Book,http://www.amazon.com/dp/0805072551/,1,1
+Snedecor and Cochran's Statistical Methods,Book,http://www.amazon.com/dp/0813808642/,1,1
+Probability and Measure,Book,http://www.amazon.com/dp/1118122372/,6,1
+Beginning R: The Statistical Programming Language,Book,http://www.amazon.com/dp/111816430X/,1,1
+Applied Predictive Modeling,Book,http://www.amazon.com/dp/1461468485/,8,1
+An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics),Book,http://www.amazon.com/dp/1461471370/,11,1
+"R for Data Science: Import, Tidy, Transform, Visualize, and Model Data",Book,http://www.amazon.com/dp/1491910399/,2,1
+Python Data Science Handbook: Essential Tools for Working with Data,Book,http://www.amazon.com/dp/1491912057/,5,1
+Understanding Analysis (Undergraduate Texts in Mathematics),Book,http://www.amazon.com/dp/1493927116/,12,1
+"Schaum's Outline of Probability and Statistics, 4th Edition: 897 Solved Problems + 20 Videos (Schaum's Outlines)",Book,http://www.amazon.com/dp/007179557X/,3,1
+"Sample Size Calculations in Clinical Research, Second Edition (Chapman & Hall/CRC Biostatistics Series)",eBooks,http://www.amazon.com/dp/B008KZUL60/,1,1
+The Signal and the Noise: Why So Many Predictions Fail--but Some Don't,Book,http://www.amazon.com/dp/0143125087/,13,1
+Statistics Without Tears: A Primer for Non-Mathematicians (Allyn & Bacon Classics Edition),Book,http://www.amazon.com/dp/0205395090/,1,1
+The Drunkard's Walk: How Randomness Rules Our Lives,Book,http://www.amazon.com/dp/0307275175/,16,1

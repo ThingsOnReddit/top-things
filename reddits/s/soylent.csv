@@ -1,42 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"Tradition Pure Green Tea Powder, Matcha Tea Powder, Product of Taiwan, 8.8 Oz",Grocery,http://www.amazon.com/dp/B001T5GHUM/,3,3
-"Soylent Meal Replacement Drink, Original, 14 oz Bottles, Pack of 12",Grocery,http://www.amazon.com/dp/B01EUEIL3E/,3,3
-Le Parfait French Glass Canning Jar with 85mm Gasket and Lid - 2 Liter,Kitchen,http://www.amazon.com/dp/B001A5SHUY/,2,2
-Astor Bidet Fresh Water Spray Non-Electric Mechanical Bidet Toilet Seat Attachment CB-1000,Home Improvement,http://www.amazon.com/dp/B003TPGPUW/,63,1
-"Ozeri Pronto Digital Multifunction Kitchen and Food Scale, Elegant Black",Kitchen,http://www.amazon.com/dp/B004164SRA/,42,1
-"Contigo AUTOSEAL West Loop Vacuum Insulated Stainless Steel Travel Mug with Easy-Clean Lid, 16oz, Black",Home & Kitchen,https://www.amazon.com/dp/B00HZI5XBG/,5,1
-"BlenderBottle Classic Loop Top Shaker Bottle, Clear/Black, 28-Ounce Loop Top",Home & Kitchen,https://www.amazon.com/BlenderBottle-Classic-Shaker-Bottle-Clear/dp/B00MVMCUK8/ref=sr_1_1/175-7955311-0270455?ie=UTF8&amp;qid=1439481950&amp;sr=8-1&amp;keywords=blender+bottle,4,1
-EZ-Sweetz (2oz - Liquid Sweetener 800 Servings/Bottle),Grocery,http://www.amazon.com/dp/B002MO765O/,4,1
-Maseca Instant Yellow Corn Masa Flour 4.84lb | Masa Instantanea de Maiz Amarillo 2.2kg,Grocery,http://www.amazon.com/dp/B0000IJYK4/,4,1
-"Dr. Tung's Tongue Cleaner, Stainless Steel (colors may vary)",Beauty,http://www.amazon.com/dp/B00064JGBO/,3,1
-"BetterBody Foods PB Fit Powder, Peanut Butter, 30 Ounce",Grocery & Gourmet Food,https://www.amazon.com/BetterBody-Foods-Powder-Peanut-Butter/dp/B00RKO8ZYW/ref=sr_1_4_a_it?ie=UTF8&amp;qid=1472422835&amp;sr=8-4&amp;keywords=peanut,2,1
-Hamilton Beach 59765 2 Speed Hand Blender,Kitchen,http://www.amazon.com/dp/B003NQE8B0/,2,1
-"Snapware 23-Cup Airtight Flip Storage Container, Plastic",Kitchen,http://www.amazon.com/dp/B019994XVY/,1,1
-Bormioli Rocco Hermetic Seal Glass Pitcher With Lid and Spout [68 Ounce] Great for Homemade Juice & Iced Tea or for Glass Milk Bottles,Kitchen,http://www.amazon.com/dp/B0131EKHO0/,1,1
-"Enzymatic Therapy L-Theanine, 100mg, 60 Vegetarian Capsules",Health and Beauty,http://www.amazon.com/dp/B0013OUH8W/,1,1
-"Acesulfame Potassium (Ace-K) - 200x Sweeter than Sugar - Kosher Semi-Natural Granular Sweetener, 12 oz",Grocery,http://www.amazon.com/dp/B01HFSKE5A/,1,1
-"Panasonic MX-SS1 Hand-Held Immersion Blender, Black",Kitchen,http://www.amazon.com/dp/B00OKRK2KC/,1,1
-Purina ALPO Gravy Cravers With Beef in Gravy Dog Food - (12) 13.2 oz. Pull-top Can,Pet Products,http://www.amazon.com/dp/B00AQT8CE6/,1,1
-"PackIt Freezable Mini Lunch Bag, Black",Kitchen,http://www.amazon.com/dp/B00IEGIV4O/,1,1
-"Maseca Golden Quality Azteca Milling Corn Flour,50 Pound",Grocery,http://www.amazon.com/dp/B0090G5SCA/,1,1
-"Soylent Original, Ready To Drink Breakfast in a Bottle, Nutritionally Complete Meal Replacement Beverage, 14 oz, 12 Pack",Health and Beauty,http://www.amazon.com/dp/B015DDEC16/,1,1
-" Sistema 1830 Klip It Collection Rectangle Food Storage Container, 101 Ounce",Kitchen,http://www.amazon.com/dp/B002AS8NOA/,1,1
-"Contigo Shake & Go Fit Mixer Bottle, 20oz, Electric Green",Kitchen,http://www.amazon.com/dp/B00LX6VHMA/,1,1
-"Hydro Flask Insulated Wide Mouth Stainless Steel Water Bottle, Acai Purple, 32-Ounce",Sports,http://www.amazon.com/dp/B00K5ZRTCM/,1,1
-"Hydro Flask Insulated Stainless Steel Water Bottle, Standard Mouth, Orange Zest, 21-Ounce",Sports,http://www.amazon.com/dp/B00418OO5Y/,1,1
-"Hydro Flask Stainless Steel Drinking Bottle, Everest Blue, 24-Ounce",Sports,http://www.amazon.com/dp/B002ZKVFN4/,1,1
-Clip-n-Seal Bag Clips - Variety 10 Pack,Home,http://www.amazon.com/dp/B00275A4MA/,1,1
-EdgeStar BWC70SS 62-Can Beverage Cooler - Stainless Steel,Appliances,https://www.amazon.com/EdgeStar-62-Can-Beverage-Cooler-Stainless/dp/B004DJDIMG/ref=sr_1_8?s=appliances&amp;ie=UTF8&amp;qid=1435852721&amp;sr=1-8,1,1
-"CLIF BAR - Energy Bar - Chocolate Chip - (2.4 Ounce Protein Bar, 12 Count)",Health and Beauty,http://www.amazon.com/dp/B0054RPY7I/,1,1
-Nutri Ninja Ninja Blender Duo with Auto-iQ (BL642),Kitchen,http://www.amazon.com/dp/B00NGV4E1G/,1,1
-"Bormioli Rocco Frigoverre Jug with Hermetic Lid, 68 ounces",Kitchen,http://www.amazon.com/dp/B0000DE9B5/,1,1
-"HERSHEY'S Chocolate Bar with Almonds, Milk Chocolate Candy Bar with Almonds, 1.45 Ounce Bar (Pack of 36)",Grocery,http://www.amazon.com/dp/B000IXWCR8/,1,1
+"Tradition Pure Green Tea Powder, Matcha Tea Powder, Product of Taiwan, 8.8 Oz",Grocery,http://www.amazon.com/dp/B001T5GHUM/,18,15
+"Soylent Meal Replacement Drink, Original, 14 oz Bottles, Pack of 12",Boost,http://www.amazon.com/dp/B01EUEIL3E/,21,10
+"Takeya Airtight Pitcher, 2-Quart, Blue",Kitchen,http://www.amazon.com/dp/B00DCYNP2G/,13,10
+"Bormioli Rocco Frigoverre Jug with Hermetic Lid, 68 ounces",Kitchen,http://www.amazon.com/dp/B0000DE9B5/,6,6
+Le Parfait French Glass Canning Jar with 85mm Gasket and Lid - 2 Liter,Kitchen,http://www.amazon.com/dp/B001A5SHUY/,6,6
+EZ-Sweetz (2oz - Liquid Sweetener 800 Servings/Bottle),Grocery,http://www.amazon.com/dp/B002MO765O/,25,5
+"Spicy World Ground Turmeric Powder, 5 Pound",Grocery,http://www.amazon.com/dp/B00MGXP5N6/,4,4
+"Cuisinart CSB-75BC Smart Stick  200 Watt 2 Speed Hand Blender, Brushed Chrome",Kitchen,http://www.amazon.com/dp/B00ARQVM5O/,27,4
+"Bormioli Rocco Frigoverre Glass Pitcher with Lid, 77 3/4 Ounce",Kitchen,http://www.amazon.com/dp/B00PT7239A/,4,4
+OXO Good Grips Bottle Brush,Home,http://www.amazon.com/dp/B00004OCLJ/,10,4
+"Soylent Meal Replacement Drink, Nectar, 14 Fl Oz (Pack of 12)",Grocery,http://www.amazon.com/dp/B01N1Q4YT3/,5,4
+"Soylent Meal Replacement Drink, Cacao, 14 oz Bottles, Pack of 12",Boost,http://www.amazon.com/dp/B01NBIF6WS/,4,4
+"PB2 Powdered Peanut Butter,6.5 oz",Grocery,http://www.amazon.com/dp/B002GJ9JWS/,44,3
+Black Pepper Fine Grind 2lb,Grocery,http://www.amazon.com/dp/B000JMFCM0/,3,3
+"Thermos Stainless King 68 Ounce Vacuum Insulated Beverage Bottle, Midnight Blue",Kitchen,http://www.amazon.com/dp/B008YB4V52/,4,3
+"ProLab Caffeine Maximum Potency 200mg Tablets, 100-Count",Health and Beauty,http://www.amazon.com/dp/B0011865IQ/,59,3
+"Nalgene 2121-0005 Wide-Mouth Bottle, Polypropylene, Large, 2L",BISS,http://www.amazon.com/dp/B003OBYW5G/,3,3
+"Tradition Pure Green Tea Powder Matcha Taiwan, 8.8 oz (Pack of 4)",Grocery,http://www.amazon.com/dp/B00LNTVF9W/,3,3
+KitchenAid KHB2352CU 3-Speed Hand Blender - Contour Silver,Boost,http://www.amazon.com/dp/B00NBA0PS8/,4,3
+"Kirkland Signature Daily Multi Vitamins & Minerals Tablets, 500-Count Bottle",Health and Beauty,http://www.amazon.com/dp/B002RL8FCU/,6,3
+"NOW Sports Whey Protein Isolate,5-Pound",Health and Beauty,http://www.amazon.com/dp/B0015AQL1Q/,21,3
+"Epica 18-Oz. Glass Beverage Bottles, Set of 6",Kitchen,http://www.amazon.com/dp/B00I0YNYSI/,3,2
+"Navitas Organics Cacao Powder, 16 oz. Bags (Pack of 2)(packaging may vary)",Grocery,http://www.amazon.com/dp/B001E5E0Y2/,4,2
+"StarKist Gourmet Selects Sardines, Skinless Boneless in Whole Grain Dijon Mustard, 4.37 Ounce",Grocery,http://www.amazon.com/dp/B00DYGQ4CU/,2,2
+"BlenderBottle ProStak System with 22-Ounce Bottle and Twist n' Lock Storage, Black/Black",Kitchen,http://www.amazon.com/dp/B00IOO2YSK/,2,2
+"HERSHEY'S Syrup, Chocolate Syrup, Dessert Topping/Beverage Syrup, Sugar-Free/Gluten Free, 17.5 Ounce Bottle (Pack of 6)",Grocery,http://www.amazon.com/dp/B001EQ4RWQ/,2,2
+Nutri-Fruit Powder Strawberry - 5 oz,Health and Beauty,http://www.amazon.com/dp/B001KKDP5Q/,2,2
+"Simply Organic Ground Cinnamon, 2.08 Ounce",Grocery,http://www.amazon.com/dp/B00ZK8YIXW/,2,2
+Hamilton Beach 59765 2 Speed Hand Blender,Kitchen,http://www.amazon.com/dp/B003NQE8B0/,5,2
+"Soylent Meal Replacement Drink, Cafe Chai, 14 oz Bottles, 12 Pack",Grocery,http://www.amazon.com/dp/B071Z3HQL6/,2,2
+"NOW Psyllium Husk 500 mg,500 Capsules",Health and Beauty,http://www.amazon.com/dp/B0013OW2KS/,19,2
+"Acesulfame Potassium (Ace-K) - 200x Sweeter than Sugar - Kosher Semi-Natural Granular Sweetener, 12 oz",Grocery,http://www.amazon.com/dp/B01HFSKE5A/,2,2
+"Soylent Meal Replacement Drink, Cafe Coffiest, 14 oz Bottles, Pack of 12",Grocery,http://www.amazon.com/dp/B01IRFB0G2/,5,2
+"Soylent Original, Ready To Drink Breakfast in a Bottle, Nutritionally Complete Meal Replacement Beverage, 14 oz, 12 Pack",Health and Beauty,http://www.amazon.com/dp/B015DDEC16/,2,2
+"NOW Psyllium Husk Powder, 24-Ounce",Health and Beauty,http://www.amazon.com/dp/B002RWUNYM/,23,2
+"PUR Gum 6 Flavor Assortment Spearmint, Peppermint, Pomegranate Mint, Wintergreen, Cinnamon, Coolmint",Grocery,http://www.amazon.com/dp/B00KYHMWWS/,2,2
+MilkSplash Variety 6 Pack,Grocery,http://www.amazon.com/dp/B00L9EGRFI/,2,2
+Bormioli Rocco Hermetic Seal Glass Pitcher With Lid and Spout [68 Ounce] Great for Homemade Juice & Iced Tea or for Glass Milk Bottles,Kitchen,http://www.amazon.com/dp/B0131EKHO0/,3,2
+Tmatcha Organic Japanese Matcha Green Tea Powder USDA Organic Certification Culilary Grade Gluten Free and Vegan 8 oz(227 g),Grocery,http://www.amazon.com/dp/B017U3F1U8/,2,2
+Thermos Vacuum Insulated 32 Ounce Compact Stainless Steel Beverage Bottle,Kitchen,http://www.amazon.com/dp/B00JJBF3EO/,6,2
+Probiotics 30 Billion Per Capsule; Flora Pro-Health by Naturenetics – 60 Day Supply - Vegan – 3rd Party Tested – No Refrigeration Required,Health and Beauty,http://www.amazon.com/dp/B00I3TFPCI/,4,2
+Milk Splash Liquid Milk Enhancer Cookies'n Cream,Grocery,http://www.amazon.com/dp/B00JXA4ML6/,2,2
+"Takeya Airtight Pitcher, 2-Quart, Black",Kitchen,http://www.amazon.com/dp/B00CYAIRG8/,4,2
+"CLIF BAR - Energy Bar - Chocolate Chip - (2.4 Ounce Protein Bar, 12 Count)",Health and Beauty,http://www.amazon.com/dp/B0054RPY7I/,4,2
+"Vega Protein Smoothie, Choc-a-lot, Pouch, 9.2 oz",Health and Beauty,http://www.amazon.com/dp/B007XA47SG/,3,2
+"Milk Magic, Liquid Milk Infusions, Flavor Enhancers, 1.62oz Bottle (Pack of 4) (Cookies & Cream)",Grocery,http://www.amazon.com/dp/B00VQPXYIS/,2,2
+"Hydro Flask Insulated Wide Mouth Stainless Steel Water Bottle, Stainless, 32-Ounce",Sports,http://www.amazon.com/dp/B00K5ZRUEY/,2,2
+"Optimum Nutrition Gold Standard 100% Whey Protein Powder, Extreme Milk Chocolate, 5 Pound",Health and Beauty,http://www.amazon.com/dp/B000QSTBNS/,14,1
+"Optimum Nutrition Gold Standard 100% Whey Protein Powder, Double Rich Chocolate, 5 Pound",Health and Beauty,http://www.amazon.com/dp/B000QSNYGI/,68,1
+"NOW Plant Enzymes,120 Capsules",Health and Beauty,http://www.amazon.com/dp/B00024D916/,2,1
+"Zevro KCH-06140 Indispensable SmartSpace Dry Food Dispenser, Single Control, Stainless Steel, Silver",Kitchen,http://www.amazon.com/dp/B000LFCLJ2/,1,1
+"Cetaphil Daily Facial Moisturizer with Sunscreen, SPF 50+, 1.7 Fluid Ounce (Pack of 2)",Beauty,http://www.amazon.com/dp/B001GIOW3G/,2,1
+"Frontier Co-op Maple Flavor, Non-Alcoholic, 2 ounce bottle",Grocery,http://www.amazon.com/dp/B0001M0Z4S/,5,1
+"Cetaphil Daily Facial Moisturizer, SPF 15, Fragrance Free - 4 fl oz",Beauty,http://www.amazon.com/dp/B0000538B0/,1,1
+"HERSHEY'S Chocolate Bar with Almonds, Milk Chocolate Candy Bar with Almonds, 1.45 Ounce Bar (Pack of 36)",Grocery,http://www.amazon.com/dp/B000IXWCR8/,2,1
+Nutri-Fruit Powder Red Raspberry - 5 oz,Health and Beauty,http://www.amazon.com/dp/B001KKBHF6/,1,1
+"Ball Mason ""PINT"" Jars Wide-Mouth Can or Freeze - 12pk (by Jarden Home Brands)",Kitchen,http://www.amazon.com/dp/B001DIZ1NO/,11,1
+"EatSmart Precision Pro Digital Kitchen Scale, Silver",Kitchen,http://www.amazon.com/dp/B001N07KUE/,33,1
+"NALGENE Tritan 1-Pint Wide Mouth BPA-Free Water Bottle,Slate Blue,16 oz",Sports,http://www.amazon.com/dp/B001NCDE7U/,1,1
+"Doctor's Best Suntheanine L-Theanine, Non-GMO, Gluten Free, Vegan, Helps Reduce Stress and Sleep, 150 mg  90 Veggie Caps",Health and Beauty,http://www.amazon.com/dp/B001OXTGVG/,5,1
+"Oregon Chai Original Chai Tea Latte Powdered Mix, 8-Count Envelopes 1.1 oz (31g)  (Pack of 6)",Grocery,http://www.amazon.com/dp/B000HDOOL6/,1,1
+Magic Bullet MBR-1701 17-Piece Express Mixing Set,Kitchen,http://www.amazon.com/dp/B001WAKFDY/,6,1
 Oster Milkshake Blade,Kitchen,http://www.amazon.com/dp/B00014WEKY/,1,1
-"Soylent Meal Replacement Drink, Nectar, 14 Fl Oz (Pack of 12)",Grocery,http://www.amazon.com/dp/B01N1Q4YT3/,1,1
-Artificial Vanilla (Vanillin) 100% Pure Fine 25g,Grocery,http://www.amazon.com/dp/B00A9WC9RQ/,1,1
-"Soylent Meal Replacement Drink, Cacao, 14 oz Bottles, Pack of 12",Grocery,http://www.amazon.com/dp/B01NBIF6WS/,1,1
-"Bell Plantation PB2 Powdered Peanut Butter, 16 oz (Pack of 2)",Grocery,http://www.amazon.com/dp/B009E7YBEQ/,1,1
-"Thermos Stainless King 68 Ounce Vacuum Insulated Beverage Bottle, Midnight Blue",Kitchen,http://www.amazon.com/dp/B008YB4V52/,1,1
-MilkSplash Variety 6 Pack,Grocery,http://www.amazon.com/dp/B00L9EGRFI/,1,1
-"Tradition Pure Green Tea Powder Matcha Taiwan, 8.8 oz (Pack of 4)",Grocery,http://www.amazon.com/dp/B00LNTVF9W/,1,1
-"Spicy World Ground Turmeric Powder, 5 Pound",Grocery,http://www.amazon.com/dp/B00MGXP5N6/,1,1
+"NOW Vitamin D-3 & K-2,120 Veg Capsules",Health and Beauty,http://www.amazon.com/dp/B0019QT9LA/,1,1
+ORGANIC BLUE CORN MASA HARINA 50 LB,Grocery,http://www.amazon.com/dp/B0019LBX46/,1,1
+"NOW L-Theanine 200 mg,60 Veg Capsules",Health and Beauty,http://www.amazon.com/dp/B000H7P9M0/,8,1
+"NOW  Psyllium Husk Powder,12-Pound",Grocery,http://www.amazon.com/dp/B0017WFZKA/,1,1
+"Thermos Stainless King 40 Ounce Beverage Bottle, Midnight Blue",Kitchen,http://www.amazon.com/dp/B0017IHRNM/,11,1
+"Optimum Nutrition Serious Mass Gainer Protein Powder, Chocolate, 12 Pound",Health and Beauty,http://www.amazon.com/dp/B000GIPJ0M/,17,1
+"Nutribiotic Rice Protein, Vanilla, 3 Pound",Health and Beauty,http://www.amazon.com/dp/B00014DLC4/,5,1
+Norpro Stainless Steel Wide-Mouth Funnel w/ Handle,Kitchen,http://www.amazon.com/dp/B00004UE88/,1,1
+How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease,Book,http://www.amazon.com/dp/1250066115/,54,1
+"Drnatura Unifiber, Natural Fiber Supplement, 8.4-Ounce",Health and Beauty,http://www.amazon.com/dp/B0040IWMTA/,1,1
+"NOW Foods Xanthan Gum Powder, 6-Ounce",Grocery,http://www.amazon.com/dp/B0014UH7J2/,8,1
+"Larabar Gluten Free Bar, Cherry Pie, 1.7 oz Bars (16 Count)",Grocery,http://www.amazon.com/dp/B000ENWSBW/,1,1
+"Wisdom of the Ancients Yerba Mate Royale Tea, Instant, 2.82 Ounce",Grocery,http://www.amazon.com/dp/B0014ARCSS/,1,1
+"Thermotabs Salt Supplement, Buffered, 100 tablets",Health and Beauty,http://www.amazon.com/dp/B00143XNRE/,2,1
+"Bob's Red Mill Soy Lecithin Granules, 16 Ounce Packages (Pack of 4)",Grocery,http://www.amazon.com/dp/B000EDK7F6/,2,1
+"Zevro KCH-06121/GAT200 Indispensable Dry Food Dispenser, Dual Control, Black/Chrome",Kitchen,http://www.amazon.com/dp/B00013K8OO/,2,1
+Urnex Cafiza Professional Espresso Machine Cleaning Powder 566 grams,Kitchen,http://www.amazon.com/dp/B001418KNS/,10,1
+"Tropicana, Orange Juice, No Pulp, 12 oz",Grocery,http://www.amazon.com/dp/B003QAHJ8M/,1,1
+"Torani Sugar Free Syrup Variety Pack, 25.4 Ounce (Pack of 6)",Grocery,http://www.amazon.com/dp/B003PFUNU4/,6,1
+"NOW Super Enzymes,180 Capsules",Health and Beauty,http://www.amazon.com/dp/B0013OXKHC/,9,1
+"Doctor's Best High Absorption Magnesium Glycinate Lysinate, 100% Chelated, Non-GMO, Vegan, Gluten Free, Soy Free,  200 mg, 240 Tablets",Health and Beauty,http://www.amazon.com/dp/B000BD0RT0/,146,1
+"KIND Bars, Pomegranate Blueberry Pistachio + Antioxidants, Gluten Free, 1.4 Ounce Bars, 12 Count",Grocery,http://www.amazon.com/dp/B003TN8JGC/,1,1
+Astor Bidet Fresh Water Spray Non-Electric Mechanical Bidet Toilet Seat Attachment CB-1000,Home Improvement,http://www.amazon.com/dp/B003TPGPUW/,178,1
+"Thermos Vacuum Insulated 24 Ounce Stainless Steel Hydration Bottle, Stainless Steel",Kitchen,http://www.amazon.com/dp/B003U55EKI/,2,1
+"Pacific Foods Organic Vegetable Lentil and Roasted Red Pepper Soup, 17 Ounce Cartons,  12 Pack",Grocery,http://www.amazon.com/dp/B003VIL6FG/,1,1
+Celebrate Multivitamin Capsules 90 count,Health and Beauty,http://www.amazon.com/dp/B003VVR6WK/,1,1
+"Armour Glass Etching Cream Carded,2.8-Ounce",Art and Craft Supply,http://www.amazon.com/dp/B003W0MUVW/,5,1
+"60 - 1 Gallon (10""x14"") Mylar Bags & 60 - 300cc Oxygen Absorbers For Dried Dehydrated and Long Term Food Storage - Food Survival",Home,http://www.amazon.com/dp/B003X87CFW/,3,1
+BogeyPro Golf Covert Cooler Shoe Bag,Sports,http://www.amazon.com/dp/B003YW4LU6/,2,1
+"Ozeri Touch Professional Digital Kitchen Scale (12 lbs Edition), Tempered Glass in Elegant Black",Kitchen,http://www.amazon.com/dp/B003MSZBSI/,16,1
+"Ozeri Pronto Digital Multifunction Kitchen and Food Scale, Elegant Black",Kitchen,http://www.amazon.com/dp/B004164SRA/,281,1
+"Frontier Co-op Ceylon Cinnamon, Organic Fair Trade Certified, Ground, 1 Pound Bulk Bag",Grocery,http://www.amazon.com/dp/B00416T8Q6/,1,1
+"Hydro Flask Insulated Stainless Steel Water Bottle, Standard Mouth, Orange Zest, 21-Ounce",Sports,http://www.amazon.com/dp/B00418OO5Y/,1,1
+Morton Iodized Table Salt - 4lb. Box (2 Pack),Grocery,http://www.amazon.com/dp/B0049IF5W2/,1,1
+Spice Island Pumpkin Pie Spice,Grocery,http://www.amazon.com/dp/B004AHE93S/,1,1
+Rubbermaid 1776473  21-Cup Dry Food Container,Kitchen,http://www.amazon.com/dp/B003EYUZJU/,1,1
+"Enzymatic Therapy L-Theanine, 100mg, 60 Vegetarian Capsules",Health and Beauty,http://www.amazon.com/dp/B0013OUH8W/,1,1

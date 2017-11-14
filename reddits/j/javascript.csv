@@ -1,12 +1,49 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-JavaScript: The Good Parts,Book,http://www.amazon.com/dp/0596517742/,15,3
-Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,71,1
-"Code Complete: A Practical Handbook of Software Construction, Second Edition",Book,http://www.amazon.com/dp/0735619670/,25,1
-Design Patterns: Elements of Reusable Object-Oriented Software (Addison-Wesley Professional Computing Series),eBooks,http://www.amazon.com/dp/B000SEIBB8/,4,1
-JavaScript: The Definitive Guide,Book,http://www.amazon.com/dp/0596000480/,3,1
-JavaScript: The Definitive Guide: Activate Your Web Pages (Definitive Guides),Book,http://www.amazon.com/dp/0596805527/,2,1
-Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript (Effective Software Development Series),Book,http://www.amazon.com/dp/0321812182/,2,1
-A Smarter Way to Learn JavaScript. The new tech-assisted approach that requires half the effort,Book,http://www.amazon.com/dp/1497408180/,1,1
-"Eloquent JavaScript, 2nd Ed.: A Modern Introduction to Programming",Book,http://www.amazon.com/dp/1593275846/,1,1
+JavaScript: The Good Parts,Book,http://www.amazon.com/dp/0596517742/,60,8
+Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript (Effective Software Development Series),Book,http://www.amazon.com/dp/0321812182/,9,4
+Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,236,3
+The Principles of Object-Oriented JavaScript,Book,http://www.amazon.com/dp/1593275404/,6,3
+A Smarter Way to Learn JavaScript. The new tech-assisted approach that requires half the effort,Book,http://www.amazon.com/dp/1497408180/,11,2
+JavaScript: The Definitive Guide: Activate Your Web Pages (Definitive Guides),Book,http://www.amazon.com/dp/0596805527/,9,2
+JavaScript Patterns: Build Better Applications with Coding and Design Patterns,Book,http://www.amazon.com/dp/0596806752/,4,2
+Cracking the Coding Interview: 150 Programming Questions and Solutions,Book,http://www.amazon.com/dp/098478280X/,68,2
+Secrets of the JavaScript Ninja,Book,http://www.amazon.com/dp/193398869X/,14,2
+Common LISP: A Gentle Introduction to Symbolic Computation (Dover Books on Engineering),Book,http://www.amazon.com/dp/0486498204/,2,1
+Purely Functional Data Structures,Book,http://www.amazon.com/dp/0521663504/,21,1
+JavaScript: The Definitive Guide,Book,http://www.amazon.com/dp/0596000480/,8,1
+How to Win Friends & Influence People,Book,http://www.amazon.com/dp/0671027034/,222,1
+Absolute Beginner's Guide to C (2nd Edition),Book,http://www.amazon.com/dp/0672305100/,2,1
+"Code Complete: A Practical Handbook of Software Construction, Second Edition",Book,http://www.amazon.com/dp/0735619670/,85,1
+Professional JavaScript for Web Developers,Book,http://www.amazon.com/dp/1118026691/,7,1
+JavaScript and JQuery: Interactive Front-End Web Development,Book,http://www.amazon.com/dp/1118531647/,34,1
+Building HTML5 Games with ImpactJS: An Introduction On HTML5 Game Development,Book,http://www.amazon.com/dp/1449315178/,1,1
+Head First JavaScript Programming: A Brain-Friendly Guide,Book,http://www.amazon.com/dp/144934013X/,9,1
+Functional JavaScript: Introducing Functional Programming with Underscore.js,Book,http://www.amazon.com/dp/1449360726/,1,1
+Learning Web App Development: Build Quickly with Proven JavaScript Techniques,Book,http://www.amazon.com/dp/1449370195/,6,1
+Beginning Node.js,Book,http://www.amazon.com/dp/1484201884/,1,1
 You Don't Know JS: this & Object Prototypes,Book,http://www.amazon.com/dp/1491904151/,1,1
+You Don't Know JS: Types & Grammar,Book,http://www.amazon.com/dp/1491904194/,1,1
+You Don't Know JS: ES6 & Beyond,Book,http://www.amazon.com/dp/1491904240/,1,1
+You Don't Know JS: Up & Going,Book,http://www.amazon.com/dp/1491924462/,1,1
+"Beginning Python: From Novice to Professional, 2nd Edition (The Experts Voice in Open Source) (Beginning From Novice to Professional)",Book,http://www.amazon.com/dp/1590599829/,1,1
+"Eloquent JavaScript, 2nd Ed.: A Modern Introduction to Programming",Book,http://www.amazon.com/dp/1593275846/,3,1
+So You've Been Publicly Shamed,Book,http://www.amazon.com/dp/1594487138/,25,1
+"Generative Design: Visualize, Program, and Create with Processing",Book,http://www.amazon.com/dp/1616890770/,2,1
+Ext JS in Action: Covers Ext JS Version 4.0,Book,http://www.amazon.com/dp/1617290327/,1,1
 Functional Programming in JavaScript: How to improve your JavaScript programs using functional techniques,Book,http://www.amazon.com/dp/1617292826/,1,1
+Secrets of the JavaScript Ninja,Book,http://www.amazon.com/dp/1617292850/,2,1
+RxJS in Action,Book,http://www.amazon.com/dp/1617293415/,1,1
+Seven More Languages in Seven Weeks: Languages That Are Shaping the Future,Book,http://www.amazon.com/dp/1941222153/,2,1
+Design Patterns: Elements of Reusable Object-Oriented Software (Addison-Wesley Professional Computing Series),eBooks,http://www.amazon.com/dp/B000SEIBB8/,19,1
+A Smarter Way to Learn JavaScript: The new approach that uses technology to cut your effort in half,eBooks,http://www.amazon.com/dp/B00H1W9I6C/,8,1
+Self-education for Web Developers: What to Begin With and Where to Move to Learn How to Develop WEB Applications,eBooks,http://www.amazon.com/dp/B017632IYY/,1,1
+Working Effectively with Legacy Code,Book,http://www.amazon.com/dp/0131177052/,59,1
+MEAN Web Development - Second Edition,eBooks,http://www.amazon.com/dp/B01DPR2EQ2/,1,1
+"Unix Network Programming, Volume 1: The Sockets Networking API (3rd Edition)",Book,http://www.amazon.com/dp/0131411551/,10,1
+"Definitive XML Schema, 2nd Edition",Book,http://www.amazon.com/dp/0132886723/,1,1
+Threads Primer: A Guide to Multithreaded Programming,Book,http://www.amazon.com/dp/0134436989/,1,1
+Design Patterns: Elements of Reusable Object-Oriented Software,Book,http://www.amazon.com/dp/0201633612/,87,1
+"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,112,1
+"The C++ Programming Language, 4th Edition",Book,http://www.amazon.com/dp/0321563840/,30,1
+Programming: Principles and Practice Using C++ (2nd Edition),Book,http://www.amazon.com/dp/0321992784/,36,1
+"Enterprise Architecture Planning: Developing a Blueprint for Data, Applications, and Technology",Book,http://www.amazon.com/dp/0471599859/,1,1

@@ -1,8 +1,33 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Refactoring: Improving the Design of Existing Code,Book,http://www.amazon.com/dp/0201485672/,11,1
-CLR via C# (4th Edition) (Developer Reference),Book,http://www.amazon.com/dp/0735667454/,6,1
-"C# in Depth, 3rd Edition",Book,http://www.amazon.com/dp/161729134X/,5,1
-Essential C# 5.0 (4th Edition) (Microsoft Windows Development Series),Book,http://www.amazon.com/dp/0321877586/,3,1
-Dependency Injection in .NET,Book,http://www.amazon.com/dp/1935182501/,3,1
-C# Design Pattern Essentials,Book,http://www.amazon.com/dp/0956575862/,1,1
+CLR via C# (4th Edition) (Developer Reference),Book,http://www.amazon.com/dp/0735667454/,19,5
+Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,236,4
+Pro ASP.NET MVC 5 (Expert's Voice in ASP.Net),Book,http://www.amazon.com/dp/1430265299/,8,2
+The Pragmatic Programmer: From Journeyman to Master,Book,http://www.amazon.com/dp/020161622X/,86,2
+"Adaptive Code via C#: Class and Interface Design, Design Patterns, and SOLID Principles (Developer Reference)",Book,http://www.amazon.com/dp/0735683204/,5,2
+Microsoft .NET - Architecting Applications for the Enterprise (2nd Edition) (Developer Reference),Book,http://www.amazon.com/dp/0735685355/,3,2
+"C# in Depth, 3rd Edition",Book,http://www.amazon.com/dp/161729134X/,14,2
+Refactoring: Improving the Design of Existing Code,Book,http://www.amazon.com/dp/0201485672/,34,2
+Professional ASP.NET MVC 5,Book,http://www.amazon.com/dp/1118794753/,7,2
+Expert C# 5.0: with the .NET 4.5 Framework (Expert's Voice in .NET),Book,http://www.amazon.com/dp/1430248602/,3,2
+WPF 4.5 Unleashed,Book,http://www.amazon.com/dp/0672336979/,3,1
+"Code Complete: A Practical Handbook of Software Construction, Second Edition",Book,http://www.amazon.com/dp/0735619670/,85,1
+Microsoft Visual C# 2013 Step by Step (Step by Step Developer),Book,http://www.amazon.com/dp/073568183X/,2,1
+C# Design Pattern Essentials,Book,http://www.amazon.com/dp/0956575862/,2,1
+Cracking the Coding Interview: 189 Programming Questions and Solutions,Book,http://www.amazon.com/dp/0984782850/,90,1
+Pro LINQ: Language Integrated Query in C# 2010 (Expert's Voice in .NET),Book,http://www.amazon.com/dp/1430226536/,1,1
+Exam Ref 70-486 Developing ASP.NET MVC Web Applications (2nd Edition),Book,http://www.amazon.com/dp/1509300929/,1,1
+Microsoft Visual C# Step by Step (8th Edition) (Developer Reference),Book,http://www.amazon.com/dp/1509301046/,3,1
 Analyzing Data with Power BI and Power Pivot for Excel (Business Skills),Book,http://www.amazon.com/dp/150930276X/,1,1
+The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life),Book,http://www.amazon.com/dp/1934356344/,7,1
+Dependency Injection in .NET,Book,http://www.amazon.com/dp/1935182501/,6,1
+Working Effectively with Legacy Code,Book,http://www.amazon.com/dp/0131177052/,59,1
+"Professional Windows DNA: Building Distributed Web Applications with VB, COM+, MSMQ, SOAP, and ASP",Book,http://www.amazon.com/dp/B0000B0T0C/,1,1
+Domain-Driven Design: Tackling Complexity in the Heart of Software,Book,http://www.amazon.com/dp/0321125215/,24,1
+Applying Domain-Driven Design and Patterns: With Examples in C# and .NET,Book,http://www.amazon.com/dp/0321268202/,1,1
+"Framework Design Guidelines: Conventions, Idioms, and Patterns for Reusable .NET Libraries (2nd Edition)",Book,http://www.amazon.com/dp/0321545613/,8,1
+"Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison-Wesley Signature Series (Fowler))",Book,http://www.amazon.com/dp/0321601912/,23,1
+Effective C#  (Covers C# 4.0): 50 Specific Ways to Improve Your C# (2nd Edition) (Effective Software Development Series),Book,http://www.amazon.com/dp/0321658701/,4,1
+NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence,Book,http://www.amazon.com/dp/0321826620/,1,1
+Implementing Domain-Driven Design,Book,http://www.amazon.com/dp/0321834577/,7,1
+Essential C# 5.0 (4th Edition) (Microsoft Windows Development Series),Book,http://www.amazon.com/dp/0321877586/,5,1
+Head First Design Patterns: A Brain-Friendly Guide,Book,http://www.amazon.com/dp/0596007124/,51,1

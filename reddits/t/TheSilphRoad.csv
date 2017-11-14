@@ -1,32 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"Hard Justice: A Steamy, Action-Filled Bodyguard Romance (Body Armor)",eBooks,http://www.amazon.com/dp/B01GZUC754/,,1
-"Anker PowerCore+ 20100 USB-C Portable Charger, 6A Type-C External Battery for Macbook, Nexus, Nintendo Switch & PowerIQ for iPhone 8 / 8 Plus / iPhone X / iPhone 6 / 6s / 7 / iPad & Samsung & LG",Wireless,http://www.amazon.com/dp/B014ZO46LK/,17,1
-"Anker PowerCore 10000, One of the Smallest and Lightest 10000mAh External Batteries, Ultra-Compact, High-speed Charging Technology Power Bank for iPhone, Samsung Galaxy and More",Wireless,http://www.amazon.com/dp/B0194WDVHI/,17,1
-Anker AK-A1206012 10000mAh External Battery Power Bank with PowerIQ Technology (2nd Generation)- Black,Wireless,http://www.amazon.com/dp/B009USAJCC/,12,1
-"Anker PowerCore+ mini, 3350mAh Lipstick-Sized Portable Charger (3rd Generation, Premium Aluminum Power Bank), One of the Most Compact External Batteries",Wireless,http://www.amazon.com/dp/B005X1Y7I2/,12,1
-KMASHI 10000mAh Portable Power Bank with Dual USB Ports 3.1A Output and 2A Input - Black,Wireless,http://www.amazon.com/dp/B00JM59JPG/,8,1
-BLU R1 HD - 16 GB - Black - Prime Exclusive - with Lockscreen Offers & Ads,Wireless,http://www.amazon.com/dp/B01H2E0J5M/,8,1
-"Portable Charger RAVPower 26800 Battery Packs 26800mAh Total 5.5A Output 3-Port Power Bank (2A Input, iSmart 2.0 USB Power Pack) Portable Battery Charger for iPhone, iPad, and other Smart Devices",Wireless,http://www.amazon.com/dp/B012NIQG5E/,7,1
-"Anker 21W Dual USB Solar Charger, PowerPort Solar for iPhone 7 / 6s / Plus, iPad Pro / Air 2 / mini, Galaxy S7 / S6 / Edge / Plus, Note 5 / 4, LG, Nexus, HTC and More",Wireless,http://www.amazon.com/dp/B012YUJJM8/,7,1
-"Anker Astro E7 26800mAh Ultra-High Capacity 3-Port 4A Compact Portable Charger External Battery Power Bank with PowerIQ Technology for iPhone, iPad, Nintendo Switch and More",Wireless,http://www.amazon.com/dp/B00M3073L4/,7,1
-"Anker PowerCore 26800 Portable Charger, 26800mAh External Battery with Dual Input Port and Double-Speed Recharging, 3 USB Ports for iPhone, iPad, Samsung Galaxy, Android and other Smart Devices",Wireless,http://www.amazon.com/dp/B01JIWQPMW/,5,1
-Beer & Soda Guzzler Helmet - Drinking Hat By EZ Drinker (Red),Toy,http://www.amazon.com/dp/B006CUJXMI/,3,1
-"RAVPower 16750mAh Portable Charger, Time Tested Battery Pack with Dual iSmart 2.0 USB Ports with Flashlight, 4.5A Max Output Power Bank for Nintendo Switch, iPhone, iPad, Galaxy and Android Devices",Cell Phones & Accessories,https://www.amazon.com/gp/product/B00MQSMEEE/ref=oh_aui_detailpage_o01_s00?ie=UTF8&amp;psc=1,3,1
-"Anker PowerCore 20000 with Quick Charge 3.0, 20000mAh Power Pack Portable Charger with Qualcomm Quick Charge 3.0, for Samsung, iPhone, iPad and more",Wireless,http://www.amazon.com/dp/B00VLNT9KW/,3,1
-Wilson Electronics Sleek 4g Kit - Retail Packaging - Black (Discontinued by Manufacturer),Cell Phones & Accessories,https://www.amazon.com/gp/product/B00I9I67Z2/ref=s9_acsd_al_bw_c_x_1,3,1
-"Zackees Rechargeable USB Coin Cell Charger. LIR2032 (LR2032) Batteries Included, Replaces CR2032 batteries",Speakers,http://www.amazon.com/dp/B01BA1CLN6/,2,1
-Klean Kanteen Classic 27-Ounce Stainless Steel Bottle With Loop Cap,Sports,http://www.amazon.com/dp/B0093IRGZM/,2,1
-Nintendo Pokemon GO Plus Bluetooth Bracelet,Video Games,http://www.amazon.com/dp/B01H482N6E/,2,1
-"iPhone 6 / 6s Battery Case, Anker Ultra Slim Extended Battery Case for iPhone 6 / 6s (4.7 inch) with 2850mAh Capacity / 120% Extra Battery [Apple MFi Certified] (Black)",Wireless,http://www.amazon.com/dp/B00QG4YYWY/,2,1
-"3x5 Gel Pack Reusable Hot or Cold Ice Packs for Overheating, Pain Relief, or First Aid By IceWraps (6 Pack, Blue)",Health and Beauty,http://www.amazon.com/dp/B00ZVI485Y/,2,1
-"ASICS Men's Gel-Venture 5 Trail Runner, Carbon/Silver/Green Gecko, 10.5 M US",Shoes,http://www.amazon.com/dp/B01GUFF5XA/,1,1
-Pokemon Go-Tcha Pokemon Go Plus Accessory LED Touch Screen Wristband,Video Games,http://www.amazon.com/dp/B071K63M65/,1,1
-"Pack of 4,Wellci Replacement Rubber/Silicone Bands for Universal Bike, Motorcycle, Handlebar, Fits All Smartphone WITH A CASE!",Wireless,http://www.amazon.com/dp/B01GWLU8O8/,1,1
-"Portable Outdoor Picnic Pocket Blanket | Equipped w/ Waterproof Rain Hood, Zipper Pouch, Corner Pockets, Loops & Carabiner | Compact Beach Blanket for Camping, Picnics, Festivals, Travel & Outdoors",Sports,http://www.amazon.com/dp/B072HV6PLZ/,1,1
-OneTigris Dog Pack Hound Travel Camping Hiking Backpack Saddle Bag Rucksack for Medium & Large Dog,Sports,http://www.amazon.com/dp/B00XE0NVOU/,1,1
-"Kikkerland Hammer Multi Tool, Wood, White",Home Improvement,http://www.amazon.com/dp/B00J237IF6/,1,1
-Sawyer Products Premium Permethrin Clothing Insect Repellent,Sports,http://www.amazon.com/dp/B01M4KFZME/,1,1
+Nintendo Pokemon GO Plus Bluetooth Bracelet,Video Games,http://www.amazon.com/dp/B01H482N6E/,35,7
+"Anker 20000mAh Portable Charger PowerCore 20100 - Ultra High Capacity Power Bank with 4.8A Output, PowerIQ Technology for iPhone, iPad & Samsung Galaxy & More – Black",Wireless,http://www.amazon.com/dp/B00X5RV14Y/,187,6
+"Zackees Rechargeable USB Coin Cell Charger. LIR2032 (LR2032) Batteries Included, Replaces CR2032 batteries",Speakers,http://www.amazon.com/dp/B01BA1CLN6/,8,5
+"Anker Astro E7 26800mAh Ultra-High Capacity 3-Port 4A Compact Portable Charger External Battery Power Bank with PowerIQ Technology for iPhone, iPad, Nintendo Switch and More",Wireless,http://www.amazon.com/dp/B00M3073L4/,40,4
+"Anker PowerCore+ mini, 3350mAh Lipstick-Sized Portable Charger (3rd Generation, Premium Aluminum Power Bank), One of the Most Compact External Batteries",Wireless,http://www.amazon.com/dp/B005X1Y7I2/,101,4
+BLU R1 HD - 16 GB - Black - Prime Exclusive - with Lockscreen Offers & Ads,Wireless,http://www.amazon.com/dp/B01H2E0J5M/,62,3
+"Kikkerland Hammer Multi Tool, Wood, White",Home Improvement,http://www.amazon.com/dp/B00J237IF6/,3,3
+Anker AK-A1206012 10000mAh External Battery Power Bank with PowerIQ Technology (2nd Generation)- Black,Wireless,http://www.amazon.com/dp/B009USAJCC/,71,3
+"3x5 Gel Pack Reusable Hot or Cold Ice Packs for Overheating, Pain Relief, or First Aid By IceWraps (6 Pack, Blue)",Health and Beauty,http://www.amazon.com/dp/B00ZVI485Y/,13,2
+"Anker PowerCore 10000, One of the Smallest and Lightest 10000mAh External Batteries, Ultra-Compact, High-speed Charging Technology Power Bank for iPhone, Samsung Galaxy and More",Wireless,http://www.amazon.com/dp/B0194WDVHI/,75,2
+"Vibrelli Universal Bike Phone Mount - Fits iPhone X, 8, 8 Plus, 7, 7 Plus, 6, 6 Plus and Android devices",Wireless,http://www.amazon.com/dp/B010OPQVUS/,10,2
+Go-Tcha LED Touch Screen Wristband for Pokémon Go Plus Accessory,Video Games,http://www.amazon.com/dp/B071R3P45V/,2,2
+"Portable Charger RAVPower 26800 Battery Packs 26800mAh Total 5.5A Output 3-Port Power Bank (2A Input, iSmart 2.0 USB Power Pack) Portable Battery Charger for iPhone, iPad, and other Smart Devices",Wireless,http://www.amazon.com/dp/B012NIQG5E/,21,2
+"Anker PowerCore 20000 with Quick Charge 3.0, 20000mAh Power Pack Portable Charger with Qualcomm Quick Charge 3.0, for Samsung, iPhone, iPad and more",Wireless,http://www.amazon.com/dp/B00VLNT9KW/,15,2
+Energizer CR2032 3 Volt Lithium Coin Battery 10 Pack (2x5 Pack) In Original Packaging,Health and Beauty,http://www.amazon.com/dp/B00FO9HQLS/,7,2
+"Zendure A2 Portable Charger 6700mAh – Ultra-durable External Battery Power for iPhone, Android and More, PC Advisor Winner 2014-2017, Lightweight and Compact– Black",PC Accessory,http://www.amazon.com/dp/B01AXZUMOK/,2,2
+"Bicycle Phone Mount, TaoTronics Bike Phone Mount Accessories with Universal Holder for iOS Android Smartphones, GPS, and Other Devices, Slide-Proof Clamp, 360 Degrees Rotatable, Rubber Strap",Sports,http://www.amazon.com/dp/B01ICWH3FW/,2,2
+"Anker PowerCore+ 26800, Premium Portable Charger, High Capacity 26800mAh External Battery with Qualcomm Quick Charge 3.0 (in- and output), Includes PowerPort+ 1 Wall Charger",Wireless,http://www.amazon.com/dp/B01K6TA748/,10,2
+"Voltaic Systems ""V15"" 4,000mAh USB Battery Backup Bank for iPhone, iPad, Samsung Galaxy, Android, and HTC devices",Wireless,http://www.amazon.com/dp/B00CLNI49S/,2,2
+"MEKO (2-in-1 Precision Series) Disc Stylus Styli (2 Pcs) for all iPads,iPhones,tablets, Laptops and all Touch Screen Devices Bundle with 4 Replacement Disc Tips, 2 Fiber Tips (Black/Black)",Wireless,http://www.amazon.com/dp/B00N1BRWLA/,15,2
+X-Sports Decathlon QUECHUA Kids Adults Outdoor Backpack Daypack Mini Small Bookbags10L (Yellow),Sports,http://www.amazon.com/dp/B00XSIOMQY/,5,2
+Moto G Plus (5th Generation) - Lunar Gray - 32 GB - Unlocked - Prime Exclusive - with Lockscreen Offers & Ads,Wireless,http://www.amazon.com/dp/B01NBRN2YI/,19,2
+JETech 0750 3000mAh Ultra-Compact Portable External Power Bank - Black,Wireless,http://www.amazon.com/dp/B00MQYS97Y/,1,1
+EasyAcc Classic 15000mAh Solar Panel Power Bank with Flashlight External Battery Portable Charger for iPhone Samsung Smartphones Tablets Bluetooth Speaker - Black and Orange,Wireless,http://www.amazon.com/dp/B00MVL567I/,4,1
+Samsung Galaxy Note 4 Spare Battery Charger with OEM Replacement Battery,Wireless,http://www.amazon.com/dp/B00NQG2XNC/,11,1
+Hanes Men's 3-Pack Tagless Crew Neck T-Shirt,Apparel,http://www.amazon.com/dp/B00O8MUQY6/,2,1
+"Phone Holder for Bicycle and Motorcycle, Tackform Freedom Bicycle Phone Mount, Fits Any Smartphone, Holds iPhone 7, 7 Plus, SE, iPhone 6s, iPhone 6 Plus",Wireless,http://www.amazon.com/dp/B00OQJ5VPK/,9,1
+"TETON Sports Trailrunner 2 Liter Hydration Backpack Perfect for Biking, Running, Hiking, Climbing, and Hunting; Orange",Sports,http://www.amazon.com/dp/B00OXPC0BA/,1,1
+"Running Belt for iPhone 8 7 6s 6 Plus, Note 8, Galaxy S8 Plus and more - Fits with OtterBox Defender, Commuter & LifeProof Case - for Running & Exercise - Water Resistant [Black]",Wireless,http://www.amazon.com/dp/B00PKO4336/,3,1
+"iPhone 6 / 6s Battery Case, Anker Ultra Slim Extended Battery Case for iPhone 6 / 6s (4.7 inch) with 2850mAh Capacity / 120% Extra Battery [Apple MFi Certified] (Black)",Wireless,http://www.amazon.com/dp/B00QG4YYWY/,8,1
+[Ingress First Official] cheero Ingress Power Cube 12000mAh - Your Best Ingress Partner,Wireless,http://www.amazon.com/dp/B00SDY3RLO/,8,1
+"Nite Ize Original Gear Tie, Reusable Rubber Twist Tie, Made in the USA, Assortment, 8 Pack",Home Improvement,http://www.amazon.com/dp/B00SHBO2Q2/,3,1
+MAXOAK Power Bank 13000mAh External Battery Portable Charger w/ Dual USB 3.1A Digitron Power Display For Cell Phone iPhone 7 Plus 6S 5S Samsung Galaxy S6 S5 S4 S3 Note 3 4 Moto LG G3 HTC & More- Black,Wireless,http://www.amazon.com/dp/B00VE0YDOY/,1,1
 Foot Roller and Porcupine Ball by Heal PT - Portable Foot Massager for Plantar Fasciitis and Acupressure Massage Ball,Health and Beauty,http://www.amazon.com/dp/B00VIVBVKS/,1,1
+Energizer ECR2032 3-Volt Lithium Coin Batteries (20 Count),Health and Beauty,http://www.amazon.com/dp/B00VOFE51K/,2,1
+"Tumi Alpha Bravo Monterey Sling, Grey/Camo, One Size",Apparel,http://www.amazon.com/dp/B00XC5WPIA/,1,1
+OneTigris Dog Pack Hound Travel Camping Hiking Backpack Saddle Bag Rucksack for Medium & Large Dog,Sports,http://www.amazon.com/dp/B00XE0NVOU/,1,1
+Nite Ize Gear Tie - Assorted,Pet Products,http://www.amazon.com/dp/B00XIWJXKK/,2,1
+"iMuto 20000mAh Portable Charger Compact Power Bank External Battery Pack with LED Digital Display and Smart Charge for iPhone X 10 8 7 6S Plus, Samsung Galaxy S8, S7, Note8, Tablets and More (Black)",Wireless,http://www.amazon.com/dp/B01191S0VY/,10,1
+"Anker 21W Dual USB Solar Charger, PowerPort Solar for iPhone 7 / 6s / Plus, iPad Pro / Air 2 / mini, Galaxy S7 / S6 / Edge / Plus, Note 5 / 4, LG, Nexus, HTC and More",Wireless,http://www.amazon.com/dp/B012YUJJM8/,55,1
+"iPhone Charger, Anker PowerLine Lightning Cable (3ft), MFi Certified for iPhone X / 8 / 8 Plus / 7 / 7 Plus / 6 / 6 Plus / 5S (Blue)",Wireless,http://www.amazon.com/dp/B013JMOTXO/,1,1
+"Oenbopo Motorcycle Bicycle MTB Bike Handlebar Mount Holder Universal For Cell Phone GPS, iPhone 7/7 Plus iPhone 6 6S 6plus SE 5s 5c Samsung Galaxy Note 5 4 3 S7 S6 S5 S4 HTC LG",Sports,http://www.amazon.com/dp/B013OZ6J5C/,1,1
+"Raniaco Bike Computer, Original Wireless Bicycle Speedometer, Bike Odometer Cycling Multi Function",Sports,http://www.amazon.com/dp/B013SD1X9W/,2,1
+"Anker PowerCore+ 20100 USB-C, Ultra-High Capacity Premium Portable Charger, 20100mAh External Battery, 6A Output Type-C Port for Macbook, Nexus, Nintendo Switch & PowerIQ for iPhone iPad & Samsung",Wireless,http://www.amazon.com/dp/B014ZO46LK/,121,1
+"Nekteck 21W Solar Charger with 2-Port USB Charger Build with High efficiency Solar Panel Cell for iPhone 6s / 6 / Plus, SE, iPad, Galaxy S6/S7/ Edge/ Plus, Nexus 5X/6P, any USB devices, and more",Wireless,http://www.amazon.com/dp/B017GQ7OEA/,6,1
 Electop USB 2.0 A Male To 2 Dual USB Female Jack Y Splitter Charger Cable,Personal Computer,http://www.amazon.com/dp/B017OQ26OA/,1,1
+"Universal Waterproof Case, Cell Phone Dry Bag pouch with Lanyard Armband for Swimming Boating Surfing for iPhone 7,7 Plus,6,6 plus,5,5S,Samsung Galaxy S7,HTC,LG, up to 6.0 inch(orange)",Sports,http://www.amazon.com/dp/B01828588A/,1,1
+"iPhone Charger Dock,Walkas Charge and Sync Stand for iPod,iPhone 5 5s 6 6s plus with Charger Cable (silver)",Wireless,http://www.amazon.com/dp/B018LZELMS/,1,1
+"Halcyon T.™ Car Cell Phone Holder with Universal Clamp Arm for iPhone 4s/5/6/6+, Samsung Galaxy Series, Nexus 5X/5P",Wireless,http://www.amazon.com/dp/B018RBNQ3G/,1,1
+Mobile Phone Chest Mount Harness Strap Holder Cell Phone Clip action Camera POV for Samsung iphone plus etc,Wireless,http://www.amazon.com/dp/B0199VMOEK/,2,1
+"USB C Power Bank RAVPower 20100 Portable Charger QC 3.0 Qualcomm Quick Charge 3.0 20100mAh Input & Output Type C Battery Pack for iPhone, Macbook, Galaxy S8 and More",Wireless,http://www.amazon.com/dp/B019IFIJW8/,65,1
+"Pair of Life In Motion Trekking / Hiking / Walking Poles (Sticks), durable, lightweight, collapsible / telescoping. (Red / Black)",Sports,http://www.amazon.com/dp/B019O4KPZ2/,1,1
+"Anker PowerLine+ Micro USB (6ft) The Premium Durable Cable [Double Braided Nylon] for Samsung, Nexus, LG, Motorola, Android Smartphones and More",Wireless,http://www.amazon.com/dp/B019Q4TJZC/,6,1
+Xiaomi Power Bank 20000mAh Dual USB Port External Battery Charger,Wireless,http://www.amazon.com/dp/B01A89C3K2/,2,1
+"Car Mount, Universal 360 Degree Magnetic Cradle-less Air Vent Smartphone Mount",Wireless,http://www.amazon.com/dp/B01AB26Y8S/,1,1
+Bike Mount Universal Bicycle Phone Holder Cycle Adjustable Cradle Handlebar Roll Bar For Smartphone iPhone GPS by COOWOO,Wireless,http://www.amazon.com/dp/B01AZ9NLXS/,4,1
+"RioRand Pokemon Action Figures, 144-Piece and 2-3 (cm)",Toy,http://www.amazon.com/dp/B01BX4GFE6/,6,1
+"Bike Mount, GreatShield EZ-Grip 360 Degree Rotating Metal Base Bicycle Handlebar Cradle Clamp Holster for iPhone X/8 Plus/8, Galaxy Note 8/S8 Plus, Moto G5/G5 Plus, LG V3, Nokia 6, Google Pixel 2/2 XL",CE,http://www.amazon.com/dp/B01CGUB7TY/,1,1
+"AUKEY Bluetooth Headphones, Foldable On-ear Earphones with 24 Hours Playtime, Built-in Microphone for IPhone, Android Smartphones and More",CE,http://www.amazon.com/dp/B01CI1AUZS/,1,1
+BNTECHGO 18 Gauge Silicone Wire Kit Ultra Flexible 2 Color High Resistant 200 deg C 600V Silicone Rubber Insulation 18 AWG Silicone Wire 150 Strands of Tinned Copper Wire Stranded Wire Battery Cable,BISS,http://www.amazon.com/dp/B01CL3M7A4/,1,1
+"AMS Universal Cell Phone Holder, Clip Holder, Lazy Bracket Flexible Long Arms for All Mobile, Fit On Desktop Bed Mobile Stand for Bedroom, Office, Kitchen",Wireless,http://www.amazon.com/dp/B01CXRBNYY/,1,1
+[Charger+4 Batteries] Li-ion LIR 2032 Rechargeable Button Battery Coin Cell,Home Improvement,http://www.amazon.com/dp/B01DTQ4KMK/,1,1
+Yolococa Stainless Steel Tick Remover  (Set of 2),Pet Products,http://www.amazon.com/dp/B01DVKDRYQ/,1,1
+"Anker 2nd Gen Astro Mini 3200mAh Lipstick-Sized Portable Charger External Battery Power Bank with PowerIQ Technology for iPhone 6 Plus 5S 5C 5 4S, iPad Air 2 Mini 3, Samsung Galaxy S6 S5 S4 Note",Wireless,http://www.amazon.com/dp/B01ESN48OI/,2,1
+BLU R1 HD - 8 GB - Black - Prime Exclusive - with Lockscreen Offers & Ads,Wireless,http://www.amazon.com/dp/B01F9N5QXI/,32,1
+"Power Banks RAVPower 22000mAh Portable Charger, High Capacity Portable Battery Pack 22000 with 3 USB Ports, High Speed Charging Battery Bank 5.8A Max Output for Smartphone Tablet and More",CE,http://www.amazon.com/dp/B01G1XH46M/,19,1
+Okra Bicycle and Motorcycle Cell Phone Bike Mount Holder [Extra Secure] Handlebar Holder for iPhone Android all Smartphones Devices (Universal),CE,http://www.amazon.com/dp/B01G7GKF2S/,3,1
+"ASICS Men's Gel-Venture 5 Trail Runner, Carbon/Silver/Green Gecko, 10.5 M US",Shoes,http://www.amazon.com/dp/B01GUFF5XA/,1,1
+"Pack of 4,Wellci Replacement Rubber/Silicone Bands for Universal Bike, Motorcycle, Handlebar, Fits All Smartphone WITH A CASE!",Wireless,http://www.amazon.com/dp/B01GWLU8O8/,1,1
+"Hard Justice: A Steamy, Action-Filled Bodyguard Romance (Body Armor)",eBooks,http://www.amazon.com/dp/B01GZUC754/,1,1
+Anker PowerCore 10400mAh External Battery Pack for All Smartphones - Black,Wireless,http://www.amazon.com/dp/B01ISO92V2/,7,1
+"Battery Pack RAVPower 26800 Portable Charger 26800mAh Power Bank +2.4A Wall Charger, 3 USB Ports, 2A Input, 5.5A Output, Power Charger for iPhone, iPad, Galaxy S8/S8 Plus and other Smart Devices",Wireless,http://www.amazon.com/dp/B01IVONCAG/,3,1
+"Anker PowerCore 26800 Portable Charger, 26800mAh External Battery with Dual Input Port and Double-Speed Recharging, 3 USB Ports for iPhone, iPad, Samsung Galaxy, Android (Black)",Wireless,http://www.amazon.com/dp/B01JIWQPMW/,22,1
+"USB C Power Bank RAVPower 26800 PD Portable Charger 26800mAh(Faster Recharged in 4.5 Hours &USB-C Input, 30W Type-C Output)for Nintendo Switch, USB Type-C Laptops, 2016 MacBook Power Delivery Support",Wireless,http://www.amazon.com/dp/B01LRQDAEI/,80,1
+"Bike Phone Mount, RISEPRO Waterproof Universal Case Bicycle & Motorcycle Mount Cradle Holder Dust Rain Snow Resistant for Smart Phone 5.7' iPhone 6 6S, 7, 7 plus",Wireless,http://www.amazon.com/dp/B01LWXQHK7/,1,1
+Sawyer Products Premium Permethrin Clothing Insect Repellent,Sports,http://www.amazon.com/dp/B01M4KFZME/,3,1
+"Finger Ring Stand ,TORRAS 360° Rotation Cell Phone Ring Stand Holder Grip kickstand Universal Smartphone iPhone Ring for iPhone X 8 8 Plus 7 7 Plus 6S 6, Samsung Galaxy S6 S7, Note, LG",Wireless,http://www.amazon.com/dp/B01N5LZE3F/,2,1
+Alicenter(TM) 1pcs Silicone Replacement Pendant Necklace for Xiaomi Wristband Smart Bracelet(Color Random),Speakers,http://www.amazon.com/dp/B06XD89ZRR/,1,1
+VUP Wristband Phone Holder for iPhone 8 8Plus 7 7 Plus 6S 6 Samsung Galaxy S8 Plus S7 Edge Sports Armband 180° Rotatable Great for Running Cycling Gym Workouts and Hiking Fits 4 to 5.5 Phones,Wireless,http://www.amazon.com/dp/B06XSZ375C/,1,1
+"USB Phone Fan, Blu7ive 3 in 1 Portable Rapid Phone Cooling Fan Stand Holder Battery Case with 4400 mAh Power Bank  for iPhone Smart Phones",Wireless,http://www.amazon.com/dp/B06XT6LJ72/,1,1
+Pokemon Go-Tcha Pokemon Go Plus Accessory LED Touch Screen Wristband,Video Games,http://www.amazon.com/dp/B071K63M65/,1,1
+iPhone 5/5S/5C/SE Battery Case iPosible 4500mAh External Rechargeable Battery Case for iPhone 5/5S/5C/SE Charging Case Power Juice Bank Battery Pack [24 Month Warranty],Wireless,http://www.amazon.com/dp/B071Z6J7JC/,1,1
+"Portable Outdoor Picnic Pocket Blanket | Equipped w/ Waterproof Rain Hood, Zipper Pouch, Corner Pockets, Loops & Carabiner | Compact Beach Blanket for Camping, Picnics, Festivals, Travel & Outdoors",Sports,http://www.amazon.com/dp/B072HV6PLZ/,1,1
+Snow Crash,Book,http://www.amazon.com/dp/1491515058/,3,1
+"3M Finger Ring Stand with Iron Sheet Inside,Baseus 360° Rotation Cell Phone Ring Stand Holder Grip Kickstand with 3M Glue for iphone 7 7 plus S8 plus Universal Smartphone iPhone Ring Bracket (Blue)",Wireless,http://www.amazon.com/dp/B072MQ7J9X/,1,1
+"Jacobson Hat Company Men's Deluxe Coolie Hat, Natural, Adult",Apparel,http://www.amazon.com/dp/B001UK7U2A/,4,1
+"Lifoam 4983 The Alaskan Reusable Ice Soft Pack, 14 ounce",Home,http://www.amazon.com/dp/B002H9RSAC/,1,1
+Takaratomy Pokemon Monster Collection M Figure - M-067 - Mew,Toy,http://www.amazon.com/dp/B004KKX882/,1,1
+"3 Pack of Stylus Black Blue Red Universal Touch Screen Pen for Ipad 2 Ipod Iphone 4 4S 3g 3gs, 4s,kindle fire,Motorola Xoom, Samsung Galaxy Tab 8.9 10.1, Blackberry Playbook HTC Flyer Evo View Tablet",Digital Device Accessory,http://www.amazon.com/dp/B00575OL6M/,1,1
+2032 Battery Li-Ion Rechargeable Button Cell LR2032 2 pack,Home Improvement,http://www.amazon.com/dp/B0058E94O6/,2,1
+"Condor Compact Assault Pack (Tan, 1362-Cubic Inch)",Sports,http://www.amazon.com/dp/B005NAQP56/,4,1
+"Mens Texting Gloves. Warm Smartphone Gloves with Anti-Slip Grip, Insulated Layers & Full Hand Conductivity. Winter Style Black Touch Screen Gloves Women, Touchscreen Gloves Men",Wireless,http://www.amazon.com/dp/B005WT0266/,2,1
+Beer & Soda Guzzler Helmet - Drinking Hat By EZ Drinker (Red),Toy,http://www.amazon.com/dp/B006CUJXMI/,15,1
+Meindl unisex boots brown,Shoes,http://www.amazon.com/dp/B006H355VI/,1,1
+"Roswheel Bicycle Frame Pannier and Front Tube Cell Phone Bag, 100gm, Red",Sports,http://www.amazon.com/dp/B008A9F3WI/,1,1
 Sony CR2032 Lithium Coin Cell 3V 20 Pcs,Health and Beauty,http://www.amazon.com/dp/B008XBK7PG/,1,1
-"mophie Powerstation (4,000mAh) - White",Wireless,http://www.amazon.com/dp/B009R01BTI/,1,1
+CR2032 Sony Lithium 3V Battery 50 Pcs,Health and Beauty,http://www.amazon.com/dp/B008XBL34A/,1,1
+Klean Kanteen Classic 27-Ounce Stainless Steel Bottle With Loop Cap,Sports,http://www.amazon.com/dp/B0093IRGZM/,5,1
+Nike Men's Legend Short Sleeve Tee,Apparel,http://www.amazon.com/dp/B0096E59S4/,2,1
+"mophie Powerstation (4,000mAh) - White",Wireless,http://www.amazon.com/dp/B009R01BTI/,2,1

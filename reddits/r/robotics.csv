@@ -1,9 +1,82 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Getting Started in Electronics,Book,http://www.amazon.com/dp/0945053282/,4,1
-LEGO MINDSTORMS EV3 31313 Robot Kit for Kids,Toy,http://www.amazon.com/dp/B00CWER3XY/,3,1
-PlayStation Eye,Video Games,http://www.amazon.com/dp/B000VTQ3LU/,2,1
-Arduino Adventures: Escape from Gemini Station,Book,http://www.amazon.com/dp/1430246057/,1,1
-Sylvia's Super-Awesome Project Book: Super-Simple Arduino (Volume 2),Book,http://www.amazon.com/dp/0989151166/,1,1
-Introduction to Robotics: Mechanics and Control (4th Edition),Book,http://www.amazon.com/dp/0133489795/,1,1
+DyIO,CE,http://www.amazon.com/dp/B00PUQNEN4/,4,3
+LEGO MINDSTORMS EV3 31313 Robot Kit for Kids,Toy,http://www.amazon.com/dp/B00CWER3XY/,9,3
+Arduino Starter Kit - English Official Kit With 170 Page Book - K000007,Personal Computer,http://www.amazon.com/dp/B009UKZV0A/,19,2
+"Robot Builder's Bonanza, 4th Edition",Book,http://www.amazon.com/dp/0071750363/,2,2
+2pcs nRF24L01+ 2.4GHz Wireless Transceiver in Antistatic Foam Arduino Compatible,PC Accessory,http://www.amazon.com/dp/B00E594ZX0/,13,2
+Computational Principles of Mobile Robotics,Book,http://www.amazon.com/dp/0521692121/,2,2
+DROK L298N Motor Drive Controller Board DC Dual H-Bridge Robot Stepper Motor Control and Drives Module for Arduino Smart Car Power UNO MEGA R3 Mega2560 Duemilanove,BISS,http://www.amazon.com/dp/B00CAG6GX2/,3,2
+Getting Started in Electronics,Book,http://www.amazon.com/dp/0945053282/,34,2
+Robot Modeling and Control,Book,http://www.amazon.com/dp/0471649902/,3,2
+"Introduction to Robotics: Analysis, Control, Applications",Book,http://www.amazon.com/dp/0470604468/,1,1
+Robot Analysis and Control,Book,http://www.amazon.com/dp/0471830291/,1,1
+Make: Electronics (Learning by Discovery),Book,http://www.amazon.com/dp/0596153740/,21,1
+Embedded Networking with CAN and CANopen,Book,http://www.amazon.com/dp/0692740872/,1,1
+Machinery's Handbook,Book,http://www.amazon.com/dp/0831111550/,1,1
 Living Control Systems III: The Fact of Control,Book,http://www.amazon.com/dp/0964712180/,1,1
+Maximum LEGO EV3: Building Robots with Java Brains (LEGO Mindstorms EV3),Book,http://www.amazon.com/dp/0986832294/,1,1
+Sylvia's Super-Awesome Project Book: Super-Simple Arduino (Volume 2),Book,http://www.amazon.com/dp/0989151166/,2,1
+Hybrid Control and Motion Planning of Dynamical Legged Locomotion,Book,http://www.amazon.com/dp/1118317076/,1,1
+Exploring Arduino: Tools and Techniques for Engineering Wizardry,Book,http://www.amazon.com/dp/1118549368/,2,1
+"Robot Building for Beginners, 2nd Edition (Technology in Action)",Book,http://www.amazon.com/dp/1430227486/,1,1
+Intermediate Robot Building (Technology in Action),Book,http://www.amazon.com/dp/1430227540/,1,1
+Arduino Adventures: Escape from Gemini Station,Book,http://www.amazon.com/dp/1430246057/,1,1
+"Theory of Applied Robotics: Kinematics, Dynamics, and Control (2nd Edition)",Book,http://www.amazon.com/dp/1441917497/,2,1
+Programming Robots with ROS: A Practical Introduction to the Robot Operating System,Book,http://www.amazon.com/dp/1449323898/,1,1
+Robotics: Everything You Need to Know About Robotics from Beginner to Expert,Book,http://www.amazon.com/dp/1523731516/,1,1
+The LEGO MINDSTORMS EV3 Discovery Book: A Beginner's Guide to Building and Programming Robots,Book,http://www.amazon.com/dp/1593275323/,1,1
+The LEGO MINDSTORMS EV3 Idea Book: 181 Simple Machines and Clever Contraptions,Book,http://www.amazon.com/dp/1593276001/,1,1
+Mastering BeagleBone Robotics,Book,http://www.amazon.com/dp/1783988908/,1,1
+"Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics)",Book,http://www.amazon.com/dp/3642201431/,1,1
+Meccano - Super Construction Set,Toy,http://www.amazon.com/dp/B000GOF5S2/,4,1
+Racer's Edge 7.2V 1500mAh 6 cell NiCd RC Battery Pack,Hobby,http://www.amazon.com/dp/B000JCNAR4/,2,1
+"Bit Holder, 1/4"", 1/4"", 2-3/8""",BISS,http://www.amazon.com/dp/B000KE0UCE/,1,1
+SE MZ101B Helping Hand with Magnifying Glass,Home Improvement,http://www.amazon.com/dp/B000RB38X8/,45,1
+PlayStation Eye,Video Games,http://www.amazon.com/dp/B000VTQ3LU/,17,1
+OWI  Robotic Arm Edge,Toy,http://www.amazon.com/dp/B0017OFRCY/,8,1
+Stahl Tools SSVT Variable Temperature Soldering Station,Home Improvement,http://www.amazon.com/dp/B0029N70WM/,12,1
 "Stanley National Hardware 4005BC 1/2"" x 36"" Plated Steel Smooth Rod",Home Improvement,http://www.amazon.com/dp/B002CTUBM4/,1,1
+Bigtrak by Zeon Limited,Toy,http://www.amazon.com/dp/B0035IZ85G/,1,1
+Tenergy 6V-12V Universal Battery Pack Charger for NiMH NiCd RC Car Batteries,Sports,http://www.amazon.com/dp/B003MXMJX8/,17,1
+18 in. Clear Acrylic Globe - with 8 in. Neckless Opening - American 3202-18020-017,Home Improvement,http://www.amazon.com/dp/B00435J8HO/,2,1
+Black & Decker SS-12 12v Cordless Drill/Driver Tool,Home Improvement,http://www.amazon.com/dp/B004V7P4KO/,4,1
+Tekz 45250 Metric Nut and Bolt Assortment - 475 Piece,Home Improvement,http://www.amazon.com/dp/B0069TW6DU/,1,1
+Woods 59744WD Indoor 24-Hour Flip Switch Timer Converts Toggle Switch to Programmable Timer,Home Improvement,http://www.amazon.com/dp/B006LYHDYK/,3,1
+Sony PlayStation Eye Camera (Bulk Packaging),Video Games,http://www.amazon.com/dp/B0072I2240/,17,1
+"Remington Industries 24SNSP 24 AWG Magnet Wire, Enameled Copper Wire, 1.0 lb., 0.0221"" Diameter, 803' Length, Red",BISS,http://www.amazon.com/dp/B007OYG9HS/,1,1
+Arduino Uno R3 Microcontroller A000066,Personal Computer,http://www.amazon.com/dp/B008GRTSV6/,10,1
+123 Robotics Experiments for the Evil Genius (TAB Robotics),Book,http://www.amazon.com/dp/0071413588/,1,1
+iRobot Looj 330 Gutter Cleaning Robot,Home,http://www.amazon.com/dp/B00A1590RS/,4,1
+Hakko FX888D-23BY-Kit2 Bundle Includes Soldering Station and CHP170 cutter,BISS Basic,http://www.amazon.com/dp/B00AWUFVY8/,34,1
+Oggi Professional 3-Bottle Revolving Liquor Dispenser,Kitchen,http://www.amazon.com/dp/B00BY6BILO/,3,1
+Robotics Shield Kit (for Arduino),Personal Computer,http://www.amazon.com/dp/B00CBZ0X90/,1,1
+Snap Circuits SC-300 Electronics Discovery Kit,Toy,http://www.amazon.com/dp/B00CIXVIRQ/,9,1
+InstallGear Universal Car Power Door Lock Actuators 12-Volt Motor (2 Pack),Automotive Parts and Accessories,http://www.amazon.com/dp/B00CZBQCR2/,4,1
+Venom 35C 2S 7.4V 10000mAh LiPo Battery with Universal Plug (EC3/Deans/Traxxas/Tamiya),Hobby,http://www.amazon.com/dp/B00E94LNIG/,1,1
+"Ajax Scientific Plastic Tubular Spring Scale, 2000g/20N Weight Capacity, Red",BISS,http://www.amazon.com/dp/B00EPQGUAE/,1,1
+"Hubsan X4 (H107C) 4 Channel 2.4GHz RC Quad Copter with Camera - Red/Black, Red/Black (Discontinued by manufacturer)",Hobby,http://www.amazon.com/dp/B00EXBDWZC/,10,1
+RioRand™ Upgraded 6V-90V 15A DC Motor Pump Speed Controller,Personal Computer,http://www.amazon.com/dp/B00F839VNQ/,2,1
+"Gowe® 17DOF Biped Robotic Educational Robot Kit Servo Bracket Ball Bearing Black, Servo horn not included",Toy,http://www.amazon.com/dp/B00HO1H8C6/,1,1
+Thames and Kosmos Remote-Control Machines DLX,Toy,http://www.amazon.com/dp/B00J10B4E6/,2,1
+5 Pcs 0.03T 30kg 66.1Lbs Metal Lifting Crane Pulley Block Black,BISS,http://www.amazon.com/dp/B00JR3OOR6/,1,1
+RioRand ES08MA 9g Mini Metal Gear Servo Upgrade mg90s for trex align 450 rc helicopter E (4 Pcs),Toy,http://www.amazon.com/dp/B00M8T4SEA/,2,1
+Kinect Adapter for Windows,Personal Computer,http://www.amazon.com/dp/B00NMSHT7E/,5,1
+Traxxas 1/18 LaTrax Teton Vehicle,Hobby,http://www.amazon.com/dp/B00PWUMW54/,1,1
+"Extra Large 26 x 15cm Magic Anti-Slip Non-Slip Mat Car Dashboard Sticky Pad Adhesive Mat for Cell Phone, CD, Electronic Devices, iPhone, iPod, MP3, MP4, GPS - Black",Wireless,http://www.amazon.com/dp/B00VA0V0VM/,1,1
+GoolRC 320A 6-12V Brushed ESC Speed Controller W/2A BEC for RC Boat,Toy,http://www.amazon.com/dp/B00WU4D6XW/,1,1
+Amazon Echo - Black (1st Generation),Amazon Home,http://www.amazon.com/dp/B00X4WHP5E/,39,1
+"Hobbywing 5.0V / 6.0V / 7.4V / 8.4V 10A Switch-mode External Type UBEC BEC, Max 20A Particularly applicable for large helicopters and fixed-wing aircrafts with many servos.",Toy,http://www.amazon.com/dp/B012N39UCA/,1,1
+YKS 320A Brushed Electronic Speed Controller ESC,Toy,http://www.amazon.com/dp/B01464NQ3S/,2,1
+"[New Arrival] HICTOP Portable Desktop 3D Printer Net weight Only 7.7lb DIY 3D Printer Kit High Accuracy CNC Self-assembly 130*150*100 mm Printing Size Works with PLA, Rubber, Wood [3DP-13]",BISS,http://www.amazon.com/dp/B015N0TPYS/,1,1
+2-pack ATmega328 Arduino Nano CH340 Arduino-Compatible,PC Accessory,http://www.amazon.com/dp/B01DBV1UE4/,1,1
+LinkNode ESP8266 Like WiFi Board: D1,CE,http://www.amazon.com/dp/B01DD641G6/,1,1
+SainSmart Double BTS7960B DC 43A Stepper Motor Driver H-Bridge PWM for Arduino Module/Smart Car Driver,Speakers,http://www.amazon.com/dp/B01H2XEEWM/,1,1
+"Elegoo 37-in-1 Sensor Module Kit for Arduino UNO R3, MEGA, NANO",Personal Computer,http://www.amazon.com/dp/B009OVGKTQ/,4,1
+"Stochastic Models, Estimation and Control: Volume 1",Book,http://www.amazon.com/dp/0124110428/,1,1
+Embedded Computing and Mechatronics with the PIC32 Microcontroller,Book,http://www.amazon.com/dp/0124201652/,1,1
+Introduction to Robotics: Mechanics and Control (4th Edition),Book,http://www.amazon.com/dp/0133489795/,1,1
+Essentials of Robust Control,Book,http://www.amazon.com/dp/0135258332/,1,1
+Swarm Intelligence: From Natural to Artificial Systems (Santa Fe Institute Studies on the Sciences of Complexity),Book,http://www.amazon.com/dp/0195131592/,1,1
+Introduction to Robotics: Mechanics and Control (3rd Edition),Book,http://www.amazon.com/dp/0201543613/,3,1
+"Principles of Robot Motion: Theory, Algorithms, and Implementations (Intelligent Robotics and Autonomous Agents series)",Book,http://www.amazon.com/dp/0262033275/,1,1
+Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series),Book,http://www.amazon.com/dp/0262201623/,3,1

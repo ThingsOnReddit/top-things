@@ -1,8 +1,11 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"The Designer's Guide to VHDL, Third Edition (Systems on Silicon)",Book,http://www.amazon.com/dp/0120887851/,2,2
-"Digital Design and Computer Architecture, Second Edition",Book,http://www.amazon.com/dp/0123944244/,7,1
-FPGA Prototyping by VHDL Examples: Xilinx Spartan-3 Version,Book,http://www.amazon.com/dp/0470185317/,1,1
-FPGA Prototyping By Verilog Examples: Xilinx Spartan-3 Version,Book,http://www.amazon.com/dp/0470185325/,1,1
-Learning the Art of Electronics: A Hands-On Lab Course,Book,http://www.amazon.com/dp/0521177235/,1,1
+"The Designer's Guide to VHDL, Third Edition (Systems on Silicon)",Book,http://www.amazon.com/dp/0120887851/,5,4
+FPGA Prototyping By Verilog Examples: Xilinx Spartan-3 Version,Book,http://www.amazon.com/dp/0470185325/,3,3
+"Digital Design and Computer Architecture, Second Edition",Book,http://www.amazon.com/dp/0123944244/,22,3
+FPGA Prototyping by VHDL Examples: Xilinx Spartan-3 Version,Book,http://www.amazon.com/dp/0470185317/,3,2
+"Bebop to the Boolean Boogie, Third Edition: An Unconventional Guide to Electronics",Book,http://www.amazon.com/dp/1856175073/,4,1
+Ckitze USA to Europe Travel Power Plug Adapter,Speakers,http://www.amazon.com/dp/B001EB26MO/,4,1
+Digilent Basys2 Xilinx Spartan 3E FGPA 100K Development Kit,PC Accessory,http://www.amazon.com/dp/B005G8AB8W/,1,1
+Learning the Art of Electronics: A Hands-On Lab Course,Book,http://www.amazon.com/dp/0521177235/,6,1
 SystemVerilog for Design Second Edition: A Guide to Using SystemVerilog for Hardware Design and Modeling,Book,http://www.amazon.com/dp/1441941258/,1,1
 SystemVerilog for Verification: A Guide to Learning the Testbench Language Features,Book,http://www.amazon.com/dp/1461407141/,1,1

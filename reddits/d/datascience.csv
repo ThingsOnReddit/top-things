@@ -1,11 +1,56 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking,Book,http://www.amazon.com/dp/1449361323/,4,3
-An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics),Book,http://www.amazon.com/dp/1461471370/,3,2
-The Data Science Handbook,Book,http://www.amazon.com/dp/1119092949/,2,2
-Automate the Boring Stuff with Python: Practical Programming for Total Beginners,Book,http://www.amazon.com/dp/1593275994/,10,1
-Discovering Statistics Using R,Book,http://www.amazon.com/dp/1446200469/,3,1
-Data Science from Scratch: First Principles with Python,Book,http://www.amazon.com/dp/149190142X/,2,1
-"Information Theory, Inference and Learning Algorithms",Book,http://www.amazon.com/dp/0521642981/,1,1
+The Data Science Handbook,Book,http://www.amazon.com/dp/1119092949/,14,14
+Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking,Book,http://www.amazon.com/dp/1449361323/,12,8
+Data Science from Scratch: First Principles with Python,Book,http://www.amazon.com/dp/149190142X/,13,6
+Data Scientists at Work,Book,http://www.amazon.com/dp/1430265981/,4,4
+Discovering Statistics Using R,Book,http://www.amazon.com/dp/1446200469/,18,4
+Applied Predictive Modeling,Book,http://www.amazon.com/dp/1461468485/,8,4
+Automate the Boring Stuff with Python: Practical Programming for Total Beginners,Book,http://www.amazon.com/dp/1593275994/,29,2
+"Big Data at Work: Dispelling the Myths, Uncovering the Opportunities",Book,http://www.amazon.com/dp/1422168166/,2,2
+An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics),Book,http://www.amazon.com/dp/1461471370/,11,2
+"The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)",Book,http://www.amazon.com/dp/0387848576/,9,2
+Data Smart: Using Data Science to Transform Information into Insight,Book,http://www.amazon.com/dp/111866146X/,11,2
+"Visualize This: The FlowingData Guide to Design, Visualization, and Statistics",Book,http://www.amazon.com/dp/0470944889/,3,2
+"Diffusions, Markov Processes, and Martingales: Volume 1, Foundations (Cambridge Mathematical Library)",Book,http://www.amazon.com/dp/0521775949/,2,1
+A Field Guide to Lies: Critical Thinking in the Information Age,Book,http://www.amazon.com/dp/0525955224/,1,1
+Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy,Book,http://www.amazon.com/dp/0553418815/,9,1
+Head First SQL: Your Brain on SQL -- A Learner's Guide,Book,http://www.amazon.com/dp/0596526849/,4,1
+Make It Stick: The Science of Successful Learning,Book,http://www.amazon.com/dp/0674729013/,41,1
+The Monopoly Book:  Strategy and Tactics of the World's Most Popular Game,Book,http://www.amazon.com/dp/0679203168/,1,1
+Who's #1?: The Science of Rating and Ranking,Book,http://www.amazon.com/dp/0691154228/,4,1
+Algebra of Probable Inference,Book,http://www.amazon.com/dp/080186982X/,1,1
+Superforecasting: The Art and Science of Prediction,Book,http://www.amazon.com/dp/0804136696/,12,1
+Statistics As Principled Argument,Book,http://www.amazon.com/dp/0805805281/,1,1
+Numerical Linear Algebra,Book,http://www.amazon.com/dp/0898713617/,6,1
+The Visual Display of Quantitative Information,Book,http://www.amazon.com/dp/0961392142/,22,1
+Cracking the Coding Interview: 189 Programming Questions and Solutions,Book,http://www.amazon.com/dp/0984782850/,90,1
+Data Analysis Using SQL and Excel,Book,http://www.amazon.com/dp/111902143X/,1,1
+"Statistics in Plain English, Fourth Edition (Volume 1)",Book,http://www.amazon.com/dp/1138838349/,1,1
+Game Analytics: Maximizing the Value of Player Data,Book,http://www.amazon.com/dp/1447147685/,3,1
+Introduction to Computational Social Science: Principles and Applications (Texts in Computer Science),Book,http://www.amazon.com/dp/1447156609/,1,1
+So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love,Book,http://www.amazon.com/dp/1455509124/,52,1
+Assessing and Improving Prediction and Classification,Book,http://www.amazon.com/dp/1484137450/,1,1
+The Hitchhiker's Guide to Python: Best Practices for Development,Book,http://www.amazon.com/dp/1491933178/,1,1
+"Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython",Book,http://www.amazon.com/dp/1491957662/,1,1
+"Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems",Book,http://www.amazon.com/dp/1491962291/,5,1
 A collection of Data Science Interview Questions Solved in Python and Spark: Hands-on Big Data and Machine Learning (A Collection of Programming Interview Questions) (Volume 6),Book,http://www.amazon.com/dp/1517216710/,1,1
-Data Scientists at Work,Book,http://www.amazon.com/dp/1430265981/,1,1
+"Python Crash Course: A Hands-On, Project-Based Introduction to Programming",Book,http://www.amazon.com/dp/1593276036/,19,1
+Statistics Done Wrong: The Woefully Complete Guide,Book,http://www.amazon.com/dp/1593276206/,10,1
+Active Learning (Synthesis Lectures on Artificial Intelligence and Machine Le),Book,http://www.amazon.com/dp/1608457257/,1,1
+The SAGE Handbook of Social Network Analysis,Book,http://www.amazon.com/dp/1847873952/,1,1
+Data Mining with R: Learning with Case Studies (Chapman & Hall/CRC Data Mining and Knowledge Discovery Series),eBooks,http://www.amazon.com/dp/B005HOIINK/,1,1
+Customer Centricity: Focus on the Right Customers for Strategic Advantage (Wharton Executive Essentials),eBooks,http://www.amazon.com/dp/B007WSNQ7M/,1,1
+Who's Your City?: How the Creative Economy Is Making Where to Live the Most Important Decision of Your Life,eBooks,http://www.amazon.com/dp/B008164JUW/,1,1
+Mathematical Tools for Applied Multivariate Analysis,Book,http://www.amazon.com/dp/0121609553/,1,1
+"Dell Inspiron i7559-2512BLK 15.6 Inch FHD Laptop (6th Generation Intel Core i7, 8 GB RAM, 1 TB HDD + 8 GB SSD) NVIDIA Gaming GeForce GTX 960M",Personal Computer,http://www.amazon.com/dp/B015PYZ0J6/,399,1
+"Data Mining: Practical Machine Learning Tools and Techniques, Third Edition (Morgan Kaufmann Series in Data Management Systems)",Book,http://www.amazon.com/dp/0123748569/,1,1
 "Information Visualization, Third Edition: Perception for Design (Interactive Technologies)",Book,http://www.amazon.com/dp/0123814642/,1,1
+Concrete Mathematics: A Foundation for Computer Science (2nd Edition),Book,http://www.amazon.com/dp/0201558025/,29,1
+Street-Fighting Mathematics: The Art of Educated Guessing and Opportunistic Problem Solving (MIT Press),Book,http://www.amazon.com/dp/026251429X/,1,1
+A Second Course in Statistics: Regression Analysis (7th Edition),Book,http://www.amazon.com/dp/0321691695/,3,1
+Dataclysm: Who We Are (When We Think No One's Looking),Book,http://www.amazon.com/dp/0385347375/,13,1
+Pattern Recognition and Machine Learning (Information Science and Statistics),Book,http://www.amazon.com/dp/0387310738/,13,1
+An Introduction to the Bootstrap (Chapman & Hall/CRC Monographs on Statistics & Applied Probability),Book,http://www.amazon.com/dp/0412042312/,3,1
+Willful Ignorance: The Mismeasure of Uncertainty,Book,http://www.amazon.com/dp/0470890444/,1,1
+"Information Theory, Inference and Learning Algorithms",Book,http://www.amazon.com/dp/0521642981/,2,1
+"002: Diffusions, Markov Processes and Martingales: Volume 2, Itô Calculus (Cambridge Mathematical Library)",Book,http://www.amazon.com/dp/0521775930/,1,1

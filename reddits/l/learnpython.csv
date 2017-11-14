@@ -1,35 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Automate the Boring Stuff with Python: Practical Programming for Total Beginners,Book,http://www.amazon.com/dp/1593275994/,10,4
-Code: The Hidden Language of Computer Hardware and Software,Book,http://www.amazon.com/dp/0735611319/,48,2
-"Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython",Book,http://www.amazon.com/dp/1449319793/,6,2
-Python 3 Object Oriented Programming,Book,http://www.amazon.com/dp/1849511268/,2,2
-"Pandas Cookbook: Recipes for Scientific Computing, Time Series Analysis and Data Visualization using Python",eBooks,http://www.amazon.com/dp/B06W2LXLQK/,,1
-Flask Web Development: Developing Web Applications with Python,eBooks,http://www.amazon.com/dp/B00K00W9LI/,,1
-Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,71,1
-"C Programming Language, 2nd Edition",Book,http://www.amazon.com/dp/0131103628/,34,1
-Cracking the Coding Interview: 189 Programming Questions and Solutions,Book,http://www.amazon.com/dp/0984782850/,21,1
-"Fluent Python: Clear, Concise, and Effective Programming",Book,http://www.amazon.com/dp/1491946008/,4,1
-Think Like a Programmer: An Introduction to Creative Problem Solving,Book,http://www.amazon.com/dp/1593274246/,4,1
-"Python Crash Course: A Hands-On, Project-Based Introduction to Programming",Book,http://www.amazon.com/dp/1593276036/,3,1
-Rootkits: Subverting the Windows Kernel,Book,http://www.amazon.com/dp/0321294319/,3,1
-"The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life",Book,http://www.amazon.com/dp/0547884591/,3,1
-Effective Python: 59 Specific Ways to Write Better Python (Effective Software Development Series),Book,http://www.amazon.com/dp/0134034287/,3,1
-Grokking Algorithms: An illustrated guide for programmers and other curious people,Book,http://www.amazon.com/dp/1617292230/,3,1
-Black Hat Python: Python Programming for Hackers and Pentesters,Book,http://www.amazon.com/dp/1593275900/,3,1
-Web Scraping with Python: Collecting Data from the Modern Web,Book,http://www.amazon.com/dp/1491910291/,2,1
-"Python Cookbook, Third edition",Book,http://www.amazon.com/dp/1449340377/,2,1
-Data Science from Scratch: First Principles with Python,Book,http://www.amazon.com/dp/149190142X/,2,1
-OSOYOO Raspberry Pi 3 DIY Starter learning Lab Kit For Beginners (20 items),PC Accessory,http://www.amazon.com/dp/B01ICNY0FW/,2,1
-Python Programming: An Introduction to Computer Science,Book,http://www.amazon.com/dp/1590282418/,2,1
-Python for Kids: A Playful Introduction To Programming,Book,http://www.amazon.com/dp/1593274076/,2,1
-Python Data Science Handbook: Essential Tools for Working with Data,Book,http://www.amazon.com/dp/1491912057/,2,1
-UNIX Network Programming,Book,http://www.amazon.com/dp/0139498761/,1,1
-The Python Workbook: A Brief Introduction with Exercises and Solutions,Book,http://www.amazon.com/dp/3319142399/,1,1
+Automate the Boring Stuff with Python: Practical Programming for Total Beginners,Book,http://www.amazon.com/dp/1593275994/,29,8
+"Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython",Book,http://www.amazon.com/dp/1449319793/,17,6
+Effective Python: 59 Specific Ways to Write Better Python (Effective Software Development Series),Book,http://www.amazon.com/dp/0134034287/,10,6
+Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,236,6
+Python 3 Object Oriented Programming,Book,http://www.amazon.com/dp/1849511268/,5,5
+Code: The Hidden Language of Computer Hardware and Software,Book,http://www.amazon.com/dp/0735611319/,158,5
+"Fluent Python: Clear, Concise, and Effective Programming",Book,http://www.amazon.com/dp/1491946008/,13,4
+"Learning Python, 5th Edition",Book,http://www.amazon.com/dp/1449355730/,20,4
+Python for Kids: A Playful Introduction To Programming,Book,http://www.amazon.com/dp/1593274076/,9,4
+"Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers",Book,http://www.amazon.com/dp/1597499579/,26,3
+Black Hat Python: Python Programming for Hackers and Pentesters,Book,http://www.amazon.com/dp/1593275900/,13,3
+"Python Programming for the Absolute Beginner, 3rd Edition",Book,http://www.amazon.com/dp/1435455002/,8,3
+Programming in Python 3: A Complete Introduction to the Python Language (2nd Edition),Book,http://www.amazon.com/dp/0321680561/,4,3
+"Python Cookbook, Third edition",Book,http://www.amazon.com/dp/1449340377/,6,3
+Computer Science Distilled: Learn the Art of Solving Computational Problems,Book,http://www.amazon.com/dp/0997316004/,3,2
+"C Programming Language, 2nd Edition",Book,http://www.amazon.com/dp/0131103628/,109,2
+"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,112,2
+Data Structures and Algorithms Using Python and C++,Book,http://www.amazon.com/dp/1590282337/,2,2
+Rapid GUI Programming with Python and Qt (Prentice Hall Open Source Software Development),Book,http://www.amazon.com/dp/0132354187/,3,2
+The First 20 Hours: How to Learn Anything . . . Fast!,Book,http://www.amazon.com/dp/1591846943/,3,2
+Gray Hat Python: Python Programming for Hackers and Reverse Engineers,Book,http://www.amazon.com/dp/1593271921/,5,2
+Foundations of Python Network Programming: The comprehensive guide to building network applications with Python (Books for Professionals by Professionals),eBooks,http://www.amazon.com/dp/B004VHFX8W/,2,2
+"Python Crash Course: A Hands-On, Project-Based Introduction to Programming",Book,http://www.amazon.com/dp/1593276036/,19,2
+Creating Apps in Kivy: Mobile with Python,eBooks,http://www.amazon.com/dp/B00JKZSYS6/,2,2
+Python Essential Reference (4th Edition),Book,http://www.amazon.com/dp/0672329786/,5,2
+The Rootkit Arsenal: Escape and Evasion: Escape and Evasion in the Dark Corners of the System,Book,http://www.amazon.com/dp/1598220616/,2,2
+"Python Crash Course: A Hands-On, Project-Based Introduction to Programming",eBooks,http://www.amazon.com/dp/B018UXJ9RI/,3,2
+Design Patterns: Elements of Reusable Object-Oriented Software,Book,http://www.amazon.com/dp/0201633612/,87,2
+Python for Secret Agents,Book,http://www.amazon.com/dp/1783980427/,3,2
+Python Pocket Reference: Python In Your Pocket (Pocket Reference (O'Reilly)),Book,http://www.amazon.com/dp/1449357016/,2,1
+Flask Web Development: Developing Web Applications with Python,Book,http://www.amazon.com/dp/1449372627/,3,1
+Help Your Kids with Computer Coding,Book,http://www.amazon.com/dp/146541956X/,2,1
+"Machine Learning: An Algorithmic Perspective, Second Edition (Chapman & Hall/Crc Machine Learning & Pattern Recognition)",Book,http://www.amazon.com/dp/1466583282/,1,1
+Python Algorithms: Mastering Basic Algorithms in the Python Language,Book,http://www.amazon.com/dp/148420056X/,1,1
 Treading on Python Volume 2: Intermediate Python,Book,http://www.amazon.com/dp/149055095X/,1,1
-Python for Secret Agents,Book,http://www.amazon.com/dp/1783980427/,1,1
+Data Science from Scratch: First Principles with Python,Book,http://www.amazon.com/dp/149190142X/,13,1
+Web Scraping with Python: Collecting Data from the Modern Web,Book,http://www.amazon.com/dp/1491910291/,4,1
+Python Data Science Handbook: Essential Tools for Working with Data,Book,http://www.amazon.com/dp/1491912057/,5,1
+Foundations for Analytics with Python: From Non-Programmer to Hacker,Book,http://www.amazon.com/dp/1491922532/,1,1
+Data Wrangling with Python: Tips and Tools to Make Your Life Easier,Book,http://www.amazon.com/dp/1491948817/,1,1
+Program Arcade Games: With Python and Pygame,Book,http://www.amazon.com/dp/1500825964/,1,1
+Pocket Guide to TCP/IP Socket Programming in C (Morgan Kaufmann Series in Networking),Book,http://www.amazon.com/dp/1558606866/,2,1
+"TechGnosis: Myth, Magic, and Mysticism in the Age of Information",Book,http://www.amazon.com/dp/1583949305/,1,1
+Python Programming: An Introduction to Computer Science,Book,http://www.amazon.com/dp/1590282418/,9,1
+Problem Solving with Algorithms and Data Structures Using Python SECOND EDITION,Book,http://www.amazon.com/dp/1590282574/,2,1
+Think Like a Programmer: An Introduction to Creative Problem Solving,Book,http://www.amazon.com/dp/1593274246/,19,1
+Python Playground: Geeky Projects for the Curious Programmer,Book,http://www.amazon.com/dp/1593276044/,5,1
+"Invent Your Own Computer Games with Python, 4E",Book,http://www.amazon.com/dp/1593277954/,2,1
+Grokking Algorithms: An illustrated guide for programmers and other curious people,Book,http://www.amazon.com/dp/1617292230/,9,1
+Instant Flask Web Development,Book,http://www.amazon.com/dp/1782169628/,1,1
+Mastering Python Design Patterns,Book,http://www.amazon.com/dp/1783989327/,2,1
+Python 3 Object-Oriented Programming - Second Edition,Book,http://www.amazon.com/dp/1784398780/,2,1
+"Expert Python Programming: Best practices for designing, coding, and distributing your Python software",Book,http://www.amazon.com/dp/184719494X/,1,1
+The Algorithm Design Manual,Book,http://www.amazon.com/dp/1848000693/,39,1
+Python Network Programming Cookbook,Book,http://www.amazon.com/dp/1849513465/,3,1
+AI Techniques for Game Programming (The Premier Press Game Development Series),Book,http://www.amazon.com/dp/193184108X/,1,1
+Practical Programming: An Introduction to Computer Science Using Python 3 (Pragmatic Programmers),Book,http://www.amazon.com/dp/1937785459/,2,1
+The Python Workbook: A Brief Introduction with Exercises and Solutions,Book,http://www.amazon.com/dp/3319142399/,1,1
+Python Scripting for Computational Science (Texts in Computational Science and Engineering),Book,http://www.amazon.com/dp/3540739157/,1,1
+Scientific Computing with MATLAB and Octave (Texts in Computational Science and Engineering),Book,http://www.amazon.com/dp/3642124291/,1,1
+"Oxford 01351 Plastic Index Card Flip Top File Box Holds 300 3 x 5 Cards, Matte Black (1 EA)",Office Product,http://www.amazon.com/dp/B0007894EI/,2,1
+"Leuchtturm1917 Medium Size Hardcover A5 Notebook, Ruled Pages, Black",Office Product,http://www.amazon.com/dp/B002CVAU1Y/,9,1
+"Large Two Pen Holder Quiver, Leather Pen Holder For Notebooks, Stylus Holder For Tablets, Pen Case & Pen Sleeve, A5, 8"" - 8.5"" tall (20.3 cm - 21.6 cm) (Black)",Office Product,http://www.amazon.com/dp/B005WXOV82/,1,1
+SunFounder 2 Channel DC 5V Relay Module with Optocoupler Low Level Trigger Expansion Board for Arduino UNO R3 MEGA 2560 1280 DSP ARM PIC AVR STM32 Raspberry Pi,PC Accessory,http://www.amazon.com/dp/B00E0NTPP4/,5,1
+Mastering Python Regular Expressions,eBooks,http://www.amazon.com/dp/B00IM5UW3U/,2,1
+Code: The Hidden Language of Computer Hardware and Software (Developer Best Practices),eBooks,http://www.amazon.com/dp/B00JDMPOK2/,17,1
+"Gl.iNet Smart Router, Openwrt, 3g Modem, Tor, 16M Flash",PC Accessory,http://www.amazon.com/dp/B00JKFE0FW/,3,1
+Flask Web Development: Developing Web Applications with Python,eBooks,http://www.amazon.com/dp/B00K00W9LI/,1,1
+Python for Finance: Analyze Big Financial Data,eBooks,http://www.amazon.com/dp/B00QUBHNBW/,1,1
+Web Scraping with Python: Collecting Data from the Modern Web,eBooks,http://www.amazon.com/dp/B00ZJNH0G0/,1,1
+"Raspberry Pi 7"" Touchscreen Display",PC Accessory,http://www.amazon.com/dp/B0153R2A9I/,24,1
+"USB Numeric Keypad, Jelly Comb Portable Slim Mini Number Pad for Laptop Desktop Computer PC, Full Size 19 Key, Big Print Letters - Black",Personal Computer,http://www.amazon.com/dp/B01E8TTWZ2/,6,1
+Python for Everybody: Exploring Data in Python 3,eBooks,http://www.amazon.com/dp/B01IA5VIFM/,1,1
+OSOYOO Raspberry Pi 3 DIY Starter learning Lab Kit For Beginners (20 items),PC Accessory,http://www.amazon.com/dp/B01ICNY0FW/,4,1
+"Pandas Cookbook: Recipes for Scientific Computing, Time Series Analysis and Data Visualization using Python",eBooks,http://www.amazon.com/dp/B06W2LXLQK/,1,1
 Core Python Applications Programming (3rd Edition) (Core Series),Book,http://www.amazon.com/dp/0132678209/,1,1
-Data Structures and Algorithms Using Python and C++,Book,http://www.amazon.com/dp/1590282337/,1,1
-Help Your Kids with Computer Coding,Book,http://www.amazon.com/dp/146541956X/,1,1
-Computer Science Distilled: Learn the Art of Solving Computational Problems,Book,http://www.amazon.com/dp/0997316004/,1,1
-"Oxford 01351 Plastic Index Card Flip Top File Box Holds 300 3 x 5 Cards, Matte Black (1 EA)",Office Product,http://www.amazon.com/dp/B0007894EI/,1,1
-Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design (2nd Edition),Book,http://www.amazon.com/dp/0201752840/,1,1
+Starting Out with Python (3rd Edition),Book,http://www.amazon.com/dp/0133582736/,2,1
+Computer Systems: A Programmer's Perspective (3rd Edition),Book,http://www.amazon.com/dp/013409266X/,13,1
+Rapid GUI Programming with Python and Qt: The Definitive Guide to PyQt Programming (paperback),Book,http://www.amazon.com/dp/0134393333/,2,1
+UNIX Network Programming,Book,http://www.amazon.com/dp/0139498761/,2,1
+Arithmetic (Books for Professionals),Book,http://www.amazon.com/dp/0156015293/,1,1
+Refactoring: Improving the Design of Existing Code,Book,http://www.amazon.com/dp/0201485672/,34,1
+The Pragmatic Programmer: From Journeyman to Master,Book,http://www.amazon.com/dp/020161622X/,86,1
+Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design (2nd Edition),Book,http://www.amazon.com/dp/0201752840/,2,1
+Introduction to Computation and Programming Using Python: With Application to Understanding Data (MIT Press),Book,http://www.amazon.com/dp/0262529629/,1,1
+Rootkits: Subverting the Windows Kernel,Book,http://www.amazon.com/dp/0321294319/,3,1
+Practical Object-Oriented Design in Ruby: An Agile Primer (Addison-Wesley Professional Ruby),Book,http://www.amazon.com/dp/0321721330/,20,1
+Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (3rd Edition) (Zed Shaw's Hard Way Series),Book,http://www.amazon.com/dp/0321884914/,8,1
+Snakes of the World Coloring Book (Dover Nature Coloring Book),Book,http://www.amazon.com/dp/0486284719/,1,1
+"The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life",Book,http://www.amazon.com/dp/0547884591/,10,1
+But How Do It Know? - The Basic Principles of Computers for Everyone,Book,http://www.amazon.com/dp/0615303765/,4,1
+Python Phrasebook,Book,http://www.amazon.com/dp/0672329107/,1,1
+The Visual Display of Quantitative Information,Book,http://www.amazon.com/dp/0961392142/,22,1
+Cracking the Coding Interview: 189 Programming Questions and Solutions,Book,http://www.amazon.com/dp/0984782850/,90,1
+Python for Scientists,Book,http://www.amazon.com/dp/1107686423/,4,1
+Data Structures and Algorithms in Python,Book,http://www.amazon.com/dp/1118290275/,3,1
+An Introduction to Numerical Methods and Analysis,Book,http://www.amazon.com/dp/1118367596/,1,1
+Introduction to Computing Using Python: An Application Development Focus,Book,http://www.amazon.com/dp/1118890949/,1,1
+Python Projects,Book,http://www.amazon.com/dp/111890866X/,3,1
+Introduction to the Theory of Computation,Book,http://www.amazon.com/dp/113318779X/,15,1

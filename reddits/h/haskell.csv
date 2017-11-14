@@ -1,22 +1,37 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Purely Functional Data Structures,Book,http://www.amazon.com/dp/0521663504/,5,4
-An Introduction to Category Theory,eBooks,http://www.amazon.com/dp/B009019QT6/,,1
-Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science),Book,http://www.amazon.com/dp/0262510871/,5,1
-Twentieth-Century Harmony: Creative Aspects and Practice,Book,http://www.amazon.com/dp/0393095398/,5,1
-Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series),Book,http://www.amazon.com/dp/0262018020/,4,1
-Domain-Driven Design: Tackling Complexity in the Heart of Software,Book,http://www.amazon.com/dp/0321125215/,3,1
-Types and Programming Languages (MIT Press),Book,http://www.amazon.com/dp/0262162091/,3,1
-Topoi: The Categorial Analysis of Logic (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486450260/,3,1
-Algebra: Chapter 0 (Graduate Studies in Mathematics),Book,http://www.amazon.com/dp/0821847813/,3,1
-Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming,Book,http://www.amazon.com/dp/1449335942/,2,1
-How to Bake Pi: An Edible Exploration of the Mathematics of Mathematics,Book,http://www.amazon.com/dp/0465051715/,2,1
-An Introduction to Functional Programming Through Lambda Calculus (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486478831/,2,1
-Algebra (AMS Chelsea Publishing),Book,http://www.amazon.com/dp/0821816462/,2,1
-"The Haskell Road to Logic, Maths and Programming. Second Edition (Texts in Computing)",Book,http://www.amazon.com/dp/0954300696/,2,1
+Purely Functional Data Structures,Book,http://www.amazon.com/dp/0521663504/,21,6
+Type Theory and Formal Proof: An Introduction,Book,http://www.amazon.com/dp/110703650X/,6,4
+Types and Programming Languages (MIT Press),Book,http://www.amazon.com/dp/0262162091/,5,2
+An Introduction to Functional Programming Through Lambda Calculus (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486478831/,3,2
+Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science),Book,http://www.amazon.com/dp/0262510871/,15,1
+The Little Schemer - 4th Edition,Book,http://www.amazon.com/dp/0262560992/,16,1
 "A Little Java, A Few Patterns",Book,http://www.amazon.com/dp/0262561158/,1,1
-Learn You a Haskell for Great Good!: A Beginner's Guide,Book,http://www.amazon.com/dp/1593272839/,1,1
+Domain-Driven Design: Tackling Complexity in the Heart of Software,Book,http://www.amazon.com/dp/0321125215/,24,1
+Scala for the Impatient,Book,http://www.amazon.com/dp/0321774094/,5,1
+Mathematics Form and Function,Book,http://www.amazon.com/dp/0387962174/,3,1
+Twentieth-Century Harmony: Creative Aspects and Practice,Book,http://www.amazon.com/dp/0393095398/,9,1
+How to Bake Pi: An Edible Exploration of the Mathematics of Mathematics,Book,http://www.amazon.com/dp/0465051715/,4,1
+Topoi: The Categorial Analysis of Logic (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486450260/,7,1
 Abstract and Concrete Categories: The Joy of Cats (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486469344/,1,1
+An Introduction to Category Theory,Book,http://www.amazon.com/dp/0521283043/,2,1
+Pearls of Functional Algorithm Design,Book,http://www.amazon.com/dp/0521513383/,3,1
 The Haskell School of Expression: Learning Functional Programming through Multimedia,Book,http://www.amazon.com/dp/0521644089/,1,1
+Real World Haskell,Book,http://www.amazon.com/dp/0596514980/,1,1
+Algebra (AMS Chelsea Publishing),Book,http://www.amazon.com/dp/0821816462/,8,1
+Algebra: Chapter 0 (Graduate Studies in Mathematics),Book,http://www.amazon.com/dp/0821847813/,9,1
+"The Haskell Road to Logic, Maths and Programming. Second Edition (Texts in Computing)",Book,http://www.amazon.com/dp/0954300696/,3,1
+Thinking Functionally with Haskell,Book,http://www.amazon.com/dp/1107452643/,1,1
 Beginning Haskell: A Project-Based Approach,Book,http://www.amazon.com/dp/1430262508/,1,1
+Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming,Book,http://www.amazon.com/dp/1449335942/,2,1
+Developing Web Apps with Haskell and Yesod: Safety-Driven Web Development,Book,http://www.amazon.com/dp/1491915595/,1,1
+Vicious Circles: On the Mathematics of Non-Wellfounded Phenomena (CSLI Lecture Notes),Book,http://www.amazon.com/dp/1575860082/,1,1
+Excluded: Making Feminist and Queer Movements More Inclusive,Book,http://www.amazon.com/dp/1580055044/,2,1
+Learn You a Haskell for Great Good!: A Beginner's Guide,Book,http://www.amazon.com/dp/1593272839/,3,1
+Principles of Program Analysis,Book,http://www.amazon.com/dp/3540654100/,3,1
+KSP Scripting 1,Book,http://www.amazon.com/dp/3839150515/,1,1
+"Functorial Knot Theory : Categories of Tangles, Coherence, Categorical Deformations and Topological Invariants",Book,http://www.amazon.com/dp/9810244436/,1,1
 A Book of Abstract Algebra,Book,http://www.amazon.com/dp/0070501386/,1,1
-Type Theory and Formal Proof: An Introduction,Book,http://www.amazon.com/dp/110703650X/,1,1
+An Introduction to Category Theory,eBooks,http://www.amazon.com/dp/B009019QT6/,1,1
+The Algebra of Programming (Prentice-hall International Series in Computer Science),Book,http://www.amazon.com/dp/013507245X/,2,1
+Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series),Book,http://www.amazon.com/dp/0262018020/,16,1
+Functional Differential Geometry (MIT Press),Book,http://www.amazon.com/dp/0262019345/,1,1

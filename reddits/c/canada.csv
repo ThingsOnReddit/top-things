@@ -1,49 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-War is a Racket: The Antiwar Classic by America's Most Decorated Soldier,Book,http://www.amazon.com/dp/0922915865/,33,11
-The Crisis of Democracy: Report on the Governability of Democracies to the Trilateral Commission,Book,http://www.amazon.com/dp/0814713653/,18,11
-Democracy Incorporated: Managed Democracy and the Specter of Inverted Totalitarianism,Book,http://www.amazon.com/dp/069114589X/,29,10
-Manufacturing Consent: The Political Economy of the Mass Media,Book,http://www.amazon.com/dp/0375714499/,26,6
-National Security and Double Government,Book,http://www.amazon.com/dp/0190206446/,11,3
-"Shadow Government: Surveillance, Secret Wars, and a Global Security State in a Single-Superpower World",Book,http://www.amazon.com/dp/1608463656/,9,3
-The Grand Chessboard: American Primacy And Its Geostrategic Imperatives,Book,http://www.amazon.com/dp/0465027261/,8,2
-Empire of Illusion: The End of Literacy and the Triumph of Spectacle,Book,http://www.amazon.com/dp/1568586132/,6,2
-ViewTV Outdoor Amplified Antenna - 150 Miles Range - 360° Rotation - Wireless Remote,Speakers,http://www.amazon.com/dp/B017JEF126/,3,2
-I Lived A Dream: My Canadian Heroes,eBooks,http://www.amazon.com/dp/B01LZLPXT0/,,1
-Are You Missing the Real Estate Boom?: The Boom Will Not Bust and Why Property Values Will Continue to Climb Through the End of the Decade - And How to Profit From Them,eBooks,http://www.amazon.com/dp/B000FCK0HG/,,1
-Life Out of Context,eBooks,http://www.amazon.com/dp/B004Z1RXL4/,,1
-1491: New Revelations of the Americas Before Columbus,Book,http://www.amazon.com/dp/1400032059/,21,1
-Amazon Echo - Black (1st Generation),Amazon Home,http://www.amazon.com/dp/B00X4WHP5E/,11,1
-The Wages of Destruction: The Making and Breaking of the Nazi Economy,Book,http://www.amazon.com/dp/0143113208/,10,1
-Amazon Prime (One Year Membership),Prime,http://www.amazon.com/dp/B00DBYBNEE/,10,1
-"Sex at Dawn: How We Mate, Why We Stray, and What It Means for Modern Relationships",Book,http://www.amazon.com/dp/0061707813/,7,1
-"Kindle Paperwhite E-reader - Black, 6"" High-Resolution Display (300 ppi) with Built-in Light, Wi-Fi - Includes Special Offers",Amazon Ereaders,http://www.amazon.com/dp/B00OQVZDJM/,6,1
-High Price: A Neuroscientist's Journey of Self-Discovery That Challenges Everything You Know About Drugs and Society (P.S.),Book,http://www.amazon.com/dp/0062015893/,4,1
-Apex Ultra Pill Splitter,Health and Beauty,http://www.amazon.com/dp/B000EGKTGK/,4,1
-War is a Racket: The Antiwar Classic by America's Most Decorated Soldier,Book,http://www.amazon.com/dp/1503081575/,2,1
-"KRUPS GVX212 Coffee Grinder with Grind Size and Cup Selection and Stainless Steel Flat Burr Grinder, 8-Ounce, Black",Kitchen,http://www.amazon.com/dp/B0001I9R8W/,2,1
-B. Woofer (Hound Dog Guitar),Toy,http://www.amazon.com/dp/B004Z0VVEK/,2,1
-"Coleman  2-Person Sundome Tent, Green",Sports,http://www.amazon.com/dp/B004J2KDH0/,2,1
-Morton Salt Regular Salt - 26 oz,Grocery,http://www.amazon.com/dp/B0005ZV1CQ/,2,1
-White Gold: The Extraordinary Story of Thomas Pellow and North Africa's One Million European Slaves,Book,http://www.amazon.com/dp/0340794704/,2,1
-For My Legionaries (The Iron Guard),Book,http://www.amazon.com/dp/1593640005/,1,1
-Potty Patty - Potty Training Doll,Baby Product,http://www.amazon.com/dp/B002R8FOPE/,1,1
-Arrowhead Mills Organic Popcorn 28 oz (Pack of 60),Grocery,http://www.amazon.com/dp/B005GRC2PS/,1,1
-STA-BIL 22214 Fuel Stabilizer - 32 Fl oz.,Automotive Parts and Accessories,http://www.amazon.com/dp/B000B68V6I/,1,1
-Pinch: How the Baby Boomers Took Their Children's Future - And Why They Should Give It Back,Book,http://www.amazon.com/dp/1848872321/,1,1
-Tirra Coffeemaker by Trudeau - 32 oz.,Kitchen,http://www.amazon.com/dp/B000ANARY6/,1,1
-"The Difference: How the Power of Diversity Creates Better Groups, Firms, Schools, and Societies",Book,http://www.amazon.com/dp/0691138540/,1,1
-Noble Savages: My Life Among Two Dangerous Tribes -- the Yanomamo and the Anthropologists,Book,http://www.amazon.com/dp/0684855100/,1,1
-"Invented Knowledge: False History, Fake Science and Pseudo-religions",Book,http://www.amazon.com/dp/1861898177/,1,1
-Terk HDTVAZ Amplified Indoor HDTV Antenna,Speakers,http://www.amazon.com/dp/B0007MXZB2/,1,1
-Coleman 4-Person Instant Cabin,Sports,http://www.amazon.com/dp/B004E4AVY8/,1,1
-"ARCTIC Alpine 11 Plus CPU Cooler - Intel, Supports Multiple Sockets, 92mm PWM Fan at 23dBA",Personal Computer,http://www.amazon.com/dp/B00606OHQQ/,1,1
-What Your Doctor May Not Tell You About(TM) Children's Vaccinations,Book,http://www.amazon.com/dp/0446555711/,1,1
-Monopoly Game: Ultimate Banking Edition,Toy,http://www.amazon.com/dp/B01ALHAMTK/,1,1
-Nuremberg Diary,Book,http://www.amazon.com/dp/0306806614/,1,1
+Democracy Incorporated: Managed Democracy and the Specter of Inverted Totalitarianism,Book,http://www.amazon.com/dp/069114589X/,86,33
+The Crisis of Democracy: Report on the Governability of Democracies to the Trilateral Commission,Book,http://www.amazon.com/dp/0814713653/,39,25
+War is a Racket: The Antiwar Classic by America's Most Decorated Soldier,Book,http://www.amazon.com/dp/0922915865/,74,21
+Manufacturing Consent: The Political Economy of the Mass Media,Book,http://www.amazon.com/dp/0375714499/,73,15
+"Shadow Government: Surveillance, Secret Wars, and a Global Security State in a Single-Superpower World",Book,http://www.amazon.com/dp/1608463656/,25,11
+Empire of Illusion: The End of Literacy and the Triumph of Spectacle,Book,http://www.amazon.com/dp/1568586132/,25,10
+National Security and Double Government,Book,http://www.amazon.com/dp/0190206446/,28,10
+The Grand Chessboard: American Primacy And Its Geostrategic Imperatives,Book,http://www.amazon.com/dp/0465027261/,29,5
+ViewTV Outdoor Amplified Antenna - 150 Miles Range - 360° Rotation - Wireless Remote,Speakers,http://www.amazon.com/dp/B017JEF126/,9,2
+Enhanced Interrogation: Inside the Minds and Motives of the Islamic Terrorists Trying To Destroy America,Book,http://www.amazon.com/dp/1101906847/,3,2
+Easy Meat: Inside Britain's Grooming Gang Scandal,Book,http://www.amazon.com/dp/1943003068/,6,2
+Jacques Derrida (Routledge Critical Thinkers),Book,http://www.amazon.com/dp/0415229316/,1,1
 New British Fascism: Rise of the British National Party (Extremism and Democracy),Book,http://www.amazon.com/dp/041546501X/,1,1
+History of Madness,Book,http://www.amazon.com/dp/0415477263/,1,1
+How the Irish Became White (Routledge Classics),Book,http://www.amazon.com/dp/0415963095/,43,1
+What Your Doctor May Not Tell You About(TM) Children's Vaccinations,Book,http://www.amazon.com/dp/0446555711/,1,1
+I Am America (And So Can You!),Book,http://www.amazon.com/dp/0446582182/,7,1
+The Great Lakes Triangle,Book,http://www.amazon.com/dp/0449138275/,4,1
+Flashman at the Charge,Book,http://www.amazon.com/dp/0452264138/,1,1
+Rand McNally 2017 Deluxe Motor Carriers' Road Atlas (Rand Mcnally Motor Carriers' Road Atlas Deluxe Edition),Book,http://www.amazon.com/dp/0528015729/,2,1
+"The Lion, the Fox and the Eagle",Book,http://www.amazon.com/dp/0679311386/,1,1
+The Ghosts of Medak Pocket: The Story of Canada's Secret War,Book,http://www.amazon.com/dp/0679312943/,1,1
+Noble Savages: My Life Among Two Dangerous Tribes -- the Yanomamo and the Anthropologists,Book,http://www.amazon.com/dp/0684855100/,1,1
+Marxism: Philosophy and Economics,Book,http://www.amazon.com/dp/0688029639/,3,1
+"The Difference: How the Power of Diversity Creates Better Groups, Firms, Schools, and Societies",Book,http://www.amazon.com/dp/0691138540/,2,1
+Irrational Exuberance,Book,http://www.amazon.com/dp/0767923634/,1,1
+"Where the Hell Are the Guns?: A Soldier's View of the Anxious Years, 1939-44",Book,http://www.amazon.com/dp/0771015062/,1,1
+Kingdom Conspiracy: Returning to the Radical Mission of the Local Church,Book,http://www.amazon.com/dp/0801097851/,1,1
+Dictionary of Newfoundland English: Second Edition,Book,http://www.amazon.com/dp/0802068197/,2,1
+Hotel K: The Shocking Inside Story of Bali's Most Notorious Jail,Book,http://www.amazon.com/dp/0857382691/,1,1
+Homemade Semtex: C-4's Ugly Sister,Book,http://www.amazon.com/dp/0873646177/,1,1
+Ressentiment (Marquette Studies in Philosophy),Book,http://www.amazon.com/dp/0874626021/,2,1
+Fistfights With Muslims In Europe: One Man's Journey Through Modernity,Book,http://www.amazon.com/dp/0998267600/,2,1
+How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease,Book,http://www.amazon.com/dp/1250066115/,54,1
+1491: New Revelations of the Americas Before Columbus,Book,http://www.amazon.com/dp/1400032059/,53,1
+Champlain's Dream,Book,http://www.amazon.com/dp/1416593330/,1,1
+Case Studies in Drowning Forensics,Book,http://www.amazon.com/dp/1439876649/,9,1
+"The Good Nurse: A True Story of Medicine, Madness, and Murder",Book,http://www.amazon.com/dp/1455574139/,4,1
 American Hysteria: The Untold Story of Mass Political Extremism in the United States,Book,http://www.amazon.com/dp/1493003348/,1,1
+War is a Racket: The Antiwar Classic by America's Most Decorated Soldier,Book,http://www.amazon.com/dp/1503081575/,6,1
+None Is Too Many: Canada and the Jews of Europe 1933-1948,Book,http://www.amazon.com/dp/155263289X/,1,1
+The Clitoral Truth: The Secret World at Your Fingertips,Book,http://www.amazon.com/dp/1583224734/,9,1
+Ar-Raheeq Al-Makhtum (The Sealed Nectar): Biography of the Prophet,Book,http://www.amazon.com/dp/1591440718/,3,1
+For My Legionaries (The Iron Guard),Book,http://www.amazon.com/dp/1593640005/,1,1
+Chasing the Scream: The First and Last Days of the War on Drugs,Book,http://www.amazon.com/dp/1620408910/,6,1
+Pinch: How the Baby Boomers Took Their Children's Future - And Why They Should Give It Back,Book,http://www.amazon.com/dp/1848872321/,1,1
+"Invented Knowledge: False History, Fake Science and Pseudo-religions",Book,http://www.amazon.com/dp/1861898177/,1,1
+How Not to Be a Dick: An Everyday Etiquette Guide,Book,http://www.amazon.com/dp/1936976021/,18,1
+Trade is War,Book,http://www.amazon.com/dp/1939293812/,1,1
+"KRUPS GVX212 Coffee Grinder with Grind Size and Cup Selection and Stainless Steel Flat Burr Grinder, 8-Ounce, Black",Kitchen,http://www.amazon.com/dp/B0001I9R8W/,4,1
+Morton Salt Regular Salt - 26 oz,Grocery,http://www.amazon.com/dp/B0005ZV1CQ/,3,1
+Terk HDTVAZ Amplified Indoor HDTV Antenna,Speakers,http://www.amazon.com/dp/B0007MXZB2/,10,1
 Calphalon Classic Bakeware 12x 17 inches Rectangular Nonstick Cooling Rack,Kitchen,http://www.amazon.com/dp/B0009EYIXW/,1,1
-Canada's Maple Leaf Embroidered Cap - Black,Apparel,http://www.amazon.com/dp/B00HG2JCTK/,1,1
-Without Reservation: The Making of America's Most Powerful Indian Tribe and Foxwoods the World's Largest Casino,Book,http://www.amazon.com/dp/0060193670/,1,1
+Tirra Coffeemaker by Trudeau - 32 oz.,Kitchen,http://www.amazon.com/dp/B000ANARY6/,1,1
+STA-BIL 22214 Fuel Stabilizer - 32 Fl oz.,Automotive Parts and Accessories,http://www.amazon.com/dp/B000B68V6I/,4,1
+Keurig 5048 My K-Cup Reusable Coffee Filter - Old Model,Kitchen,http://www.amazon.com/dp/B000DLB2FI/,16,1
+Apex Ultra Pill Splitter,Health and Beauty,http://www.amazon.com/dp/B000EGKTGK/,11,1
+Are You Missing the Real Estate Boom?: The Boom Will Not Bust and Why Property Values Will Continue to Climb Through the End of the Decade - And How to Profit From Them,eBooks,http://www.amazon.com/dp/B000FCK0HG/,1,1
+Canada's False Prophet: The Notorious Brother 12,Book,http://www.amazon.com/dp/B000I78H0K/,1,1
+"Westcott 8"" Straight Titanium Bonded Scissors, Grey/Yellow, 2 Per Pack",Office Product,http://www.amazon.com/dp/B000P0LNRE/,6,1
+Bully Tools 92200 Heavy Duty Sidewalk and Ice Scraper with Long Steel Handle,Lawn & Patio,http://www.amazon.com/dp/B000PAQEKU/,3,1
+Little Tikes Beach Ball Sprinkler (88 Inches) (Colors May Vary),Toy,http://www.amazon.com/dp/B000QX50JC/,1,1
+"Diamond VC500 USB 2.0 One Touch VHS to DVD Video Capture Device with Easy to use Software, Convert, Edit and Save to Digital Files For Win7, Win8 and Win10",PC Accessory,http://www.amazon.com/dp/B000VM60I8/,12,1
+"Soft 'N Style Butterfly Clamps, Assorted Colors, 1 Dozen",Beauty,http://www.amazon.com/dp/B000X20Y4C/,2,1
+"Diane 2"" Bobby Pins, Black, 300 Count, D452",Beauty,http://www.amazon.com/dp/B001A3ATP2/,2,1
+Black & Decker EM100B Energy Saver Series Power Monitor,Home Improvement,http://www.amazon.com/dp/B001ELJKLE/,2,1
+Connect-A-Desk: Mobile Laptop Harness & Desk,PC Accessory,http://www.amazon.com/dp/B001G713NO/,3,1
+Asus Republic of Gamers Flexible 2-Way SLI Bridge for Nvidia GPUs,PC Accessory,http://www.amazon.com/dp/B0025VR10E/,1,1
+Potty Patty - Potty Training Doll,Baby Product,http://www.amazon.com/dp/B002R8FOPE/,1,1
+Barge All Purpose Cement Quart,Art and Craft Supply,http://www.amazon.com/dp/B0032YYOFS/,4,1
+"Licefreee Spray, Instant Head Lice Treatment Spray Bottle With Metal Comb, 6 Ounce",Health and Beauty,http://www.amazon.com/dp/B003KYNNTS/,4,1
+"The 10,000 Year Explosion: How Civilization Accelerated Human Evolution",eBooks,http://www.amazon.com/dp/B0042FZRPC/,4,1
+Coleman 4-Person Instant Cabin,Sports,http://www.amazon.com/dp/B004E4AVY8/,4,1
+"Coleman  2-Person Sundome Tent, Green",Sports,http://www.amazon.com/dp/B004J2KDH0/,6,1
+"#8 x 2"" Round Washer Recex Screw (100 per Pack)",Home Improvement,http://www.amazon.com/dp/B004S9SP4M/,1,1
+B. Woofer (Hound Dog Guitar),Toy,http://www.amazon.com/dp/B004Z0VVEK/,2,1
+Life Out of Context,eBooks,http://www.amazon.com/dp/B004Z1RXL4/,1,1
+Fair Trade for All: How Trade Can Promote Development,eBooks,http://www.amazon.com/dp/B005C8CZ76/,5,1
+Klein Tools 32558 Ratcheting Multi-Bit Screwdriver/Nut Driver,Home Improvement,http://www.amazon.com/dp/B005FQDHBI/,6,1
+Arrowhead Mills Organic Popcorn 28 oz (Pack of 60),Grocery,http://www.amazon.com/dp/B005GRC2PS/,1,1
+Zen 70mm Metallic Box Automatic Cigarette Rolling Paper Machine Roller,Shoes,http://www.amazon.com/dp/B005NIBZ58/,2,1
+"ARCTIC Alpine 11 Plus CPU Cooler - Intel, Supports Multiple Sockets, 92mm PWM Fan at 23dBA",Personal Computer,http://www.amazon.com/dp/B00606OHQQ/,4,1
+"Professional Lysol IC Quaternary Disinfectant Cleaner Concentrate, 1gal",Health and Beauty,http://www.amazon.com/dp/B0061V9VB6/,1,1
+Milwaukee Electric Tool 48-22-2114 11-in-1 SQ Screwdriver,Home Improvement,http://www.amazon.com/dp/B006WTK436/,3,1
+Logitech K360 Wireless Keyboard-Wireless Keyboard,Personal Computer,http://www.amazon.com/dp/B007PJ4PN2/,11,1
+Infinite Jest,Audible,http://www.amazon.com/dp/B007SNQOSY/,2,1
+"Copco 16.9-Ounce Hydra Bottle, Blue",Kitchen,http://www.amazon.com/dp/B0088196AS/,1,1
+Large Gold Foiled Milk Chocolate Coins 1LB Bag,Grocery,http://www.amazon.com/dp/B008JHU5BK/,2,1
+"PUR FM-2000B Classic Vertical Water Filtration Faucet Mount, Black",Home Improvement,http://www.amazon.com/dp/B009V9K6BY/,3,1
+Hawkins Cheezies - 210g,Grocery,http://www.amazon.com/dp/B00BPXOBGA/,1,1
+Samsung UN85S9 Framed 85-Inch 4K Ultra HD 3D Smart LED TV,Home Theater,http://www.amazon.com/dp/B00CMEN95U/,15,1
+Tin Foil Hat Kit.,Toy,http://www.amazon.com/dp/B00CODZ132/,4,1
+Amazon Prime (One Year Membership),Prime,http://www.amazon.com/dp/B00DBYBNEE/,33,1
+StarTech.com MHDPMM3M 3m Passive Micro USB Male to HDMI Male Cable,Speakers,http://www.amazon.com/dp/B00E391H3I/,1,1
+"OMOTON Kindle Paperwhite Case Cover -- The Thinnest and Lightest PU Leather Smart Cover for All-New Kindle Paperwhite (Fits All versions: 2012, 2013, 2014 and 2015 All-new 300 PPI Versions), Black",Digital Device Accessory,http://www.amazon.com/dp/B00EYW9DSU/,11,1
+Original Penguin Men's Waffle Crew-Neck Shirt,Apparel,http://www.amazon.com/dp/B00F1EJS0S/,1,1
 Frozen [Blu-ray],DVD,http://www.amazon.com/dp/B00G5G7K7O/,1,1
-"Lysol IC Quaternary Disinfectant Cleaner, Professional Concentrate, 1gal",Health and Beauty,http://www.amazon.com/dp/B0061V9VB6/,1,1
+Vapur Element Bottle,Sports,http://www.amazon.com/dp/B00GDEP85Y/,8,1
+"Style Sexy Hair Control Maniac Wax, (7 Shine- 7 Hold), 1.8 oz",Beauty,http://www.amazon.com/dp/B00GYGKQTY/,1,1
+"Guns, Blacks, and Steel: American Cities after the Civil Rights Era",eBooks,http://www.amazon.com/dp/B00H26VG2Q/,1,1

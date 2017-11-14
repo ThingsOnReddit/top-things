@@ -1,2 +1,32 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"Head First Java, 2nd Edition",Book,http://www.amazon.com/dp/0596009208/,13,1
+"Head First Java, 2nd Edition",Book,http://www.amazon.com/dp/0596009208/,54,3
+Java Concurrency in Practice,Book,http://www.amazon.com/dp/0321349601/,16,2
+"Java: The Complete Reference, Ninth Edition",Book,http://www.amazon.com/dp/0071808558/,9,2
+"Java 8 in Action: Lambdas, Streams, and functional-style programming",Book,http://www.amazon.com/dp/1617291994/,4,2
+Java 8 Pocket Guide: Instant Help for Java Programmers,Book,http://www.amazon.com/dp/1491900865/,3,2
+"Agile Software Development, Principles, Patterns, and Practices",Book,http://www.amazon.com/dp/0135974445/,6,1
+Test Driven Development: By Example,Book,http://www.amazon.com/dp/0321146530/,15,1
+"Java Puzzlers: Traps, Pitfalls, and Corner Cases",Book,http://www.amazon.com/dp/032133678X/,3,1
+Algorithms (4th Edition),Book,http://www.amazon.com/dp/032157351X/,26,1
+"Java Swing, Second Edition",Book,http://www.amazon.com/dp/0596004087/,1,1
+Head First Design Patterns: A Brain-Friendly Guide,Book,http://www.amazon.com/dp/0596007124/,51,1
+Killer Game Programming in Java,Book,http://www.amazon.com/dp/0596007302/,3,1
+Java Threads: Understanding and Mastering Concurrent Programming,Book,http://www.amazon.com/dp/0596007825/,1,1
+Java I/O: Tips and Techniques for Putting I/O to Work,Book,http://www.amazon.com/dp/0596527500/,1,1
+The Art of Agile Development: Pragmatic Guide to Agile Software Development,Book,http://www.amazon.com/dp/0596527675/,2,1
+Java Generics and Collections: Speed Up the Java Development Process,Book,http://www.amazon.com/dp/0596527756/,4,1
+"Java in 24 Hours, Sams Teach Yourself (Covering Java 8) (7th Edition)",Book,http://www.amazon.com/dp/0672337029/,3,1
+Pragmatic Unit Testing in Java with JUnit,Book,http://www.amazon.com/dp/0974514012/,1,1
+OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide: Exam 1Z0-808,Book,http://www.amazon.com/dp/1118957407/,2,1
+Java Network Programming,Book,http://www.amazon.com/dp/1449357679/,1,1
+Java Performance: The Definitive Guide: Getting the Most Out of Your Code,Book,http://www.amazon.com/dp/1449358454/,3,1
+"Java Web Services: Up and Running: A Quick, Practical, and Thorough Introduction",Book,http://www.amazon.com/dp/1449365116/,1,1
+Database Programming with JDBC & Java: Developing Multi-Tier Applications (Java (O'Reilly)),Book,http://www.amazon.com/dp/1565926161/,1,1
+The Dip: A Little Book That Teaches You When to Quit (and When to Stick),Book,http://www.amazon.com/dp/1591841666/,10,1
+Test Driven: TDD and Acceptance TDD for Java Developers,Book,http://www.amazon.com/dp/1932394850/,1,1
+"Hands-on AI with Java : Smart Gaming, Robots, and More",Book,http://www.amazon.com/dp/0071424962/,1,1
+Head First Design Patterns: A Brain-Friendly Guide,eBooks,http://www.amazon.com/dp/B00AA36RZY/,1,1
+OCA/OCP Java SE 7 Programmer I & II Study Guide (Exams 1Z0-803 & 1Z0-804) (Certification Press),Book,http://www.amazon.com/dp/0071772006/,5,1
+Working Effectively with Legacy Code,Book,http://www.amazon.com/dp/0131177052/,59,1
+Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,236,1
+"Intro to Java Programming, Comprehensive Version (10th Edition)",Book,http://www.amazon.com/dp/0133761312/,11,1

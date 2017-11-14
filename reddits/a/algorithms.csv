@@ -1,8 +1,22 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,36,1
-The Algorithm Design Manual,Book,http://www.amazon.com/dp/1848000693/,10,1
-Algorithms to Live By: The Computer Science of Human Decisions,Book,http://www.amazon.com/dp/1627790365/,6,1
-The Algorithm Design Manual,Book,http://www.amazon.com/dp/1849967202/,6,1
-Algorithms Unlocked (MIT Press),Book,http://www.amazon.com/dp/0262518805/,3,1
-Algorithms,Book,http://www.amazon.com/dp/0073523402/,2,1
-Algorithmic Puzzles,Book,http://www.amazon.com/dp/0199740445/,1,1
+The Algorithm Design Manual,Book,http://www.amazon.com/dp/1848000693/,39,4
+Algorithmic Puzzles,Book,http://www.amazon.com/dp/0199740445/,6,2
+Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series),Book,http://www.amazon.com/dp/0262018020/,16,2
+"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,112,1
+Algorithms Unlocked (MIT Press),Book,http://www.amazon.com/dp/0262518805/,8,1
+Algorithm Design,Book,http://www.amazon.com/dp/0321295358/,10,1
+"Statistical Decision Theory: Estimation, Testing, and Selection (Springer Series in Statistics)",Book,http://www.amazon.com/dp/0387731938/,2,1
+"The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)",Book,http://www.amazon.com/dp/0387848576/,9,1
+The Algorithm Design Manual,Book,http://www.amazon.com/dp/0387948600/,10,1
+Combinatorial Optimization: Algorithms and Complexity (Dover Books on Computer Science),Book,http://www.amazon.com/dp/0486402584/,5,1
+Computational Complexity: A Modern Approach,Book,http://www.amazon.com/dp/0521424267/,7,1
+"Bayesian Data Analysis, Third Edition (Chapman & Hall/CRC Texts in Statistical Science)",Book,http://www.amazon.com/dp/1439840954/,7,1
+An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics),Book,http://www.amazon.com/dp/1461471370/,11,1
+Data Structures and Algorithms Made Easy: Data Structure and Algorithmic Puzzles,Book,http://www.amazon.com/dp/1468108867/,2,1
+Algorithms to Live By: The Computer Science of Human Decisions,Book,http://www.amazon.com/dp/1627790365/,10,1
+The Algorithm Design Manual,Book,http://www.amazon.com/dp/1849967202/,15,1
+Secrets of the JavaScript Ninja,Book,http://www.amazon.com/dp/193398869X/,14,1
+Algorithms,Book,http://www.amazon.com/dp/0073523402/,7,1
+"Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles, Fifth Edition",Book,http://www.amazon.com/dp/819324527X/,2,1
+Data Analysis: A Bayesian Tutorial,Book,http://www.amazon.com/dp/0198568320/,4,1
+Probabilistic Graphical Models: Principles and Techniques (Adaptive Computation and Machine Learning series),Book,http://www.amazon.com/dp/0262013193/,6,1

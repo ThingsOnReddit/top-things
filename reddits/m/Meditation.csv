@@ -1,65 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-The Mind Illuminated: A Complete Meditation Guide Integrating Buddhist Wisdom and Brain Science,Book,http://www.amazon.com/dp/0990847705/,18,10
-Waking Up: A Guide to Spirituality Without Religion,Book,http://www.amazon.com/dp/1451636024/,10,3
-Feeling Good: The New Mood Therapy,Book,http://www.amazon.com/dp/0380810336/,39,2
-The Mind Illuminated: A Complete Meditation Guide Integrating Buddhist Wisdom and Brain Science for Greater Mindfulness,eBooks,http://www.amazon.com/dp/B01INMZKAQ/,5,2
-"Mindfulness, Bliss, and Beyond: A Meditator's Handbook",Book,http://www.amazon.com/dp/0861712757/,3,2
-Right Concentration: A Practical Guide to the Jhanas,Book,http://www.amazon.com/dp/1611802695/,3,2
-Mastering the Core Teachings of the Buddha: An Unusually Hardcore Dharma Book,eBooks,http://www.amazon.com/dp/B005TQU7P8/,,1
-A Path with Heart: A Guide Through the Perils and Promises of Spiritual Life,eBooks,http://www.amazon.com/dp/B002SXIF2W/,,1
-The Mindful Geek: Mindfulness Meditation for Secular Skeptics,eBooks,http://www.amazon.com/dp/B0155FWYBW/,,1
-"Fully Present: The Science, Art, and Practice of Mindfulness",eBooks,http://www.amazon.com/dp/B003Y8YWGS/,,1
-The Jedi Handbook of Global Education: A Guide to Healing Your Planet and Bringing Balance to The Force,eBooks,http://www.amazon.com/dp/B00P30Z1SI/,,1
-Healing Back Pain: The Mind-Body Connection,eBooks,http://www.amazon.com/dp/B000FA5SGG/,,1
-Practicing the Jhanas: Traditional Concentration Meditation as Presented by the Venerable Pa Auk Sayada w,eBooks,http://www.amazon.com/dp/B005AJVEDS/,,1
-Right Concentration: A Practical Guide to the Jhanas,eBooks,http://www.amazon.com/dp/B017JJOXQ6/,,1
-The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),Book,http://www.amazon.com/dp/1878424319/,14,1
-Complex PTSD: From Surviving to Thriving: A GUIDE AND MAP FOR RECOVERING FROM CHILDHOOD TRAUMA,Book,http://www.amazon.com/dp/1492871842/,14,1
-"The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",Book,http://www.amazon.com/dp/0143127748/,14,1
-Mindfulness in Plain English,Book,http://www.amazon.com/dp/0861719069/,9,1
-Be Here Now,Book,http://www.amazon.com/dp/0517543052/,6,1
-"The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",Book,http://www.amazon.com/dp/0670785938/,4,1
-Becoming the Iceman,Book,http://www.amazon.com/dp/1937600467/,4,1
-"Many Lives, Many Masters: The True Story of a Prominent Psychiatrist, His Young Patient, and the Past-Life Therapy That Changed Both Their Lives",Book,http://www.amazon.com/dp/0671657860/,3,1
-"L-Theanine - 100 Grams (500 Servings at 200 mg) | #1 Value for Money #Top Nootropic Supplement | For Anxiety, Focus, Stress Relief, Weight Loss, Pre Workout - FBA",Health and Beauty,http://www.amazon.com/dp/B00H46X2LC/,3,1
-Zen and the Art of Motorcycle Maintenance: An Inquiry into Values,Book,http://www.amazon.com/dp/0060589469/,3,1
-Free Will,Book,http://www.amazon.com/dp/1451683405/,3,1
-Rational Recovery: The New Cure for Substance Addiction,Book,http://www.amazon.com/dp/0671528580/,3,1
-Feeling Good: The New Mood Therapy,Book,http://www.amazon.com/dp/0380731762/,3,1
-"What Doesn’t Kill Us: How Freezing Water, Extreme Altitude and Environmental Conditioning Will Renew Our Lost Evolutionary Strength",Book,http://www.amazon.com/dp/1623366909/,2,1
-Happiness Beyond Thought: A Practical Guide to Awakening,Book,http://www.amazon.com/dp/0595418562/,2,1
-"Practicing the Power of Now: Essential Teachings, Meditations, and Exercises From The Power of Now",Book,http://www.amazon.com/dp/1577311957/,2,1
-Owning Your Own Shadow: Understanding the Dark Side of the Psyche,Book,http://www.amazon.com/dp/0062507540/,2,1
-"The Mindbody Prescription: Healing the Body, Healing the Pain",Book,http://www.amazon.com/dp/0446675156/,2,1
-The Teachings of Don Juan: A Yaqui Way of Knowledge,Book,http://www.amazon.com/dp/0671600419/,2,1
-Turning the Mind Into an Ally,Book,http://www.amazon.com/dp/157322345X/,2,1
-"Focused and Fearless: A Meditator's Guide to States of Deep Joy, Calm, and Clarity",Book,http://www.amazon.com/dp/0861715608/,2,1
-"Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice",Book,http://www.amazon.com/dp/1590308492/,2,1
-A Guide to the Good Life: The Ancient Art of Stoic Joy,eBooks,http://www.amazon.com/dp/B0040JHNQG/,2,1
-The End of Your World: Uncensored Straight Talk on the Nature of Enlightenment,Book,http://www.amazon.com/dp/1591797799/,2,1
-Science of Breath,Book,http://www.amazon.com/dp/0893891517/,1,1
-When Buddhists Attack: The Curious Relationship Between Zen and the Martial Arts,Book,http://www.amazon.com/dp/4805312300/,1,1
-Unlimiting Mind: The Radically Experiential Psychology of Buddhism,Book,http://www.amazon.com/dp/0861716205/,1,1
-Opening the Hand of Thought: Foundations of Zen Buddhist Practice,Book,http://www.amazon.com/dp/0861713575/,1,1
-Hurry Up and Meditate: Your Starter Kit for Inner Peace and Better Health,Book,http://www.amazon.com/dp/1559393068/,1,1
-Copper Meditation Pyramid for Self Healing and Heart Chakra Activation,Health and Beauty,http://www.amazon.com/dp/B011O360QY/,1,1
-Smile at Fear: Awakening the True Heart of Bravery,Book,http://www.amazon.com/dp/1590308859/,1,1
-There Is No Right Way to Meditate: And Other Lessons,Book,http://www.amazon.com/dp/1440592527/,1,1
-The Psychology of Enhancing Human Performance: The Mindfulness-Acceptance-Commitment Approach,Book,http://www.amazon.com/dp/0826102603/,1,1
+The Mind Illuminated: A Complete Meditation Guide Integrating Buddhist Wisdom and Brain Science,Book,http://www.amazon.com/dp/0990847705/,82,48
+Mindfulness in Plain English,Book,http://www.amazon.com/dp/0861719069/,47,10
+Waking Up: A Guide to Spirituality Without Religion,Book,http://www.amazon.com/dp/1451636024/,41,9
+Right Concentration: A Practical Guide to the Jhanas,Book,http://www.amazon.com/dp/1611802695/,13,9
+Right Concentration: A Practical Guide to the Jhanas,eBooks,http://www.amazon.com/dp/B017JJOXQ6/,8,5
+"Focused and Fearless: A Meditator's Guide to States of Deep Joy, Calm, and Clarity",Book,http://www.amazon.com/dp/0861715608/,9,5
+Feeling Good: The New Mood Therapy,Book,http://www.amazon.com/dp/0380810336/,228,5
+"Mindfulness, Bliss, and Beyond: A Meditator's Handbook",Book,http://www.amazon.com/dp/0861712757/,10,5
+The Power of Now: A Guide to Spiritual Enlightenment,Book,http://www.amazon.com/dp/1577314808/,58,5
+The Mindful Way Through Depression: Freeing Yourself from Chronic Unhappiness (Book & CD),Book,http://www.amazon.com/dp/1593851286/,33,4
+The Mind Illuminated: A Complete Meditation Guide Integrating Buddhist Wisdom and Brain Science for Greater Mindfulness,Book,http://www.amazon.com/dp/1501156985/,14,4
+True Meditation: Discover the Freedom of Pure Awareness,Book,http://www.amazon.com/dp/1591794676/,4,4
+"Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice",Book,http://www.amazon.com/dp/1590308492/,16,4
+The Posture of Meditation,Book,http://www.amazon.com/dp/1570622329/,5,3
+"Kapok Zafu Meditation Cushion, Black",Health and Beauty,http://www.amazon.com/dp/B000HG5OWQ/,3,3
+Seeing That Frees,Book,http://www.amazon.com/dp/0992848911/,6,3
+Autobiography of a Yogi (Self-Realization Fellowship),Book,http://www.amazon.com/dp/0876120796/,6,3
+The Untethered Soul: The Journey Beyond Yourself,Book,http://www.amazon.com/dp/1572245379/,15,2
+Man's Search for Meaning,Book,http://www.amazon.com/dp/080701429X/,69,2
+"The Mindful Path through Shyness: How Mindfulness and Compassion Can Help Free You from Social Anxiety, Fear, and Avoidance",Book,http://www.amazon.com/dp/1572246502/,2,2
+"The Mindfulness Toolbox: 50 Practical Tips, Tools & Handouts for Anxiety, Depression, Stress & Pain",Book,http://www.amazon.com/dp/1936128861/,2,2
+A Path with Heart: A Guide Through the Perils and Promises of Spiritual Life,eBooks,http://www.amazon.com/dp/B002SXIF2W/,2,2
+Understanding Consciousness,Book,http://www.amazon.com/dp/0415425166/,2,2
+Wisdom Wide and Deep: A Practical Handbook for Mastering Jhana and Vipassana,Book,http://www.amazon.com/dp/086171623X/,2,2
+A Path with Heart: A Guide Through the Perils and Promises of Spiritual Life,Book,http://www.amazon.com/dp/0553372114/,3,2
+Running with the Mind of Meditation: Lessons for Training Body and Mind,Book,http://www.amazon.com/dp/0307888177/,5,2
+The Life of Milarepa: A New Translation from the Tibetan (Compass),Book,http://www.amazon.com/dp/0140193502/,2,2
+The Zen Teaching of Huang Po: On the Transmission of Mind,Book,http://www.amazon.com/dp/0802150926/,23,2
+Opening the Hand of Thought: Foundations of Zen Buddhist Practice,Book,http://www.amazon.com/dp/0861713575/,4,2
+"Full Catastrophe Living (Revised Edition): Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness",Book,http://www.amazon.com/dp/0345536932/,24,2
+Wheels of Life: A User's Guide to the Chakra System (Llewellyn's New Age Series),Book,http://www.amazon.com/dp/0875423205/,6,2
+The Mind Illuminated: A Complete Meditation Guide Integrating Buddhist Wisdom and Brain Science for Greater Mindfulness,eBooks,http://www.amazon.com/dp/B01INMZKAQ/,11,2
+Be Here Now,Book,http://www.amazon.com/dp/0517543052/,18,2
+The Mindful Geek: Mindfulness Meditation for Secular Skeptics,eBooks,http://www.amazon.com/dp/B0155FWYBW/,4,2
+Eastern Mystics,DVD,http://www.amazon.com/dp/B00470AB2G/,2,2
+"The Art and Skill of Buddhist Meditation: Mindfulness, Concentration, and Insight",eBooks,http://www.amazon.com/dp/B016XE3Q20/,3,2
+"Fixed Legs Meditation Bench Premium Ultra-Light 3 Sizes Many Colors Made in USA (Eucalyptus, Small)",Sports,http://www.amazon.com/dp/B01ISNPU6Y/,2,2
+Mindfulness: An Eight-Week Plan for Finding Peace in a Frantic World,Book,http://www.amazon.com/dp/1609618955/,17,2
+The Attention Revolution: Unlocking the Power of the Focused Mind,Book,http://www.amazon.com/dp/0861712765/,4,2
+Zafu Round - NAVY - Buckwheat Fill 10oz Cotton Made in USA by Bean Products,Sports,http://www.amazon.com/dp/B003M1XXTE/,2,2
+"The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",eBooks,http://www.amazon.com/dp/B00G3L1C2K/,8,2
+Shift into Freedom: The Science and Practice of Open-Hearted Awareness,eBooks,http://www.amazon.com/dp/B013RLHMW2/,7,2
+The Mindfulness and Acceptance Workbook for Social Anxiety and Shyness: Using Acceptance and Commitment Therapy to Free Yourself from Fear and Reclaim Your Life (New Harbinger Self-Help Workbook),Book,http://www.amazon.com/dp/1608820807/,3,2
+The Zen Doctrine of No Mind,Book,http://www.amazon.com/dp/0877281823/,2,2
+A Guide to the Good Life: The Ancient Art of Stoic Joy,Book,http://www.amazon.com/dp/0195374614/,72,2
+Kundalini & the Chakras: Evolution in this Lifetime (Llewellyn's new age series),Book,http://www.amazon.com/dp/0875425925/,2,2
+Manual of Insight,Book,http://www.amazon.com/dp/1614292779/,4,2
+"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works--A True Story",Book,http://www.amazon.com/dp/0062265423/,15,2
+Natural Pain Relief: How to Soothe and Dissolve Physical Pain with Mindfulness,eBooks,http://www.amazon.com/dp/B004X72M7K/,2,2
+"In Search of the Warrior Spirit, Fourth Edition: Teaching Awareness Disciplines to the Green Berets",Book,http://www.amazon.com/dp/1583942025/,2,2
+The Science of Enlightenment: How Meditation Works,Book,http://www.amazon.com/dp/1591794609/,5,2
+"After the Ecstasy, the Laundry: How the Heart Grows Wise on the Spiritual Path",Book,http://www.amazon.com/dp/0553378295/,4,2
+Shift into Freedom: The Science and Practice of Open-Hearted Awareness,Book,http://www.amazon.com/dp/1622033507/,6,2
+Turning the Mind Into an Ally,Book,http://www.amazon.com/dp/157322345X/,5,2
+"Calming Your Anxious Mind: How Mindfulness and Compassion Can Free You from Anxiety, Fear, and Panic",Book,http://www.amazon.com/dp/1572244879/,4,2
+"Practicing the Power of Now: Essential Teachings, Meditations, and Exercises From The Power of Now",Book,http://www.amazon.com/dp/1577311957/,4,2
+Waking Up: A Guide to Spirituality Without Religion,Book,http://www.amazon.com/dp/1451636016/,30,2
+"Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life",Book,http://www.amazon.com/dp/1401307787/,21,2
+Zen and the Art of Motorcycle Maintenance: An Inquiry into Values,Book,http://www.amazon.com/dp/0060589469/,18,2
+Free Will,Book,http://www.amazon.com/dp/1451683405/,13,2
+There Is Nothing Wrong with You: Going Beyond Self-Hate,Book,http://www.amazon.com/dp/0971030901/,10,2
+Blood Meridian: Or the Evening Redness in the West,Book,http://www.amazon.com/dp/0679728759/,2,1
+The Book: On the Taboo Against Knowing Who You Are,Book,http://www.amazon.com/dp/0679723005/,23,1
+Siddhartha (Modern Library),Book,http://www.amazon.com/dp/0679643362/,1,1
+William James on Psychical Research,Book,http://www.amazon.com/dp/0678031649/,1,1
+How to Meditate: A Guide to Self-Discovery,Book,http://www.amazon.com/dp/0316880620/,4,1
+Love 2.0: Finding Happiness and Health in Moments of Connection,Book,http://www.amazon.com/dp/0142180475/,2,1
+"Many Lives, Many Masters: The True Story of a Prominent Psychiatrist, His Young Patient, and the Past-Life Therapy That Changed Both Their Lives",Book,http://www.amazon.com/dp/0671657860/,8,1
+The Teachings of Don Juan: A Yaqui Way of Knowledge,Book,http://www.amazon.com/dp/0671600419/,5,1
+Happiness: A Guide to Developing Life's Most Important Skill,Book,http://www.amazon.com/dp/0316167258/,4,1
+Rational Recovery: The New Cure for Substance Addiction,Book,http://www.amazon.com/dp/0671528580/,8,1
+"The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",Book,http://www.amazon.com/dp/0670785938/,15,1
+Feeding Your Demons: Ancient Wisdom for Resolving Inner Conflict,Book,http://www.amazon.com/dp/0316013137/,1,1
+Fear: Essential Wisdom for Getting Through the Storm,Book,http://www.amazon.com/dp/0062004735/,4,1
+Happiness Beyond Thought: A Practical Guide to Awakening,Book,http://www.amazon.com/dp/0595418562/,5,1
+Toxic Parents: Overcoming Their Hurtful Legacy and Reclaiming Your Life,Book,http://www.amazon.com/dp/0553381407/,76,1
+The Wisdom of Insecurity: A Message for an Age of Anxiety,Book,http://www.amazon.com/dp/0307741206/,10,1
+Adventures Beyond the Body: How to Experience Out-of-Body Travel,Book,http://www.amazon.com/dp/0062513710/,5,1
+Journey of Awakening: A Meditator's Guidebook,Book,http://www.amazon.com/dp/0553285726/,1,1
 Focusing,Book,http://www.amazon.com/dp/0553278339/,1,1
-Nixon Under the Bodhi Tree and Other Works of Buddhist Fiction,Book,http://www.amazon.com/dp/0861713540/,1,1
-Not Where I Started From,Book,http://www.amazon.com/dp/0395860326/,1,1
-How Can I Help?: Stories and Reflections on Service,Book,http://www.amazon.com/dp/0394729471/,1,1
-The Experience of Samadhi: An In-depth Exploration of Buddhist Meditation,Book,http://www.amazon.com/dp/1590305213/,1,1
-Grace and Grit: Spirituality and Healing in the Life and Death of Treya Killam Wilber,Book,http://www.amazon.com/dp/1570627428/,1,1
-One Taste: Daily Reflections on Integral Spirituality,Book,http://www.amazon.com/dp/1570625476/,1,1
-The Life of Milarepa: A New Translation from the Tibetan (Compass),Book,http://www.amazon.com/dp/0140193502/,1,1
-Bangkok Tattoo: A Royal Thai Detective Novel (2),Book,http://www.amazon.com/dp/1400032911/,1,1
-True Meditation: Discover the Freedom of Pure Awareness,Book,http://www.amazon.com/dp/1591794676/,1,1
-Fear: Essential Wisdom for Getting Through the Storm,Book,http://www.amazon.com/dp/0062004735/,1,1
-Joy on Demand: The Art of Discovering the Happiness Within,Book,http://www.amazon.com/dp/0062378856/,1,1
-"Natural Vitality Natural Calm Plus Calcium Magnesium Anti Stress, Organic, Raspbery Lemon, 16 oz",Health and Beauty,http://www.amazon.com/dp/B003I4P3JS/,1,1
-Autobiography of a Yogi (Self-Realization Fellowship),Book,http://www.amazon.com/dp/0876120796/,1,1
-How to Meditate: A Guide to Self-Discovery,Book,http://www.amazon.com/dp/0316880620/,1,1
-"After the Ecstasy, the Laundry: How the Heart Grows Wise on the Spiritual Path",Book,http://www.amazon.com/dp/0553378295/,1,1
-"No Mud, No Lotus: The Art of Transforming Suffering",Book,http://www.amazon.com/dp/1937006859/,1,1
+Why We Get Fat: And What to Do About It,Book,http://www.amazon.com/dp/0307474259/,45,1
+Love Is Letting Go of Fear,Book,http://www.amazon.com/dp/0890872465/,2,1
+Buddhist Thought in India: Three Phases of Buddhist Philosophy (Ann Arbor Paperbacks),Book,http://www.amazon.com/dp/0472061291/,1,1
+Zen and the Brain: Toward an Understanding of Meditation and Consciousness,Book,http://www.amazon.com/dp/0262511096/,2,1
+The Tibetan Book of Living and Dying: The Spiritual Classic & International Bestseller: 20th Anniversary Edition,Book,http://www.amazon.com/dp/0062508342/,5,1
+The Spiritual Brain: A Neuroscientist's Case for the Existence of the Soul,Book,http://www.amazon.com/dp/0061625981/,1,1
+Freedom from the Known,Book,http://www.amazon.com/dp/0060648082/,1,1
+Scattered: How Attention Deficit Disorder Originates and What You Can Do About It,Book,http://www.amazon.com/dp/0452279631/,7,1
+Hope and Help for Your Nerves,Book,http://www.amazon.com/dp/0451167228/,20,1
+The Meditative Mind: The Varieties of Meditative Experience,Book,http://www.amazon.com/dp/0874778336/,1,1
+Meeting the Shadow: The Hidden Power of the Dark Side of Human Nature,Book,http://www.amazon.com/dp/087477618X/,5,1
+"The Mindbody Prescription: Healing the Body, Healing the Pain",Book,http://www.amazon.com/dp/0446675156/,5,1
+The Zen Teaching of Bodhidharma (English and Chinese Edition),Book,http://www.amazon.com/dp/0865473994/,3,1
+Mejda: The Family and the Early Life of Paramahansa Yogananda (Self-Realization Fellowship),Book,http://www.amazon.com/dp/0876122659/,1,1
+Kensho,Book,http://www.amazon.com/dp/0441435270/,1,1
+The Way of White Clouds: A Buddhist Pilgrim in Tibet (Shambhala Dragon Editions),Book,http://www.amazon.com/dp/0877730075/,1,1
+Tibet's Great Yogi Milarepa: A Biography from the Tibetan,Book,http://www.amazon.com/dp/0195133137/,1,1
+Science of Breath,Book,http://www.amazon.com/dp/0893891517/,2,1
+Owning Your Own Shadow: Understanding the Dark Side of the Psyche,Book,http://www.amazon.com/dp/0062507540/,2,1
+Stilling the Mind: Shamatha Teachings from Dudjom Lingpa's Vajra Essence,Book,http://www.amazon.com/dp/0861716906/,1,1

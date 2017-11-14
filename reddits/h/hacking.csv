@@ -1,15 +1,67 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"Hacking: The Art of Exploitation, 2nd Edition",Book,http://www.amazon.com/dp/1593271441/,15,2
-The Hacker Playbook 2: Practical Guide To Penetration Testing,Book,http://www.amazon.com/dp/1512214566/,7,2
-Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder.,Book,http://www.amazon.com/dp/1500734756/,3,2
-The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws,Book,http://www.amazon.com/dp/1118026470/,18,1
-"Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers",Book,http://www.amazon.com/dp/1597499579/,4,1
-24 Deadly Sins of Software Security: Programming Flaws and How to Fix Them,Book,http://www.amazon.com/dp/0071626751/,2,1
-Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon,Book,http://www.amazon.com/dp/077043617X/,2,1
-Rtfm: Red Team Field Manual,Book,http://www.amazon.com/dp/1494295504/,2,1
-Threat Modeling: Designing for Security,Book,http://www.amazon.com/dp/1118809998/,1,1
-Alfa AWUS051NH 500mW High Gain 802.11a/b/g/n high power Wireless USB A / B / G / N Wireless WiFi Network adapter With a 5dBi and 9dBi Rubber Antenna and Suction cup / Clip Window Mount - High speed Up to 300 Mbps - With Hot Swap Support,PC Accessory,http://www.amazon.com/dp/B003YH1X48/,1,1
-"The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference",Book,http://www.amazon.com/dp/159327047X/,1,1
-"SainSmart Micro USB Host Cable (OTG Cable) For Samsung Galaxy S2 I9100 I9101,MOTO XOOM , Nokia N810 / N900, Toshiba TG01, Archos G9",PC Accessory,http://www.amazon.com/dp/B005OOJPKS/,1,1
-Alfa AWUSO36NH High Gain USB Wireless G / N Long-Rang WiFi Network Adapter,PC Accessory,http://www.amazon.com/dp/B0035APGP6/,1,1
+The Hacker Playbook 2: Practical Guide To Penetration Testing,Book,http://www.amazon.com/dp/1512214566/,27,10
+"Hacking: The Art of Exploitation, 2nd Edition",Book,http://www.amazon.com/dp/1593271441/,41,6
+Alfa AWUS051NH 500mW High Gain 802.11a/b/g/n high power Wireless USB A / B / G / N Wireless WiFi Network adapter With a 5dBi and 9dBi Rubber Antenna and Suction cup / Clip Window Mount - High speed Up to 300 Mbps - With Hot Swap Support,PC Accessory,http://www.amazon.com/dp/B003YH1X48/,6,5
+"TP-Link N150 Wireless High Gain USB Adapter (TL-WN722N), Version 2.0",CE,http://www.amazon.com/dp/B002SZEOLG/,53,3
+"Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers",Book,http://www.amazon.com/dp/1597499579/,26,3
+CompTIA Security+: Get Certified Get Ahead: SY0-401 Study Guide,Book,http://www.amazon.com/dp/1939136024/,30,2
+CompTIA Security+ Study Guide: SY0-401,Book,http://www.amazon.com/dp/1118875079/,11,2
+What Every BODY is Saying: An Ex-FBI Agent’s Guide to Speed-Reading People,Book,http://www.amazon.com/dp/0061438294/,42,2
+The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws,Book,http://www.amazon.com/dp/1118026470/,41,2
+"Influence: The Psychology of Persuasion, Revised Edition",Book,http://www.amazon.com/dp/006124189X/,77,2
+"C Programming Language, 2nd Edition",Book,http://www.amazon.com/dp/0131103628/,109,2
+Penetration Testing: A Hands-On Introduction to Hacking,Book,http://www.amazon.com/dp/1593275641/,20,2
+"The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory",Book,http://www.amazon.com/dp/1118825098/,8,2
+Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder.,Book,http://www.amazon.com/dp/1500734756/,14,2
+AUDIO BOOK: Influence: Science and Practice (5th Edition),Book,http://www.amazon.com/dp/0615513182/,1,1
+How to Win Friends & Influence People,Book,http://www.amazon.com/dp/0671027034/,222,1
+Code: The Hidden Language of Computer Hardware and Software,Book,http://www.amazon.com/dp/0735611319/,158,1
+The Art of Deception: Controlling the Human Element of Security,Book,http://www.amazon.com/dp/076454280X/,12,1
+Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon,Book,http://www.amazon.com/dp/077043617X/,6,1
+Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon,Book,http://www.amazon.com/dp/0770436196/,8,1
+Manwatching: A Field Guide to Human Behavior,Book,http://www.amazon.com/dp/0810921847/,2,1
+Threat Modeling: Designing for Security,Book,http://www.amazon.com/dp/1118809998/,3,1
+Phishing Dark Waters: The Offensive and Defensive Sides of Malicious Emails,Book,http://www.amazon.com/dp/1118958470/,1,1
+Spy the Lie: Former CIA Officers Teach You How to Detect Deception,Book,http://www.amazon.com/dp/1250029627/,11,1
+The Rootkit Arsenal: Escape and Evasion in the Dark Corners of the System,Book,http://www.amazon.com/dp/144962636X/,4,1
+Rtfm: Red Team Field Manual,Book,http://www.amazon.com/dp/1494295504/,14,1
+The Hacker Playbook: Practical Guide To Penetration Testing,Book,http://www.amazon.com/dp/1494932636/,2,1
+Spam Nation: The Inside Story of Organized Cybercrime―from Global Epidemic to Your Front Door,Book,http://www.amazon.com/dp/1501210424/,1,1
+Hacking Wireless Networks - The ultimate hands-on guide,Book,http://www.amazon.com/dp/1508476349/,1,1
+The Hacker Ethos: The Beginner's Guide to Ethical Hacking and Penetration Testing,Book,http://www.amazon.com/dp/1523764368/,1,1
+"The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference",Book,http://www.amazon.com/dp/159327047X/,6,1
+Practical Malware Analysis: A Hands-On Guide to Dissecting Malicious Software,Book,http://www.amazon.com/dp/1593272901/,21,1
+Black Hat Python: Python Programming for Hackers and Pentesters,Book,http://www.amazon.com/dp/1593275900/,13,1
+"Secrets of Power Negotiating, 15th Anniversary Edition: Inside Secrets from a Master Negotiator",Book,http://www.amazon.com/dp/1601631391/,1,1
+Alfa 1000mW 1W 802.11b/g USB Wireless WiFi Network Adapter With Original Alfa Screw-On Swivel 9dBi Rubber Antenna,PC Accessory,http://www.amazon.com/dp/B001O9X9EU/,7,1
+Alfa AWUS036H 1000mW 1W 802.11b/g USB Wireless WiFi network Adapter with 5dBi Antenna and Suction cup Window Mount dock - for Wardriving & Range Extension,PC Accessory,http://www.amazon.com/dp/B002WCEWU8/,1,1
+Alfa AWUSO36NH High Gain USB Wireless G / N Long-Rang WiFi Network Adapter,PC Accessory,http://www.amazon.com/dp/B0035APGP6/,10,1
+Alfa AWUS036NHA Wireless B/G/N USB Adaptor - 802.11n - 150 Mbps - 2.4 GHz - 5 dBi Antenna - Long Range - Atheros Chipset - Windows XP/Vista 64-Bit/128-Bit Windows 7 Compatible,Personal Computer,http://www.amazon.com/dp/B004Y6MIXS/,6,1
+Alfa AWUS036NHA High Gain Wireless B/G/N USB Adaptor - Long-Rang Wi-Fi Network Adapter With 5dBi and 9dBi Antenna for Wardriving & Range Extension - Windows XP / Vista 64-Bit /128-Bit Windows 7 Compatible - Atheros Chipset,PC Accessory,http://www.amazon.com/dp/B004YD7UBQ/,1,1
+BAFX Products 34t5 Bluetooth OBDII Scan Tool for Android Devices,Automotive Parts and Accessories,http://www.amazon.com/dp/B005NLQAHS/,136,1
+"SainSmart Micro USB Host Cable (OTG Cable) For Samsung Galaxy S2 I9100 I9101,MOTO XOOM , Nokia N810 / N900, Toshiba TG01, Archos G9",PC Accessory,http://www.amazon.com/dp/B005OOJPKS/,3,1
+"PortaPow Specialised 5ft 20AWG Charge Only Micro USB Cable for Blackberry, OnePlus One, HTC One, Google Nexus, Asus Transformer, Dell Venue, Other Fast Charging Devices …",Wireless,http://www.amazon.com/dp/B0088HTYUE/,8,1
+BUNN MCU Single Cup Multi-Use Home Coffee Brewer,Kitchen,http://www.amazon.com/dp/B009PLQ5H2/,3,1
+Deftun MSR605 HiCo Magnetic Stripe Card Reader Writer Encoder MSR206,PC Accessory,http://www.amazon.com/dp/B00DE8248Q/,6,1
+Dell 332-1827 XPS 13 AC Adapter 45W,PC Accessory,http://www.amazon.com/dp/B00EM2PGW4/,2,1
+"Rii Mini Bluetooth Wireless Touchpad Rechargable Keyboard Combo, for PC, PAD, XBOX 360, PS3, Google Android TV Box, HTPC, IPTV, Black (i8 BT) Black",Personal Computer,http://www.amazon.com/dp/B00JO80LVW/,2,1
+"Ethical Hacking and Penetration, Step by Step with Kali Linux",eBooks,http://www.amazon.com/dp/B00Q3EWU6E/,1,1
+Alfa AWUS051NH v2,Personal Computer,http://www.amazon.com/dp/B00REZPU3G/,1,1
+"ASUS RT-AC3200 Wireless-AC3200 Tri-Band Wireless Gigabit Router, AiProtection with Trend Micro for Complete Network Security",Personal Computer,http://www.amazon.com/dp/B00S9SGNNS/,13,1
+The Baby Harvest: How virtual babies became the future of terrorist financing and money laundering,eBooks,http://www.amazon.com/dp/B013AZ6MKS/,1,1
+"Dell XPS9360-4841SLV 13.3"" Laptop (7th Generation Intel Core i7, 8GB RAM, 256 GB SSD, Silver)",Personal Computer,http://www.amazon.com/dp/B01LVZTWWX/,5,1
+Cryptonomicon,Book,http://www.amazon.com/dp/0060512806/,12,1
+PortaPow Data Blocker USB Adaptor with SmartCharge,Wireless,http://www.amazon.com/dp/B06XGM6LJB/,1,1
+24 Deadly Sins of Software Security: Programming Flaws and How to Fix Them,Book,http://www.amazon.com/dp/0071626751/,3,1
+"CompTIA Security+ All-in-One Exam Guide, Fourth Edition (Exam SY0-401)",Book,http://www.amazon.com/dp/0071841245/,3,1
 Investigating Internet Crimes: An Introduction to Solving Crimes in Cyberspace,Book,http://www.amazon.com/dp/0124078176/,1,1
+Counter Hack Reloaded: A Step-by-Step Guide to Computer Attacks and Effective Defenses (2nd Edition),Book,http://www.amazon.com/dp/0131481045/,1,1
+The 48 Laws of Power,Book,http://www.amazon.com/dp/0140280197/,33,1
+Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (3rd Edition) (Zed Shaw's Hard Way Series),Book,http://www.amazon.com/dp/0321884914/,8,1
+Learn C the Hard Way: Practical Exercises on the Computational Subjects You Keep Avoiding (Like C) (Zed Shaw's Hard Way Series),Book,http://www.amazon.com/dp/0321884922/,1,1
+Learn Ruby the Hard Way: A Simple and Idiomatic Introduction to the Imaginative World Of Computational Thinking with Code (3rd Edition) (Zed Shaw's Hard Way Series),Book,http://www.amazon.com/dp/032188499X/,1,1
+Games People Play: The Basic Handbook of Transactional Analysis.,Book,http://www.amazon.com/dp/0345410033/,8,1
+Social Engineering: The Art of Human Hacking,Book,http://www.amazon.com/dp/0470639539/,12,1
+Getting Past No: Negotiating in Difficult Situations,Book,http://www.amazon.com/dp/0553371312/,5,1
+Snow Crash,Book,http://www.amazon.com/dp/0553380958/,25,1
+The Definitive Book of Body Language: The Hidden Meaning Behind People's Gestures and Expressions,Book,http://www.amazon.com/dp/0553804723/,28,1

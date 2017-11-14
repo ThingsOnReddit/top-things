@@ -1,0 +1,7 @@
+name,category,amazon_link,total_mentions,subreddit_mentions
+10 PRINT CHR$(205.5+RND(1)); : GOTO 10 (Software Studies),Book,http://www.amazon.com/dp/0262526743/,1,1
+Commodore 64 Plug and Play,Video Games,http://www.amazon.com/dp/B0007A2HI6/,1,1
+Car Cassette Adapter,Car Audio or Theater,http://www.amazon.com/dp/B000BUN79K/,21,1
+ENZOTECH Memory Ramsink BMR-C1 (Forged Copper Heatsink),PC Accessory,http://www.amazon.com/dp/B002BWXW6E/,7,1
+"502293 Gamepad 7"""" 8Gb Gaming Tablet Archos Tablet -Wynit",Home Improvement,http://www.amazon.com/dp/B00J79OFZG/,1,1
+Tendak 3RCA AV CVBS Composite & S-Video R/L Audio to HDMI Converter Adapter Upscaler Support 720P/1080P with 3RCA S-Video Cable for DVD VCR PS2 PS3 Xbox HDTV,CE,http://www.amazon.com/dp/B00V2ULHBS/,7,1

@@ -1,38 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Tasting Beer: An Insider's Guide to the World's Greatest Drink,Book,http://www.amazon.com/dp/1603420894/,4,4
-"Danby 120 Can Beverage Center, Stainless Steel DBC120BLS",Major Appliances,http://www.amazon.com/dp/B002MPLYEW/,5,3
-"IPA: Brewing Techniques, Recipes and the Evolution of India Pale Ale",Book,http://www.amazon.com/dp/1938469003/,4,2
-The Brewmaster's Table: Discovering the Pleasures of Real Beer with Real Food,Book,http://www.amazon.com/dp/0060005718/,2,2
-"Inkbird Itc-308 Digital Temperature Controller Outlet Thermostat, 2-stage, 1100w, w/ Sensor",BISS,http://www.amazon.com/dp/B011296704/,5,1
-Hydro Flask Double Wall Vacuum Insulated Stainless Steel Beer Growler,Sports,http://www.amazon.com/dp/B005LGDBQ8/,4,1
-A History of the World in 6 Glasses,Book,http://www.amazon.com/dp/0802715524/,3,1
-Brew. Share. Enjoy. Homebrew Beer Brewing Starter Kit with Block Party Amber Ale Beer Recipe Kit and Brew Kettle,Kitchen,http://www.amazon.com/dp/B0179ZH89Y/,3,1
-"Coleman Performance Cooler, 48-Quart -  Blue",Sports,http://www.amazon.com/dp/B0000DH4LT/,3,1
-Oversized Extra Large Giant Wine Glass -33.5 oz - Holds a full bottle of wine!,Kitchen,http://www.amazon.com/dp/B00HS586RE/,2,1
-"Avery Magnet Sheets, 8.5 x 11 Inches, White (03270)",Office Product,http://www.amazon.com/dp/B00006HN5Q/,2,1
-Ambitious Brew: The Story of American Beer,Book,http://www.amazon.com/dp/0156033593/,2,1
-Stainless Steel Mini Keg Dispenser by The Weekend Brewer (Double ball lock),Home,http://www.amazon.com/dp/B01D52ZWFC/,2,1
-"Rabbit Wine and Beverage Bottle Stoppers with Grip Top (Assorted Colors, Set of 4)",Kitchen,http://www.amazon.com/dp/B005N0WCE4/,2,1
-"For The Love of Hops: The Practical Guide to Aroma, Bitterness and the Culture of Hops (Brewing Elements)",Book,http://www.amazon.com/dp/1938469011/,2,1
-YETI Rambler 20 oz Stainless Steel Vacuum Insulated Tumbler with Lid (Stainless Steel),Boost,http://www.amazon.com/dp/B00JP9AJC6/,2,1
-"English Alehouse: A Social History, 1200-1830",Book,http://www.amazon.com/dp/0582508355/,1,1
-New Belgium Brewing Co. Globe Beer Glass - 16 oz,Kitchen,http://www.amazon.com/dp/B00CA1KOQC/,1,1
-"Wine Skin WineSkin Bag, 6-Pack",Kitchen,http://www.amazon.com/dp/B00GIX51V6/,1,1
-"MiiR Insulated Growler Bottle, Stainless, 64-Ounce",Sports,http://www.amazon.com/dp/B00OTMXF5M/,1,1
+Tasting Beer: An Insider's Guide to the World's Greatest Drink,Book,http://www.amazon.com/dp/1603420894/,20,15
+"Danby 120 Can Beverage Center, Stainless Steel DBC120BLS",Major Appliances,http://www.amazon.com/dp/B002MPLYEW/,16,10
+The Complete Beer Course: Boot Camp for Beer Geeks: From Novice to Expert in Twelve Tasting Classes,Book,http://www.amazon.com/dp/1402797672/,8,7
+Vintage Beer: A Taster's Guide to Brews That Improve over Time,Book,http://www.amazon.com/dp/161212156X/,11,6
+The Brewmaster's Table: Discovering the Pleasures of Real Beer with Real Food,Book,http://www.amazon.com/dp/0060005718/,6,5
+The Complete Joy of Homebrewing Fourth Edition: Fully Revised and Updated,Book,http://www.amazon.com/dp/0062215752/,25,4
+How to Brew: Everything You Need To Know To Brew Beer Right The First Time,Book,http://www.amazon.com/dp/0937381888/,34,3
+"Spiegelau Beer Classics Stemmed Pilsner Value Pack, 15-1/2-Ounce",Kitchen,http://www.amazon.com/dp/B007XEGZXW/,4,3
+Bitter Brew: The Rise and Fall of Anheuser-Busch and America's Kings of Beer,Book,http://www.amazon.com/dp/0062009273/,4,3
+Egg Topper Cutter Clipper Stainless Kitchen Gadget,Kitchen,http://www.amazon.com/dp/B002R7O190/,8,2
+Yeast: The Practical Guide to Beer Fermentation (Brewing Elements),Book,http://www.amazon.com/dp/0937381969/,32,2
+"AVEX Growler, Gray, 1900ml/64 oz",Sports,http://www.amazon.com/dp/B01BEX7W8Y/,2,2
+Brewmaster's Art,Audible,http://www.amazon.com/dp/B0032U8OL2/,2,2
+The Complete Joy of Homebrewing Third Edition,Book,http://www.amazon.com/dp/0060531053/,9,2
+"The Craft of Stone Brewing Co.: Liquid Lore, Epic Recipes, and Unabashed Arrogance",Book,http://www.amazon.com/dp/1607740559/,3,2
+Spiegelau Tasting Kit Craft Beer Glass Kit,Kitchen,http://www.amazon.com/dp/B00BTPUQZO/,4,2
+The Comic Book Story of Beer: The World's Favorite Beverage from 7000 BC to Today's Craft Brewing Revolution,Book,http://www.amazon.com/dp/1607746352/,2,2
+"Spiegelau 2-Pack Beer Classics IPA Glass, 19-Ounce",Kitchen,http://www.amazon.com/dp/B00BTPUT3S/,6,2
+Hydro Flask Double Wall Vacuum Insulated Stainless Steel Beer Growler,Sports,http://www.amazon.com/dp/B005LGDBQ8/,8,2
+"Wine Walker - Silicone Wine Glasses 12oz, Set of 2 Stemless Plastic Cups",Kitchen,http://www.amazon.com/dp/B00QG4GBD4/,2,2
+Spiegelau Craft Beer Tasting Kit (set of 3),Kitchen,http://www.amazon.com/dp/B00UCVD7IY/,3,2
+"Rabbit Wine and Beverage Bottle Stoppers with Grip Top (Assorted Colors, Set of 4)",Kitchen,http://www.amazon.com/dp/B005N0WCE4/,9,2
+Ambitious Brew: The Story of American Beer,Book,http://www.amazon.com/dp/0156033593/,4,2
+"IPA: Brewing Techniques, Recipes and the Evolution of India Pale Ale",Book,http://www.amazon.com/dp/1938469003/,9,2
+A History of the World in 6 Glasses,Book,http://www.amazon.com/dp/0802715524/,14,2
+Mountain Brew: A High-Spirited Guide to Country-Style Beer Making,Book,http://www.amazon.com/dp/1581573081/,1,1
+"CloneBrews, 2nd Edition: Recipes for 200 Commercial Beers",Book,http://www.amazon.com/dp/160342539X/,2,1
+Cocktails on Tap: The Art of Mixing Spirits and Beer,Book,http://www.amazon.com/dp/1617691429/,3,1
+"The World Atlas of Wine, 7th Edition",Book,http://www.amazon.com/dp/1845336895/,4,1
+Good Beer Guide to Belgium,Book,http://www.amazon.com/dp/1852492104/,1,1
+Good Beer Guide Belgium,Book,http://www.amazon.com/dp/1852493119/,2,1
+"Cellarmanship: The Definitive Guide to Storing, Serving and Caring for Cask Ale",Book,http://www.amazon.com/dp/1852493313/,1,1
+"For The Love of Hops: The Practical Guide to Aroma, Bitterness and the Culture of Hops (Brewing Elements)",Book,http://www.amazon.com/dp/1938469011/,14,1
+The Brewers Association's Guide to Starting Your Own Brewery,Book,http://www.amazon.com/dp/1938469054/,7,1
+American Sour Beers,Book,http://www.amazon.com/dp/1938469119/,24,1
+Walton Ford: Pancha Tantra,Book,http://www.amazon.com/dp/3822852376/,1,1
+OXO Good Grips Bottle Brush,Home,http://www.amazon.com/dp/B00004OCLJ/,10,1
+"5"" Simpsons World of Springfield Figure: Moe",Toy,http://www.amazon.com/dp/B00004RG4I/,1,1
+Springfield Big and Bold Low Profile Patio Thermometer (13.25-Inch),Home,http://www.amazon.com/dp/B00004TBJI/,2,1
+"Avery Magnet Sheets, 8.5 x 11 Inches, White (03270)",Office Product,http://www.amazon.com/dp/B00006HN5Q/,6,1
 "Avery Round Color-Coding Labels 3/4 in, Neon Yellow, 1008/Pack - AVE05470",Office Product,http://www.amazon.com/dp/B00007LPAH/,1,1
-Michael Jackson's Great Beers of Belgium,Book,http://www.amazon.com/dp/0937381934/,1,1
-"Spiegelau 2-Pack Beer Classics IPA Glass, 19-Ounce",Kitchen,http://www.amazon.com/dp/B00BTPUT3S/,1,1
-Bitter Brew: The Rise and Fall of Anheuser-Busch and America's Kings of Beer,Book,http://www.amazon.com/dp/0062009273/,1,1
-"The Craft of Stone Brewing Co.: Liquid Lore, Epic Recipes, and Unabashed Arrogance",Book,http://www.amazon.com/dp/1607740559/,1,1
-The Comic Book Story of Beer: The World's Favorite Beverage from 7000 BC to Today's Craft Brewing Revolution,Book,http://www.amazon.com/dp/1607746352/,1,1
-"AVEX Growler, Gray, 1900ml/64 oz",Sports,http://www.amazon.com/dp/B01BEX7W8Y/,1,1
-"Spiegelau Beer Classics Stemmed Pilsner Glasses, Set of 2 in Gift Box",Kitchen,http://www.amazon.com/dp/B003QRJCY4/,1,1
-"Spiegelau Beer Classics Stemmed Pilsner Value Pack, 15-1/2-Ounce",Kitchen,http://www.amazon.com/dp/B007XEGZXW/,1,1
+"Coleman Performance Cooler, 48-Quart -  Blue",Sports,http://www.amazon.com/dp/B0000DH4LT/,8,1
+Tajín Clásico Seasoning 5 oz,Grocery,http://www.amazon.com/dp/B0000GL6RK/,16,1
+"BUILT NY 2-Bottle Neoprene Wine/Water Bottle Tote, Black",Kitchen,http://www.amazon.com/dp/B00015COUS/,1,1
+Brutool Lagerhead Black & Tan Turtle,Kitchen,http://www.amazon.com/dp/B0007SN5TI/,2,1
+Refrigerator or Freezer Thermostat (Temperature Controller),BISS,http://www.amazon.com/dp/B000EXROSE/,4,1
+Pedro's Beverage Wrench Bottle Opener,Sports,http://www.amazon.com/dp/B000IZGFGA/,1,1
+"Anchor Hocking Heavy-Base 5-Ounce Juice Glasses, Set of 12",Kitchen,http://www.amazon.com/dp/B000QU1UEE/,1,1
+"Brewzkey Bottle Opener, Stainless Steel by Brewzkey",Kitchen,http://www.amazon.com/dp/B000RZQBCE/,3,1
+Jokari Black Beverage Opener,Kitchen,http://www.amazon.com/dp/B000WH1Z2I/,1,1
+RANCO ETC-111000 Digital Cold Temperature Control NEW,BISS,http://www.amazon.com/dp/B0015NV5BE/,4,1
+"IMUSA USA L300-40317 Stainless Steel Stock Pot 20-Quart, Silver",Kitchen,http://www.amazon.com/dp/B0018EAMKA/,1,1
+Private Preserve True 1026,Kitchen,http://www.amazon.com/dp/B001AS4NCM/,25,1
+Beer Bottle Cap Catcher - Stainless Steel,Kitchen,http://www.amazon.com/dp/B001CDO6EU/,1,1
+"Spiegelau Beer Classics Stemmed Pilsner Glasses, Set of 2",Kitchen,http://www.amazon.com/dp/B001CFR3XE/,2,1
+Red Baron Bottle Capper,Kitchen,http://www.amazon.com/dp/B001D6KGTK/,17,1
+"1 Liter HB ""Hofbrauhaus Munchen"" Dimpled Glass Beer Stein",Kitchen,http://www.amazon.com/dp/B001IUPVJ6/,2,1
+EdgeStar TBC50-ACC Tap Conversion Kit for Other 5-Liter Mini Kegs,Kitchen,http://www.amazon.com/dp/B001NFTFSY/,2,1
+"BLACK+DECKER 5-Cup Coffeemaker, Black, DCM600B",Kitchen,http://www.amazon.com/dp/B001NXC5YC/,4,1
+Zim Jar/Bottle Openers. Under-Cabinet Opener - Model 308601,Health and Beauty,http://www.amazon.com/dp/B002BUSEHI/,1,1
+Practical Handbook for the Specialty Brewer 3-Volume Set,Book,http://www.amazon.com/dp/B002HIBM7I/,1,1
+German Style Extra Large Glass Beer Mug - 34 oz (1),Kitchen,http://www.amazon.com/dp/B002STPP5Q/,1,1
+"Wine Diaper Reusable Padded Absorbent Bag, Eco-Friendly Travel Accessory, Set of 3",Kitchen,http://www.amazon.com/dp/B00308FONW/,2,1
+"Nite Ize S-Biner Ahhh Carabiner Clip Bottle Opener, Black",Home Improvement,http://www.amazon.com/dp/B0037H3EB0/,19,1
+British Style Tulip Pint Glass with Etched Seal,Kitchen,http://www.amazon.com/dp/B003D0LQ5M/,1,1
+Backpack Cooler - Gray,Sports,http://www.amazon.com/dp/B003I7CLB8/,1,1
+"Spiegelau Beer Classics Stemmed Pilsner Glasses, Set of 2 in Gift Box",Kitchen,http://www.amazon.com/dp/B003QRJCY4/,2,1
+"Armour Glass Etching Cream Carded,2.8-Ounce",Art and Craft Supply,http://www.amazon.com/dp/B003W0MUVW/,5,1
+"Spiegelau Hybrid Cognac XL, Set of 2",Kitchen,http://www.amazon.com/dp/B004WMHYH4/,1,1
+Diamond Tech Crafts G2 Bottle Cutter,Kitchen,http://www.amazon.com/dp/B004ZRV3AU/,7,1
+"Glencairn Crystal Canadian Whisky Glass, Set of 2",Kitchen,http://www.amazon.com/dp/B005LSA4GQ/,5,1
+LA Law: Season 1,DVD,http://www.amazon.com/dp/B0064MMN9O/,1,1
+Johnson Digital Temperature Controller,BISS,http://www.amazon.com/dp/B0064O93L8/,3,1
+"Libbey Craft Brew Sampler Clear Beer Glass Set, 6-Piece",Kitchen,http://www.amazon.com/dp/B006PKHD9U/,1,1
+Bitter Brew: The Rise and Fall of Anheuser-Busch and America's Kings of Beer,eBooks,http://www.amazon.com/dp/B007HBY1GO/,1,1
+Coca-Cola Classic 8oz Glass Bottles 4-6 Packs (24 Bottles) Coke,Grocery,http://www.amazon.com/dp/B007XNW1ZO/,2,1
+"Libbey Craft Brews 14.75-Ounce Clear Porter/Stout Glass Set,  4-Piece",Kitchen,http://www.amazon.com/dp/B008OQN7RA/,1,1
+"Libbey Craft Brews 20-Ounce Clear Craft Pub Glass Set, 4-Piece",Kitchen,http://www.amazon.com/dp/B008OQNABS/,1,1
+Arduino Starter Kit - English Official Kit With 170 Page Book - K000007,Personal Computer,http://www.amazon.com/dp/B009UKZV0A/,19,1
 "Polar Tech 811 RED Nylon Fabric Standard Thermo Insulated Pizza Carrier, 19"" Length x 17-1/8"" Width x 7-1/2"" Depth, Red",BISS,http://www.amazon.com/dp/B009W8074A/,1,1
-"Wine Walker - Silicone Wine Glasses 12oz, Set of 2 Stemless Plastic Cups",Kitchen,http://www.amazon.com/dp/B00QG4GBD4/,1,1
-Pub Bar Stand-Up/Wall Mounted Bottle Opener & Catcher by Beaumont TM,Home & Kitchen,https://www.amazon.com/Stand-Up-Mounted-Catcher-Beaumont-TM/dp/B01H2SQJWU/,1,1
-"CloneBrews, 2nd Edition: Recipes for 200 Commercial Beers",Book,http://www.amazon.com/dp/160342539X/,1,1
+"ARC International Luminarc Pub Beer Glass, 16-Ounce, Set of 10",Kitchen,http://www.amazon.com/dp/B009ZRTNYI/,4,1
+Libbey Belgian Beer Glass - 16 oz,Kitchen,http://www.amazon.com/dp/B00ALYINVS/,1,1
+"Datrex Emergency Survival Water Pouch (Pack of 64), 125ml",Sports,http://www.amazon.com/dp/B00ANY4EXM/,3,1
+Lifeline 7500 Silver Stainless Steel Growler - 64 oz. Capacity,Automotive Parts and Accessories,http://www.amazon.com/dp/B00AZMICOY/,3,1
+New Belgium Brewing Co. Globe Beer Glass - 16 oz,Kitchen,http://www.amazon.com/dp/B00CA1KOQC/,1,1
+Miracle Frooties Miracle Fruit Berry Tablets - Discount Price 2 Packages of 10,Grocery,http://www.amazon.com/dp/B00CPN2Y3G/,1,1
+1 X Beer Growler Reusable Plastic Poly-Seal Replacement Screw Cap,BISS,http://www.amazon.com/dp/B00EZSH7PY/,1,1
+"""TeKu"" The World's Best Beer Glass (Gift Box Set of 2)",Kitchen,http://www.amazon.com/dp/B00F3GMWY8/,2,1
+Duvel Tulip Belgian Beer Glass - Set of 2,Kitchen,http://www.amazon.com/dp/B00GCU228U/,1,1
+Wine Skin WineSkin Bag,Kitchen,http://www.amazon.com/dp/B00GIX4WY8/,1,1
+"Wine Skin WineSkin Bag, 6-Pack",Kitchen,http://www.amazon.com/dp/B00GIX51V6/,1,1
+Barrelworks Rastal Teku Beer Glass,Kitchen,http://www.amazon.com/dp/B00H5YZV6W/,1,1
+Oversized Extra Large Giant Wine Glass -33.5 oz - Holds a full bottle of wine!,Kitchen,http://www.amazon.com/dp/B00HS586RE/,6,1
 "Amici Bier Sommelier Beer Glass, 12oz - Set of 4",Kitchen,http://www.amazon.com/dp/B00IRVDJP2/,1,1
-"Stella Artois Buy a Lady a Drink Limited Edition Chalice, Ethiopia 33cl",Kitchen,http://www.amazon.com/dp/B00PSOOZRC/,1,1
-"MiiR Stainless Steel Insulated Growler Bottle, 64-Ounce",Sports,http://www.amazon.com/dp/B00PUE1WJO/,1,1
-The Complete Beer Course: Boot Camp for Beer Geeks: From Novice to Expert in Twelve Tasting Classes,Book,http://www.amazon.com/dp/1402797672/,1,1
+YETI Rambler 20 oz Stainless Steel Vacuum Insulated Tumbler with Lid (Stainless Steel),Boost,http://www.amazon.com/dp/B00JP9AJC6/,7,1
+"Spiegelau Beer Classics Stout Glass, Set of 2",Kitchen,http://www.amazon.com/dp/B00K0JFP5Q/,3,1
+Magnetic Bottle Opener,Kitchen,http://www.amazon.com/dp/B00K5FO3OY/,1,1
+Libbey Craft Brews 6-piece Assorted Beer Drinkware Glass Set,Kitchen,http://www.amazon.com/dp/B00KIG3V3E/,2,1
+Cast Iron Wall Mount Grizzly Bear Teeth Bite Bottle Opener (Black),Furniture,http://www.amazon.com/dp/B00KM7QHP8/,3,1
+Kinkajou Bottle Cutter-Deep Black,Kitchen,http://www.amazon.com/dp/B00L1N371Y/,5,1

@@ -1,3 +1,5 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Beginning Perl,Book,http://www.amazon.com/dp/1118013840/,3,2
+Beginning Perl,Book,http://www.amazon.com/dp/1118013840/,5,2
 Perl Best Practices: Standards and Styles for Developing Maintainable Code,Book,http://www.amazon.com/dp/0596001738/,1,1
+Modern Perl,Book,http://www.amazon.com/dp/0985451947/,1,1
+Learning Perl: Making Easy Things Easy and Hard Things Possible,Book,http://www.amazon.com/dp/1491954329/,1,1

@@ -1,11 +1,18 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,71,1
-"The C++ Programming Language, 4th Edition",Book,http://www.amazon.com/dp/0321563840/,9,1
-3D Math Primer For Graphics and Game Development (Wordware Game Math Library),Book,http://www.amazon.com/dp/1556229119/,3,1
-Designing Virtual Worlds,Book,http://www.amazon.com/dp/0131018167/,3,1
-"Game Design Workshop: A Playcentric Approach to Creating Innovative Games, Third Edition",Book,http://www.amazon.com/dp/1482217163/,3,1
-Game Engine Architecture,Book,http://www.amazon.com/dp/1568814135/,2,1
-The Dictionary of Mythology,Book,http://www.amazon.com/dp/1784044784/,1,1
+Programming: Principles and Practice Using C++,eBooks,http://www.amazon.com/dp/B00KPTEH8C/,2,2
+The Dictionary of Mythology,Book,http://www.amazon.com/dp/1784044784/,3,2
+Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,236,1
+"The C++ Programming Language, 4th Edition",Book,http://www.amazon.com/dp/0321563840/,30,1
+"The Dictionary of Mythology An A-Z of Themes, Legends and Heros",Book,http://www.amazon.com/dp/0572032226/,2,1
+Demonomicon: A 4th Edition D&D Supplement,Book,http://www.amazon.com/dp/0786954922/,1,1
+Jumping into C++,Book,http://www.amazon.com/dp/0988927802/,3,1
+"Game Design Workshop: A Playcentric Approach to Creating Innovative Games, Third Edition",Book,http://www.amazon.com/dp/1482217163/,6,1
+Procedural Generation in Game Design,Book,http://www.amazon.com/dp/1498799191/,2,1
+3D Math Primer For Graphics and Game Development (Wordware Game Math Library),Book,http://www.amazon.com/dp/1556229119/,9,1
+Game Engine Architecture,Book,http://www.amazon.com/dp/1568814135/,11,1
 Emergence in Games (Charles River Media Game Development),Book,http://www.amazon.com/dp/1584505516/,1,1
-Behavioral Mathematics for Game AI (Applied Mathematics),Book,http://www.amazon.com/dp/1584506849/,1,1
-Jumping into C++,Book,http://www.amazon.com/dp/0988927802/,1,1
+Behavioral Mathematics for Game AI (Applied Mathematics),Book,http://www.amazon.com/dp/1584506849/,5,1
+Stories of Your Life and Others,Book,http://www.amazon.com/dp/1931520720/,22,1
+"SAS Survival Guide 2E (Collins Gem): For any climate, for any situation",Book,http://www.amazon.com/dp/0061992860/,12,1
+Roguelike: Curse Of Yendor,Mobile Application,http://www.amazon.com/dp/B01N02ZA3K/,1,1
+Designing Virtual Worlds,Book,http://www.amazon.com/dp/0131018167/,5,1

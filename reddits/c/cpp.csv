@@ -1,27 +1,59 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14,Book,http://www.amazon.com/dp/1491903996/,11,7
-C++ Primer (5th Edition),Book,http://www.amazon.com/dp/0321714113/,11,4
-A Tour of C++ (C++ In-Depth),Book,http://www.amazon.com/dp/0321958314/,8,3
-Effective C++: 55 Specific Ways to Improve Your Programs and Designs (3rd Edition),Book,http://www.amazon.com/dp/0321334876/,6,3
-"The C++ Programming Language, 4th Edition",Book,http://www.amazon.com/dp/0321563840/,9,2
-C++ Concurrency in Action: Practical Multithreading,Book,http://www.amazon.com/dp/1933988770/,3,2
-A Tour of C++ (C++ In-Depth Series),eBooks,http://www.amazon.com/dp/B00F8CWGOS/,,1
-"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,36,1
-Design Patterns: Elements of Reusable Object-Oriented Software,Book,http://www.amazon.com/dp/0201633612/,26,1
-Working Effectively with Legacy Code,Book,http://www.amazon.com/dp/0131177052/,22,1
-"C Programming: A Modern Approach, 2nd Edition",Book,http://www.amazon.com/dp/0393979504/,13,1
-Elements of Programming Interviews: The Insiders' Guide,Book,http://www.amazon.com/dp/1479274836/,8,1
-Programming: Principles and Practice Using C++ (2nd Edition),Book,http://www.amazon.com/dp/0321992784/,4,1
-More Effective C++: 35 New Ways to Improve Your Programs and Designs,Book,http://www.amazon.com/dp/020163371X/,2,1
-Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library,Book,http://www.amazon.com/dp/0201749629/,2,1
-Unicode Demystified: A Practical Programmer's Guide to the Encoding Standard,Book,http://www.amazon.com/dp/0201700522/,2,1
-Modern C++ Design: Generic Programming and Design Patterns Applied,Book,http://www.amazon.com/dp/0201704315/,2,1
-Elements of Programming,Book,http://www.amazon.com/dp/032163537X/,2,1
-"C++ Coding Standards: 101 Rules, Guidelines, and Best Practices",Book,http://www.amazon.com/dp/0321113586/,1,1
-The C++ Standard Library: A Tutorial and Reference (2nd Edition),Book,http://www.amazon.com/dp/0321623215/,1,1
+Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14,Book,http://www.amazon.com/dp/1491903996/,29,13
+A Tour of C++ (C++ In-Depth),Book,http://www.amazon.com/dp/0321958314/,17,6
+C++ Primer (5th Edition),Book,http://www.amazon.com/dp/0321714113/,55,6
+C++ Concurrency in Action: Practical Multithreading,Book,http://www.amazon.com/dp/1933988770/,6,4
+Effective C++: 55 Specific Ways to Improve Your Programs and Designs (3rd Edition),Book,http://www.amazon.com/dp/0321334876/,16,4
+Modern C++ Design: Generic Programming and Design Patterns Applied,Book,http://www.amazon.com/dp/0201704315/,7,4
+Programming: Principles and Practice Using C++ (2nd Edition),Book,http://www.amazon.com/dp/0321992784/,36,4
+"Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers (C++ In-Depth)",Book,http://www.amazon.com/dp/0134383583/,4,3
+The C++ Standard Library: A Tutorial and Reference (2nd Edition),Book,http://www.amazon.com/dp/0321623215/,5,3
+From Mathematics to Generic Programming,Book,http://www.amazon.com/dp/0321942043/,4,2
+"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,112,2
+Elements of Programming,Book,http://www.amazon.com/dp/032163537X/,4,2
+Problem Solving with C++ (8th Edition),Book,http://www.amazon.com/dp/0132162733/,2,2
+"C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond",Book,http://www.amazon.com/dp/0321227255/,2,2
+Accelerated C++: Practical Programming by Example,Book,http://www.amazon.com/dp/020170353X/,20,2
+"The C++ Programming Language, 4th Edition",Book,http://www.amazon.com/dp/0321563840/,30,2
+Beginning C++ Through Game Programming,Book,http://www.amazon.com/dp/1305109910/,7,2
+C++ Gotchas: Avoiding Common Problems in Coding and Design,Book,http://www.amazon.com/dp/0321125185/,2,1
+Standard C++ IOStreams and Locales: Advanced Programmer's Guide and Reference,Book,http://www.amazon.com/dp/0321585585/,1,1
+The D Programming Language,Book,http://www.amazon.com/dp/0321635361/,5,1
+C++ Templates: The Complete Guide (2nd Edition),Book,http://www.amazon.com/dp/0321714121/,1,1
+"C Programming: A Modern Approach, 2nd Edition",Book,http://www.amazon.com/dp/0393979504/,39,1
+Data Structures and Algorithms in C++,Book,http://www.amazon.com/dp/0470383275/,1,1
+"Making Software: What Really Works, and Why We Believe It",Book,http://www.amazon.com/dp/0596808321/,5,1
+Jumping into C++,Book,http://www.amazon.com/dp/0988927802/,3,1
+Game Programming Patterns,Book,http://www.amazon.com/dp/0990582906/,14,1
+Advanced C and C++ Compiling,Book,http://www.amazon.com/dp/1430266678/,1,1
+"Game Engine Architecture, Second Edition",Book,http://www.amazon.com/dp/1466560010/,42,1
+Elements of Programming Interviews: The Insiders' Guide,Book,http://www.amazon.com/dp/1479274836/,15,1
 Programming Windows 95 with MFC: Create Programs for Windows Quickly with the Microsoft Foundation Class Library (Microsoft Programming Series),Book,http://www.amazon.com/dp/1556159021/,1,1
-Large-Scale C++  Volume I: Process and Architecture (Addison-Wesley Professional Computing Series),Book,http://www.amazon.com/dp/0201717069/,1,1
-Beginning C++ Through Game Programming,Book,http://www.amazon.com/dp/1305109910/,1,1
-"C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond",Book,http://www.amazon.com/dp/0321227255/,1,1
+AI Application Programming (Programming Series),Book,http://www.amazon.com/dp/1584504218/,1,1
+Learning C++ by Creating Games with UE4,Book,http://www.amazon.com/dp/1784396575/,4,1
+"Modern C++ Programming Cookbook: Recipes to explore data structure, multithreading and networking in C++17",Book,http://www.amazon.com/dp/1786465183/,1,1
+Real-World Functional Programming: With Examples in F# and C#,Book,http://www.amazon.com/dp/1933988924/,3,1
+Computational Geometry: Algorithms and Applications,Book,http://www.amazon.com/dp/3540779736/,3,1
+Introduction to the Boost C++ Libraries; Volume I - Foundations,Book,http://www.amazon.com/dp/9491028014/,1,1
 "Nuby Octopus Hoopla Bathtime Fun Toys, Purple",Baby Product,http://www.amazon.com/dp/B008CDR7LW/,1,1
-From Mathematics to Generic Programming,Book,http://www.amazon.com/dp/0321942043/,1,1
+A Tour of C++ (C++ In-Depth Series),eBooks,http://www.amazon.com/dp/B00F8CWGOS/,2,1
+CafePress - Code Kids C++ Hello World Infant Creeper - Cute Infant Bodysuit Baby Romper,Apparel,http://www.amazon.com/dp/B00MFGJPSK/,1,1
+"Object-Oriented Programming with C++, 1/e",eBooks,http://www.amazon.com/dp/B00Q8L2IZK/,1,1
+Computer Architecture: A Quantitative Approach,Book,http://www.amazon.com/dp/012383872X/,26,1
+Ray Tracing in One Weekend (Ray Tracing Minibooks Book 1),eBooks,http://www.amazon.com/dp/B01B5AODD8/,4,1
+"Computer Organization and Design MIPS Edition, Fifth Edition: The Hardware/Software Interface (The Morgan Kaufmann Series in Computer Architecture and Design)",Book,http://www.amazon.com/dp/0124077269/,26,1
+Structured Parallel Programming: Patterns for Efficient Computation,Book,http://www.amazon.com/dp/0124159931/,2,1
+Algorithms + Data Structures = Programs (Prentice-Hall Series in Automatic Computation),Book,http://www.amazon.com/dp/0130224189/,6,1
+Working Effectively with Legacy Code,Book,http://www.amazon.com/dp/0131177052/,59,1
+"ADTs, Data Structures, and Problem Solving with C++ (2nd Edition)",Book,http://www.amazon.com/dp/0131409093/,2,1
+Expert C Programming: Deep C Secrets,Book,http://www.amazon.com/dp/0131774298/,20,1
+The C++ Standard Library: A Tutorial and Reference,Book,http://www.amazon.com/dp/0201379260/,1,1
+Design Patterns: Elements of Reusable Object-Oriented Software,Book,http://www.amazon.com/dp/0201633612/,87,1
+More Effective C++: 35 New Ways to Improve Your Programs and Designs,Book,http://www.amazon.com/dp/020163371X/,3,1
+Programming with POSIX Threads,Book,http://www.amazon.com/dp/0201633922/,2,1
+C++ In Action: Industrial Strength Programming Techniques (With CD-ROM),Book,http://www.amazon.com/dp/0201699486/,2,1
+Unicode Demystified: A Practical Programmer's Guide to the Encoding Standard,Book,http://www.amazon.com/dp/0201700522/,4,1
+1: Large-Scale C++  Volume I: Process and Architecture (Addison-Wesley Professional Computing Series),Book,http://www.amazon.com/dp/0201717069/,1,1
+C++ Templates: The Complete Guide,Book,http://www.amazon.com/dp/0201734842/,4,1
+Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library,Book,http://www.amazon.com/dp/0201749629/,3,1
+"C++ Coding Standards: 101 Rules, Guidelines, and Best Practices",Book,http://www.amazon.com/dp/0321113586/,2,1

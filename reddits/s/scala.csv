@@ -1,8 +1,22 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Functional Programming in Scala,Book,http://www.amazon.com/dp/1617290653/,3,3
-"Programming in Scala: A Comprehensive Step-by-Step Guide, 2nd Edition",Book,http://www.amazon.com/dp/0981531644/,2,2
-Scala for the Impatient,Book,http://www.amazon.com/dp/0321774094/,2,2
+Functional Programming in Scala,Book,http://www.amazon.com/dp/1617290653/,11,5
+"Programming in Scala: A Comprehensive Step-by-Step Guide, 2nd Edition",Book,http://www.amazon.com/dp/0981531644/,6,4
+Akka in Action,Book,http://www.amazon.com/dp/1617291013/,2,2
+Programming in Scala: Updated for Scala 2.12,Book,http://www.amazon.com/dp/0981531687/,4,2
+Scala for the Impatient,Book,http://www.amazon.com/dp/0321774094/,5,2
 Scala High Performance Programming,Book,http://www.amazon.com/dp/178646604X/,2,2
-How to Bake Pi: An Edible Exploration of the Mathematics of Mathematics,Book,http://www.amazon.com/dp/0465051715/,2,1
-Implementing Domain-Driven Design,Book,http://www.amazon.com/dp/0321834577/,2,1
+How to Bake Pi: An Edible Exploration of the Mathematics of Mathematics,Book,http://www.amazon.com/dp/0465051715/,4,1
+Purely Functional Data Structures,Book,http://www.amazon.com/dp/0521663504/,21,1
+"Hiring The Best Knowledge Workers, Techies & Nerds: The Secrets & Science Of Hiring Technical People",Book,http://www.amazon.com/dp/0932633595/,1,1
+Testing in Scala: Scala Tools for Behavior-Driven Development,Book,http://www.amazon.com/dp/1449315119/,1,1
+Programming Scala: Scalability = Functional Programming + Objects,Book,http://www.amazon.com/dp/1491949856/,2,1
+Mastering Play Framework for Scala,Book,http://www.amazon.com/dp/1783983809/,1,1
+Learning Akka,Book,http://www.amazon.com/dp/1784393002/,1,1
 Scala in Depth,Book,http://www.amazon.com/dp/1935182706/,1,1
+Working Effectively with Legacy Code,Book,http://www.amazon.com/dp/0131177052/,59,1
+Programming in Scala: A Comprehensive Step-by-Step Guide,eBooks,http://www.amazon.com/dp/B004Z1FTXS/,1,1
+Reactive Messaging Patterns with the Actor Model: Applications and Integration in Scala and Akka,Book,http://www.amazon.com/dp/0133846830/,1,1
+Category Theory (Oxford Logic Guides),Book,http://www.amazon.com/dp/0199237182/,2,1
+Refactoring: Improving the Design of Existing Code,Book,http://www.amazon.com/dp/0201485672/,34,1
+Object-Oriented Design Heuristics (paperback),Book,http://www.amazon.com/dp/0321774965/,2,1
+Implementing Domain-Driven Design,Book,http://www.amazon.com/dp/0321834577/,7,1

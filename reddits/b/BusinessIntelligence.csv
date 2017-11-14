@@ -1,8 +1,21 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Information Dashboard Design: The Effective Visual Communication of Data,Book,http://www.amazon.com/dp/0596100167/,2,1
-Programming Collective Intelligence: Building Smart Web 2.0 Applications,Book,http://www.amazon.com/dp/0596529325/,1,1
-Data Smart: Using Data Science to Transform Information into Insight,Book,http://www.amazon.com/dp/111866146X/,1,1
-Machine Learning for Hackers: Case Studies and Algorithms to Get You Started,Book,http://www.amazon.com/dp/1449303714/,1,1
-The Kimball Group Reader: Relentlessly Practical Tools for Data Warehousing and Business Intelligence,Book,http://www.amazon.com/dp/0470563109/,1,1
-The Kimball Group Reader: Relentlessly Practical Tools for Data Warehousing and Business Intelligence Remastered Collection,Book,http://www.amazon.com/dp/1119216311/,1,1
+Machine Learning for Hackers: Case Studies and Algorithms to Get You Started,Book,http://www.amazon.com/dp/1449303714/,2,2
+The Kimball Group Reader: Relentlessly Practical Tools for Data Warehousing and Business Intelligence,Book,http://www.amazon.com/dp/0470563109/,3,2
+Programming Collective Intelligence: Building Smart Web 2.0 Applications,Book,http://www.amazon.com/dp/0596529325/,4,2
+Data Smart: Using Data Science to Transform Information into Insight,Book,http://www.amazon.com/dp/111866146X/,11,2
+SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL (3rd Edition),Book,http://www.amazon.com/dp/0321992474/,9,1
+Pentaho Solutions: Business Intelligence and Data Warehousing with Pentaho and MySQL,Book,http://www.amazon.com/dp/0470484322/,1,1
 The Microsoft Data Warehouse Toolkit: With SQL Server 2008 R2 and the Microsoft Business Intelligence Toolset,Book,http://www.amazon.com/dp/0470640383/,1,1
+Information Dashboard Design: The Effective Visual Communication of Data,Book,http://www.amazon.com/dp/0596100167/,3,1
+Training Kit (Exam 70-461) Querying Microsoft SQL Server 2012 (MCSA) (Microsoft Press Training Kit),Book,http://www.amazon.com/dp/0735666059/,11,1
+The Visual Display of Quantitative Information,Book,http://www.amazon.com/dp/0961392142/,22,1
+Kimball's Data Warehouse Toolkit Classics: 3 Volume Set,Book,http://www.amazon.com/dp/1118875184/,1,1
+The Kimball Group Reader: Relentlessly Practical Tools for Data Warehousing and Business Intelligence Remastered Collection,Book,http://www.amazon.com/dp/1119216311/,4,1
+Pro SQL Server 2012 BI Solutions (Expert's Voice in SQL Server),Book,http://www.amazon.com/dp/1430234881/,1,1
+Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking,Book,http://www.amazon.com/dp/1449361323/,12,1
+Business Intelligence Strategy: A Practical Guide for Achieving BI Excellence,Book,http://www.amazon.com/dp/1583473629/,1,1
+"MASTER DATA MANAGEMENT AND DATA GOVERNANCE, 2/E",Book,http://www.amazon.com/dp/0071744584/,1,1
+The Kimball Group Reader: Relentlessly Practical Tools for Data Warehousing and Business Intelligence Remastered Collection,eBooks,http://www.amazon.com/dp/B01BEUOY4C/,1,1
+Oracle Business Intelligence 11g Developers Guide,Book,http://www.amazon.com/dp/0071798749/,1,1
+"Business Intelligence, Second Edition: The Savvy Manager's Guide (The Morgan Kaufmann Series on Business Intelligence)",Book,http://www.amazon.com/dp/0123858895/,1,1
+SQL: Visual QuickStart Guide (3rd Edition),Book,http://www.amazon.com/dp/0321553578/,1,1

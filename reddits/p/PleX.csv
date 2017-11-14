@@ -1,34 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-AudioQuest Diamond 1m (3.2 feet) Braided HDMI Cable,CE,http://www.amazon.com/dp/B003CT08E4/,27,1
-"Logitech Wireless Touch Keyboard K400 with Built-In Multi-Touch Touchpad, Black",CE,http://www.amazon.com/dp/B005DKZTMG/,17,1
-"TP-Link AV1200 Powerline Adapter, Gigabit w/ Power Outlet Pass-through, Up to 1200Mbps (TL-PA8010P KIT)",Personal Computer,http://www.amazon.com/dp/B00Y3QPG1A/,9,1
-TP-Link 5-Port Fast Ethernet Unmanaged Switch | Plug and Play | Desktop (TL-SF1005D),CE,http://www.amazon.com/dp/B000FNFSPY/,6,1
-WD Red 4TB NAS Hard Disk Drive - 5400 RPM Class SATA 6 GB/S 64 MB Cache 3.5-Inch (WD40EFRX),Electronics,https://www.amazon.com/Red-4TB-Hard-Disk-Drive/dp/B00EHBERSE,5,1
-NVIDIA SHIELD (2015),Video Games,http://www.amazon.com/dp/B00U33Q940/,5,1
-Mediasonic ProBox HF2-SU3S2 4 Bay 3.5” SATA HDD Enclosure – USB 3.0 & eSATA Support SATA 3 6.0Gbps HDD transfer speed,CE,http://www.amazon.com/dp/B003X26VV4/,5,1
-WD Red 8TB NAS Hard Disk Drive - 5400 RPM Class SATA 6 Gb/s 128MB Cache 3.5 Inch - WD80EFZX,Personal Computer,http://www.amazon.com/dp/B01BYLY4DM/,5,1
-"TaoTronics Wireless Portable Bluetooth  Transmitter Connected to 3.5mm Audio Devices, Paired with Bluetooth Receiver, TV Ears, Bluetooth Dongle, A2DP Stereo Music Transmission",Wireless,http://www.amazon.com/dp/B00P24XKS8/,4,1
-HGST Deskstar NAS 3.5-Inch 4TB 7200RPM SATA III 64MB Cache Internal Hard Drive Kit (0S03664),Personal Computer,http://www.amazon.com/dp/B00HHAJRU0/,3,1
-"EVGA SuperNOVA 750 G2, 80+ GOLD 750W, Fully Modular, EVGA ECO Mode, 10 Year Warranty, Includes FREE Power On Self Tester Power Supply 220-G2-0750-XR",Personal Computer,http://www.amazon.com/dp/B00IKDETOW/,3,1
-Seagate 10TB IronWolf NAS SATA 6Gb/s NCQ 256MB Cache 3.5-Inch Internal Hard Drive (ST10000VN0004),Personal Computer,http://www.amazon.com/dp/B01IA9GU0Q/,3,1
-Lenovo ThinkServer TS140 70A4000HUX i3-4130 3.4GHz Server Desktop Computer,Personal Computer,http://www.amazon.com/dp/B00SS3M3K6/,3,1
-ASRock Rack Mini ITX DDR3 1333 Motherboards (C2550D4I),Personal Computer,http://www.amazon.com/dp/B00GG94YDS/,3,1
-Lenovo ThinkServer TS140 70A4001MUX Intel Quad Core Xeon E3-1225v3 4GB RAM 500GB HDD Desktop Server PC,Personal Computer,http://www.amazon.com/dp/B00FE2G79C/,2,1
-"Tablet Mount Holder iKross Universal Tablet Car Backseat Headrest Extendable Mount Holder For Apple iPad Pro 10.5, iPad Pro 9.7, iPad Air / Mini, Samsung Galaxy Tab, and 7 - 10.2-inch Tablet - Black",PC Accessory,http://www.amazon.com/dp/B00HFNH8JQ/,2,1
-Lenovo ThinkServer TS140 70A4000HUX i3-4130 3.4GHz Server Desktop Computer,Electronics,https://www.amazon.com/Lenovo-ThinkServer-70A4000HUX-i3-4130-Computer/dp/B00F6EK9J2/ref=sr_1_1?ie=UTF8&amp;qid=1429262976&amp;sr=8-1&amp;keywords=thinkserver,2,1
-Crucial 16GB Kit (8GBx2) DDR3L 1600 MT/s (PC3-12800) DR x8 EUDIMM 240-Pin Memory - CT2KIT102472BD160B,Personal Computer,http://www.amazon.com/dp/B008EMA5VU/,2,1
-Xbox One Media Remote,Video Games,http://www.amazon.com/dp/B00IAVDPSA/,1,1
-ODROID-C2 Project Board Quad Core 2GHz 2GB RAM HDMI 2.0 IR Gigabit,PC Accessory,http://www.amazon.com/dp/B01CQBRXOQ/,1,1
-1 Pack 1U Blank Rack Mount Panel Server Network Racks Spacer 19'',Speakers,http://www.amazon.com/dp/B01M66C3DV/,1,1
-2U 19-Inch Steel Wall Mountable Simple Vertical Rack and Server Rack,Speakers,http://www.amazon.com/dp/B00ZY7AK72/,1,1
-Thermaltake Suppressor F31 SPCC ATX Mid Tower Tt LCS Certified Ultra Quiet Gaming Silent Computer Chassis CA-1E3-00M1NN-00,Personal Computer,http://www.amazon.com/dp/B016R3KRZ6/,1,1
-Lenovo ThinkServer TS140 70A40037UX 4U Tower Server Intel Core i3-4150 3.5Ghz,Personal Computer,http://www.amazon.com/dp/B0167MYLL8/,1,1
-"TRENDnet 5-Port Unmanaged Gigabit GREENnet Desktop Plastic Housing Switch, Plug & Play, 5 x Gigabit Ports, 10 Gbps,  TEG-S5g",Personal Computer,http://www.amazon.com/dp/B002HH0W5W/,1,1
+Lenovo ThinkServer TS140 70A4000HUX i3-4130 3.4GHz Server Desktop Computer,Personal Computer,http://www.amazon.com/dp/B00SS3M3K6/,23,11
+Mediasonic ProBox HF2-SU3S2 4 Bay 3.5” SATA HDD Enclosure – USB 3.0 & eSATA Support SATA 3 6.0Gbps HDD transfer speed,CE,http://www.amazon.com/dp/B003X26VV4/,40,6
+Intel NUC Kit NUC6i5SYH,Personal Computer,http://www.amazon.com/dp/B018Q0GN60/,8,6
+Intel NUC Kit NUC5i7RYH Barebone System BOXNUC5I7RYH,Personal Computer,http://www.amazon.com/dp/B00WAS1FX6/,7,5
+"QNAP TVS-871-i7-16G-US 8-Bay Intel Core i7 3.2GHz Quad Core, 16GB RAM, 4LAN, 10G-ready (TVS-871-i7-16G-US)",Personal Computer,http://www.amazon.com/dp/B00S0XRY7Q/,4,4
+Lenovo ThinkServer TS140 70A40037UX 4U Tower Server Intel Core i3-4150 3.5Ghz,Personal Computer,http://www.amazon.com/dp/B0167MYLL8/,5,4
+"Qnap 8 Bay NAS/iSCSI IP-SAN, Intel Skylake Core i5 3.6GHz Quad Core (TVS-882-i5-16G-US)",Personal Computer,http://www.amazon.com/dp/B01GF7WIKQ/,4,4
+"Mediasonic HFR2-SU3S2 PRORAID 4 Bay 3.5"" SATA Hard Drive Enclosure - USB 3.0 & eSATA",CE,http://www.amazon.com/dp/B003YFHEAC/,7,4
+HGST Deskstar NAS 3.5-Inch 4TB 7200RPM SATA III 64MB Cache Internal Hard Drive Kit (0S03664),Personal Computer,http://www.amazon.com/dp/B00HHAJRU0/,15,3
+"Lenovo ThinkServer TS140 70A4001LUX 5U Tower Server (3.2 GHz Intel Xeon E3-1225 v3 Processor, 4 GB ECC RAM, No HDD, DVD-ROM, No OS) Black",Personal Computer,http://www.amazon.com/dp/B00FE29IWK/,14,3
+Crucial 16GB Kit (8GBx2) DDR3L 1600 MT/s (PC3-12800) DR x8 EUDIMM 240-Pin Memory - CT2KIT102472BD160B,Personal Computer,http://www.amazon.com/dp/B008EMA5VU/,17,3
+"Qnap 6 Bay NAS/iSCSI IP-SAN, Intel Skylake Core i3-6100 3.7 GHz Dual core (TVS-682-i3-8G-US)",Personal Computer,http://www.amazon.com/dp/B01GF7WKEK/,3,3
+"Windows 7 Vista XP Media Center MCE PC Remote Control and Infrared Receiver for Home, Premium and Ultimate Edition",Speakers,http://www.amazon.com/dp/B00224ZDFY/,20,3
+Intel NUC Kit NUC6i3SYK BOXNUC6I3SYK Silver/Black,Personal Computer,http://www.amazon.com/dp/B018JDP590/,3,3
+Intel Next Unit of Computing 2.5-Inch Drive Option BOXNUC5I3RYH,Personal Computer,http://www.amazon.com/dp/B00S1IQHKK/,6,3
+ASUS CHROMEBOX-M004U Desktop,Personal Computer,http://www.amazon.com/dp/B00IT1WJZQ/,28,3
+FLIRC FL-09028 USB Universal Remote Control Receiver for Media Centers Components,Personal Computer,http://www.amazon.com/dp/B00BB0ETW8/,23,3
+Lenovo ThinkServer TS140 70A4001MUX Intel Quad Core Xeon E3-1225v3 4GB RAM 500GB HDD Desktop Server PC,Personal Computer,http://www.amazon.com/dp/B00FE2G79C/,13,3
+ViewHD 2 Port 1x2 Powered HDMI Mini Splitter for 1080P & 3D | Model: VHD-1X2MN3D,Speakers,http://www.amazon.com/dp/B004F9LVXC/,70,3
+TP-Link N150 Wireless Nano Travel Router with Range Extender/Access Point/Client/Bridge Modes (TL-WR702N),Personal Computer,http://www.amazon.com/dp/B007PTCFFW/,20,2
+IO Crest 4 Port SATA III PCI-e 2.0 x1 Controller Card Marvell Non-Raid with Low Profile Bracket SI-PEX40064,Personal Computer,http://www.amazon.com/dp/B00AZ9T3OU/,22,2
+Ubiquiti Networks Unifi 802.11ac Dual-Radio PRO Access Point (UAP-AC-PRO-US),Personal Computer,http://www.amazon.com/dp/B015PRO512/,55,2
+ODROID-C2 Project Board Quad Core 2GHz 2GB RAM HDMI 2.0 IR Gigabit,PC Accessory,http://www.amazon.com/dp/B01CQBRXOQ/,4,2
+LG Internal UH12NS30 BD-ROM Blu-ray Optical Drive,Personal Computer,http://www.amazon.com/dp/B00DVTBM2W/,4,2
+SiliconDust HDHomeRun CONNECT. FREE broadcast HDTV (2-Tuner),Personal Computer,http://www.amazon.com/dp/B00GY0UB54/,18,2
+Seagate Expansion 8TB Desktop External Hard Drive USB 3.0 (STEB8000100),Personal Computer,http://www.amazon.com/dp/B01HAPGEIE/,23,2
+"HooToo Wireless Travel Router, USB Port, High Performance- TripMate Nano (Not a Hotspot)",Personal Computer,http://www.amazon.com/dp/B00HZWOQZ6/,34,2
+WD Red 8TB NAS Hard Disk Drive - 5400 RPM Class SATA 6 Gb/s 128MB Cache 3.5 Inch - WD80EFZX,Personal Computer,http://www.amazon.com/dp/B01BYLY4DM/,17,2
+Intel NUC BOXD54250WYKH1 Intel 4th Gen Intel Core i5-4250U with Intel HD Graphics 5000,Personal Computer,http://www.amazon.com/dp/B00HZDLNWO/,10,2
+Intel NUC NUC5i5RYH with Intel Core i5 Processor and 2.5-Inch Drive Support,Personal Computer,http://www.amazon.com/dp/B00SD9IS1S/,11,2
+"Anker 10 Port 60W Data Hub with 7 USB 3.0 Ports and 3 PowerIQ Charging Ports for Macbook, Mac Pro / mini, iMac, XPS, Surface Pro, iPhone 7, 6s Plus, iPad Air 2, Galaxy Series, Mobile HDD, and More",Personal Computer,http://www.amazon.com/dp/B00VDVCQ84/,28,2
+iPazzPort Wireless Mini Keyboard with Touchpad for Android TV Box and Raspberry Pi 3 and HTPC KP-810-21S,Personal Computer,http://www.amazon.com/dp/B00KF9IVKC/,16,2
+"HooToo Wireless Travel Router, USB Port, High Performance, 10400mAh External Battery Pack Travel Charger - TripMate Titan (Not a Hotspot)",Personal Computer,http://www.amazon.com/dp/B00RVIGY1I/,15,2
+NVIDIA SHIELD (2015),Video Games,http://www.amazon.com/dp/B00U33Q940/,21,2
+"ASUS M32CD Desktop (Core i5, 8GB DDR3, 1TB, Windows 10) with Keyboard and Mouse",Personal Computer,http://www.amazon.com/dp/B014QVM2KO/,11,2
+Lenovo ThinkServer TS140 [No OS] Intel Xeon E3-1246v3 8GB RAM No HDD Server Desktop Computer,Personal Computer,http://www.amazon.com/dp/B017MXVRGS/,2,2
+"SilverStone Technology Premium Mini-ITX / DTX Small Form Factor NAS Computer Case, Black (DS380B)",Personal Computer,http://www.amazon.com/dp/B00IAELTAI/,13,2
+"EVGA 450 BT, 80+ Bronze 450W, 3 Year Warranty, Power Supply 100-BT-0450-K1",Personal Computer,http://www.amazon.com/dp/B01N9X3F8F/,18,2
+"TP-Link AV600 Powerline Adapter Starter Kit, Up to 600Mbps, Gigabit Ports, Plug and Play, Power Saving Mode (TL-PA6010KIT)",Personal Computer,http://www.amazon.com/dp/B00IBPLI48/,13,2
+"Logitech Wireless Touch Keyboard K400 with Built-In Multi-Touch Touchpad, Black",CE,http://www.amazon.com/dp/B005DKZTMG/,105,2
+"Aerb 2.4G Mini Wireless Keyboard Mouse Multifunctional W Infrared Remote Learning, 3-Gyro and 3-Gsensor, Air Control for Windows iOS MAC",Personal Computer,http://www.amazon.com/dp/B00K768DHY/,18,2
+"CyberPower CP1500PFCLCD PFC Sinewave UPS System, 1500VA/900W, 10 Outlets, AVR, Mini-Tower",Speakers,http://www.amazon.com/dp/B00429N19W/,48,1
+Actiontec Ethernet over Coax Adapter Kit for Homes without MoCA Routers,CE,http://www.amazon.com/dp/B008EQ4BQG/,38,1
+SANOXY 25-Feet 3.5mm Stereo Male to Female Extension Cable,CE,http://www.amazon.com/dp/B0015V1H28/,1,1
+"EVGA GeForce GT 610 1024MB GDDR3, Dual DVI, mini-HDMI Graphics Card 01G-P3-2616-KR",CE,http://www.amazon.com/dp/B0083YIGVU/,1,1
 WD Livewire Powerline AV Network Kit 200Mbps - extend Internet to your HDTV,CE,http://www.amazon.com/dp/B003VWY0VY/,1,1
-NETGEAR ReadyNAS 104 4-Bay Network Attached Storage Diskless (RN10400-100NAS),Beauty,http://www.amazon.com/dp/B00BNI4CVG/,1,1
-CE Compass Mini Wireless Keyboard with Touchpad Mouse PC Remote Control,PC Accessory,http://www.amazon.com/dp/B004VPXLDI/,1,1
-Buffalo LinkStation 441 0 TB 4-Bay NAS for Home/Home Office (LS441DE),Personal Computer,http://www.amazon.com/dp/B00MMLWEEU/,1,1
-"SilverStone Technology Premium Mini-ITX / DTX Small Form Factor NAS Computer Case, Black (DS380B)",Personal Computer,http://www.amazon.com/dp/B00IAELTAI/,1,1
-Seagate NAS 4-Bay Diskless Network Attached Storage Drive (STCU100),Personal Computer,http://www.amazon.com/dp/B00LM6LIDO/,1,1
-HGST Deskstar NAS 3.5-Inch 3TB 7200RPM SATA III 64MB Cache Internal Hard Drive Kit (0S03660),Electronics,https://www.amazon.com/gp/product/B00HHAJU7K/ref=oh_aui_detailpage_o01_s01?ie=UTF8&amp;psc=1,1,1
-"ASUS M32CD Desktop (Core i5, 8GB DDR3, 1TB, Windows 10) with Keyboard and Mouse",Personal Computer,http://www.amazon.com/dp/B014QVM2KO/,1,1
+"Dell Vostro 1500, Intel Core 2 Duo T5470 (2x1.6GHz), 2GB RAM, 80",PC Accessory,http://www.amazon.com/dp/B00150IYRU/,1,1
+Intel  PRO/1000 Pt Dual Port Server Adapter,CE,http://www.amazon.com/dp/B000BMZHX2/,11,1
+Motorola Signal Booster 4-Port Cable Modem TV HDTV Amplifier with Active Return Cable Modem Boost,CE,http://www.amazon.com/dp/B003T2SLIO/,1,1
+Crucial 8GB Single DDR3 1600 MT/s (PC3-12800) CL11 Unbuffered ECC UDIMM 240-Pin Server Memory CT102472BA160B,Personal Computer,http://www.amazon.com/dp/B006YG8ZNI/,3,1
+Rosewill Rackmountable Switch 24-Port 10/100/1000Mbps 24 x RJ45 8K Mac (RNSW-11001),Personal Computer,http://www.amazon.com/dp/B006P36CNA/,1,1
+AudioQuest Diamond 1m (3.2 feet) Braided HDMI Cable,CE,http://www.amazon.com/dp/B003CT08E4/,53,1
+Pyle PFA300 90-Watt Class T Hi-Fi Stereo Amplifier with Adapter,Car Audio or Theater,http://www.amazon.com/dp/B0071HZ5LE/,2,1
+Seagate GoFlex Desk 3TB External Hard Drive for Mac in Black with Thunderbolt Adapter STBC3000102,Personal Computer,http://www.amazon.com/dp/B007IJ7UHC/,1,1
+"4-Pin Molex Male to 6-Pin PCI-E Female Power Adapter Cable (8"" Length)",PC Accessory,http://www.amazon.com/dp/B007NMSUUA/,11,1
+TP-Link 5-Port Gigabit Ethernet Unmanaged Switch w/ Shielded Ports | Plug and Play | Desktop (TL-SG1005D),CE,http://www.amazon.com/dp/B000N99BBC/,19,1
+Noctua NF-B9 PWM Cooling Fan,Personal Computer,http://www.amazon.com/dp/B006ISKYPE/,1,1
+LSI LOGIC SAS 9207-8i Storage Controller LSI00301,Personal Computer,http://www.amazon.com/dp/B0085FT2JC/,3,1
+Noctua NF-P12 PWM,Personal Computer,http://www.amazon.com/dp/B006I6HMXI/,4,1
+SAS9211-8I 8PORT Int 6GB Sata+sas Pcie 2.0,PC Accessory,http://www.amazon.com/dp/B002RL8I7M/,14,1
+WD Red 3TB NAS Hard Disk Drive - 5400 RPM Class SATA 6 Gb/s 64MB Cache 3.5 Inch - WD30EFRX,Personal Computer,http://www.amazon.com/dp/B008JJLW4M/,15,1
+iStarUSA BPN-DE350SS-BLACK 3x5.25 to 5x3.5 Trayless Black,Personal Computer,http://www.amazon.com/dp/B008RRZI14/,2,1
+Noctua NF-R8 PWM 4 pin Cooling Fan,Personal Computer,http://www.amazon.com/dp/B006GD30UC/,1,1
+Pure Acoustics HT770 WH Mini Cube Speaker (White),Speakers,http://www.amazon.com/dp/B0067KYMLA/,1,1
+NORCO Computer Parallel Cables (C-SFF8087-4S),Personal Computer,http://www.amazon.com/dp/B002MK7F0Y/,2,1
+StarTech.com 8-Inch EPS 8-Pin Power Extension Cable (EPS8EXT),Personal Computer,http://www.amazon.com/dp/B000M802RG/,1,1
+Raxxess RAX Unitray Universal Rack Tray UNS1,Musical Instruments,http://www.amazon.com/dp/B0007OGTGS/,6,1
+StarTech.com 2-to-1 RJ45 10/100 Mbps Splitter/Combiner - One adapter required at each end of the connection,Personal Computer,http://www.amazon.com/dp/B00009XSZE/,1,1
+"Mediasonic ProBox K32-SU3 3.5"" SATA Hard Drive Enclosure - USB 3.0 SuperSpeed, Optimized for UASP & SATA 3 6.0Gbps hard drive transfer rate",Personal Computer,http://www.amazon.com/dp/B0065DUJ0C/,2,1
+Noctua NF-F12 PWM Cooling Fan,Personal Computer,http://www.amazon.com/dp/B00650P2ZC/,16,1
+Supermicro PCI Express x4 Low Profile SAS RAID Controller (AOC-SASLP-MV8),Personal Computer,http://www.amazon.com/dp/B002KGLDXU/,3,1
+"TP-Link SafeStream TL-R470T+ Fast Ethernet Load Balance Broadband Router, Multi-WAN, 96M NAT throughput, 30k Concurrent Sessions, 256 DHCP Clients",Personal Computer,http://www.amazon.com/dp/B005SYQBN8/,7,1
+ORICO Aluminum 5.25 inch to 2.5 or 3.5 Inch Internal Hard Disk Drive Mounting Kit with Screws and SHOCK Absorption Rubber Washer- Black,PC Accessory,http://www.amazon.com/dp/B005OJFASY/,12,1
+"TRENDnet 5-Port Unmanaged Gigabit GREENnet Desktop Plastic Housing Switch, Plug & Play, 5 x Gigabit Ports, 10 Gbps,  TEG-S5g",Personal Computer,http://www.amazon.com/dp/B002HH0W5W/,5,1
+TP-Link 5-Port Fast Ethernet Unmanaged Switch | Plug and Play | Desktop (TL-SF1005D),CE,http://www.amazon.com/dp/B000FNFSPY/,37,1
+ARCHER SEASON 3,TV Series Season Video on Demand,http://www.amazon.com/dp/B005KO36S4/,1,1
+Lenovo ThinkServer TS140 i3-4130 3.4GHz 8GB 1TB 7200rpm HDD Server Desktop Computer,Personal Computer,http://www.amazon.com/dp/B00FJF4S22/,3,1
+RCA Compact Outdoor Yagi HDTV Antenna with 70 Mile Range,Speakers,http://www.amazon.com/dp/B0024R4B5C/,48,1
+LinkS Active HDMI to VGA M/F Adapter converter cable w/ 3.5mm Stereo cable in white - Supports Audio,Personal Computer,http://www.amazon.com/dp/B00E717OXE/,4,1
+ZXUY Hard Drive SATA 2nd HDD Caddy Tray for Unibody 9.5mm Laptop CD/DVD-ROM Drive Slot (Replacement Only for SSD and HDD),PC Accessory,http://www.amazon.com/dp/B0058AH2US/,17,1
+ASUS 3-In-1 Wireless Router (RT-N12),Personal Computer,http://www.amazon.com/dp/B00DWFPDNO/,16,1
+"Rosewill 4U Server Chassis / Server Case / Rackmount Case, Metal Rack Mount Computer Case with 8 Bays & 4 Fans Pre-Installed (RSV-R4000)",Personal Computer,http://www.amazon.com/dp/B0055EV30W/,9,1
+StarTech 8-Inch 24 Pin ATX 2.01 Power Extension Cable (ATX24POWEXT),CE,http://www.amazon.com/dp/B000FL60AI/,3,1
+CyberPower CPS-1215RMS Rackmount PDU Power/Surge Strip - 12-Outlet 15A 1800VA 1800 Joules,Speakers,http://www.amazon.com/dp/B00077INZU/,6,1
+"Inateck PCI-E to USB 3.0 5-Port PCI Express Card and 15-Pin Power Connector, Mini PCI-E USB 3.0 Hub Controller Adapter, with Internal USB 3.0 20-PIN Connector - Expand Another Two USB 3.0 Ports",PC Accessory,http://www.amazon.com/dp/B00FPIMJEW/,62,1
+"WD My Cloud EX4 Diskless: High-performance NAS, Ultimate reliability",Personal Computer,http://www.amazon.com/dp/B00G4JZ2T0/,1,1
+ASRock Rack Mini ITX DDR3 1333 Motherboards (C2550D4I),Personal Computer,http://www.amazon.com/dp/B00GG94YDS/,8,1
+Hornettek Enterprise 3.5in 4 Bay USB 3.0 JBOD SATA HDD Enclosure(HT-3402U3),Personal Computer,http://www.amazon.com/dp/B00CYFM520/,1,1
+SiliconDust HDHomeRun EXTEND. FREE broadcast HDTV (2-Tuner),Home Theater,http://www.amazon.com/dp/B00GY0UB6I/,7,1
+Silverstone Tek Ultra Thin Lateral 90 Degree SATA Cables with Custom Low-Profile Connectors (CP11),Personal Computer,http://www.amazon.com/dp/B00HDEBGSQ/,3,1
+"Tablet Mount Holder iKross Universal Tablet Car Backseat Headrest Extendable Mount Holder For Apple iPad Pro 10.5, iPad Pro 9.7, iPad Air / Mini, Samsung Galaxy Tab, and 7 - 10.2-inch Tablet - Black",PC Accessory,http://www.amazon.com/dp/B00HFNH8JQ/,5,1
+Kingston Technology 4GB 1600MHz DDR3L PC3-12800 1.35V Non-ECC CL11 SODIMM Intel Laptop Memory KVR16LS11/4,Personal Computer,http://www.amazon.com/dp/B00CQ35GYE/,23,1
+"Intel NUC DN2820FYKH with Intel Celeron N2820 , 2.5 inch HDD support",Personal Computer,http://www.amazon.com/dp/B00HVKLSVC/,6,1
+Gigabyte Intel i7-4770R Mini PC Barebones GB-BXi7-4770R,Personal Computer,http://www.amazon.com/dp/B00HWP6CMG/,3,1
+Ubiquiti Edgerouter Lite ERLITE-3 Desktop Router (Black),Personal Computer,http://www.amazon.com/dp/B00HXT8EKE/,34,1
+HighPoint RocketRAID 2720SGL 8-Port SAS 6Gb/s PCIe 2.0 x8 RAID HBA,CE,http://www.amazon.com/dp/B0050SLTPC/,3,1
+"Mobius™ 5-Bay FireWire 800, eSATA, USB 3.0 RAID Hard Drive Enclosure",PC Accessory,http://www.amazon.com/dp/B00CH94GMK/,1,1
+WD   My Cloud EX2 Diskless Network Attached Storage - NAS - WDBVKW0000NCH-NESN,Personal Computer,http://www.amazon.com/dp/B00I2P53NY/,3,1
+Logitech Harmony Smart Control - Black,Speakers,http://www.amazon.com/dp/B00BQ5RYI4/,32,1
+SANOXY Wireless USB PC Remote Control Mouse for PC,Personal Computer,http://www.amazon.com/dp/B0050PUGZE/,2,1

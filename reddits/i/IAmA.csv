@@ -1,321 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Warnings: Finding Cassandras to Stop Catastrophes,Book,http://www.amazon.com/dp/0062488023/,6,6
-"Head First Java, 2nd Edition",Book,http://www.amazon.com/dp/0596009208/,13,3
-iOS Programming: The Big Nerd Ranch Guide (6th Edition) (Big Nerd Ranch Guides),Book,http://www.amazon.com/dp/0134682335/,5,3
-Android Programming: The Big Nerd Ranch Guide (3rd Edition) (Big Nerd Ranch Guides),Book,http://www.amazon.com/dp/0134706056/,4,3
-Programming in Objective-C (6th Edition) (Developer's Library),Book,http://www.amazon.com/dp/0321967607/,4,3
-iOS Programming: The Big Nerd Ranch Guide (4th Edition) (Big Nerd Ranch Guides),Book,http://www.amazon.com/dp/0321942051/,3,3
-"Victorinox Fibrox Pro Chef's Knife, 8-Inch Chef's FFP",Kitchen,http://www.amazon.com/dp/B008M5U1C2/,40,2
-Come as You Are: The Surprising New Science that Will Transform Your Sex Life,Book,http://www.amazon.com/dp/1476762090/,33,2
-The Better Angels of Our Nature: Why Violence Has Declined,Book,http://www.amazon.com/dp/0143122010/,23,2
-How to Catch a Russian Spy: The True Story of an American Civilian Turned Double Agent,Book,http://www.amazon.com/dp/1476788820/,5,2
-The Swoly Bible: The Bro Science Way of Life,Book,http://www.amazon.com/dp/0735211124/,4,2
-Slammed In The Butthole By My Concept Of Linear Time,eBooks,http://www.amazon.com/dp/B01A92WFXI/,4,2
-Doing Good Better: How Effective Altruism Can Help You Make a Difference,Book,http://www.amazon.com/dp/1592409105/,4,2
-Pdx F*ck Me Silly 2,Health and Beauty,http://www.amazon.com/dp/B004PALRNA/,4,2
-Swift Programming: The Big Nerd Ranch Guide (2nd Edition) (Big Nerd Ranch Guides),Book,http://www.amazon.com/dp/013461061X/,4,2
-Black Book: Book 1,eBooks,http://www.amazon.com/dp/B00G12TLRY/,3,2
-Pounded By Politics: Nine Tales Of Civic Butthole Diplomacy,Book,http://www.amazon.com/dp/1539878155/,3,2
-Programming Windows: Writing Windows 8 Apps With C# and XAML (Developer Reference),Book,http://www.amazon.com/dp/0735671761/,3,2
-Hostage to the Devil: The Possession and Exorcism of Five Contemporary Americans,Book,http://www.amazon.com/dp/006065337X/,3,2
-"Nestle, KitKat Maccha Green Tea Flavor 4.9oz Japan Import",Grocery,http://www.amazon.com/dp/B007OVX77G/,3,2
-Marijuana is Safer: So Why Are We Driving People to Drink? 2nd Edition,Book,http://www.amazon.com/dp/1603585109/,3,2
-"Sankill Unisex Realistic 3d Digital Pullover Sweatshirt Hoodie Hooded Sweatshirt for Christmas Gift S-3XL (l/xl, purple waves)",Apparel,http://www.amazon.com/dp/B01N2QBXUK/,2,2
+iOS Programming: The Big Nerd Ranch Guide (4th Edition) (Big Nerd Ranch Guides),Book,http://www.amazon.com/dp/0321942051/,13,9
+Programming in Objective-C (6th Edition) (Developer's Library),Book,http://www.amazon.com/dp/0321967607/,14,9
+Android Programming: The Big Nerd Ranch Guide (3rd Edition) (Big Nerd Ranch Guides),Book,http://www.amazon.com/dp/0134706056/,18,9
+Warnings: Finding Cassandras to Stop Catastrophes,Book,http://www.amazon.com/dp/0062488023/,10,9
+"Head First Java, 2nd Edition",Book,http://www.amazon.com/dp/0596009208/,54,9
+How to Catch a Russian Spy: The True Story of an American Civilian Turned Double Agent,Book,http://www.amazon.com/dp/1476788820/,7,4
+iOS Programming: The Big Nerd Ranch Guide (6th Edition) (Big Nerd Ranch Guides),Book,http://www.amazon.com/dp/0134682335/,7,4
+Doing Good Better: How Effective Altruism Can Help You Make a Difference,Book,http://www.amazon.com/dp/1592409105/,15,4
+Black Book: Book 1,eBooks,http://www.amazon.com/dp/B00G12TLRY/,10,4
+"Programming C# 5.0: Building Windows 8, Web, and Desktop Applications for the .NET 4.5 Framework",Book,http://www.amazon.com/dp/1449320414/,7,4
+Programming Windows: Writing Windows 8 Apps With C# and XAML (Developer Reference),Book,http://www.amazon.com/dp/0735671761/,5,4
+The Better Angels of Our Nature: Why Violence Has Declined,Book,http://www.amazon.com/dp/0143122010/,58,3
+"Doc Johnson Classic - The Great American Challenge - 15"" Long and 2.9"" Wide - Massive 9.1"" Girth - Great for Size Queens - Dildo - Purple",Health and Beauty,http://www.amazon.com/dp/B002E9I0F2/,18,3
+"Sankill Unisex Realistic 3d Digital Pullover Sweatshirt Hoodie Hooded Sweatshirt for Christmas Gift S-3XL (l/xl, purple waves)",Apparel,http://www.amazon.com/dp/B01N2QBXUK/,6,3
+"Victorinox Fibrox Pro Chef's Knife, 8-Inch Chef's FFP",Kitchen,http://www.amazon.com/dp/B008M5U1C2/,114,3
+Pdx F*ck Me Silly 2,Health and Beauty,http://www.amazon.com/dp/B004PALRNA/,5,3
+The Myth of Sex Addiction,Book,http://www.amazon.com/dp/1442213051/,5,3
+Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming,Book,http://www.amazon.com/dp/1608193942/,28,3
+"Nestle, KitKat Maccha Green Tea Flavor 4.9oz Japan Import",Grocery,http://www.amazon.com/dp/B007OVX77G/,13,3
+Viking Age: Everyday Life During the Extraordinary Era of the Norsemen,Book,http://www.amazon.com/dp/1454909064/,3,2
+Feeding Hannibal: A Connoisseur's Cookbook,Book,http://www.amazon.com/dp/1783297662/,14,2
+The Promise of a Pencil: How an Ordinary Person Can Create Extraordinary Change,Book,http://www.amazon.com/dp/1476730636/,2,2
+Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization,Book,http://www.amazon.com/dp/0061251321/,4,2
+EarPlanes Value Pack (3 pairs),Health and Beauty,http://www.amazon.com/dp/B001HTWL8C/,2,2
+From Hell with Love (The Forsaken Comedy Book 1),eBooks,http://www.amazon.com/dp/B00EDRBGKE/,2,2
+FlexiFreeze Ice Vest (Velcro Closure),Sports,http://www.amazon.com/dp/B001P30358/,12,2
 The New Sex Bible: The Complete Guide to Sexual Love,eBooks,http://www.amazon.com/dp/B00NTF8SMU/,2,2
-The Myth of Sex Addiction,Book,http://www.amazon.com/dp/1442213051/,2,2
-"Programming C# 5.0: Building Windows 8, Web, and Desktop Applications for the .NET 4.5 Framework",Book,http://www.amazon.com/dp/1449320414/,2,2
+Natural Harvest: A collection of semen-based recipes,Book,http://www.amazon.com/dp/1481227041/,160,2
+"Seven Steps to Managing Your Memory: What's Normal, What's Not, and What to Do About It",Book,http://www.amazon.com/dp/0190494956/,2,2
+Free Our Markets: A Citizens' Guide to Essential Economics,Book,http://www.amazon.com/dp/098442542X/,3,2
+The Cross in the Closet,eBooks,http://www.amazon.com/dp/B00REQVNRM/,2,2
+Miele STB 205-3 Turbo Plus Power Nozzle Attachment,Home,http://www.amazon.com/dp/B000AMEKHW/,4,2
+Edda (Everyman's Library),Book,http://www.amazon.com/dp/0460876163/,10,2
+Eureka 68650 AirSpeed Bagged Dust Cup for AS1000 Series Upright Vacuums,Home,http://www.amazon.com/dp/B00NTT6RYM/,2,2
+Queen and Other Stories,eBooks,http://www.amazon.com/dp/B00K4D05BM/,2,2
+"An Astronaut's Guide to Life on Earth: What Going to Space Taught Me About Ingenuity, Determination, and Being Prepared for Anything",Book,http://www.amazon.com/dp/0316253030/,22,2
+"Passion Lubes, Natural Water-Based Lubricant, 55 Gallon Drum",Health and Beauty,http://www.amazon.com/dp/B005MR3IVO/,713,2
+Hoover Platinum Collection Bagged Corded Upright Vacuum with Canister Vacuum Cleaner UH3001COM,Home,http://www.amazon.com/dp/B001PB8EEM/,3,2
+"Intex Snorkel Buddies 5ft Snapset Pool - 5'X10""",Toy,http://www.amazon.com/dp/B000OV0X34/,4,2
+"Mendini 4/4 MV300 Solid Wood Satin Antique Violin with Hard Case, Shoulder Rest, Bow, Rosin and Extra Strings (Full Size)",Musical Instruments,http://www.amazon.com/dp/B002026DR0/,2,2
 Competition (#1481) A Favorite Factory Visit: Crayons!,TV Series Episode Video on Demand,http://www.amazon.com/dp/B004C4ZLSQ/,2,2
-Seduced By Doctor Bigfoot: Attorney At Large,eBooks,http://www.amazon.com/dp/B00THA42XK/,,1
-Surviving Evil:  CIA Mind Control Experiments in Vermont,eBooks,http://www.amazon.com/dp/B00L2R91ZA/,,1
-The Gift of Failure: How the Best Parents Learn to Let Go So Their Children Can Succeed,eBooks,http://www.amazon.com/dp/B00GLS00LY/,,1
-Lonely Author Pounded By Dinosaur Social Media Followers,eBooks,http://www.amazon.com/dp/B00YO2UMAS/,,1
-Rocks with Wings,Movie,http://www.amazon.com/dp/B00BSBWJGS/,,1
-American Stripper: A True Story of an Exotic Male Dancer,eBooks,http://www.amazon.com/dp/B00ZGQG3DQ/,,1
-Breakaway: An Autobiography,eBooks,http://www.amazon.com/dp/B00V3R3ZUG/,,1
-Secondhand Time: The Last of the Soviets,eBooks,http://www.amazon.com/dp/B018CH9ZVW/,,1
-This American Butt Hosted By Ira Ass,eBooks,http://www.amazon.com/dp/B01DAFKOA2/,,1
-The Writer's Cut,eBooks,http://www.amazon.com/dp/B015HKFNEU/,,1
-"NOT ""Just Friends"": Rebuilding Trust and Recovering Your Sanity After Infidelity",eBooks,http://www.amazon.com/dp/B00120955S/,,1
-Blue Mountain State: The Rise Of Thadland,Movie,http://www.amazon.com/dp/B01AKWVJB6/,,1
-The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,eBooks,http://www.amazon.com/dp/B000RO9VJK/,,1
-Acadia,eBooks,http://www.amazon.com/dp/B00TPWXT6Q/,,1
-Calmer: Medical Events with Cognitively Impaired Children,eBooks,http://www.amazon.com/dp/B007QZ76N6/,,1
-"How to Fly a Horse: The Secret History of Creation, Invention, and Discovery",eBooks,http://www.amazon.com/dp/B00M60RKUK/,,1
-"Chop Suey, USA: The Story of Chinese Food in America (Arts and Traditions of the Table: Perspectives on Culinary History)",eBooks,http://www.amazon.com/dp/B00O0FYGZ6/,,1
-From Hell with Love (The Forsaken Comedy Book 1),eBooks,http://www.amazon.com/dp/B00EDRBGKE/,,1
-The Savage Tales of Solomon Kane,eBooks,http://www.amazon.com/dp/B000FC1R28/,,1
-A.I. Apocalypse (Singularity Series Book 2),eBooks,http://www.amazon.com/dp/B007FZVI2M/,,1
-Fixing Your Feet: Prevention and Treatments for Athletes,eBooks,http://www.amazon.com/dp/B004K6MDZU/,,1
-Ctrl+Shift+Enter Mastering Excel Array Formulas: Do the Impossible with Excel Formulas Thanks to Array Formula Magic,eBooks,http://www.amazon.com/dp/B00EGWE8RY/,,1
-Weber's New American Barbecue™: A Modern Spin on the Classics,Book,http://www.amazon.com/dp/0544715276/,,1
-Lies My Teacher Told Me: Everything Your American History Textbook Got Wrong,eBooks,http://www.amazon.com/dp/B0041OT8EK/,,1
-The Unsinkable Sloop,eBooks,http://www.amazon.com/dp/B00E34KNDS/,,1
-Black Hawk Down: A Story of Modern War,eBooks,http://www.amazon.com/dp/B008X5XP9M/,,1
-Emergency!:: True Stories from the Nation's ERs,eBooks,http://www.amazon.com/dp/B00CGI3F3S/,,1
-Exploding Heart,Digital Music Album,http://www.amazon.com/dp/B00XCCQ5KC/,,1
-Trial By Fury: Internet Savagery and the Amanda Knox Case (Kindle Single),eBooks,http://www.amazon.com/dp/B00CDU1H98/,,1
-Bad News: Last Journalists in a Dictatorship,Book,http://www.amazon.com/dp/0385539568/,,1
-The Forgotten Killer: Rudy Guede and the Murder of Meredith Kercher (Kindle Single),eBooks,http://www.amazon.com/dp/B00I3QZ7G0/,,1
-Pilot,TV Series Episode Video on Demand,http://www.amazon.com/dp/B00MR9VAYC/,,1
-Before the Fall,eBooks,http://www.amazon.com/dp/B0151YQUTE/,,1
-"Passion Lubes, Natural Water-Based Lubricant, 55 Gallon Drum",Health and Beauty,http://www.amazon.com/dp/B005MR3IVO/,273,1
-Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,71,1
-Natural Harvest: A collection of semen-based recipes,Book,http://www.amazon.com/dp/1481227041/,59,1
-Wilton Silver Color Mist,Kitchen,http://www.amazon.com/dp/B005KTVG86/,35,1
-The Food Lab: Better Home Cooking Through Science,Book,http://www.amazon.com/dp/0393081087/,35,1
-"C Programming Language, 2nd Edition",Book,http://www.amazon.com/dp/0131103628/,34,1
-Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland,Book,http://www.amazon.com/dp/0060995068/,33,1
-The Pragmatic Programmer: From Journeyman to Master,Book,http://www.amazon.com/dp/020161622X/,27,1
-Aeropress Coffee and Espresso Maker,Kitchen,http://www.amazon.com/dp/B0047BIWSK/,26,1
-Working Effectively with Legacy Code,Book,http://www.amazon.com/dp/0131177052/,22,1
-"Guns, Germs, and Steel: The Fates of Human Societies",Book,http://www.amazon.com/dp/0393317552/,20,1
-The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics,Book,http://www.amazon.com/dp/1610391845/,19,1
-The Mind Illuminated: A Complete Meditation Guide Integrating Buddhist Wisdom and Brain Science,Book,http://www.amazon.com/dp/0990847705/,18,1
-The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws,Book,http://www.amazon.com/dp/1118026470/,18,1
-How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease,Book,http://www.amazon.com/dp/1250066115/,18,1
-The Complete Calvin and Hobbes,Book,http://www.amazon.com/dp/1449433251/,17,1
-A Manual for Creating Atheists,Book,http://www.amazon.com/dp/1939578094/,16,1
-Codependent No More: How to Stop Controlling Others and Start Caring for Yourself,Book,http://www.amazon.com/dp/0894864025/,16,1
-What If?: Serious Scientific Answers to Absurd Hypothetical Questions,Book,http://www.amazon.com/dp/0544272994/,15,1
-Iron Gym Total Upper Body Workout Bar,Sports,http://www.amazon.com/dp/B001EJMS6K/,15,1
-JavaScript: The Good Parts,Book,http://www.amazon.com/dp/0596517742/,15,1
-Mindset: The New Psychology of Success,Book,http://www.amazon.com/dp/0345472322/,12,1
-On Killing: The Psychological Cost of Learning to Kill in War and Society,Book,http://www.amazon.com/dp/0316040932/,12,1
-Scalped Vol. 1: Indian Country,Book,http://www.amazon.com/dp/1401213170/,11,1
-Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming,Book,http://www.amazon.com/dp/1608193942/,11,1
-Space Raptor Butt Invasion,eBooks,http://www.amazon.com/dp/B00S4B95RQ/,11,1
-Gold Medal Prod. 2045 Flavacol Seasoning Popcorn Salt 35oz.,Grocery,http://www.amazon.com/dp/B004W8LT10/,10,1
-Practical Malware Analysis: A Hands-On Guide to Dissecting Malicious Software,Book,http://www.amazon.com/dp/1593272901/,10,1
-The Lamb's Supper: The Mass as Heaven on Earth,Book,http://www.amazon.com/dp/0385496591/,10,1
-"Swiss+Tech ST66676 Polished SS 6-in-1 Utility Key Multitool for Keychain for Auto, Camping, Hardware",Automotive Parts and Accessories,http://www.amazon.com/dp/B0001EFSTI/,10,1
-"Lodge EC6D43 Enameled Cast Iron Dutch Oven, 6-Quart, Island Spice Red",Kitchen,http://www.amazon.com/dp/B000N501BK/,9,1
-Sled Driver: Flying the World's Fastest Jet,Books,https://www.amazon.com/dp/0929823087?tag=kinja-20&amp;ascsubtag=[b,9,1
-The War of Art: Break Through the Blocks and Win Your Inner Creative Battles,Book,http://www.amazon.com/dp/1936891026/,7,1
-If I Did It: Confessions of the Killer,Book,http://www.amazon.com/dp/0825305934/,7,1
-Gang Leader for a Day: A Rogue Sociologist Takes to the Streets,Book,http://www.amazon.com/dp/014311493X/,7,1
-"The Warlizard Chronicles: Adventures with Vodka, Women, & War",Book,http://www.amazon.com/dp/0615461875/,7,1
-"All-Clad 41126 Stainless Steel Tri-Ply Bonded Dishwasher Safe Fry Pan with Lid / Cookware, 12-Inch, Silver",Kitchen,http://www.amazon.com/dp/B00FUF5K8W/,6,1
-The Seven Principles for Making Marriage Work: A Practical Guide from the Country's Foremost Relationship Expert,Book,http://www.amazon.com/dp/0609805797/,6,1
-The Generals: American Military Command from World War II to Today,Book,http://www.amazon.com/dp/0143124099/,6,1
-"Doc Johnson Classic - The Great American Challenge - 15"" Long and 2.9"" Wide - Massive 9.1"" Girth - Great for Size Queens - Dildo - Purple",Health and Beauty,http://www.amazon.com/dp/B002E9I0F2/,6,1
-"Pounded In The Butt By My Book ""Pounded In The Butt By My Own Butt""",eBooks,http://www.amazon.com/dp/B00VDRUI5Q/,5,1
-"Pounded In The Butt By My Book ""Pounded In The Butt By My Book 'Pounded In The Butt By My Own Butt'""",eBooks,http://www.amazon.com/dp/B018ZZQKJQ/,5,1
-Change of Heart: What Psychology Can Teach Us About Spreading Social Change,Book,http://www.amazon.com/dp/159056233X/,5,1
-Vegan for Life: Everything You Need to Know to Be Healthy and Fit on a Plant-Based Diet,Book,http://www.amazon.com/dp/0738214930/,5,1
-"Climbup Insect Interceptor Bed Bug Trap, 4ct",Lawn & Patio,http://www.amazon.com/dp/B0033SC0LI/,5,1
-Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code,Book,http://www.amazon.com/dp/0470613033/,5,1
-CHOETECH Qi Certified T511 Qi Wireless Charger Pad with Anti-Slip Rubber for Qi-Enabled Devices - Black,Wireless,http://www.amazon.com/dp/B00C40OG22/,5,1
-When Affirmative Action Was White: An Untold History of Racial Inequality in Twentieth-Century America,Book,http://www.amazon.com/dp/0393328511/,5,1
-Feeding Hannibal: A Connoisseur's Cookbook,Book,http://www.amazon.com/dp/1783297662/,5,1
-Hummingbird Wand Essentials Masturbator Attachment,Health and Beauty,http://www.amazon.com/dp/B0042AJ5F0/,5,1
-Don't Pee on My Leg and Tell Me It's Raining: America's Toughest Family Court Judge Speaks Out,Book,http://www.amazon.com/dp/0060927941/,5,1
-Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts,Book,http://www.amazon.com/dp/0143126261/,4,1
-"Alan Turing: The Enigma: The Book That Inspired the Film ""The Imitation Game""",Book,http://www.amazon.com/dp/069116472X/,4,1
-High Crimes: The Fate of Everest in an Age of Greed,Book,http://www.amazon.com/dp/1401309844/,4,1
-"Mathematics: Its Content, Methods and Meaning (3 Volumes in One)",Book,http://www.amazon.com/dp/0486409163/,4,1
-Ghost Boy: The Miraculous Escape of a Misdiagnosed Boy Trapped Inside His Own Body,Book,http://www.amazon.com/dp/1400205832/,4,1
-"Pounded In The Butt By My Book ""Pounded In The Butt By My Book 'Pounded In The Butt By My Book ""Pounded In The Butt By My Book 'Pounded In The Butt By My Own Butt'""'""",eBooks,http://www.amazon.com/dp/B01FDZJHGO/,4,1
-"Pounded In The Butt By My Book ""Pounded In The Butt By My Book 'Pounded In The Butt By My Book ""Pounded In The Butt By My Own Butt""'""",eBooks,http://www.amazon.com/dp/B01ATM6I0O/,4,1
-Samsung UN85S9 Framed 85-Inch 4K Ultra HD 3D Smart LED TV,Home Theater,http://www.amazon.com/dp/B00CMEN95U/,4,1
-"Fire Kids Edition Tablet, 7"" Display, 8 GB, Blue Kid-Proof Case (Previous Generation - 5th)",Amazon Tablets,http://www.amazon.com/dp/B00YYZEQ1G/,4,1
-Dataclysm: Who We Are (When We Think No One's Looking),Book,http://www.amazon.com/dp/0385347375/,4,1
-"Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation",Book,http://www.amazon.com/dp/1118787315/,4,1
-ExOfficio Men's Give-N-Go Boxer Brief,Apparel,http://www.amazon.com/dp/B001M0MN16/,4,1
-Magic Wand Massager with Shibari Variable Speed Controller,Health and Beauty,http://www.amazon.com/dp/B00G7V8SEG/,4,1
-I Will Teach You To Be Rich,Book,http://www.amazon.com/dp/0761147489/,4,1
-Death of the Liberal Class,Book,http://www.amazon.com/dp/1568586795/,4,1
-"Superintelligence: Paths, Dangers, Strategies",eBooks,http://www.amazon.com/dp/B00LOOCGB2/,4,1
-The Unthinkable: Who Survives When Disaster Strikes - and Why,Book,http://www.amazon.com/dp/0307352900/,4,1
-Crown Condoms 100 Pack,Health and Beauty,http://www.amazon.com/dp/B000BK5TVY/,4,1
-Dr. Chuck Tingle's Complete Guide To Romance,Book,http://www.amazon.com/dp/1514740737/,4,1
-Pale Blue Dot: A Vision of the Human Future in Space,Book,http://www.amazon.com/dp/0345376595/,4,1
-Becoming the Iceman,Book,http://www.amazon.com/dp/1937600467/,4,1
-Extra Virginity: The Sublime and Scandalous World of Olive Oil,Book,http://www.amazon.com/dp/0393343618/,3,1
-Pokebutt Go: Pounded By 'Em All,eBooks,http://www.amazon.com/dp/B01IAGH4VI/,3,1
-Ideas And Opinions,Book,http://www.amazon.com/dp/0517884402/,3,1
-New Proofs for the Existence of God: Contributions of Contemporary Physics and Philosophy,Book,http://www.amazon.com/dp/0802863833/,3,1
-Coders at Work: Reflections on the Craft of Programming,Book,http://www.amazon.com/dp/1430219483/,3,1
-"The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory",Book,http://www.amazon.com/dp/1118825098/,3,1
-Turned Gay By The Existential Dread That I May Actually Be A Character In A Chuck Tingle Book,eBooks,http://www.amazon.com/dp/B01BA8IYKI/,3,1
-In Faith and In Doubt: How Religious Believers and Nonbelievers Can Create Strong Marriages and Loving Families,Book,http://www.amazon.com/dp/0814433723/,3,1
-Carrying the Fire: An Astronaut's Journeys,Book,http://www.amazon.com/dp/0374531943/,3,1
-"Update International New 8"" Barbecue BBQ Grill Steak Weights, Heavy-Weight, Hamburger Bacon Sausage Grill Press, Commercial Grade, Cast Iron",Lawn & Patio,http://www.amazon.com/dp/B002LDDKZ6/,3,1
-"Bayou Classic SP10 High-Pressure Outdoor Gas Cooker, Propane",Lawn & Patio,http://www.amazon.com/dp/B000291GBQ/,3,1
-What Color Is Your Parachute? 2017: A Practical Manual for Job-Hunters and Career-Changers,Book,http://www.amazon.com/dp/039957820X/,3,1
-"Intex Snorkel Buddies 5ft Snapset Pool - 5'X10""",Toy,http://www.amazon.com/dp/B000OV0X34/,3,1
-Ask Me Anything (A collection of Reddit's best from r/IAmA Volume 1),Book,http://www.amazon.com/dp/0692582266/,3,1
-Seveneves,Book,http://www.amazon.com/dp/0062334514/,3,1
-Replacement Water Filter 1 W10295370A W10295370 Refrigerator Water Ice Premium Replacement Filter for Whirlpool EDR1RXD1 Kenmore 46-9930 Filter1,Home & Kitchen,https://www.amazon.com/ItiItian-Version-Wireless-Charging-Qi-enabled/dp/B00LE6X5VU,3,1
-Frosts by Mora of Sweden 4216PG Chef's Knife with 8.5-Inch Stainless Steel Blade,Home & Kitchen,https://www.amazon.com/Frosts-Mora-Sweden-8-5-Inch-Stainless/dp/B00J6W9JYQ/ref=redir_mobile_desktop?_encoding=UTF8&amp%3BdpID=31GSM7T0GfL&amp%3BdpPl=1&amp%3Bkeywords=mora%20chef%20knife&amp%3Bpi=AC_SX236_SY340_QL65&amp%3Bqid=1505415678&amp%3Bref=plSrch&amp%3Bsr=8-2&ref_=mp_s_a_1_2,2,1
-Day Breaks Over Dharamsala: A Memoir of Life Lost and Found,eBooks,http://www.amazon.com/dp/B00JVVBXSW/,2,1
-"Easy Riders, Raging Bulls: How the Sex-Drugs-and-Rock 'N' Roll Generation Saved Hollywood",Book,http://www.amazon.com/dp/0684857081/,2,1
-"8""x8"" Solar Filter Sheet for Telescopes, Binoculars and Cameras",Sports,http://www.amazon.com/dp/B00DS7S52W/,2,1
-"Creativity Street Peel and Stick Wiggle Eyes Multi-Pack, 60 -Piece Pack (AC3437-02)",Toy,http://www.amazon.com/dp/B000F8V66O/,2,1
-"Panasonic MC-CG917 ""OptiFlow"" Bag Canister Vacuum Cleaner - Corded",Home,http://www.amazon.com/dp/B005JTHQXQ/,2,1
-Skull & Bones Gauntlet Style Hand Claw (Limited Edition),Single Detail Page Misc,http://www.amazon.com/dp/B00S3CL9IE/,2,1
-Hitachi Wand with Shibari Ecstasy Attachment,Health and Beauty,http://www.amazon.com/dp/B00GOFTIEY/,2,1
-What the Buddha Taught: Revised and Expanded Edition with Texts from Suttas and Dhammapada,eBooks,http://www.amazon.com/dp/B003OYIG00/,2,1
-"Pacific Seismic Products 300 Series Horizontal Earthquake Gas Shut-Off Valve, 3/4-Inch",Home Improvement,http://www.amazon.com/dp/B00KHJ8SHG/,2,1
-"How Music Got Free: The End of an Industry, the Turn of the Century, and the Patient Zero of Piracy",Book,http://www.amazon.com/dp/0525426612/,2,1
-Perfect Fitness Ab Straps,Sports,http://www.amazon.com/dp/B00G8UGUAK/,2,1
-An Exorcist Tells His Story,Book,http://www.amazon.com/dp/0898707102/,2,1
-"SENSO Bluetooth Headphones, Best Wireless Sports Earphones w/ Mic IPX7 Waterproof HD Stereo Sweatproof Earbuds for Gym Running Workout 8 Hour Battery Noise Cancelling Headsets",Wireless,http://www.amazon.com/dp/B01G8JO5F2/,2,1
-Reversing: Secrets of Reverse Engineering,Book,http://www.amazon.com/dp/0764574817/,2,1
-The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler,Book,http://www.amazon.com/dp/1593272898/,2,1
-"Huy Fong Hot Chili Sauce, Sriracha, 28 oz",Prime Pantry,https://www.amazon.com/Huy-Fong-Sriracha-Chili-Sauce/dp/B0014CSG5Y/ref=sr_1_1_a_it?ie=UTF8&amp;qid=1461991994&amp;sr=8-1&amp;keywords=sriracha,2,1
-"Emily Post's Etiquette, 18th Edition (Emily Post's Etiquette)",Book,http://www.amazon.com/dp/0061740233/,2,1
-"The Red Market: On the Trail of the World's Organ Brokers, Bone Theives, Blood Farmers, and Child Traffickers",Book,http://www.amazon.com/dp/0061936464/,2,1
-Guardians of the Galaxy Volume 1: Cosmic Avengers (Marvel Now),Book,http://www.amazon.com/dp/0785166076/,2,1
-Avogadro Corp: The Singularity Is Closer Than It Appears (Singularity Series Book 1),eBooks,http://www.amazon.com/dp/B006ACIMQQ/,2,1
-Phil Gordon's Little Green Book: Lessons and Teachings in No Limit Texas Hold'em,Book,http://www.amazon.com/dp/1416903674/,2,1
-The Singularity Is Near: When Humans Transcend Biology,Book,http://www.amazon.com/dp/0143037889/,2,1
-Into The River,Book,http://www.amazon.com/dp/1459689232/,2,1
-Snap Circuits SC-300 Electronics Discovery Kit,Toy,http://www.amazon.com/dp/B00CIXVIRQ/,2,1
-"No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State",Book,http://www.amazon.com/dp/1250062586/,2,1
-The Jungle (Dover Thrift Editions),Book,http://www.amazon.com/dp/0486419231/,2,1
-"The Basics of Hacking and Penetration Testing, Second Edition: Ethical Hacking and Penetration Testing Made Easy",Book,http://www.amazon.com/dp/0124116442/,2,1
-"First Aid Only All-Purpose First Aid Essentials Kit, 299 Pieces, Fabric Case",BISS Basic,http://www.amazon.com/dp/B000069EYA/,2,1
-Men's USA Flag Tank Top America Stars & Stripes,Apparel,http://www.amazon.com/dp/B00K0XOJZY/,2,1
-"Word Freak: Heartbreak, Triumph, Genius, and Obsession in the World of Competitive Scrabble Players",Book,http://www.amazon.com/dp/0142002267/,2,1
-Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist,Book,http://www.amazon.com/dp/1118443616/,2,1
-The Oligarchs: Wealth And Power In The New Russia,Book,http://www.amazon.com/dp/1610390709/,2,1
-Striking at the Roots: A Practical Guide to Animal Activism,Book,http://www.amazon.com/dp/1846940915/,2,1
-"Sony ICF-S10MK2 Pocket AM/FM Radio, Silver",Speakers,http://www.amazon.com/dp/B00020S7XK/,2,1
-Ship of Theseus,Book,http://www.amazon.com/dp/0316201642/,2,1
-Beyond Belief: My Secret Life Inside Scientology and My Harrowing Escape,eBooks,http://www.amazon.com/dp/B008XOJ7C2/,2,1
-Invention Analysis and Claiming: A Patent Lawyer's Guide,Book,http://www.amazon.com/dp/1614385610/,1,1
-"All-Clad 4213 Stainless Steel Tri-Ply Bonded Dishwasher Safe Saucier Pan with Lid / Cookware, 3-Quart, Silver",Kitchen,http://www.amazon.com/dp/B004ZR4C08/,1,1
-My Struggle: Book 1,Book,http://www.amazon.com/dp/0374534144/,1,1
-The Rape of Nanking: The Forgotten Holocaust of World War II,Book,http://www.amazon.com/dp/0465068367/,1,1
-Atmospheric Chemistry and Physics: From Air Pollution to Climate Change,Book,http://www.amazon.com/dp/0471720186/,1,1
-Atmospheric and Oceanic Fluid Dynamics: Fundamentals and Large-scale Circulation,Book,http://www.amazon.com/dp/0521849691/,1,1
+Midnight Sex Shop (contemporary threesome erotica),eBooks,http://www.amazon.com/dp/B005HOL30A/,2,2
+"Pines (The Wayward Pines Trilogy, Book 1)",eBooks,http://www.amazon.com/dp/B007FG9LIE/,6,2
+uxcell Key Lock on/off Switch Red Mushroom Push Button Station,Home Improvement,http://www.amazon.com/dp/B008ZY9CXE/,6,2
+"How to Fly a Horse: The Secret History of Creation, Invention, and Discovery",eBooks,http://www.amazon.com/dp/B00M60RKUK/,2,2
+"eBoot Rubber 4/4 Violin Practice Mute, Black",Musical Instruments,http://www.amazon.com/dp/B01B7N8P5A/,9,2
+On Killing: The Psychological Cost of Learning to Kill in War and Society,Book,http://www.amazon.com/dp/0316040932/,37,2
+Practical Malware Analysis: A Hands-On Guide to Dissecting Malicious Software,Book,http://www.amazon.com/dp/1593272901/,21,2
+Pounded By Politics: Nine Tales Of Civic Butthole Diplomacy,Book,http://www.amazon.com/dp/1539878155/,4,2
+"Python Crash Course: A Hands-On, Project-Based Introduction to Programming",Book,http://www.amazon.com/dp/1593276036/,19,2
+Come as You Are: The Surprising New Science that Will Transform Your Sex Life,Book,http://www.amazon.com/dp/1476762090/,133,2
+Gold Medal Prod. 2045 Flavacol Seasoning Popcorn Salt 35oz.,Grocery,http://www.amazon.com/dp/B004W8LT10/,40,2
+"Climbup Insect Interceptor Bed Bug Trap, 4ct",Lawn & Patio,http://www.amazon.com/dp/B0033SC0LI/,12,2
+"The Red Market: On the Trail of the World's Organ Brokers, Bone Theives, Blood Farmers, and Child Traffickers",Book,http://www.amazon.com/dp/0061936464/,5,2
+Marijuana is Safer: So Why Are We Driving People to Drink? 2nd Edition,Book,http://www.amazon.com/dp/1603585109/,7,2
+Troublemaker: Surviving Hollywood and Scientology,Book,http://www.amazon.com/dp/1101886986/,2,2
+Raven: The Untold Story of the Rev. Jim Jones and His People,Book,http://www.amazon.com/dp/1585426784/,8,2
+"1 Man, 3 Hearts, 9 Lives: A story of hope, resilience, and survival",Book,http://www.amazon.com/dp/1518837069/,2,2
+A Capitalist in North Korea: My Seven Years in the Hermit Kingdom,Book,http://www.amazon.com/dp/0804844399/,7,2
+The Big Truck That Went By: How the World Came to Save Haiti and Left Behind a Disaster,Book,http://www.amazon.com/dp/1137278978/,2,2
+Swift Programming: The Big Nerd Ranch Guide (2nd Edition) (Big Nerd Ranch Guides),Book,http://www.amazon.com/dp/013461061X/,6,2
+Hostage to the Devil: The Possession and Exorcism of Five Contemporary Americans,Book,http://www.amazon.com/dp/006065337X/,6,2
+The Swoly Bible: The Bro Science Way of Life,Book,http://www.amazon.com/dp/0735211124/,6,2
+The Scars to Prove It: A Memoir,Book,http://www.amazon.com/dp/1434999505/,2,2
+Slammed In The Butthole By My Concept Of Linear Time,eBooks,http://www.amazon.com/dp/B01A92WFXI/,11,2
+Microeconomic Theory,Book,http://www.amazon.com/dp/0195073401/,13,1
+Race and Slavery in the Middle East: An Historical Enquiry,Book,http://www.amazon.com/dp/0195053265/,1,1
+Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,236,1
+Old Possum's Book of Practical Cats,Book,http://www.amazon.com/dp/0151686564/,1,1
+Working Effectively with Legacy Code,Book,http://www.amazon.com/dp/0131177052/,59,1
+The Rational Optimist: How Prosperity Evolves (P.S.),Book,http://www.amazon.com/dp/0061452068/,7,1
+Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts,Book,http://www.amazon.com/dp/0143126261/,13,1
+The Generals: American Military Command from World War II to Today,Book,http://www.amazon.com/dp/0143124099/,9,1
+"C Programming Language, 2nd Edition",Book,http://www.amazon.com/dp/0131103628/,109,1
+The House of Wisdom: How Arabic Science Saved Ancient Knowledge and Gave Us the Renaissance,Book,http://www.amazon.com/dp/0143120565/,3,1
 "An Introduction to Atmospheric Radiation, Volume 84, Second Edition (International Geophysics)",Book,http://www.amazon.com/dp/0124514510/,1,1
-"Global Physical Climatology, Volume 56 (International Geophysics)",Book,http://www.amazon.com/dp/0123285305/,1,1
-OTC 6515 3-in-1 180 Degree Heavy Duty Tubing Bender,Automotive Parts and Accessories,http://www.amazon.com/dp/B000F5HV0W/,1,1
-Ugly Christmas Sweater Home Alone Merry Christmas Ya Filthy Animal,Apparel,http://www.amazon.com/dp/B00AEVVQZS/,1,1
-"Mary Janes Old Fashioned Candy, 5 Pound",Grocery,http://www.amazon.com/dp/B001F35WU4/,1,1
-Mig Pilot (The final escape of Lt. Belenko),Book,http://www.amazon.com/dp/B000E7N7XG/,1,1
-A Walk in the Woods: Rediscovering America on the Appalachian Trail (Official Guides to the Appalachian Trail),Book,http://www.amazon.com/dp/0767902521/,1,1
-We Animals,Book,http://www.amazon.com/dp/159056426X/,1,1
-FREE Recession Proof Graduate: How to Land the Job You Want by Doing Free Work,Audible,http://www.amazon.com/dp/B00K1K2ND6/,1,1
-The Vulvodynia Survival Guide: How to Overcome Painful Vaginal Symptoms and Enjoy an Active Lifestyle,Book,http://www.amazon.com/dp/1572242914/,1,1
-"Avery Print or Write Name Badge Labels with Red Border, 2-11/32"" x 3-3/8"", Pack of 100 (5140)",Office Product,http://www.amazon.com/dp/B00281UYIW/,1,1
-"1 Man, 3 Hearts, 9 Lives: A story of hope, resilience, and survival",Book,http://www.amazon.com/dp/1518837069/,1,1
-GC2 Gynecomastia Compression Shirt Undershirt designed to flatten the chest Size Sm,Apparel,http://www.amazon.com/dp/B006GU8OTC/,1,1
-Thermodynamics: An Engineering Approach,Book,http://www.amazon.com/dp/0073398179/,1,1
-The Adventures of Johnny Bunko: The Last Career Guide You'll Ever Need,Book,http://www.amazon.com/dp/1594482918/,1,1
-Dreamkeeper,DVD,http://www.amazon.com/dp/B00019330O/,1,1
-Luxardo Gourmet Maraschino Cherries - 400g Jar,Grocery,http://www.amazon.com/dp/B001CDOBCM/,1,1
-Amateur Gemstone Faceting Volume 1: The Essentials,Book,http://www.amazon.com/dp/3000474749/,1,1
-Handbook of Denominations in the United States 13th Edition,Book,http://www.amazon.com/dp/1426700482/,1,1
-Reading Mastery - Level 2 Storybook 1 (READING MASTERY PLUS),Books,https://www.amazon.com/Reading-Mastery-Storybook-READING-MASTERY/dp/0026863553?_encoding=UTF8&%2AVersion%2A=1&%2Aentries%2A=0,1,1
-Breeding Between The Lines: Why Interracial People are Healthier and More Attractive,Book,http://www.amazon.com/dp/1569808023/,1,1
-"The Bassoon King: My Life in Art, Faith, and Idiocy",Book,http://www.amazon.com/dp/1611763371/,1,1
-Smashing Physics,Book,http://www.amazon.com/dp/1472210301/,1,1
-The Long Ships (New York Review Books Classics),Book,http://www.amazon.com/dp/1590173465/,1,1
-Deception: Murder in Hong Kong,Boost,http://www.amazon.com/dp/B019FPQZNG/,1,1
-Mooncolour Mens Novelty Color Block Hoodies Cozy Sport Outwear,Apparel,http://www.amazon.com/dp/B01HT76JYW/,1,1
-Quantum Entanglement for Babies (Physics for Babies) (Volume 4),Book,http://www.amazon.com/dp/1495435334/,1,1
-"Totally Bamboo Original Bamboo Cutting & Serving Board 3 Piece Set – Designed in USA, Premium craftsmanship GUARANTEED. ♻100% Organic Bamboo",Kitchen,http://www.amazon.com/dp/B002M782UO/,1,1
-Primary Instinct,DVD,http://www.amazon.com/dp/B019EC9R6C/,1,1
-Marabou Stork Nightmares,Book,http://www.amazon.com/dp/0393315630/,1,1
-Improving Police Response to Persons with Mental Illness: A Progressive Approach,Book,http://www.amazon.com/dp/0398077789/,1,1
-Regards from the Dragon: Seattle,Book,http://www.amazon.com/dp/1933901454/,1,1
-Burn Notice: Season 7,DVD,http://www.amazon.com/dp/B00E8OMZGG/,1,1
-"Zzero 8000mAh Dual USB Portable Solar Battery Phone Charger with LED Flashlight, Blue",Wireless,http://www.amazon.com/dp/B010ETCIRY/,1,1
-Troublemaker: Surviving Hollywood and Scientology,Book,http://www.amazon.com/dp/1101886986/,1,1
-"SurvivalKitsOnline 515100 On-Duty Emergency Gas and Water Shutoff 4-in-1 Tool for Earthquakes, Hurricanes, Fires, Floods, Disasters and Emergencies",BISS,http://www.amazon.com/dp/B000NYDEPQ/,1,1
-Negroes with Guns,Book,http://www.amazon.com/dp/1607968045/,1,1
-When I Fell From the Sky,Book,http://www.amazon.com/dp/0983754705/,1,1
-"Kaleidoskop: Kultur, Literatur und Grammatik, 8th Edition",Book,http://www.amazon.com/dp/1111344205/,1,1
-"Gardein Golden Fishless Filet, 10.1 Ounce -- 8 per case.",Grocery,http://www.amazon.com/dp/B00TRGFIQO/,1,1
-A Supposedly Fun Thing I'll Never Do Again: Essays and Arguments,Book,http://www.amazon.com/dp/0316925284/,1,1
-Nintendo DS Lite Pikachu Yellow Limited Edition,Toy,http://www.amazon.com/dp/B00107XUY0/,1,1
-The God of Small Things: A Novel,Book,http://www.amazon.com/dp/0812979656/,1,1
-The Wind-Up Bird Chronicle: A Novel,Book,http://www.amazon.com/dp/0679775439/,1,1
-"SHARKK® 15000mAh Dual USB Portable Charger Ultra-High Density External Battery Pack for iPad Air 2, iPad Air, iPad Mini 3, Mini, Retina, iPhone 6, iPhone 6 Plus, 5S, 5C, 5, 4S, Galaxy S5, S4, S3, Note 3, Galaxy Tab 3, 2, Nexus 4, 5, 7, 10, HTC One, One 2 (M8), Motorola Droid, MOTO X, LG Optimus and more (Apple 30 pin and lightning, Samsung 30 pin adapter, not included with power bank)",Wireless,http://www.amazon.com/dp/B00JOG0948/,1,1
-"LUXA2 EnerG 10400mAh Dual USB High Capacity Portable Battery Pack for Tablets, iPhone, Galaxy, Note 3, HTC, and more",Wireless,http://www.amazon.com/dp/B00K7Y2GX8/,1,1
-Aliens and Alien Societies (Science Fiction Writing Series),Book,http://www.amazon.com/dp/0898797063/,1,1
-Citizen Canine: Our Evolving Relationship with Cats and Dogs,Book,http://www.amazon.com/dp/1610391330/,1,1
-Sons of Wichita: How the Koch Brothers Became America's Most Powerful and Private Dynasty,Book,http://www.amazon.com/dp/1455518727/,1,1
-E-MODS GAMING® New 10x Replacement analog Stick Thumbsticks thumb stick for Sony Dual Shock 4 PS4 Controller,Video Games,http://www.amazon.com/dp/B00LK2VHGI/,1,1
-How to Change Minds About Our Changing Climate: Let Science Do the Talking the Next Time Someone Tries to Tell You…The Climate Isn't Changing; Global ... Other Arguments It's Time to End for Good,Book,http://www.amazon.com/dp/1615192239/,1,1
-Drain Hair Catcher Cover - Shower Sink Bathtub Kitchen Bathroom Utility Stainless Steel Strainer 4 Size Value Pack,Home Improvement,http://www.amazon.com/dp/B019P4R8QK/,1,1
-HOSL Drawer Dividers Closet Organizers Bra Underwear Storage Boxes 4 Set,Home,http://www.amazon.com/dp/B00J4OV1QA/,1,1
-"The Doctor and the Saint: Caste, Race, and Annihilation of Caste, the Debate Between B.R. Ambedkar and M.K. Gandhi",Book,http://www.amazon.com/dp/160846797X/,1,1
-KINGMAS Latex Unicorn head Mask With Unicorn Hooves Gloves,Apparel,http://www.amazon.com/dp/B00JQZ4LKK/,1,1
-Pain Is Good Hot Sauce Bundle of 3 Sauces,Grocery,http://www.amazon.com/dp/B0170UG696/,1,1
-Traumatic Incident Reduction: Research and Results,Book,http://www.amazon.com/dp/1932690506/,1,1
-Accoutrements Emergency Googly Eyes,Toy,http://www.amazon.com/dp/B0075MQNZ2/,1,1
-Whitmor 6154-988 Mesh Hosiery Wash Bag,Home,http://www.amazon.com/dp/B000FKHM1A/,1,1
-Out of Darkness: The Planet Pluto,Book,http://www.amazon.com/dp/0451619978/,1,1
-"Daves Gourmet Scorpion Pepper Hot Sauce, 5 oz",Grocery,http://www.amazon.com/dp/B004QO5E0M/,1,1
-"Nutru Omega Zen 3 Vegan – 300 mg DHA, 40 Vegan Hard Caps","Health, Household & Baby Care",https://www.amazon.com/O-mega-zen-Highly-Purified-Vegetarian-Nutru/dp/B001BO4Z0A/ref=sr_1_1?ie=UTF8&amp;qid=1429726272&amp;sr=8-1&amp;keywords=Zen+omega,1,1
-In the Shadow of the Sword: The Birth of Islam and the Rise of the Global Arab Empire,Book,http://www.amazon.com/dp/0307473651/,1,1
-Human Action: A Treatise on Economics (4 Volume Set),Book,http://www.amazon.com/dp/0865976317/,1,1
-"Maine Root Ginger Brew Soda, 12 Ounce - 4 per pack -- 6 packs per case.",Grocery,http://www.amazon.com/dp/B001HTG1T2/,1,1
-Superbouncyballs.Com 100 32Mm Assorted Bouncy Balls,Toy,http://www.amazon.com/dp/B00AHJJ6NQ/,1,1
-The House of Wisdom: How Arabic Science Saved Ancient Knowledge and Gave Us the Renaissance,Book,http://www.amazon.com/dp/0143120565/,1,1
-"Paying the Price: College Costs, Financial Aid, and the Betrayal of the American Dream",Book,http://www.amazon.com/dp/022640434X/,1,1
-I Came-I Stayed: The True Story of My Life with Cerebral Palsy,Book,http://www.amazon.com/dp/1491742720/,1,1
-How to Rap: The Art and Science of the Hip-Hop MC,Book,http://www.amazon.com/dp/1556528167/,1,1
-How to Rap 2: Advanced Flow and Delivery Techniques,Book,http://www.amazon.com/dp/1613744013/,1,1
-Drain Strain - No-Clog Sink Stopper (Chrome),Boost,http://www.amazon.com/dp/B01BYP6EDG/,1,1
-Tears of Abraham,Book,http://www.amazon.com/dp/1618688197/,1,1
-SleekEZ Original Deshedding Grooming Tool (5 inch),Pet Products,http://www.amazon.com/dp/B00VC8DQX2/,1,1
-The 8 Laws of Change: How to Be an Agent of Personal and Social Transformation,Book,http://www.amazon.com/dp/1620554577/,1,1
-"1000 Nudes: A History of Erotic Photography from 1839-1939 (French, English and German Edition)",Book,http://www.amazon.com/dp/3822847682/,1,1
-"Doc Johnson Classic - The Vibrating Great American Challenge - 15"" Long and 2.9"" Wide - Massive 9.1"" Girth - Great for Size Queens - Dildo - Purple",Health and Beauty,http://www.amazon.com/dp/B002NU68J2/,1,1
-Sound Reporting: The NPR Guide to Audio Journalism and Production,Book,http://www.amazon.com/dp/0226431789/,1,1
-U.S. Toy 919 Large Kazoos,Toy,http://www.amazon.com/dp/B00362OKHS/,1,1
-Silicon Snake Oil: Second Thoughts on the Information Highway,Book,http://www.amazon.com/dp/0385419945/,1,1
-Wusthof Gourmet 2-Piece Starter Knife Set,Kitchen,http://www.amazon.com/dp/B004U8QDZO/,1,1
-Apache,Book,http://www.amazon.com/dp/0007288174/,1,1
-Cold Steel Hand and a Half Training Sword 92BKHNH,Sports,http://www.amazon.com/dp/B001Q72ARC/,1,1
-Outside the Board: Diary of a Professional Go Player,Book,http://www.amazon.com/dp/1945025018/,1,1
-Vocalzone Throat,Health and Beauty,http://www.amazon.com/dp/B00W9X2C02/,1,1
-Hellfire,Book,http://www.amazon.com/dp/0007288204/,1,1
-Chinese Posters: Art from the Great Proletarian Cultural Revolution,Book,http://www.amazon.com/dp/0811859460/,1,1
-Mens Ask Me About My Trex T-shirt Funny Cool Dinosaur Trex Flip Shirt Novelty Tees,Apparel,http://www.amazon.com/dp/B009C0I092/,1,1
-Looking for Calvin and Hobbes: The Unconventional Story of Bill Watterson and his Revolutionary Comic Strip,Book,http://www.amazon.com/dp/1441106855/,1,1
-Resident Aliens: Life in the Christian Colony (Expanded 25th Anniversary Edition),Book,http://www.amazon.com/dp/1426781903/,1,1
-"Women's Bodies and Dangerous Trades in England, 1880-1914 (Royal Historical Society Studies in History New Series)",Book,http://www.amazon.com/dp/0861932641/,1,1
-Biker ONE Percenter Embroidered Iron on Patch X39,Art and Craft Supply,http://www.amazon.com/dp/B007SF6F6I/,1,1
-By K. Eric Drexler Radical Abundance: How a Revolution in Nanotechnology Will Change Civilization (First Edition (US) First Printing),Book,http://www.amazon.com/dp/B00N4GIYZ0/,1,1
-Gerber Bear Grylls Hands-Free Torch [31-001028],Home Improvement,http://www.amazon.com/dp/B006M9PTJ0/,1,1
-The Pythagorean Theorem for Babies (Math for Babies),Book,http://www.amazon.com/dp/148200058X/,1,1
-Exerpeutic Motorized Leg and Arm Exercise Bike with Bonus Mat,Sports,http://www.amazon.com/dp/B001IV6MV6/,1,1
-"The Long, Lonely Leap",Book,http://www.amazon.com/dp/B0007DYSIA/,1,1
-It's What I Do: A Photographer's Life of Love and War,Book,http://www.amazon.com/dp/159420537X/,1,1
-Disneywar,Book,http://www.amazon.com/dp/0743496000/,1,1
-Super Troopers,DVD,http://www.amazon.com/dp/B0000AC8LX/,1,1
-Mathematics Education for a New Era: Video Games as a Medium for Learning,Book,http://www.amazon.com/dp/1568814313/,1,1
-ZYLISS Apple Corer,Kitchen,http://www.amazon.com/dp/B004NYB84G/,1,1
-Sexy arms standing up Fetish Restraint Set,Single Detail Page Misc,http://www.amazon.com/dp/B01JMR48EU/,1,1
-Cholula Hot Sauce - Half Gallon 64 oz.,Grocery,http://www.amazon.com/dp/B00CBIKWAW/,1,1
-Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization,Book,http://www.amazon.com/dp/0061251321/,1,1
-Paul Blart: Mall Cop 2 [Blu-ray],DVD,http://www.amazon.com/dp/B00WA7DNHS/,1,1
-Anatomy of the Auschwitz Death Camp,Book,http://www.amazon.com/dp/025320884X/,1,1
-Lononvie PU Leather Handcuff Couples Arm Restraints with a Lock,Health and Beauty,http://www.amazon.com/dp/B01H29OYKI/,1,1
-{Factory Direct Sale} Mini 3.5mm Pillow Speaker for Mp3 Mp4 Music Player Phone iPad iPod PC Radios Color White,PC Accessory,http://www.amazon.com/dp/B00KLS3SSM/,1,1
-RUSSIAN KEYBOARD STICKERS WITH TRANSPARENT BACKGROUND WITH YELLOW LETTERING FOR COMPUTER LAPTOPS DESKTOP,Office Product,http://www.amazon.com/dp/B002NGHGX8/,1,1
-TYLT VU Wireless Charging Car Mount 3 Coil Qi Charger for Galaxy S6/Nexus 6/Droid Turbo/Lumia 920 and other Qi Phones - Gray,Wireless,http://www.amazon.com/dp/B00QJ9AH8G/,1,1
-Valeo Push Up Bars,Sports,http://www.amazon.com/dp/B00S001X8U/,1,1
+What Every BODY is Saying: An Ex-FBI Agent’s Guide to Speed-Reading People,Book,http://www.amazon.com/dp/0061438294/,42,1
+The Red Queen: Sex and the Evolution of Human Nature,Book,http://www.amazon.com/dp/0060556579/,23,1
+Moonwalking with Einstein: The Art and Science of Remembering Everything,Book,http://www.amazon.com/dp/0143120530/,24,1
+Difficult Conversations: How to Discuss What Matters Most,Book,http://www.amazon.com/dp/0143118447/,16,1
+"The Basics of Hacking and Penetration Testing, Second Edition: Ethical Hacking and Penetration Testing Made Easy",Book,http://www.amazon.com/dp/0124116442/,6,1
+"Girl, Undressed: On Stripping in New York City",Book,http://www.amazon.com/dp/0143115650/,1,1
+The Chris Farley Show: A Biography in Three Acts,Book,http://www.amazon.com/dp/0143115561/,11,1
+"Computer Organization and Design, Fourth Edition: The Hardware/Software Interface (The Morgan Kaufmann Series in Computer Architecture and Design)",Book,http://www.amazon.com/dp/0123747503/,8,1
+Gang Leader for a Day: A Rogue Sociologist Takes to the Streets,Book,http://www.amazon.com/dp/014311493X/,20,1
 "Kicked, Bitten, and Scratched: Life and Lessons at the World's Premier School for Exotic Animal Trainers",Book,http://www.amazon.com/dp/0143111949/,1,1
-The Wisdom of Big Bird (and the Dark Genius of Oscar the Grouch): Lessons from a Life in Feathers,Book,http://www.amazon.com/dp/0375507817/,1,1
-Stay: A History of Suicide and the Philosophies Against It,Book,http://www.amazon.com/dp/0300186088/,1,1
-Telefunken U47 | Tube Condenser Microphone with Authoritative Mid-range and Extended Low-end,Musical Instruments,http://www.amazon.com/dp/B00GGUTO0K/,1,1
-"Hairstopper, Plastic Drain Cover for Showers or Bathtubs, Drain Hair Colander, Hair Catcher for the Tub Drain, 2 pk",Home Improvement,http://www.amazon.com/dp/B003B02L2G/,1,1
-Stuff [Blu-ray],DVD,http://www.amazon.com/dp/B00G5L5QBQ/,1,1
-Klein Tools RT200 GFCI Receptacle Tester,Home Improvement,http://www.amazon.com/dp/B005GYBFAE/,1,1
-LightsOut Bedbug Detector Chemical Free Reusable Pitfall Trap For Furniture or Bed Legs (4-Pack),Lawn & Patio,http://www.amazon.com/dp/B00Z7ZN7W6/,1,1
-"Breast Cancer Husband: How to Help Your Wife (and Yourself) during Diagnosis, Treatment and Beyond",Book,http://www.amazon.com/dp/1579548334/,1,1
-"Cosmonaut - Wide-Grip Stylus for Capacitive Touch Screen Tablets (iPad Air, iPad Mini, Surface, Kindle Fire, etc.)",Wireless,http://www.amazon.com/dp/B007EW9ISM/,1,1
-"Calphalon Nonstick Bakeware, Pizza Pan, 16-inch",Kitchen,http://www.amazon.com/dp/B008BULEZG/,1,1
-My Living Will: A Father’s Story of Loss & Hope,Book,http://www.amazon.com/dp/1490859721/,1,1
-Independently Animated: Bill Plympton: The Life and Art of the King of Indie Animation,Book,http://www.amazon.com/dp/0789322099/,1,1
-Men Against Fire: The Problem of Battle Command,Book,http://www.amazon.com/dp/0806132809/,1,1
-Missing Microbes: How the Overuse of Antibiotics Is Fueling Our Modern Plagues,Book,http://www.amazon.com/dp/1250069270/,1,1
-The Wolf of Wall Street,Book,http://www.amazon.com/dp/0553384775/,1,1
-Make Toons That Sell Without Selling Out,Book,http://www.amazon.com/dp/0240817796/,1,1
-Miele S8390 FreshAir Canister Vacuum,Home,http://www.amazon.com/dp/B00K25PGEI/,1,1
+The Art of Game Design: A Book of Lenses,Book,http://www.amazon.com/dp/0123694965/,37,1
+In Order to Live: A North Korean Girl's Journey to Freedom,Book,http://www.amazon.com/dp/014310974X/,2,1
+The Penguin Book of Witches,Book,http://www.amazon.com/dp/014310618X/,2,1
+"Global Physical Climatology, Volume 56 (International Geophysics)",Book,http://www.amazon.com/dp/0123285305/,6,1
+"Photo by Sammy Davis, Jr.",Book,http://www.amazon.com/dp/0061146056/,1,1
+Anansi Boys,Book,http://www.amazon.com/dp/0060515198/,1,1
+David Mitchell: Back Story,Book,http://www.amazon.com/dp/0007351747/,1,1
+Medicine Cards: The Discovery of Power Through the Ways of Animals,Book,http://www.amazon.com/dp/0312204914/,2,1
+The Coming War With Japan,Book,http://www.amazon.com/dp/0312058365/,16,1
+Ship of Theseus,Book,http://www.amazon.com/dp/0316201642/,13,1
+The Singularity Is Near: When Humans Transcend Biology,Book,http://www.amazon.com/dp/0143037889/,9,1
+A Supposedly Fun Thing I'll Never Do Again: Essays and Arguments,Book,http://www.amazon.com/dp/0316925284/,3,1
+War of the Worldviews: Where Science and Spirituality Meet -- and Do Not,Book,http://www.amazon.com/dp/0307886891/,2,1
+"Going Clear: Scientology, Hollywood, and the Prison of Belief",Book,http://www.amazon.com/dp/0307745309/,23,1

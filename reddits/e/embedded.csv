@@ -1,2 +1,24 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Test Driven Development for Embedded C (Pragmatic Programmers),Books,https://www.amazon.com/Driven-Development-Embedded-Pragmatic-Programmers/dp/193435662X,,1
+Test Driven Development for Embedded C (Pragmatic Programmers),Book,http://www.amazon.com/dp/193435662X/,6,2
+Making Embedded Systems: Design Patterns for Great Software,Book,http://www.amazon.com/dp/1449302149/,7,2
+MSP430 Microcontroller Basics,Book,http://www.amazon.com/dp/0750682760/,5,2
+Introduction to Embedded Systems: Using ANSI C and the Arduino Development Environment (Synthesis Lectures on Digital Circuits and Systems),Book,http://www.amazon.com/dp/1608454983/,3,2
+"Linux Device Drivers, 3rd Edition",Book,http://www.amazon.com/dp/0596005903/,3,1
+Designing Embedded Hardware: Create New Computers and Devices,Book,http://www.amazon.com/dp/0596007558/,1,1
+The Engineering of Reliable Embedded Systems (Second Edition),Book,http://www.amazon.com/dp/0993035531/,1,1
+AVR Programming: Learning to Write Software for Hardware,Book,http://www.amazon.com/dp/1449355781/,4,1
+Introduction to Embedded Systems: Using Microcontrollers and the MSP430,Book,http://www.amazon.com/dp/1461431425/,1,1
+Building Embedded Systems: Programmable Hardware,Book,http://www.amazon.com/dp/148421918X/,1,1
+ARM System Developer's Guide: Designing and Optimizing System Software (The Morgan Kaufmann Series in Computer Architecture and Design),Book,http://www.amazon.com/dp/1558608745/,2,1
+Programming Embedded Systems in C and C++,Book,http://www.amazon.com/dp/1565923545/,1,1
+Micro SD Adapter,Personal Computer,http://www.amazon.com/dp/B001CQJSP4/,1,1
+"Edimax EW-7811Un 150Mbps 11n Wi-Fi USB Adapter, Nano Size Lets You Plug it and Forget it, Ideal for Raspberry Pi / Pi2, Supports Windows, Mac OS, Linux (Black/Gold)",Personal Computer,http://www.amazon.com/dp/B003MTTJOY/,127,1
+Electrical Engineering 101: Everything You Should Have Learned in School...but Probably Didn't,eBooks,http://www.amazon.com/dp/B005I49M6G/,1,1
+Making Embedded Systems: Design Patterns for Great Software,eBooks,http://www.amazon.com/dp/B005ZTO0LG/,1,1
+Raspberry Pi 5MP 1080P Camera NoIR (No IR Filter) Night Vision Module,PC Accessory,http://www.amazon.com/dp/B00KX3HS4K/,1,1
+"Bertech ESD Mat Kit with a Wrist Strap and a Grounding Cord, 18"" Wide x 30"" Long x 0.093"" Thick, Blue",BISS Basic,http://www.amazon.com/dp/B00O0Q03KM/,1,1
+Computer Systems: A Programmer's Perspective (3rd Edition),Book,http://www.amazon.com/dp/013409266X/,13,1
+NETGEAR 4G LTE Modem with Two Gigabit Ethernet Ports – Instant Broadband Connection and Automatic 4G LTE/3G Backup (LB2120),Personal Computer,http://www.amazon.com/dp/B01MQRHQYT/,5,1
+Patterns for Time-Triggered Embedded Systems: Building Reliable Applications with the 8051 Family of Microcontrollers (with CD-ROM),Book,http://www.amazon.com/dp/0201331381/,1,1
+An Embedded Software Primer,Book,http://www.amazon.com/dp/020161569X/,2,1
+Embedded C,Book,http://www.amazon.com/dp/020179523X/,1,1

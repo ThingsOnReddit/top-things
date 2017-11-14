@@ -1,38 +1,96 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Hitchcock (Revised Edition),Book,http://www.amazon.com/dp/0671604295/,3,3
-The Civil War: A Film By Ken Burns Season 1,TV Series Season Video on Demand,http://www.amazon.com/dp/B0033W47HY/,,1
-The Birth of a Nation (Kino Restored Edition),Movie,http://www.amazon.com/dp/B005DWASMK/,,1
-The General,Movie,http://www.amazon.com/dp/B0043GDKT0/,,1
-Krisha,Movie,http://www.amazon.com/dp/B01JHRXU7G/,,1
-The Neon Demon - an Amazon Original Movie,Movie,http://www.amazon.com/dp/B01GU8DD0O/,,1
-The Fits,Movie,http://www.amazon.com/dp/B01GSZC4A4/,,1
-Love & Friendship - an Amazon Original Movie,Movie,http://www.amazon.com/dp/B01F4CBBXI/,,1
-Elvis & Nixon - an Amazon Original Movie,Movie,http://www.amazon.com/dp/B01DTFEJVS/,,1
-De Palma,Movie,http://www.amazon.com/dp/B01KH1CZQI/,,1
-Whiskey Tango Foxtrot,Movie,http://www.amazon.com/dp/B01CH2GV56/,,1
-Morris From America,Movie,http://www.amazon.com/dp/B01KGSAMHG/,,1
-Green Room,Movie,http://www.amazon.com/dp/B01HBYKHFA/,,1
-2015 OSCAR Nominated Short Films Live Action,Movie,http://www.amazon.com/dp/B00TR5OKWS/,,1
-"Generations: The History of America's Future, 1584 to 2069",Book,http://www.amazon.com/dp/0688119123/,12,1
-BenQ DLP HD 1080p Projector (W1070) - 3D Home Theater Projector with Lens Shift Technology and RGBRGB Color Wheel,Home Theater,http://www.amazon.com/dp/B00A2T6X0K/,9,1
-"In the Blink of an Eye: A Perspective on Film Editing, 2nd Edition",Book,http://www.amazon.com/dp/1879505622/,5,1
-Making Movies,Book,http://www.amazon.com/dp/0679756604/,3,1
-Cinematic Storytelling: The 100 Most Powerful Film Conventions Every Filmmaker Must Know,Book,http://www.amazon.com/dp/193290705X/,2,1
-Film Art: An Introduction,Book,http://www.amazon.com/dp/0073535109/,2,1
-Asian Cinema: A Field Guide,Book,http://www.amazon.com/dp/0061145858/,1,1
-Producing and Directing the Short Film and Video,Book,http://www.amazon.com/dp/0415732557/,1,1
-Reflections: Twenty-One Cinematographers At Work,Book,http://www.amazon.com/dp/0935578161/,1,1
-The Stanley Kubrick Archives,Book,http://www.amazon.com/dp/3836508893/,1,1
-Dreaming: An Introduction to the Science of Sleep,Book,http://www.amazon.com/dp/0192803042/,1,1
-Film Theory and Criticism,Book,http://www.amazon.com/dp/0195365623/,1,1
-On the Art of the Cinema,Book,http://www.amazon.com/dp/0898756138/,1,1
-Scorsese on Scorsese: Revised Edition,Book,http://www.amazon.com/dp/0571220029/,1,1
-Peter Thompson: 6 Cinematic Essays + 2 Interviews + ... Box Set,DVD,http://www.amazon.com/dp/B00F57HVPK/,1,1
-"Technique of Film Editing, Reissue of 2nd Edition",Book,http://www.amazon.com/dp/0240521854/,1,1
-Watchmen: The Ultimate Cut,DVD,http://www.amazon.com/dp/B002Q9VPFM/,1,1
-The Technological Singularity (The MIT Press Essential Knowledge series),Book,http://www.amazon.com/dp/0262527804/,1,1
+Hitchcock (Revised Edition),Book,http://www.amazon.com/dp/0671604295/,11,5
+"In the Blink of an Eye: A Perspective on Film Editing, 2nd Edition",Book,http://www.amazon.com/dp/1879505622/,23,4
+Making Movies,Book,http://www.amazon.com/dp/0679756604/,9,3
+Film Art: An Introduction,Book,http://www.amazon.com/dp/0073535109/,8,3
+Compound Cinematics: Akira Kurosawa and I,Book,http://www.amazon.com/dp/1939130573/,2,2
+The Conversations: Walter Murch and the Art of Editing Film,Book,http://www.amazon.com/dp/0375709827/,2,2
+"The Films of Akira Kurosawa, Third Edition, Expanded and Updated",Book,http://www.amazon.com/dp/0520220374/,3,2
 The Oxford History of World Cinema,Book,http://www.amazon.com/dp/0198742428/,1,1
+"Cinema, Philosophy, Bergman: On Film as Philosophy",Book,http://www.amazon.com/dp/0199655146/,1,1
+On Film Editing: An Introduction to the Art of Film Construction,Book,http://www.amazon.com/dp/0240517385/,1,1
+"Technique of Film Editing, Reissue of 2nd Edition",Book,http://www.amazon.com/dp/0240521854/,1,1
+Every Frame a Rembrandt: Art and Practice of Cinematography,Book,http://www.amazon.com/dp/024080399X/,1,1
+Voice & Vision: A Creative Approach to Narrative Film and DV Production,Book,http://www.amazon.com/dp/0240811585/,1,1
+The Technological Singularity (The MIT Press Essential Knowledge series),Book,http://www.amazon.com/dp/0262527804/,2,1
+Critical Visions in Film Theory,Book,http://www.amazon.com/dp/0312446349/,1,1
+Producing and Directing the Short Film and Video,Book,http://www.amazon.com/dp/0415732557/,2,1
+"The Philosophy of Horror: Or, Paradoxes of the Heart",Book,http://www.amazon.com/dp/0415902169/,2,1
+Deleuze on Cinema (Deleuze and the Arts),Book,http://www.amazon.com/dp/0415966043/,1,1
+Animation Sketchbooks,Book,http://www.amazon.com/dp/0500516758/,1,1
+Film as Art,Book,http://www.amazon.com/dp/0520248376/,1,1
+Getting Away With It: Or: The Further Adventures of the Luckiest Bastard You Ever Saw,Book,http://www.amazon.com/dp/0571190251/,1,1
+Moviemakers' Master Class: Private Lessons from the World's Foremost Directors,Book,http://www.amazon.com/dp/057121102X/,2,1
+On Film-making: An Introduction to the Craft of the Director,Book,http://www.amazon.com/dp/0571211259/,2,1
+Scorsese on Scorsese: Revised Edition,Book,http://www.amazon.com/dp/0571220029/,1,1
+West of Sunset,Book,http://www.amazon.com/dp/0670785954/,1,1
+How To Draw Comics The Marvel Way,Book,http://www.amazon.com/dp/0671530771/,19,1
+"People Skills: How to Assert Yourself, Listen to Others, and Resolve Conflicts",Book,http://www.amazon.com/dp/067162248X/,8,1
+"The World Viewed: Reflections on the Ontology of Film, Enlarged Edition (Harvard Film Studies)",Book,http://www.amazon.com/dp/067496196X/,1,1
+"Generations: The History of America's Future, 1584 to 2069",Book,http://www.amazon.com/dp/0688119123/,24,1
 Kiss Kiss Bang Bang,Book,http://www.amazon.com/dp/0714509833/,1,1
-The Terministic Screen: Rhetorical Perspectives on Film,Book,http://www.amazon.com/dp/0809328291/,1,1
+WA: The Essence of Japanese Design,Book,http://www.amazon.com/dp/0714866962/,1,1
 Behind the Seen: How Walter Murch Edited Cold Mountain Using Apple's Final Cut Pro and What This Means for Cinema,Book,http://www.amazon.com/dp/0735714266/,1,1
+Your Movie Sucks,Book,http://www.amazon.com/dp/0740763660/,1,1
+"1,000 Recordings to Hear Before You Die (1,000... Before You Die Books)",Book,http://www.amazon.com/dp/076113963X/,2,1
+The Weird: A Compendium of Strange and Dark Stories,Book,http://www.amazon.com/dp/0765333627/,13,1
+The Terministic Screen: Rhetorical Perspectives on Film,Book,http://www.amazon.com/dp/0809328291/,1,1
+Art of the Modern Movie Poster: International Postwar Style and Design,Book,http://www.amazon.com/dp/0811861716/,2,1
+"The Joy of Conflict Resolution: Transforming Victims, Villains and Heroes in the Workplace and at Home",Book,http://www.amazon.com/dp/0865715157/,1,1
+On the Art of the Cinema,Book,http://www.amazon.com/dp/0898756138/,4,1
+Essential Brakhage: Selected Writings on Film-Making,Book,http://www.amazon.com/dp/092970164X/,1,1
+Reflections: Twenty-One Cinematographers At Work,Book,http://www.amazon.com/dp/0935578161/,3,1
+In Her Voice: Women Directors Talk Directing (Volume 1),Book,http://www.amazon.com/dp/0988576406/,1,1
+"Writing Movies for Fun and Profit: How We Made a Billion Dollars at the Box Office and You Can, Too!",Book,http://www.amazon.com/dp/1439186766/,34,1
+"Dialogue: The Art of Verbal Action for Page, Stage, and Screen",Book,http://www.amazon.com/dp/1455591912/,3,1
+Notes on the Cinematographer (Green Integer),Book,http://www.amazon.com/dp/1557133654/,2,1
+Four Came Home: The Gripping Story of the Survivors of Jimmy Doolittle's Two Lost Crews,Book,http://www.amazon.com/dp/157510007X/,1,1
+The Hero with a Thousand Faces (The Collected Works of Joseph Campbell),Book,http://www.amazon.com/dp/1577315936/,26,1
+"Catching the Big Fish: Meditation, Consciousness, and Creativity",Book,http://www.amazon.com/dp/1585426121/,3,1
+How Adam Smith Can Change Your Life: An Unexpected Guide to Human Nature and Happiness,Book,http://www.amazon.com/dp/1591846846/,3,1
+Five Came Back: A Story of Hollywood and the Second World War,Book,http://www.amazon.com/dp/1594204306/,2,1
+The Age of Movies: Selected Writings of Pauline Kael,Book,http://www.amazon.com/dp/1598531093/,1,1
+Jesus of Nazareth,Book,http://www.amazon.com/dp/1609803485/,1,1
+The Searchers: The Making of an American Legend,Book,http://www.amazon.com/dp/1620400650/,1,1
 "Theatre of Fear & Horror: Expanded Edition: The Grisly Spectacle of the Grand Guignol of Paris, 1897-1962",Book,http://www.amazon.com/dp/1627310312/,1,1
+Rebel Radio: The Story of El Salvador's Radio Venceremos,Book,http://www.amazon.com/dp/1880684217/,1,1
+Cinematic Storytelling: The 100 Most Powerful Film Conventions Every Filmmaker Must Know,Book,http://www.amazon.com/dp/193290705X/,2,1
+The Invisible Cut: How Editors Make Movie Magic,Book,http://www.amazon.com/dp/193290753X/,1,1
+The Stanley Kubrick Archives,Book,http://www.amazon.com/dp/3836508893/,2,1
+Meg,Book,http://www.amazon.com/dp/8492688319/,1,1
+Dersu Uzala,DVD,http://www.amazon.com/dp/B00004Y7HL/,1,1
+Paul Verhoeven Collection - Limited Edition (The 4th Man / Turkish Delight / Katie Tippel / Business Is Business / Soldier of Orange),DVD,http://www.amazon.com/dp/B00005O5C2/,1,1
+My Neighbors The Yamadas,DVD,http://www.amazon.com/dp/B0009MAO3M/,1,1
+Watchmen: The Ultimate Cut,DVD,http://www.amazon.com/dp/B002Q9VPFM/,1,1
+The Civil War: A Film By Ken Burns Season 1,TV Series Season Video on Demand,http://www.amazon.com/dp/B0033W47HY/,1,1
+The General,Movie,http://www.amazon.com/dp/B0043GDKT0/,1,1
+Simon Werner a disparu...,DVD,http://www.amazon.com/dp/B004AH3M36/,1,1
+"Film Directing Cinematic Motion, 2nd Edition: A Workshop for Staging Scenes",eBooks,http://www.amazon.com/dp/B0054RVNTQ/,1,1
+Film Directing: Shot by Shot: Visualizing from Concept to Screen (Michael Wiese Productions),eBooks,http://www.amazon.com/dp/B00570IROE/,1,1
+The Birth of a Nation (Kino Restored Edition),Movie,http://www.amazon.com/dp/B005DWASMK/,1,1
+Kubrick's Odyssey II: Beyond the Infinite Secrets Hidden in the Films of Stanley Kubrick,DVD,http://www.amazon.com/dp/B007EZNHVI/,1,1
+BenQ DLP HD 1080p Projector (W1070) - 3D Home Theater Projector with Lens Shift Technology and RGBRGB Color Wheel,Home Theater,http://www.amazon.com/dp/B00A2T6X0K/,43,1
+Peter Thompson: 6 Cinematic Essays + 2 Interviews + ... Box Set,DVD,http://www.amazon.com/dp/B00F57HVPK/,1,1
+"Love Part One & Part Two [Deluxe Edition] Box set, CD+DVD Edition by Angels & Airwaves (2011) Audio CD",Music,http://www.amazon.com/dp/B00FW66NOO/,1,1
+Herzog: The Collection (Limited Edition) [Blu-ray],DVD,http://www.amazon.com/dp/B00JGR3M26/,4,1
+Nymphomaniac: Extended Director's Cut Vol. 1 & 2 [Blu-ray],DVD,http://www.amazon.com/dp/B00MVIYMG2/,1,1
+In the Devil's Dreams,eBooks,http://www.amazon.com/dp/B00O2QU9Y0/,2,1
+Panasonic DMC-GF7KK Mirrorless Digital Camera (DSLM) with 12-32 mm Kit Lens,Photography,http://www.amazon.com/dp/B00S86L6DI/,1,1
+2015 OSCAR Nominated Short Films Live Action,Movie,http://www.amazon.com/dp/B00TR5OKWS/,1,1
+Whiskey Tango Foxtrot,Movie,http://www.amazon.com/dp/B01CH2GV56/,1,1
+Elvis & Nixon - an Amazon Original Movie,Movie,http://www.amazon.com/dp/B01DTFEJVS/,1,1
+Love & Friendship - an Amazon Original Movie,Movie,http://www.amazon.com/dp/B01F4CBBXI/,1,1
+The Fits,Movie,http://www.amazon.com/dp/B01GSZC4A4/,1,1
+The Neon Demon - an Amazon Original Movie,Movie,http://www.amazon.com/dp/B01GU8DD0O/,1,1
+Blade Runner (Four-Disc Collector's Edition) by Harrison Ford,DVD,http://www.amazon.com/dp/B01GWC0OCS/,1,1
+Green Room,Movie,http://www.amazon.com/dp/B01HBYKHFA/,2,1
+Krisha,Movie,http://www.amazon.com/dp/B01JHRXU7G/,1,1
+Morris From America,Movie,http://www.amazon.com/dp/B01KGSAMHG/,1,1
+Asian Cinema: A Field Guide,Book,http://www.amazon.com/dp/0061145858/,1,1
+De Palma,Movie,http://www.amazon.com/dp/B01KH1CZQI/,1,1
+Getting to Yes: Negotiating Agreement Without Giving In,Book,http://www.amazon.com/dp/0143118757/,10,1
+Difficult Men: Behind the Scenes of a Creative Revolution: From The Sopranos and The Wire to Mad Men and Breaking Bad,Book,http://www.amazon.com/dp/0143125699/,4,1
+"Catching the Big Fish: Meditation, Consciousness, and Creativity: 10th Anniversary Edition",Book,http://www.amazon.com/dp/0143130145/,1,1
+Dreaming: An Introduction to the Science of Sleep,Book,http://www.amazon.com/dp/0192803042/,2,1
+Film Theory and Criticism,Book,http://www.amazon.com/dp/0195365623/,2,1
+The Oxford Guide to Film Studies,Book,http://www.amazon.com/dp/0198711247/,1,1

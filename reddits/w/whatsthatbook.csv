@@ -1,40 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Jack of Ravens,eBooks,http://www.amazon.com/dp/B00C4B2K6K/,,1
-Wonderstruck (Schneider Family Book Award - Middle School Winner),eBooks,http://www.amazon.com/dp/B011J7Y2A6/,,1
-The Redemption of Althalus,eBooks,http://www.amazon.com/dp/B000QCTN9Q/,,1
-om love,eBooks,http://www.amazon.com/dp/B007IM0Z76/,,1
-Enna Burning (Books of Bayern Book 2),eBooks,http://www.amazon.com/dp/B002TTICLO/,,1
-In Thunder Forged: Iron Kingdoms Chronicles (The Fall of Llael),eBooks,http://www.amazon.com/dp/B00BH0VPLK/,,1
-Plain Truth: A Novel,eBooks,http://www.amazon.com/dp/B000FC0STQ/,,1
-Ready Player One: A Novel,Book,http://www.amazon.com/dp/0307887448/,9,1
-Hatchet,Book,http://www.amazon.com/dp/1416936475/,4,1
-The Night Circus,Book,http://www.amazon.com/dp/0307744434/,2,1
-Lock In: A Novel of the Near Future,Book,http://www.amazon.com/dp/0765375869/,2,1
-Scorpion Shards (The Star Shards Chronicles),Book,http://www.amazon.com/dp/1442451149/,2,1
-"Alanna: The First Adventure (Song of the Lioness, Book 1)",Book,http://www.amazon.com/dp/0689878559/,1,1
-The Girl with the Silver Eyes,Book,http://www.amazon.com/dp/1442421703/,1,1
-The Book of Revelation: A Novel,Book,http://www.amazon.com/dp/0375708456/,1,1
-Califia's Daughters,Book,http://www.amazon.com/dp/055358667X/,1,1
-The Extraordinary Education of Nicholas Benedict,Book,http://www.amazon.com/dp/0316176206/,1,1
-Brainboy and the DeathMaster,Book,http://www.amazon.com/dp/0060291818/,1,1
-The Z Was Zapped: A Play in Twenty-Six Acts,Book,http://www.amazon.com/dp/0395446120/,1,1
-"Sleepers, Wake (An Apple Paperback)",Book,http://www.amazon.com/dp/0590423983/,1,1
-"In the Time of Dinosaurs (Animorphs Megamorphs, 2)",Book,http://www.amazon.com/dp/0590956159/,1,1
-Abarat,Book,http://www.amazon.com/dp/0062094106/,1,1
-Virtual War: The Virtual War Chronologs--Book 1 (Virtual War Chronologs (Paperback)),Book,http://www.amazon.com/dp/1416975772/,1,1
-Bugs (Little Guides),Book,http://www.amazon.com/dp/1740893468/,1,1
-More Than Friends,Book,http://www.amazon.com/dp/1842232002/,1,1
-Creep Show (Eek! Stories to Make You Shriek),Book,http://www.amazon.com/dp/0448412721/,1,1
-Hope Was Here,Book,http://www.amazon.com/dp/0142404241/,1,1
-"Dealing with Dragons: The Enchanted Forest Chronicles, Book One",Book,http://www.amazon.com/dp/0544541227/,1,1
-The Cinder Spires: The Aeronaut's Windlass,Book,http://www.amazon.com/dp/0451466810/,1,1
-Singularity,Book,http://www.amazon.com/dp/0140375988/,1,1
-"Magyk (Septimus Heap, Book 1)",Book,http://www.amazon.com/dp/006223692X/,1,1
-The Water Mirror (Dark Reflections),Book,http://www.amazon.com/dp/0689877870/,1,1
-The Trespassers,Book,http://www.amazon.com/dp/0385310552/,1,1
-Palace Under the Sea,Book,http://www.amazon.com/dp/B001DELPJW/,1,1
-Sky of Swords : A Tale of the King's Blades,Book,http://www.amazon.com/dp/0380791285/,1,1
-The Dark Side of Nowhere,Book,http://www.amazon.com/dp/0812568788/,1,1
-The Rig,Book,http://www.amazon.com/dp/084392313X/,1,1
-Vanish,Book,http://www.amazon.com/dp/1414318936/,1,1
-The Shuteyes,Book,http://www.amazon.com/dp/0590450697/,1,1
+Haunted Castle,Book,http://www.amazon.com/dp/0789424649/,4,4
+Perloo The Bold,Book,http://www.amazon.com/dp/0590110039/,6,4
+Singularity,Book,http://www.amazon.com/dp/0140375988/,4,3
+Motel of the Mysteries,Book,http://www.amazon.com/dp/0395284252/,19,3
+Earthsearch,Book,http://www.amazon.com/dp/1878257749/,4,2
+The Missing: A Thriller,Book,http://www.amazon.com/dp/0743463811/,2,2
+A Very Strange Dollhouse (All Aboard Reading),Book,http://www.amazon.com/dp/0448413116/,2,2
+Just Call Me Stupid,Book,http://www.amazon.com/dp/0823410455/,2,2
+The Shuteyes,Book,http://www.amazon.com/dp/0590450697/,2,2
+Brainboy and the DeathMaster,Book,http://www.amazon.com/dp/0060291818/,3,2
+Future Eden: A Brief History Of Next Time,Book,http://www.amazon.com/dp/0689839790/,2,2
+The Great Good Thing,Book,http://www.amazon.com/dp/0689853289/,2,2
+The Valley of Secrets,Book,http://www.amazon.com/dp/1416900152/,2,2
+A House Called Awful End (Eddie Dickens Trilogy),Book,http://www.amazon.com/dp/0439537592/,2,2
+A House Called Awful End: Book One in the Eddie Dickens Trilogy,Book,http://www.amazon.com/dp/0805068287/,4,2
+Stonewords: A Ghost Story (Harper Trophy Books),Book,http://www.amazon.com/dp/0064403548/,2,2
+"Stranger in the Mirror (Phantom Valley, Book 4)",Book,http://www.amazon.com/dp/0671759221/,2,2
+Virtual War: The Virtual War Chronologs--Book 1 (Virtual War Chronologs (Paperback)),Book,http://www.amazon.com/dp/1416975772/,3,2
+The Beasties,Book,http://www.amazon.com/dp/0141306394/,2,2
+Risk N' Roses,Book,http://www.amazon.com/dp/0590453610/,2,2
+"The Chronicles of Chrestomanci, Volume 1: Charmed Life / The Lives of Christopher Chant",Book,http://www.amazon.com/dp/006447268X/,4,2
+Trouble for Trumpets,Book,http://www.amazon.com/dp/0394865138/,4,2
+A Big Ball of String (Beginner Books),Book,http://www.amazon.com/dp/0394800052/,2,2
+Deep and Dark and Dangerous,Book,http://www.amazon.com/dp/0547076452/,2,2
+Grey Griffins #1: Revenge of the Shadow King - Audio,Book,http://www.amazon.com/dp/0439875927/,2,2
+How to Live Forever,Book,http://www.amazon.com/dp/067987898X/,2,2
+Sender Unknown,Book,http://www.amazon.com/dp/0965848647/,2,2
+Feed,Book,http://www.amazon.com/dp/0763662623/,8,2
+Hero from Otherwhere,Book,http://www.amazon.com/dp/0671434055/,2,2
+The Wonder Bread Summer: A Novel,Book,http://www.amazon.com/dp/0062199552/,1,1
+Fit2Fat2Fit: The Unexpected Lessons from Gaining and Losing 75 lbs on Purpose,Book,http://www.amazon.com/dp/0062194216/,2,1
+Dove,Book,http://www.amazon.com/dp/0060920475/,2,1
+Since We Fell: A Novel,Book,http://www.amazon.com/dp/0062129384/,1,1
+In the Memory of the Forest,Book,http://www.amazon.com/dp/014027281X/,1,1
+Abarat,Book,http://www.amazon.com/dp/0062094106/,2,1
+Smart Rats: A Novel,Book,http://www.amazon.com/dp/0060203641/,1,1
+Under the Never Sky (Under the Never Sky Trilogy),Book,http://www.amazon.com/dp/0062072048/,1,1
+Before I Go to Sleep: A Novel,Book,http://www.amazon.com/dp/0062060562/,2,1
+Smiles to Go,Book,http://www.amazon.com/dp/0060281340/,1,1
+Daylight Runner,Book,http://www.amazon.com/dp/0061340588/,1,1
+The New Policeman (New Policeman Trilogy),Book,http://www.amazon.com/dp/0061174297/,1,1
+Harry and Hortense at Hormone High (Charlotte Zolotow Book),Book,http://www.amazon.com/dp/0060268646/,1,1
+"Sorcerers of the Nightwing (The Ravenscliff Series, Book 1)",Book,http://www.amazon.com/dp/0060014253/,1,1
+Crinkleroot's Guide to Walking in Wild Places,Book,http://www.amazon.com/dp/0027058425/,1,1
+Sabriel (Old Kingdom),Book,http://www.amazon.com/dp/0064471837/,6,1
+Where the Lilies Bloom,Book,http://www.amazon.com/dp/0064470059/,1,1
+Seedfolks,Book,http://www.amazon.com/dp/0064472078/,1,1
+The Adventures of Blue Avenger,Book,http://www.amazon.com/dp/0064472256/,1,1
+User Unfriendly,Book,http://www.amazon.com/dp/0152163530/,2,1
+Pets and Promises (Reading Basic Plus),Book,http://www.amazon.com/dp/0065170083/,1,1
+THE (Forest Wife) FORESTWIFE,Book,http://www.amazon.com/dp/0099264315/,1,1
+Trading Reality,Book,http://www.amazon.com/dp/0099416751/,1,1
+In the Country of Last Things,Book,http://www.amazon.com/dp/0140097058/,1,1
+City of Glass (New York Trilogy),Book,http://www.amazon.com/dp/0140097317/,1,1
+20th Century Ghosts,Book,http://www.amazon.com/dp/0061147982/,1,1
+American Indian Trickster Tales (Myths and Legends),Book,http://www.amazon.com/dp/0140277714/,1,1
+Twenty and Ten,Book,http://www.amazon.com/dp/0140310762/,1,1
+Amish Adventure (Puffin Books),Book,http://www.amazon.com/dp/0140317023/,1,1
+The Wild Children,Book,http://www.amazon.com/dp/0140319301/,1,1
+"Where It Stops, Nobody Knows",Book,http://www.amazon.com/dp/0140342664/,1,1
+A Dig in Time,Book,http://www.amazon.com/dp/0140360018/,1,1
+Wake Me at Midnight,Book,http://www.amazon.com/dp/0140364862/,1,1
+Uncle Elephant (I Can Read Level 2),Book,http://www.amazon.com/dp/0064441040/,1,1
+"In a Dark, Dark Room and Other Scary Stories (I Can Read! Reading 2)",Book,http://www.amazon.com/dp/0064440907/,7,1
+Lost Boys,Book,http://www.amazon.com/dp/0061091316/,1,1
+Reef of Death,Book,http://www.amazon.com/dp/0060247282/,1,1
+Over and Over,Book,http://www.amazon.com/dp/006443415X/,1,1
+The Great Blueness and Other Predicaments,Book,http://www.amazon.com/dp/0064433161/,2,1
+Deadly Stranger,Book,http://www.amazon.com/dp/0061067423/,1,1
+Blackwater (Harper Trophy Books (Paperback)),Book,http://www.amazon.com/dp/0064408906/,1,1
+"Transformation (Water Trilogy, Book 3)",Book,http://www.amazon.com/dp/0064408108/,1,1
+Please Don't Go,Book,http://www.amazon.com/dp/0061061484/,1,1
+Hotheads,Book,http://www.amazon.com/dp/0060237864/,1,1
+The Seer of Shadows,Book,http://www.amazon.com/dp/0060000171/,1,1
+One Last Thing Before I Go: A Novel,Book,http://www.amazon.com/dp/0142196819/,1,1
+Dinosaur Pox,Book,http://www.amazon.com/dp/0141324414/,1,1
+Rewind,Book,http://www.amazon.com/dp/0141311010/,1,1
+The Boxes,Book,http://www.amazon.com/dp/0141308109/,2,1
+Marco's Millions,Book,http://www.amazon.com/dp/0142302171/,3,1
+"Eric Carle's Dragons, Dragons",Book,http://www.amazon.com/dp/014240103X/,1,1
+The Westing Game (Puffin Modern Classics),Book,http://www.amazon.com/dp/014240120X/,3,1
+The Last Treasure,Book,http://www.amazon.com/dp/0142402176/,1,1
+Hope Was Here,Book,http://www.amazon.com/dp/0142404241/,2,1
+Haunted (Puffin Sleuth Novels),Book,http://www.amazon.com/dp/0142404357/,1,1
+The Ghost in the Tokaido Inn (The Samurai Mysteries),Book,http://www.amazon.com/dp/0142405418/,2,1
+The Star of Kazan,Book,http://www.amazon.com/dp/0142405825/,1,1
+Groosham Grange,Book,http://www.amazon.com/dp/0142414166/,1,1
+Dogsbody,Book,http://www.amazon.com/dp/0142420131/,1,1
+Fire and Hemlock,Book,http://www.amazon.com/dp/014242014X/,1,1
+The Ascension: a Super Human Clash,Book,http://www.amazon.com/dp/014242109X/,1,1
+Enchantress from the Stars,Book,http://www.amazon.com/dp/0142500372/,1,1
+My Education: A Novel,Book,http://www.amazon.com/dp/0143125575/,1,1
+The Knowledge: How to Rebuild Civilization in the Aftermath of a Cataclysm,Book,http://www.amazon.com/dp/0143127047/,12,1
+Coyote: A Trickster Tale from the American Southwest,Book,http://www.amazon.com/dp/0152019588/,2,1
+The Witch Family,Book,http://www.amazon.com/dp/015202610X/,1,1
+A Deadly Game of Magic,Book,http://www.amazon.com/dp/0152050302/,1,1
+Evil Genius,Book,http://www.amazon.com/dp/0152061851/,1,1
+All Hallows' Eve: 13 Stories,Book,http://www.amazon.com/dp/0152064737/,1,1
+The Last of the Really Great Whangdoodles,Book,http://www.amazon.com/dp/0064403149/,1,1
+Magic Time (Magic Time Series),Book,http://www.amazon.com/dp/0061059579/,1,1

@@ -1,44 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,71,4
-The Art of UNIX Programming (Addison-Wesley Professional Computing Series),eBooks,http://www.amazon.com/dp/B003U2T5BA/,,1
-Code: The Hidden Language of Computer Hardware and Software,Book,http://www.amazon.com/dp/0735611319/,48,1
-Working Effectively with Legacy Code,Book,http://www.amazon.com/dp/0131177052/,22,1
-"The Practice of System and Network Administration, Second Edition",Book,http://www.amazon.com/dp/0321492668/,19,1
-The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws,Book,http://www.amazon.com/dp/1118026470/,18,1
-Head First Design Patterns: A Brain-Friendly Guide,Book,http://www.amazon.com/dp/0596007124/,14,1
-"Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) (Voices That Matter)",Book,http://www.amazon.com/dp/0321965515/,13,1
-"The C++ Programming Language, 4th Edition",Book,http://www.amazon.com/dp/0321563840/,9,1
-A Tour of C++ (C++ In-Depth),Book,http://www.amazon.com/dp/0321958314/,8,1
-Peopleware: Productive Projects and Teams (3rd Edition),Book,http://www.amazon.com/dp/0321934113/,8,1
-SanDisk Ultra Fit 128GB USB 3.0 Flash Drive (SDCZ43-128G-G46),Electronics,https://www.amazon.com/SanDisk-Ultra-128GB-Flash-SDCZ43-128G-G46/dp/B00YFI1EBC/ref=sr_1_1?s=pc&amp;ie=UTF8&amp;qid=1450990552&amp;sr=1-1&amp;keywords=san+disk,7,1
-Algorithms (4th Edition),Book,http://www.amazon.com/dp/032157351X/,7,1
-Effective C++: 55 Specific Ways to Improve Your Programs and Designs (3rd Edition),Book,http://www.amazon.com/dp/0321334876/,6,1
-"A Million Random Digits with 100,000 Normal Deviates",Book,http://www.amazon.com/dp/0833030477/,6,1
-AOC e1659Fwu 16-Inch Ultra Slim 1366x768 Res 200 cd/m2 Brightness USB 3.0-Powered Portable LED Monitor w/ Case,Personal Computer,http://www.amazon.com/dp/B00CMKOVMO/,5,1
-Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science),Book,http://www.amazon.com/dp/0262510871/,5,1
-"Learning Python, 5th Edition",Book,http://www.amazon.com/dp/1449355730/,5,1
-Echo Dot (2nd Generation) - Black,Amazon Home,http://www.amazon.com/dp/B01DFKC2SO/,4,1
-"Mr. Coffee Smart Wifi-Enabled WeMo 10-Cup Optimal Brew Coffeemaker, BVMC-PSTX91WE",Kitchen,http://www.amazon.com/dp/B00LUFSSWG/,4,1
-Boob Cube,Toy,http://www.amazon.com/dp/B016N6X1AK/,3,1
-The Genesis Flood 50th Anniversary Edition,Book,http://www.amazon.com/dp/159638395X/,3,1
-"Mpow Bluetooth Receiver, Protable Bluetooth 4.1 Car Adapter & Bluetooth Car Aux Adapter for Music Streaming Sound System, Hands-free Audio Adapter & Wireless Car Kits for Home/Car Audio Stereo System,Black",Cell Phones & Accessories,https://www.amazon.com/dp/B008AGQMQC/ref=cm_sw_r_cp_apa_adJEzbHZ4PJKZ,3,1
-More Effective C++: 35 New Ways to Improve Your Programs and Designs,Book,http://www.amazon.com/dp/020163371X/,2,1
-Hackers & Painters: Big Ideas from the Computer Age,Book,http://www.amazon.com/dp/1449389554/,2,1
-The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities (2 Volume set),Book,http://www.amazon.com/dp/0321444426/,2,1
-Amazon Kindle 9W PowerFast Adapter for Accelerated Charging,Digital Device Accessory,http://www.amazon.com/dp/B006GWO5WK/,2,1
-Mens Funny Python Programming Pseudocode T-Shirt Large Black,Apparel,http://www.amazon.com/dp/B073QFXDG8/,2,1
-Basic Fun With Adventure Games,Book,http://www.amazon.com/dp/0380874865/,1,1
-"Unix in a Nutshell, Fourth Edition",Book,http://www.amazon.com/dp/0596100299/,1,1
-"ASUS MB169C+ 15.6"" Full HD 1920x1080 IPS USB Type-C Powered Eye Care Portable Monitor",Personal Computer,http://www.amazon.com/dp/B01C83BE06/,1,1
-TSC Red Dragon Sex Products 2 Points Huge Size Dildo Vibrator Massager G-spot Anal Labium Adult Sex Toy,Health and Beauty,http://www.amazon.com/dp/B00LTQNQJQ/,1,1
-Carpentry Complete: Expert Advice from Start to Finish (Taunton's Complete),Book,http://www.amazon.com/dp/1600851460/,1,1
-Teach Yourself C,Book,http://www.amazon.com/dp/0078823110/,1,1
-"ASUS Oculus Certified Gaming Desktop G20CB-WS71,Core i7/GTX 980/16GB RAM/1TB w/256SSD, Windows 10",Personal Computer,http://www.amazon.com/dp/B01B96MNNA/,1,1
-If Hemingway Wrote JavaScript,Book,http://www.amazon.com/dp/1593275854/,1,1
+Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,236,10
+Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers,Book,http://www.amazon.com/dp/1593277571/,2,2
+"Code Complete: A Practical Handbook of Software Construction, Second Edition",Book,http://www.amazon.com/dp/0735619670/,85,2
+Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science),Book,http://www.amazon.com/dp/0262510871/,15,2
+Algorithms (4th Edition),Book,http://www.amazon.com/dp/032157351X/,26,2
+Effective C++: 55 Specific Ways to Improve Your Programs and Designs (3rd Edition),Book,http://www.amazon.com/dp/0321334876/,16,2
+Differential Equations For Dummies,Book,http://www.amazon.com/dp/0470178140/,2,2
+Head First Design Patterns: A Brain-Friendly Guide,Book,http://www.amazon.com/dp/0596007124/,51,2
+Boob Cube,Toy,http://www.amazon.com/dp/B016N6X1AK/,5,2
+More Effective C++: 35 New Ways to Improve Your Programs and Designs,Book,http://www.amazon.com/dp/020163371X/,3,1
 Agile Software Development,Book,http://www.amazon.com/dp/0201699699/,1,1
+The Art of Computer Programming: Volume 3: Sorting and Searching (2nd Edition),Book,http://www.amazon.com/dp/0201896850/,1,1
+"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,112,1
+Ghost in the Wires: My Adventures as the World's Most Wanted Hacker,Book,http://www.amazon.com/dp/0316037729/,13,1
+HTML Dog: The Best-Practice Guide to XHTML and CSS,Book,http://www.amazon.com/dp/0321311396/,1,1
+Effective Java (2nd Edition),Book,http://www.amazon.com/dp/0321356683/,42,1
+The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities (2 Volume set),Book,http://www.amazon.com/dp/0321444426/,5,1
+"Compilers: Principles, Techniques, and Tools (2nd Edition)",Book,http://www.amazon.com/dp/0321486811/,25,1
+"The Practice of System and Network Administration, Second Edition",Book,http://www.amazon.com/dp/0321492668/,59,1
+"The C++ Programming Language, 4th Edition",Book,http://www.amazon.com/dp/0321563840/,30,1
+How Google Tests Software,Book,http://www.amazon.com/dp/0321803027/,7,1
+Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design (3rd Edition),Book,http://www.amazon.com/dp/0321884493/,9,1
+Peopleware: Productive Projects and Teams (3rd Edition),Book,http://www.amazon.com/dp/0321934113/,19,1
+A Tour of C++ (C++ In-Depth),Book,http://www.amazon.com/dp/0321958314/,17,1
+"Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) (Voices That Matter)",Book,http://www.amazon.com/dp/0321965515/,42,1
+Postcapitalism: A Guide to Our Future,Book,http://www.amazon.com/dp/0374235546/,9,1
+Basic Fun With Adventure Games,Book,http://www.amazon.com/dp/0380874865/,2,1
+Switch: How to Change Things When Change Is Hard,Book,http://www.amazon.com/dp/0385528752/,8,1
+Concurrency: State Models and Java Programs,Book,http://www.amazon.com/dp/0470093552/,1,1
+How to Raise Your I.Q. by Eating Gifted Children,Book,http://www.amazon.com/dp/0595002366/,2,1
+"Unix in a Nutshell, Fourth Edition",Book,http://www.amazon.com/dp/0596100299/,1,1
+JavaScript: The Good Parts,Book,http://www.amazon.com/dp/0596517742/,60,1
+Sams Teach Yourself C++ in 10 Minutes (2nd Edition),Book,http://www.amazon.com/dp/0672324253/,2,1
+Programming in C (3rd Edition),Book,http://www.amazon.com/dp/0672326663/,2,1
+q For Mortals Version 3: An Introduction to q Programming,Book,http://www.amazon.com/dp/0692573674/,2,1
+Code: The Hidden Language of Computer Hardware and Software,Book,http://www.amazon.com/dp/0735611319/,158,1
+"A Million Random Digits with 100,000 Normal Deviates",Book,http://www.amazon.com/dp/0833030477/,18,1
+The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws,Book,http://www.amazon.com/dp/1118026470/,41,1
+Operating System Concepts,Book,http://www.amazon.com/dp/1118063333/,6,1
 Pro ASP.NET MVC 4,Book,http://www.amazon.com/dp/1430242361/,1,1
-Cricket Powder 2-pack (100% Cricket; .44 lb; 70g protein per cup) by Thailand Unique,Grocery,http://www.amazon.com/dp/B01A9LY9Q0/,1,1
-Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers,Book,http://www.amazon.com/dp/1593277571/,1,1
-Gmasking Handmade Knitting Wool Octopus Adult Hat+Gmask Keychain,Toy,http://www.amazon.com/dp/B00NW5VGKS/,1,1
-False It's Funny Because It's True Funny Programmer T Shirt,Apparel,http://www.amazon.com/dp/B01MRSXSU4/,1,1
+Interactive Data Visualization for the Web,Book,http://www.amazon.com/dp/1449339735/,1,1
+"Learning Python, 5th Edition",Book,http://www.amazon.com/dp/1449355730/,20,1
+Functional Thinking: Paradigm Over Syntax,Book,http://www.amazon.com/dp/1449365515/,1,1
+Hackers & Painters: Big Ideas from the Computer Age,Book,http://www.amazon.com/dp/1449389554/,8,1
+CSS for Babies (Code Babies),Book,http://www.amazon.com/dp/1454921560/,1,1
+Hard Real-Time Computing Systems: Predictable Scheduling Algorithms and Applications (Real-Time Systems Series),Book,http://www.amazon.com/dp/1461406757/,1,1
+Windows NT Device Driver Development,Book,http://www.amazon.com/dp/1578700582/,1,1
+The Manga Guide to Physics,Book,http://www.amazon.com/dp/1593271964/,7,1
+If Hemingway Wrote JavaScript,Book,http://www.amazon.com/dp/1593275854/,2,1
+The Genesis Flood 50th Anniversary Edition,Book,http://www.amazon.com/dp/159638395X/,3,1
+"Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers",Book,http://www.amazon.com/dp/1597499579/,26,1
+Carpentry Complete: Expert Advice from Start to Finish (Taunton's Complete),Book,http://www.amazon.com/dp/1600851460/,1,1
+User Interface Design for Programmers,Book,http://www.amazon.com/dp/1893115941/,1,1
+Spring in Action: Covers Spring 3.0,Book,http://www.amazon.com/dp/1935182358/,2,1
+Seven Concurrency Models in Seven Weeks: When Threads Unravel (The Pragmatic Programmers),Book,http://www.amazon.com/dp/1937785653/,4,1
+SANOXY PS2 Keyboard To USB Adapter,PC Accessory,http://www.amazon.com/dp/B000BSJFJS/,51,1
+TP-Link 5-Port Fast Ethernet Unmanaged Switch | Plug and Play | Desktop (TL-SF1005D),CE,http://www.amazon.com/dp/B000FNFSPY/,37,1
+Toysmith Chicken & Egg Toy,Toy,http://www.amazon.com/dp/B000ICXLMO/,1,1
+"Borax 20 Mule Team Detergent Booster, 65 Oz.",Health and Beauty,http://www.amazon.com/dp/B000R4LONQ/,6,1
+Bubbles the Fish - Ty Beanie Baby [Toy],Toy,http://www.amazon.com/dp/B000VYN55W/,1,1
+Anelace Powers of 2 XLD Blue LED Binary Clock (Extra Large Display),Office Product,http://www.amazon.com/dp/B0010T65LI/,1,1
+ComputerGear Funny Computer Keyboard Novelty Key Caps Panic Buttons Set (4),PC Accessory,http://www.amazon.com/dp/B001E75SV4/,1,1
+Tootsie Roll Midgees Candy 5 Pound Value Bag 760 Pieces,Grocery,http://www.amazon.com/dp/B001G8UC8K/,2,1
+"Tin Sign ""Coffee - Stupid Things"" , 16x12",Home,http://www.amazon.com/dp/B003JBEVM0/,1,1
+The Art of UNIX Programming (Addison-Wesley Professional Computing Series),eBooks,http://www.amazon.com/dp/B003U2T5BA/,1,1
+"CafePress - Emacs Reference Mug - Unique Coffee Mug, Coffee Cup",Kitchen,http://www.amazon.com/dp/B004DO5RSE/,1,1
+Inside Jokes: Using Humor to Reverse-Engineer the Mind (MIT Press),eBooks,http://www.amazon.com/dp/B0052LEBRA/,4,1
+"Logitech Wireless Touch Keyboard K400 with Built-In Multi-Touch Touchpad, Black",CE,http://www.amazon.com/dp/B005DKZTMG/,105,1
+Magic Whiteboard 25 Sheets 23.5 x 31.5 x 65 feet (MW1125),Office Product,http://www.amazon.com/dp/B005MQPL3S/,2,1
+Amazon Kindle 9W PowerFast Adapter for Accelerated Charging,Digital Device Accessory,http://www.amazon.com/dp/B006GWO5WK/,2,1
+Kinivo BTC450 Bluetooth Hands-Free Car Kit for Cars with Aux Input Jack (3.5 mm) - Supports AptX,Wireless,http://www.amazon.com/dp/B009NLTW60/,56,1
+Econoled Tech Battery Color Changing Thermometer Heat Kruzhkus Mug Sensitive Porcelain Tea Coffee Cup,Kitchen,http://www.amazon.com/dp/B00A7L4X4Q/,2,1
+AOC e1659Fwu 16-Inch Ultra Slim 1366x768 Res 200 cd/m2 Brightness USB 3.0-Powered Portable LED Monitor w/ Case,Personal Computer,http://www.amazon.com/dp/B00CMKOVMO/,27,1
+"6"" College Dental Tweezer",Home Improvement,http://www.amazon.com/dp/B00DE7EKVG/,1,1
 Etekcity Premium Gold Plated Digital Audio Optical Toslink Cable with Metal Connectors and Braided Jacket (25 Feet),CE,http://www.amazon.com/dp/B00EWODIFO/,1,1
+Redragon M901 PERDITION 16400 DPI High-Precision Programmable Laser Gaming Mouse (Black),PC Accessory,http://www.amazon.com/dp/B00GU8W5AE/,65,1
+New Kyocera ECOSYS P6026CDN Color Laser Printer,CE,http://www.amazon.com/dp/B00HD5M68Y/,1,1
+"C.R. Gibson First 5 Years Memory Book, Record Memories and Milestones on 64 Beautifully Illustrated Pages - Made With Love",Baby Product,http://www.amazon.com/dp/B00HWIWRSQ/,2,1
+Home Bathroom Magnetic Soap Holder Container Dispenser Wall Attachment Adhesion,Home,http://www.amazon.com/dp/B00KD25LHW/,1,1
+TSC Red Dragon Sex Products 2 Points Huge Size Dildo Vibrator Massager G-spot Anal Labium Adult Sex Toy,Health and Beauty,http://www.amazon.com/dp/B00LTQNQJQ/,1,1
+"Mr. Coffee Smart Wifi-Enabled WeMo 10-Cup Optimal Brew Coffeemaker, BVMC-PSTX91WE",Kitchen,http://www.amazon.com/dp/B00LUFSSWG/,9,1
+Gmasking Handmade Knitting Wool Octopus Adult Hat+Gmask Keychain,Toy,http://www.amazon.com/dp/B00NW5VGKS/,1,1
+Seagate Archive HDD 8TB SATA 6GBps 128MB Cache SATA Hard Drive (ST8000AS0002),Personal Computer,http://www.amazon.com/dp/B00XS423SC/,14,1
+HiLetgo New Version ESP8266 NodeMCU LUA CP2102 ESP-12E Internet WIFI Development Board Open source Serial Wireless Module Works Great with Arduino IDE/Micropython,PC Accessory,http://www.amazon.com/dp/B010O1G1ES/,23,1
+YINGKAI Loading Bar Decorative Carving Vinyl Wall Decal Sticker Art for Home Window Decoration,Home Improvement,http://www.amazon.com/dp/B012IVG6YM/,1,1
+MYLIFEUNIT 4 inch Yellow Rubber Bath Ducks for Child,Toy,http://www.amazon.com/dp/B014URRS2G/,1,1
+The Keyboard Waffle Iron,Boost,http://www.amazon.com/dp/B015QJPUOA/,4,1
+"DROK USB Volume Control Knobs Audio Controller for Adjusting Volume of Computers, No Loss of Sound Quality with 4.6 Feet Cable",BISS,http://www.amazon.com/dp/B016U2KXCG/,5,1
+Cricket Powder 2-pack (100% Cricket; .44 lb; 70g protein per cup) by Thailand Unique,Grocery,http://www.amazon.com/dp/B01A9LY9Q0/,1,1
+"ASUS Oculus Certified Gaming Desktop G20CB-WS71,Core i7/GTX 980/16GB RAM/1TB w/256SSD, Windows 10",Personal Computer,http://www.amazon.com/dp/B01B96MNNA/,1,1
+"ASUS MB169C+ 15.6"" Full HD 1920x1080 IPS USB Type-C Powered Eye Care Portable Monitor",Personal Computer,http://www.amazon.com/dp/B01C83BE06/,5,1
+Echo Dot (2nd Generation) - Black,Amazon Home,http://www.amazon.com/dp/B01DFKC2SO/,18,1
+False It's Funny Because It's True Funny Programmer T Shirt,Apparel,http://www.amazon.com/dp/B01MRSXSU4/,1,1
+"Dell Inspiron 11-3162 11.6"" LED Laptop Intel Celeron N3060 Dual Core 1.6 Ghz 4GB 32GB W10H Webcam (Certified Refurbished)",Personal Computer,http://www.amazon.com/dp/B06XSDXSC3/,1,1
+CSS Is Awesome Mug - Programmer Coffee Mug - Web Developer Mug - Front End Developer Mug - Full Stack Developer Mug - HTML Mug - 11oz Coffee Mug Cup,Kitchen,http://www.amazon.com/dp/B06Y13QC8N/,1,1
+Multipliers: How the Best Leaders Make Everyone Smarter,Book,http://www.amazon.com/dp/0061964395/,5,1
+Mens Funny Python Programming Pseudocode T-Shirt Large Black,Apparel,http://www.amazon.com/dp/B073QFXDG8/,3,1
+Fundamentals of Aerodynamics,Book,http://www.amazon.com/dp/0073398101/,10,1
+Teach Yourself C,Book,http://www.amazon.com/dp/0078823110/,2,1
+"C Programming Language, 2nd Edition",Book,http://www.amazon.com/dp/0131103628/,109,1

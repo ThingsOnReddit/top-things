@@ -1,46 +1,82 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"Space Mission Analysis and Design, 3rd edition (Space Technology Library, Vol. 8)",Book,http://www.amazon.com/dp/1881883108/,3,3
-Fundamentals of Astrodynamics (Dover Books on Aeronautical Engineering),Book,http://www.amazon.com/dp/0486600610/,4,2
-Fundamentals of Aerodynamics,Book,http://www.amazon.com/dp/0073398101/,2,2
+"Space Mission Analysis and Design, 3rd edition (Space Technology Library, Vol. 8)",Book,http://www.amazon.com/dp/1881883108/,6,4
+Flight Dynamics,Book,http://www.amazon.com/dp/0691114072/,2,2
+Skunk Works: A Personal Memoir of My Years at Lockheed,Book,http://www.amazon.com/dp/0316743003/,50,2
+Fundamentals of Astrodynamics (Dover Books on Aeronautical Engineering),Book,http://www.amazon.com/dp/0486600610/,21,2
+Theory of Wing Sections: Including a Summary of Airfoil Data (Dover Books on Aeronautical Engineering),Book,http://www.amazon.com/dp/0486605868/,4,2
+Aircraft Design: A Conceptual Approach (Aiaa Education Series),Book,http://www.amazon.com/dp/1600869114/,4,2
+Introduction to Flight,Book,http://www.amazon.com/dp/0073380245/,10,2
+Fundamentals of Aerodynamics,Book,http://www.amazon.com/dp/0073398101/,10,2
+"Performance, Stability, Dynamics, and Control of Airplanes, Second Edition (AIAA Education Series)",Book,http://www.amazon.com/dp/1563475839/,2,2
 Orbital Mechanics,Book,http://www.amazon.com/dp/0195078349/,2,2
-Estes 4606 Proto X Nano R/C Quadcopter (Colors Vary) (Discontinued by manufacturer),Hobby,http://www.amazon.com/dp/B00G924W98/,4,1
-Partial Differential Equations: Second Edition (Graduate Studies in Mathematics),Book,http://www.amazon.com/dp/0821849743/,3,1
-Introduction to Space Dynamics (Dover Books on Aeronautical Engineering),Book,http://www.amazon.com/dp/0486651134/,2,1
-Theory of Wing Sections: Including a Summary of Airfoil Data (Dover Books on Aeronautical Engineering),Book,http://www.amazon.com/dp/0486605868/,2,1
-Analysis and Design of Flight Vehicle Structures,Book,http://www.amazon.com/dp/0961523409/,2,1
-Computational Fluid Dynamics,Book,http://www.amazon.com/dp/0070016852/,2,1
-Linear Algebra (Dover Books on Mathematics),Book,http://www.amazon.com/dp/048663518X/,2,1
-Mechanics of Materials (8th Edition),Book,http://www.amazon.com/dp/0136022308/,2,1
-Partial Differential Equations for Scientists and Engineers (Dover Books on Mathematics),Book,http://www.amazon.com/dp/048667620X/,2,1
-"Orbital Mechanics for Engineering Students, Third Edition (Aerospace Engineering)",Book,http://www.amazon.com/dp/0080977472/,2,1
-"Fundamentals of Astrodynamics and Applications, 4th ed. (Space Technology Library)",Book,http://www.amazon.com/dp/1881883183/,1,1
-Flight Testing at Edwards: Flight Test Engineers' Stories 1946-1975,Book,http://www.amazon.com/dp/0971370206/,1,1
-Introduction to Fluid Mechanics,Book,http://www.amazon.com/dp/0471742996/,1,1
-General Chemistry (Dover Books on Chemistry),Book,http://www.amazon.com/dp/0486656225/,1,1
-An Introduction to Ordinary Differential Equations (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486659429/,1,1
-Essential Calculus with Applications (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486660974/,1,1
-Calculus: Early Transcendentals,Book,http://www.amazon.com/dp/0495011665/,1,1
-Numerical Analysis,Book,http://www.amazon.com/dp/0538733519/,1,1
-"Fracture Mechanics: Fundamentals and Applications, Third Edition",Book,http://www.amazon.com/dp/0849316561/,1,1
-Practical Stress Analysis for Design Engineers: Design & Analysis of Aerospace Vehicle Structures,Book,http://www.amazon.com/dp/0964701405/,1,1
-Mechanics Of Composite Materials (Materials Science & Engineering Series),Book,http://www.amazon.com/dp/156032712X/,1,1
-"Performance, Stability, Dynamics, and Control of Airplanes, Second Edition (AIAA Education)",Book,http://www.amazon.com/dp/1563475839/,1,1
-"Aircraft Design: A Conceptual Approach, Fourth Edition (AIAA Education)",Book,http://www.amazon.com/dp/1563478293/,1,1
-Airplane Aerodynamics and Performance,Book,http://www.amazon.com/dp/1884885446/,1,1
-Mechanics And Thermodynamics Of Propulsion,Book,http://www.amazon.com/dp/8131729516/,1,1
-Fundamentals of Aircraft and Airship Design (AIAA Education Series),Book,http://www.amazon.com/dp/1600867510/,1,1
-Flight Stability and Automatic Control,Book,http://www.amazon.com/dp/0070462739/,1,1
-Modern Compressible Flow: With Historical Perspective,Book,http://www.amazon.com/dp/0072424435/,1,1
-An Introduction to the Finite Element Method (McGraw-Hill Mechanical Engineering),Book,http://www.amazon.com/dp/0072466855/,1,1
-Introduction To Thermodynamics and Heat Transfer,Book,http://www.amazon.com/dp/0073380172/,1,1
-Mechanical Vibrations (5th Edition),Book,http://www.amazon.com/dp/0132128195/,1,1
 Electrical Engineering: Principles and Applications (5th Edition),Book,http://www.amazon.com/dp/0132130068/,1,1
 Aerodynamics for Engineers (5th Edition),Book,http://www.amazon.com/dp/0132272687/,1,1
-Introduction to the Mechanics of a Continuous Medium,Book,http://www.amazon.com/dp/0134876032/,1,1
-Engineering Mechanics: Combined Statics & Dynamics (12th Edition),Book,http://www.amazon.com/dp/0138149291/,1,1
+CUDA for Engineers: An Introduction to High-Performance Parallel Computing,Book,http://www.amazon.com/dp/013417741X/,2,1
+Introduction to the Mechanics of a Continuous Medium,Book,http://www.amazon.com/dp/0134876032/,2,1
+Mechanics of Materials (8th Edition),Book,http://www.amazon.com/dp/0136022308/,2,1
+Engineering Mechanics: Combined Statics & Dynamics (12th Edition),Book,http://www.amazon.com/dp/0138149291/,2,1
+Fundamentals of Space Systems (Johns Hopkins University Applied Physics Laboratory Series in Science & Engineering),Book,http://www.amazon.com/dp/0195074971/,1,1
 Mechanics and Thermodynamics of Propulsion (2nd Edition),Book,http://www.amazon.com/dp/0201146592/,1,1
+"Bundle of Algorithms in C++,  Parts 1-5: Fundamentals, Data Structures, Sorting, Searching, and Graph Algorithms (3rd Edition) (Pts. 1-5)",Book,http://www.amazon.com/dp/020172684X/,2,1
+Digital Apollo: Human and Machine in Spaceflight,Book,http://www.amazon.com/dp/0262134977/,2,1
 "Linear Algebra and Its Applications, 3rd Updated Edition (Book & CD-ROM)",Book,http://www.amazon.com/dp/0321287134/,1,1
+"The C++ Programming Language, 4th Edition",Book,http://www.amazon.com/dp/0321563840/,30,1
+The C++ Standard Library: A Tutorial and Reference (2nd Edition),Book,http://www.amazon.com/dp/0321623215/,5,1
+"Numerical Analysis, 2nd Edition",Book,http://www.amazon.com/dp/0321783670/,1,1
 Fundamentals of Astrodynamics and Applications (Space Technology Library),Book,http://www.amazon.com/dp/0387718311/,1,1
 Engineering Optimization: Theory and Practice,Book,http://www.amazon.com/dp/0470183527/,1,1
 "Physics, Vol. 1",Book,http://www.amazon.com/dp/0470379243/,1,1
+Mechanics of Flight,Book,http://www.amazon.com/dp/0470539755/,1,1
+Aircraft Dynamics: From Modeling to Simulation,Book,http://www.amazon.com/dp/0470626674/,1,1
 "Calculus, Combined",Book,http://www.amazon.com/dp/0471153060/,1,1
+Aircraft Control and Simulation,Book,http://www.amazon.com/dp/0471371459/,2,1
+Introduction to Fluid Mechanics,Book,http://www.amazon.com/dp/0471742996/,1,1
+Linear Algebra (Dover Books on Mathematics),Book,http://www.amazon.com/dp/048663518X/,3,1
+Introduction to Space Dynamics (Dover Books on Aeronautical Engineering),Book,http://www.amazon.com/dp/0486651134/,5,1
+General Chemistry (Dover Books on Chemistry),Book,http://www.amazon.com/dp/0486656225/,2,1
+An Introduction to Ordinary Differential Equations (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486659429/,1,1
+Essential Calculus with Applications (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486660974/,1,1
+Partial Differential Equations for Scientists and Engineers (Dover Books on Mathematics),Book,http://www.amazon.com/dp/048667620X/,5,1
+Calculus: Early Transcendentals,Book,http://www.amazon.com/dp/0495011665/,1,1
+Principles of Helicopter Aerodynamics with CD Extra (Cambridge Aerospace),Book,http://www.amazon.com/dp/0521858607/,1,1
+Numerical Analysis,Book,http://www.amazon.com/dp/0538733519/,2,1
+"The Navaho Missile Project: The Story of the """"Know-How"""" Missile of American Rocketry (Schiffer Military/Aviation History)",Book,http://www.amazon.com/dp/0764300482/,1,1
+"Nature's Flyers: Birds, Insects, and the Biomechanics of Flight",Book,http://www.amazon.com/dp/0801880599/,1,1
+"Truth, Lies, and O-Rings: Inside the Space Shuttle Challenger Disaster",Book,http://www.amazon.com/dp/0813041937/,8,1
+Ignition!: An informal history of liquid rocket propellants,Book,http://www.amazon.com/dp/0813507251/,18,1
+Partial Differential Equations: Second Edition (Graduate Studies in Mathematics),Book,http://www.amazon.com/dp/0821849743/,7,1
+"Fracture Mechanics: Fundamentals and Applications, Third Edition",Book,http://www.amazon.com/dp/0849316561/,2,1
+Kelly: More Than My Share of It All,Book,http://www.amazon.com/dp/0874744911/,7,1
+Analysis and Design of Flight Vehicle Structures,Book,http://www.amazon.com/dp/0961523409/,4,1
+Practical Stress Analysis for Design Engineers: Design & Analysis of Aerospace Vehicle Structures,Book,http://www.amazon.com/dp/0964701405/,2,1
+Flight Testing at Edwards: Flight Test Engineers' Stories 1946-1975,Book,http://www.amazon.com/dp/0971370206/,1,1
+Failure Is Not an Option: Mission Control From Mercury to Apollo 13 and Beyond,Book,http://www.amazon.com/dp/1439148813/,23,1
+Spaceflight Dynamics: Third Edition,Book,http://www.amazon.com/dp/1452879591/,2,1
+Mechanics Of Composite Materials (Materials Science & Engineering Series),Book,http://www.amazon.com/dp/156032712X/,1,1
+"Aircraft Design: A Conceptual Approach, Fourth Edition (AIAA Education)",Book,http://www.amazon.com/dp/1563478293/,2,1
+Mars Rover Curiosity: An Inside Account from Curiosity's Chief Engineer,Book,http://www.amazon.com/dp/1588344738/,4,1
+Analytical Mechanics of Space Systems (AIAA Education Series),Book,http://www.amazon.com/dp/1600867219/,1,1
+Fundamentals of Aircraft and Airship Design (AIAA Education Series),Book,http://www.amazon.com/dp/1600867510/,1,1
+Building Aero Sims in C++ (Library of Flight),Book,http://www.amazon.com/dp/1624102530/,1,1
+NASA Systems Engineering Handbook (NASA/SP-2007-6105 Rev1),Book,http://www.amazon.com/dp/1780391382/,1,1
+"Fundamentals of Astrodynamics and Applications, 4th ed. (Space Technology Library)",Book,http://www.amazon.com/dp/1881883183/,3,1
+Airplane Aerodynamics and Performance,Book,http://www.amazon.com/dp/1884885446/,1,1
+Slide Rule: The Autobiography of an Engineer,Book,http://www.amazon.com/dp/1889439185/,1,1
+Radar Cross Section (Scitech Radar and Defense),Book,http://www.amazon.com/dp/1891121251/,1,1
+Mechanics And Thermodynamics Of Propulsion,Book,http://www.amazon.com/dp/8131729516/,1,1
+Airframe Structural Design: Practical Design Information and Data on Aircraft Structures,Book,http://www.amazon.com/dp/9627128090/,1,1
+"Roving Mars: Spirit, Opportunity, and the Exploration of the Red Planet",eBooks,http://www.amazon.com/dp/B000FCKC9M/,1,1
+Riding Rockets: The Outrageous Tales of a Space Shuttle Astronaut,eBooks,http://www.amazon.com/dp/B000GCFD2W/,2,1
+"Introduction to Flight (Mcgraw-Hill Series in Aeronautical and Aerospace Engineering) 5th (fifth) Edition by Anderson, John D. [2004]",Book,http://www.amazon.com/dp/B00DS91YLE/,1,1
+Estes 4606 Proto X Nano R/C Quadcopter (Colors Vary) (Discontinued by manufacturer),Hobby,http://www.amazon.com/dp/B00G924W98/,8,1
+Computational Fluid Dynamics,Book,http://www.amazon.com/dp/0070016852/,3,1
+"Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",eBooks,http://www.amazon.com/dp/B00KVI76ZS/,4,1
+Flight Stability and Automatic Control,Book,http://www.amazon.com/dp/0070462739/,1,1
+Modern Compressible Flow: With Historical Perspective,Book,http://www.amazon.com/dp/0072424435/,2,1
+An Introduction to the Finite Element Method (MCGRAW HILL SERIES IN MECHANICAL ENGINEERING),Book,http://www.amazon.com/dp/0072466855/,2,1
+Introduction To Thermodynamics and Heat Transfer,Book,http://www.amazon.com/dp/0073380172/,1,1
+"Understanding Space: An Introduction to Astronautics, 3rd Edition (Space Technology)",Book,http://www.amazon.com/dp/0073407755/,2,1
+Introduction to Flight,Book,http://www.amazon.com/dp/0078027675/,1,1
+"Orbital Mechanics for Engineering Students, Third Edition (Aerospace Engineering)",Book,http://www.amazon.com/dp/0080977472/,2,1
+Mechanical Vibrations (5th Edition),Book,http://www.amazon.com/dp/0132128195/,2,1
+Data Structures and Other Objects Using C++ (4th Edition),Book,http://www.amazon.com/dp/0132129485/,4,1

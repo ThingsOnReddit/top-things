@@ -1,61 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"NES case for Raspberry Pi 3,2 and B+ by Old Skool Tools",PC Accessory,http://www.amazon.com/dp/B01M4OOY4U/,19,7
-CanaKit Raspberry Pi 3 Complete Starter Kit - 32 GB Edition,PC Accessory,http://www.amazon.com/dp/B01C6Q2GSY/,23,4
-Buffalo iBuffalo Classic USB Gamepad for PC BSGP801GY,Personal Computer,http://www.amazon.com/dp/B002B9XB0E/,37,3
-"Raspberry PI 3 Model B 1.2GHz 64-bit quad-core ARMv8 CPU, 1GB RAM",Personal Computer,http://www.amazon.com/dp/B01CD5VC92/,24,2
-Microsoft Xbox 360 Wireless Receiver for Windows,Personal Computer,http://www.amazon.com/dp/B000HZFCT2/,15,2
-CanaKit 5V 2.5A Raspberry Pi 3 Power Supply / Adapter / Charger (UL Listed),Personal Computer,http://www.amazon.com/dp/B00MARDJZ4/,9,2
-8BITDO NES30 Pro Wireless Bluetooth Controller Dual Classic Joystick For Android Gamepad - PC Mac Linux,Personal Computer,http://www.amazon.com/dp/B018K3Q4KS/,7,2
-CanaKit Raspberry Pi 3 with 2.5A Micro USB Power Supply (UL Listed),PC Accessory,http://www.amazon.com/dp/B01C6FFNY4/,6,2
-"Raspberry Pi 7"" Touchscreen Display",PC Accessory,http://www.amazon.com/dp/B0153R2A9I/,5,2
-"Flirc Raspberry Pi 3, 2 and B+ Case",Personal Computer,http://www.amazon.com/dp/B00QB6F9I0/,5,2
-"Raspberry Pi RPI3CASE-BG Official Raspberry Pi 3 Case, Black/Grey",BISS,http://www.amazon.com/dp/B01F1PSFY6/,4,2
-SNES Controller to Adapter for PC USB,Video Games,http://www.amazon.com/dp/B002IXZ5DE/,4,2
+Buffalo iBuffalo Classic USB Gamepad for PC BSGP801GY,Personal Computer,http://www.amazon.com/dp/B002B9XB0E/,141,22
+CanaKit Raspberry Pi 3 Complete Starter Kit - 32 GB Edition,PC Accessory,http://www.amazon.com/dp/B01C6Q2GSY/,108,21
+"NES case for Raspberry Pi 3,2 and B+ by Old Skool Tools",PC Accessory,http://www.amazon.com/dp/B01M4OOY4U/,47,18
+Flirc Raspberry Pi Case Gen2 (New Model),Personal Computer,http://www.amazon.com/dp/B07349HT26/,15,13
+CanaKit Raspberry Pi 3 with 2.5A Micro USB Power Supply (UL Listed),PC Accessory,http://www.amazon.com/dp/B01C6FFNY4/,27,11
+CanaKit 5V 2.5A Raspberry Pi 3 Power Supply / Adapter / Charger (UL Listed),Personal Computer,http://www.amazon.com/dp/B00MARDJZ4/,45,10
+"[UL Listed] Pwr+ Extra Long 6.5 Ft 3.5A Fastest Tablet-Ac-Adapter for Google-Nexus 7, 9, 10 Tablet Tab; Samsung Galaxy Tab 3, 4 7.0, 8.0, Note 5 Phone; Nexus S Phone; Asus Transformer Book T100 Memo Pad 7, 8, 10 Hd FHD Smart; Galaxy S2, S3, S4, S6, S7 Edge; HTC One A9 M7 M8 M9, Desire; BLU Advance, Studio 5.0 5.5 6.0 7.0, One X Plus, Win HD, Life Play, Vivo Air, PURE XL, LIFE ONE X2 Phone; Motorola Moto G, RAZR M, X Pure; Huawei Honor 5X; BlackBerry DTEK50; Anker Battery Cell Phone-Power-Cord",Wireless,http://www.amazon.com/dp/B00IJKG9R6/,13,9
+"NES CASE, Functional POWER and RESET Button Retroflag NESPI CASE Rasberry Pi 3, 2 and B+(NESPI3-1)",Personal Computer,http://www.amazon.com/dp/B073ZC4TZY/,10,9
+"Flirc Raspberry Pi 3, 2 and B+ Case",Personal Computer,http://www.amazon.com/dp/B00QB6F9I0/,16,9
+Raspberry Pi 3 Model B Motherboard,Personal Computer,http://www.amazon.com/dp/B01CD5VC92/,76,7
+SNES Controller to Adapter for PC USB,Video Games,http://www.amazon.com/dp/B002IXZ5DE/,27,6
+Buffalo iBuffalo Classic USB Gamepad for PC BSGP815GY,PC Accessory,http://www.amazon.com/dp/B06XWD8QQJ/,12,6
+BIQU Aluminum Raspberry Pi 3 Case Enclosure Box (Grey),PC Accessory,http://www.amazon.com/dp/B01H8L4EM8/,6,6
+LoveRPi MicroUSB Push On Off Power Switch Cable for Raspberry Pi (Female to Male),PC Accessory,http://www.amazon.com/dp/B018BFWLRU/,10,6
+Vilros Raspberry Pi 3 Kit with Clear Case and 2.5A Power Supply,PC Accessory,http://www.amazon.com/dp/B01D92SSX6/,12,5
+"Raspberry Pi RPI3CASE-BG Official Raspberry Pi 3 Case, Black/Grey",BISS,http://www.amazon.com/dp/B01F1PSFY6/,13,5
+Microsoft Xbox 360 Wireless Receiver for Windows,Personal Computer,http://www.amazon.com/dp/B000HZFCT2/,179,5
+Reyann Zero Delay Arcade USB Encoder Pc to Joystick for Mame Jamma & Other Pc Fighting Games,Toy,http://www.amazon.com/dp/B00UUROWWK/,15,5
+"Raspberry Pi 7"" Touchscreen Display",PC Accessory,http://www.amazon.com/dp/B0153R2A9I/,24,5
+"Enokay Power Supply for Raspberry Pi 5V 2.5A Micro USB Charger Adapter with On Off Switch Passed RoHS, FCC, CE",Speakers,http://www.amazon.com/dp/B01MZX466R/,7,5
+BW 3.5 Inch TFT LCD Monitor for Car / Automobile,Wireless,http://www.amazon.com/dp/B0045IIZKU/,17,5
+JBtek Transparent Acrylic Raspberry Pi B+ / Raspberry Pi 2 Case with External Fan,PC Accessory,http://www.amazon.com/dp/B00M859PA6/,8,4
+"Plugable USB Bluetooth 4.0 Low Energy Micro Adapter (Windows 10, 8.1, 8, 7, Raspberry Pi, Linux Compatible; Classic Bluetooth, and Stereo Headset Compatible)",Personal Computer,http://www.amazon.com/dp/B009ZIILLI/,38,4
+"Smraza Case for Raspberry Pi 3 with Fan Cooling and Heatsinks, 5V/2.5A Power Supply, Micro USB with On/Off Switch Case for Pi 3B 2 Model B (Not include Raspberry pi board)",PC Accessory,http://www.amazon.com/dp/B01LWURJMI/,7,4
+Makerfire Raspberry Pi B+ Case Protective Case Enclosure Box with Mini Cooling Fan Heatsink Kit,Personal Computer,http://www.amazon.com/dp/B019SIAGTO/,4,4
+Mayflash Wireless Wii U Pro Controller to PC USB Adapter,Personal Computer,http://www.amazon.com/dp/B00E6553PW/,88,4
+"Edimax EW-7811Un 150Mbps 11n Wi-Fi USB Adapter, Nano Size Lets You Plug it and Forget it, Ideal for Raspberry Pi / Pi2, Supports Windows, Mac OS, Linux (Black/Gold)",Personal Computer,http://www.amazon.com/dp/B003MTTJOY/,127,4
+Classic USB NES Controller for PC / Mac - (Not Compatible with NES Classic System),Video Games,http://www.amazon.com/dp/B002YVD3KM/,31,4
+JBtek Raspberry Pi Micro USB Cable with ON / OFF Switch - Easy Start / Reboot !,Personal Computer,http://www.amazon.com/dp/B00JU24Z3W/,7,3
+Vilros Raspberry Pi 3 RetroPie Arcade Gaming Kit with 2 Classic USB Gamepads,PC Accessory,http://www.amazon.com/dp/B01J4HTOS8/,14,3
+Qanba Carbon - PC,Video Games,http://www.amazon.com/dp/B01HSQE7IY/,5,3
+"2 Pack SNES Retro USB Super Nintendo Controller Gamepad Joystick, USB PC Super Classic Controller Joypad Gamestick for Windows PC MAC Linux Android Raspberry Pi 3 Steam Sega Genesis Higan Grey/Purple",Wireless,http://www.amazon.com/dp/B01MYUDDCV/,6,3
+Mayflash Wii Classic Controller Adapter For Pc,BISS,http://www.amazon.com/dp/B0089O4EB0/,19,3
+Addicore Raspberry Pi Heatsink Set for B B+ 2 and 3 (Set of 3 Aluminum Heat Sinks),PC Accessory,http://www.amazon.com/dp/B00HPQGTI4/,11,3
+Tomee NES to USB Controller Adapter,Video Games,http://www.amazon.com/dp/B00HM3QCN2/,9,3
+Easyget LED Arcade DIY Parts 2x Zero Delay USB Encoder + 2x 8 Way Joystick + 20x LED Illuminated Push Buttons for Mame Jamma Arcade Project Red + Blue Kits,Toy,http://www.amazon.com/dp/B00WAY9848/,13,3
+HDE PS PS2 USB Dual Controller to PC Adapter Converter,Video Games,http://www.amazon.com/dp/B001AATQ0Y/,10,3
+CanaKit Raspberry Pi 3 Kit with Clear Case and 2.5A Power Supply,PC Accessory,http://www.amazon.com/dp/B01C6EQNNK/,30,3
+"USB Flush Mount Cable – Rerii 1 Meter 3ft Dual USB Extension Flush, Dash, Panel Mount Cable, for Car, Boat, Motorcycle and More",Personal Computer,http://www.amazon.com/dp/B00XJDP12W/,4,3
+"SanDisk Ultra 32GB microSDHC UHS-I Card with Adapter, Grey/Red, Standard Packaging (SDSQUNC-032G-GN6MA)",Personal Computer,http://www.amazon.com/dp/B010Q57T02/,46,3
+JBtek Jet Black Case for Raspberry Pi 3 Model B & Raspberry Pi 2 Model B - Access to All Ports,PC Accessory,http://www.amazon.com/dp/B00ONOKPHC/,5,3
+PowerLead Cgw PLW001 Wireless Controller Gamepad for Nintendo Wii U Bluetooth Game Controller Joystick Gamepad (Black),Video Games,http://www.amazon.com/dp/B00SN1QEGW/,5,3
+Raspberry Pi 3 Model B 2016 Single Board Computer with High Performance Heatsink Set,PC Accessory,http://www.amazon.com/dp/B01CMC50S0/,3,2
+"Gowoops 5V 2.5A Power Supply Adapter Charger for Raspberry Pi 3 2 Model B, Micro USB Cable with Switch On Off LED Indicator Light and 2 Heatsinks",PC Accessory,http://www.amazon.com/dp/B01FM0XOH8/,4,2
+"Hyperkin ""GN6"" Premium Genesis USB Controller for PC/ Mac",Video Games,http://www.amazon.com/dp/B00KX75UT6/,4,2
+"MAGIC-NS Wireless Controller Adapter for NINTENDO SWITCH & PC, Supports Bluetooth controllers and Wired USB controllers",Video Games,http://www.amazon.com/dp/B07413R4HS/,16,2
+Makerfocus Raspberry Pi IR Remote Control Switch Power Button Module for RPi Raspberry Pi 3 2 Model B Pi B+ A+ Zero,PC Accessory,http://www.amazon.com/dp/B06X9KTQHD/,2,2
+"Eleduino Raspberry Pi 3, 2 and B+ Case Aluminum with Fan (Black)",PC Accessory,http://www.amazon.com/dp/B0722L338Q/,2,2
+Nintendo Wii U Pro Controller - Black,Video Games,http://www.amazon.com/dp/B00MUY0OFU/,18,2
+NorthPada Raspberry Pi 3 Model B Power Supply Charger AC Adapter 5V 3A PSU Micro USB 5 Feet with Power On / Off Switch,Speakers,http://www.amazon.com/dp/B01N336XEU/,2,2
+"Retro - Bit 8Bitdo RB8 - 64 Wireless Bluetooth N64 Styled Controller for iOS, Android, PC, Mac, Linux",Video Games,http://www.amazon.com/dp/B01M1KP9GT/,10,2
+"(2017 New Arrival)REIIE H9S Wireless Mini Handheld Remote Keyboard with Touchpad Work for PC,Raspberry Pi 2,3, Android TV Box ,XBMC,Windows 7 8 10",Personal Computer,http://www.amazon.com/dp/B06WWDMZQL/,2,2
+XCSOURCE Zero Delay Arcade Game USB Encoder PC Joystick DIY Kit for Mame Jamma & Other PC Fighting Games AC426,Toy,http://www.amazon.com/dp/B01IQTN328/,3,2
+"Aerb 2.4GHz Mini Wireless Keyboard with Mouse Touchpad Rechargeable Combos for PC, Pad, Google Android TV Box and More",Personal Computer,http://www.amazon.com/dp/B01HG8DB5E/,4,2
+Raspberry Pi Display Screen Monitor - SunFounder 10.1 Inch HDMI 1280x800 HD IPS LCD for Raspberry Pi 3 2 Model B RPi 1 B+ A+ with Case Sound,PC Accessory,http://www.amazon.com/dp/B01J52TWD4/,3,2
+"LoveRPi Premium Black Case for Official Raspberry Pi 7"" Touch Screen Display and Camera",PC Accessory,http://www.amazon.com/dp/B01GEOLNNS/,3,2
+"Zebra Virtue ~ Black Ice Case for Raspberry Pi 3, 2 and B+ with Fan by C4Labs",PC Accessory,http://www.amazon.com/dp/B01FIUQLOU/,2,2
 AUKEY Pocket 5000mAh Portable Charger with AiPower for Smartphones,CE,http://www.amazon.com/dp/B01H7A9WFY/,2,2
-BIQU Aluminum Raspberry Pi 3 Case Enclosure Box (Grey),PC Accessory,http://www.amazon.com/dp/B01H8L4EM8/,2,2
-Flirc Raspberry Pi Case Gen2 (New Model),Personal Computer,http://www.amazon.com/dp/B07349HT26/,2,2
-"NES CASE, Functional POWER and RESET Button Retroflag NESPI CASE Rasberry Pi 3, 2 and B+(NESPI3-1)",Personal Computer,http://www.amazon.com/dp/B073ZC4TZY/,2,2
-LoveRPi MicroUSB Push On Off Power Switch Cable for Raspberry Pi (Female to Male),PC Accessory,http://www.amazon.com/dp/B018BFWLRU/,,1
-"Anker PowerCore 10000, One of the Smallest and Lightest 10000mAh External Batteries, Ultra-Compact, High-speed Charging Technology Power Bank for iPhone, Samsung Galaxy and More",Wireless,http://www.amazon.com/dp/B0194WDVHI/,17,1
-"Edimax EW-7811Un 150Mbps 11n Wi-Fi USB Adapter, Nano Size Lets You Plug it and Forget it, Ideal for Raspberry Pi / Pi2, Supports Windows, Mac OS, Linux (Black/Gold)",Personal Computer,http://www.amazon.com/dp/B003MTTJOY/,12,1
-Samsung EVO 32GB Class 10 Micro SDHC Card with Adapter (MB-MP32DA/AM),Electronics,https://www.amazon.com/gp/product/B00IVPU786/ref=oh_aui_detailpage_o03_s00?ie=UTF8&amp;psc=1,12,1
-"Raspberry Pi 2 Model B Desktop (Quad Core CPU 900 MHz, 1 GB RAM, Linux)",Personal Computer,http://www.amazon.com/dp/B00T2U7R7I/,8,1
-Logitech Gamepad F310,Electronics,https://www.amazon.com/gp/product/B003VAHYQY/ref=pd_sim_147_1?ie=UTF8&amp;psc=1&amp;refRID=EKZZPC763W4Y3Z1MWFPS,7,1
-"Rii Mini Wireless 2.4GHz Keyboard with Mouse Touchpad Remote Control, Black (mini X1)",PC Accessory,http://www.amazon.com/dp/B00I5SW8MC/,6,1
-Pelican 1170 Case With Foam (Black),Photography,http://www.amazon.com/dp/B0038VETHS/,4,1
-"KuGi Raspberry Pi 3 Model B case PC Protective Case with 2x Heatsinks for Raspberry Pi 3 Model B, Pi 2 Model B & Pi Model B+ (Clear)",Wireless,http://www.amazon.com/dp/B01CDVSBPO/,3,1
-"AmazonBasics High-Speed HDMI Cable - 6.5 Feet (2 Meters) Supports Ethernet, 3D, 4K and Audio Return",Electronics,https://www.amazon.com/AmazonBasics-High-Speed-HDMI-Cable-Supports/dp/B003L1ZYYM?ie=UTF8&amp;psc=1&amp;redirect=true&amp;ref_=oh_aui_detailpage_o08_s01,3,1
-Samsung 64GB 80MB/s EVO Select Micro SDXC Memory Card (MB-ME64DA/AM),Personal Computer,http://www.amazon.com/dp/B01DOB6YQA/,3,1
-URBEST Inlet Module Plug 5A Fuse Switch Male Power Socket 10A 250V 3 Pin IEC320 C14,BISS,http://www.amazon.com/dp/B00ME5YAPK/,3,1
-Vilros Raspberry Pi 3 Kit with Clear Case and 2.5A Power Supply,PC Accessory,http://www.amazon.com/dp/B01D92SSX6/,3,1
-Samsung 128GB up to 48MB/s EVO Class 10 Micro SDXC Card with Adapter (MB-MP128DA/AM),Personal Computer,http://www.amazon.com/dp/B00P3NMVVU/,3,1
-"RS Raspberry Pi 7-Inch LCD Touch Screen Case, Black",Personal Computer,http://www.amazon.com/dp/B01GQFUWIC/,2,1
-"VELCRO Brand - Sticky Back - 3 1/2"" x 3/4"" Strips, 4 Sets - Black",Art and Craft Supply,http://www.amazon.com/dp/B000TGSPV6/,2,1
-HORI Pokken Tournament Pro Pad Limited Edition Controller for Nintendo Wii U,Video Games,http://www.amazon.com/dp/B019QB4SL0/,2,1
-Nintendo Wii U Pro Controller - Black,Video Games,http://www.amazon.com/dp/B00MUY0OFU/,2,1
-Addicore Raspberry Pi Heatsink Set for B B+ 2 and 3 (Set of 3 Aluminum Heat Sinks),PC Accessory,http://www.amazon.com/dp/B00HPQGTI4/,2,1
-"Case for the Official Raspberry Pi 7"" Touchscreen Display - Adjustable angle",PC Accessory,http://www.amazon.com/dp/B01HV97F64/,2,1
-Raspberry Pi 3 Model B 2016 Single Board Computer with High Performance Heatsink Set,PC Accessory,http://www.amazon.com/dp/B01CMC50S0/,2,1
-"Smraza Case for Raspberry Pi 3 with Fan Cooling and Heatsinks, 5V/2.5A Power Supply, Micro USB with On/Off Switch Case for Pi 3B 2 Model B (Not include Raspberry pi board)",PC Accessory,http://www.amazon.com/dp/B01LWURJMI/,2,1
-Samsung 128GB USB 3.0 Flash Drive Fit (MUF-128BB/AM),Electronics,https://www.amazon.com/Samsung-128GB-Flash-MUF-128BB-AM/dp/B017DH3O5A/,2,1
-Elecom game pad 8 button Super Nintendo style　（Japan Import） JC-FR08TWH,Photography,http://www.amazon.com/dp/B01HGGWOMC/,1,1
-"2 Pack SNES Retro USB Super Nintendo Controller Gamepad Joystick, USB PC Super Classic Controller Joypad Gamestick for Windows PC MAC Linux Android Raspberry Pi 3 Steam Sega Genesis Higan Grey/Purple",Wireless,http://www.amazon.com/dp/B01MYUDDCV/,1,1
-"New SNES Super Nintendo Controller , Retro USB Super Classic Controller for PC/Mac (Multi Colored Keys) (Pack of 2)",Video Games,http://www.amazon.com/dp/B01DCXCJ8C/,1,1
-DIKAVS 3Pcs Raspberry Pi Blue Heatsink Cooling Set for B B+ 2 and 3 - Blue,PC Accessory,http://www.amazon.com/dp/B01M4LVNRO/,1,1
-Fresh Organic Bananas Approximately 3 Lbs 1 Bunch of 6-9 Bananas,Grocery,http://www.amazon.com/dp/B00ZVIWWB6/,1,1
-"Micro USB cable,Coeuspow Durable Silicone USB Charge Data Sync Cable for Samsung Galaxy S6/5 Note HTC Nokia Motorola Lg Google Nexus, Android Smartphone and Tablet-2*Pack 6 Inch (15 cm)",Network Media Player,http://www.amazon.com/dp/B014A1K46Y/,1,1
-"LoveRPi Premium Black Case for Official Raspberry Pi 7"" Touch Screen Display and Camera",PC Accessory,http://www.amazon.com/dp/B01GEOLNNS/,1,1
-Koss VC20 Volume Control,Speakers,http://www.amazon.com/dp/B00001P4XH/,1,1
-"Kootek 5V 2A Universal Micro USB Charger Adapter Power Supply for Raspberry Pi 3 / 2, Phone",PC Accessory,http://www.amazon.com/dp/B00GWDLJGS/,1,1
-Caseling Hard Case for Xbox 360 Wireless Controller,PC Accessory,http://www.amazon.com/dp/B018SWWEY6/,1,1
-Easyget Classic Arcade Game DIY Parts for Mame USB Cabinet 2x Zero Delay USB Encoder + 2x 8 Way Classic Arcade Joystick + 18x Classic Arcade Push Button (Including 1p / 2p Start Push Button) Blue + Red Color Kits,Toy,http://www.amazon.com/dp/B00WDQWK5M/,1,1
-Eleduino Raspberry Pi 3 and  Raspberry Pi 2 Metal Case with Cooling Fan Black,Personal Computer,http://www.amazon.com/dp/B012GPCLR6/,1,1
-"(2017 New Arrival)REIIE H9S Wireless Mini Handheld Remote Keyboard with Touchpad Work for PC,Raspberry Pi 2,3, Android TV Box ,XBMC,Windows 7 8 10",Personal Computer,http://www.amazon.com/dp/B06WWDMZQL/,1,1
-Kano Computer Kit (2016 Edition),Toy,http://www.amazon.com/dp/B00WRGTVWI/,1,1
-"Raspberry Pi RASPBERRY-PI3-CASE Official Raspberry Pi 3 Case, Red/White",Industrial & Scientific,https://www.amazon.com/gp/product/B01CK3XTIE/ref=oh_aui_detailpage_o03_s00?ie=UTF8&amp;psc=1,1,1
-Tomee SNES to USB Controller Adapter,Video Games,http://www.amazon.com/dp/B00HM3QCT6/,1,1
-(2 Pack) Uninex Wall Tap Outlet W/Turn ON/OFF Switch Power Adapter 2 prong Plug Without Unplugging Cords ETL,Home Improvement,http://www.amazon.com/dp/B01EKL96Y0/,1,1
-Logitech Gamepad F710 (Certified Refurbished),PC Accessory,http://www.amazon.com/dp/B01M1LWHWL/,1,1
-"[UL Listed] Pwr+ Extra Long 6.5 Ft 3.5A Fastest Tablet-Ac-Adapter for Google-Nexus 7, 9, 10 Tablet Tab; Samsung Galaxy Tab 3, 4 7.0, 8.0, Note 5 Phone; Nexus S Phone; Asus Transformer Book T100 Memo Pad 7, 8, 10 Hd FHD Smart; Galaxy S2, S3, S4, S6, S7 Edge; HTC One A9 M7 M8 M9, Desire; BLU Advance, Studio 5.0 5.5 6.0 7.0, One X Plus, Win HD, Life Play, Vivo Air, PURE XL, LIFE ONE X2 Phone; Motorola Moto G, RAZR M, X Pure; Huawei Honor 5X; BlackBerry DTEK50; Anker Battery Cell Phone-Power-Cord",Wireless,http://www.amazon.com/dp/B00IJKG9R6/,1,1
-Electop 2 Pack 2 Pin SW PC Power Cable on/off Push Button ATX Computer Switch Wire 45cm,Speakers,http://www.amazon.com/dp/B01LMZZFWO/,1,1
-"Aerb 2.4GHz Mini Wireless Keyboard with Mouse Touchpad Rechargeable Combos for PC, Pad, Google Android TV Box and More",Personal Computer,http://www.amazon.com/dp/B01HG8DB5E/,1,1
+8Bitdo N30 Pro Controller with Bonus Carrying Case - for iOS/Android/Mac/PC/Switch/SNES Classic,Personal Computer,http://www.amazon.com/dp/B01LW7JJPJ/,12,2
+"Performance Pro Active Cooling Case (Black) for Raspberry Pi 3, ASUS Tinker Board, ODROID-C2",PC Accessory,http://www.amazon.com/dp/B01ESLEI7M/,3,2
+Samsung 64GB 80MB/s EVO Select Micro SDXC Memory Card (MB-ME64DA/AM),Personal Computer,http://www.amazon.com/dp/B01DOB6YQA/,9,2
+SanDisk Mobile 8GB MicroSDHC Flash Memory Card- SDSDQM-B35A,CE,http://www.amazon.com/dp/B004ZIENBA/,3,2
+MAYFLASH N64 Controller Adapter For Pc,Toy,http://www.amazon.com/dp/B002B9FIUU/,30,2
+"MicroUSB Extension Cable: MicroUSB Male to MicroUSB Female Cable, Data+Charge+OTG, 1' black",PC Accessory,http://www.amazon.com/dp/B01EUTRL30/,2,2
+Tomee SNES to USB Controller Adapter,Video Games,http://www.amazon.com/dp/B00HM3QCT6/,2,2
+"KuGi Raspberry Pi 3 Model B case PC Protective Case with 2x Heatsinks for Raspberry Pi 3 Model B, Pi 2 Model B & Pi Model B+ (Clear)",Wireless,http://www.amazon.com/dp/B01CDVSBPO/,6,2
+"Anker PowerCore 10000, One of the Smallest and Lightest 10000mAh External Batteries, Ultra-Compact, High-speed Charging Technology Power Bank for iPhone, Samsung Galaxy and More",Wireless,http://www.amazon.com/dp/B0194WDVHI/,75,2
+8BITDO NES30 Pro Wireless Bluetooth Controller Dual Classic Joystick For Android Gamepad - PC Mac Linux,Personal Computer,http://www.amazon.com/dp/B018K3Q4KS/,15,2
+SanDisk Ultra Fit 128GB USB 3.0 Flash Drive (SDCZ43-128G-GAM46) [Newest Version],Personal Computer,http://www.amazon.com/dp/B01BGTG2A0/,29,2
+"Sunfounder 7"" HD 1024x600 TFT LCD Screen Display AV/VGA/HDMI Monitor Built-in Speaker for CCTV Computer PC DVR Home Office Raspberry Pi 3, 2 1 Model B B+ Kano",PC Accessory,http://www.amazon.com/dp/B012ZRYDYY/,5,2
+"Alienware Steam Machine ASM100-2980BLK Desktop Console (Intel Core i3, 8 GB RAM, 1 TB HDD) NVIDIA GeForce GTX GPU",Personal Computer,http://www.amazon.com/dp/B01617UJDI/,6,2
+"4 in 1 Professional Kit for Raspberry Pi 3 & Raspberry Pi 2 and Raspberry Pi B+,blue Sliced 9 Layers Case Box + Cooling Fan +micro USB Cable with Turn/on Switch ,Heatsinks",PC Accessory,http://www.amazon.com/dp/B011TY0P9Q/,3,2
+PAC USB-DMA Dash-Mount Adaptor for USB Accessories,Car Audio or Theater,http://www.amazon.com/dp/B012PSPRR0/,2,2
+Xbox 360 Wireless Gaming Receiver for Windows (Certified Refurbished),Video Games,http://www.amazon.com/dp/B00VB2UT3O/,3,2
+LoveRPi Performance Heatsinks for Raspberry Pi 3 Model B (1 Set),PC Accessory,http://www.amazon.com/dp/B018BGRDVS/,5,2
+Raspberry Pi Micro USB Cable with ON/OFF Switch - Easy Start / Reboot !,PC Accessory,http://www.amazon.com/dp/B00GGX94JI/,5,2
+Koss VC20 Volume Control,Speakers,http://www.amazon.com/dp/B00001P4XH/,17,2
+YCS Basics 6 inch USB Micro male to female OTG extension cable,Wireless,http://www.amazon.com/dp/B00HAOK7XE/,4,2
+Eleduino Raspberry Pi 3 and Raspberry Pi 2 Model B Acrylic Case with High Quality Mini Fan,PC Accessory,http://www.amazon.com/dp/B011HNZTFO/,6,2
+WINGONEER DC 5V Brushless CPU Cooling Fan with Screws for Raspberry Pi 3 / Pi 2 Model B RPI B+,PC Accessory,http://www.amazon.com/dp/B01M16KDEG/,3,2
+Full Parts Replacement Housing Shell Pack for Nintendo Gameboy Advance SP GBA SP(Black)(Battery is Not included),Video Games,http://www.amazon.com/dp/B00B5QP54E/,2,1
+10Pcs 5 x 7 cm DIY Prototype Paper PCB Universal Board New,BISS,http://www.amazon.com/dp/B00ARTP1J4/,1,1
+AmazonBasics 4-Port USB 2.0 Ultra-Mini Hub,CE,http://www.amazon.com/dp/B003M0NURK/,24,1
+Sabrent Twelve-Button USB 2.0 Game Controller For PC (USB-GAMEPAD),Personal Computer,http://www.amazon.com/dp/B00AEWTSWU/,6,1
+Phantom YoYo 40P dupont cable 200mm male to female,CE,http://www.amazon.com/dp/B00A6SOGC4/,2,1
+"Aven 17542 Desoldering Wick, 2.5mm Width, 5' Length",BISS,http://www.amazon.com/dp/B003E48ERU/,12,1
+Buffalo iBuffalo Classic USB Gamepad for PC BGCFC801RDA,PC Accessory,http://www.amazon.com/dp/B000TW9AFU/,7,1
+Power-Up Arcade Light Switch Plate,Toy,http://www.amazon.com/dp/B00A2UN104/,1,1
+Home Wall 2 Port AC Outlet USB Charger Adapter Plug,Home Improvement,http://www.amazon.com/dp/B003C2T0C2/,2,1
+Pro Controller U for Wii and Wii U - SNES,Video Games,http://www.amazon.com/dp/B009O3WU5W/,1,1
+Wii U Pro Controller Black,Video Games,http://www.amazon.com/dp/B009AFLXQQ/,12,1
+Dremel A577 Detailers Grip,Home Improvement,http://www.amazon.com/dp/B003BIFMJW/,1,1
+"VELCRO Brand - Sticky Back - 3 1/2"" x 3/4"" Strips, 4 Sets - Black",Art and Craft Supply,http://www.amazon.com/dp/B000TGSPV6/,13,1
+CanaKit Raspberry Pi 2 Complete Starter Kit (9-Items),Personal Computer,http://www.amazon.com/dp/B008XVAVAW/,63,1
+100 Pcs 6x6x4.5mm Panel PCB Momentary Tactile Tact Push Button Switch 4 Pin DIP,BISS,http://www.amazon.com/dp/B008DS1GY0/,2,1
+Pelican 1170 Case With Foam (Black),Photography,http://www.amazon.com/dp/B0038VETHS/,21,1
+Arctic Silver Arctic Alumina 5g Premium Ceramic Thermal Cooling Adhesive Set (AATA-5G),Personal Computer,http://www.amazon.com/dp/B0087X725S/,4,1
+Buffalo iBuffalo USB Gamepad for PC BSGP1601BK,PC Accessory,http://www.amazon.com/dp/B0031UCGLW/,2,1
+SE MZ101B Helping Hand with Magnifying Glass,Home Improvement,http://www.amazon.com/dp/B000RB38X8/,45,1
+48cm Sd-micro Sd Card Extender Cable,Personal Computer,http://www.amazon.com/dp/B007WYRO7O/,4,1

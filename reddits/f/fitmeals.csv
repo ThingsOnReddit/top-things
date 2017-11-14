@@ -1,43 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"ChefLand 3-Compartment Microwave Safe Food Container with Lid/Divided Plate/Bento Box/Lunch Tray with Cover, Black, 10-Pack",Kitchen,http://www.amazon.com/dp/B00PY032QK/,12,3
-"Explore Asian Organic Black Bean Spaghetti, 7.05-Ounce (Pack of 6)",Grocery,http://www.amazon.com/dp/B004NSG8F6/,4,2
-"T-fal E93808 Professional Total Nonstick Thermo-Spot Heat Indicator Fry Pan, 12.5 Inch, Black",Kitchen,http://www.amazon.com/dp/B000GWG0T2/,16,1
-"PB2 Powdered Peanut Butter,6.5 oz",Grocery,http://www.amazon.com/dp/B002GJ9JWS/,11,1
-"Meal Prep Haven 3 Compartment Food Containers with Airtight Lid, Bento Box, Fitness Lunch Box for Meal Prep, 21 Day Fix and Portion Control, Set of 7",Kitchen,http://www.amazon.com/dp/B011SY4P9I/,10,1
-Misto Brushed Aluminum Olive Oil Sprayer,Kitchen,http://www.amazon.com/dp/B00004SPZV/,9,1
-"Lodge Cast Iron Skillet with Red Silicone Hot Handle Holder, 12-inch",Kitchen,http://www.amazon.com/dp/B00G2XGC88/,8,1
-"Nordic Ware Microwave Popcorn Popper, 12-Cup, White",Kitchen,http://www.amazon.com/dp/B00004W4UP/,6,1
-The Art and Science of Low Carbohydrate Living:  An Expert Guide to Making the Life-Saving Benefits of Carbohydrate Restriction Sustainable and Enjoyable,eBooks,http://www.amazon.com/dp/B005CVV2AE/,5,1
-"Veggetti Spiral Vegetable Slicer, Makes Veggie Pasta",Kitchen,http://www.amazon.com/dp/B00IIVRB3W/,5,1
-"EatSmart Precision Pro Digital Kitchen Scale, Silver",Kitchen,http://www.amazon.com/dp/B001N07KUE/,5,1
-"Huy Fong Chili Garlic Sauce, 8 oz",Grocery,http://www.amazon.com/dp/B0016L34GO/,5,1
-JFC - Nori Komi Furikake (Rice Seasoning) 1.7 Ounce Jar,Grocery,http://www.amazon.com/dp/B0006G5KEY/,4,1
-"Komax Biokips Food Storage Lunch Boxes Set of 3, Divided Plastic Container with 3 Removable Compartments, Leak Proof, - Airtight Locking Lids - Great for School Kids Bento Box (37 oz)",Toy,http://www.amazon.com/dp/B00MWBJRUO/,3,1
-Kodiak Cakes Power Cakes: Flapjack and Waffle Mix Whole Grain Buttermilk Net Wt. 4.5 lb,Grocery,http://www.amazon.com/dp/B00LH6ZAN8/,3,1
-"Paksh Novelty Plastic Reusable Food Storage Container with Clear Lid & Lunch Tray / Bento Box, Microwave & Dishwasher Safe, 38 ounce, 10 pack",Kitchen,http://www.amazon.com/dp/B00QMKPHLE/,3,1
-MatchaDNA Handheld Electric Milk Frother (Silver Handheld),Kitchen,http://www.amazon.com/dp/B018TCWL8O/,2,1
-Pillsbury Fast & Healthy Cookbook (Pillsbury Cooking),Book,http://www.amazon.com/dp/0470287446/,2,1
-"Reditainer Rectangular Food Storage Container with Lid, 38-Ounce, Package of 10",Kitchen,http://www.amazon.com/dp/B009W2LMPO/,2,1
-"Kuhn Rikon Julienne Peeler with Blade Protector, Stainless Steel Handle",Boost,http://www.amazon.com/dp/B0000CEWJD/,2,1
-"Microhearth Grill Pan for Microwave Cooking, Red",Kitchen,http://www.amazon.com/dp/B004FGAVEK/,2,1
-"MusclePharm Combat Powder Advanced Time Release Protein, Chocolate Milk, 4 Pound",Health and Beauty,http://www.amazon.com/dp/B003BVI5FW/,2,1
-Zak Designs E-Z-Rol Garlic Peeler (Blue),Kitchen,http://www.amazon.com/dp/B00004RDDP/,2,1
-"Bell Plantation Powdered PB2 Bundle: 1 Peanut Butter and 1 Chocolate Peanut Butter, 1 lb Jar (2-pack)",Health and Beauty,http://www.amazon.com/dp/B00JBCGYMG/,2,1
-"Walden Farms Pancake Syrup, 12 Ounce",Grocery,http://www.amazon.com/dp/B000TO7U64/,1,1
-Smart Planet MDM-1 Mini Donut Maker,Kitchen,http://www.amazon.com/dp/B002Y0483O/,1,1
-"Everyday Cooking Essentials Instant Read Thermometer with Probe,Wireless Remote",Kitchen,http://www.amazon.com/dp/B00PQY7PUS/,1,1
-"All-Clad 5112 Stainless Steel Fry Pan Cookware, 12-Inch, Silver",Kitchen,http://www.amazon.com/dp/B00005AL5F/,1,1
-"P28 Foods The Original High Protein Pancake Dry Mix, Strawberries N' Cream, 16 Ounce",Health and Beauty,http://www.amazon.com/dp/B00WWB6QO4/,1,1
-"Bento Lunch Box Set - Meal Prep Food Storage - Restaurant Containers - Plastic Foodsaver (8pk, 34oz)",Kitchen,http://www.amazon.com/dp/B00TXW5Z4C/,1,1
-"Pakkon 2 Compartment Plastic Bento Lunch Box with Airtight Lid, Pack of 10",Kitchen,http://www.amazon.com/dp/B015NDR3SK/,1,1
-Nutri Ninja Pro BL450 (Discontinued),Kitchen,http://www.amazon.com/dp/B00JFLVMNE/,1,1
-The Hairy Dieters,Book,http://www.amazon.com/dp/0297869051/,1,1
-"Bell Plantation PB2 Powdered Peanut Butter and PB2 with Premium Chocolate, 6.5 Ounce (Pack of 2)",Grocery,http://www.amazon.com/dp/B0098WV8F2/,1,1
+"ChefLand 3-Compartment Microwave Safe Food Container with Lid/Divided Plate/Bento Box/Lunch Tray with Cover, Black, 10-Pack",Kitchen,http://www.amazon.com/dp/B00PY032QK/,59,5
+"Meal Prep Haven 3 Compartment Food Containers with Airtight Lid, Bento Box, Fitness Lunch Box for Meal Prep, 21 Day Fix and Portion Control, Set of 7",Kitchen,http://www.amazon.com/dp/B011SY4P9I/,30,4
+"Komax Biokips Food Storage Lunch Boxes Set of 3, Divided Plastic Container with 3 Removable Compartments, Leak Proof, - Airtight Locking Lids - Great for School Kids Bento Box (37 oz)",Toy,http://www.amazon.com/dp/B00MWBJRUO/,13,4
+"Explore Asian Organic Black Bean Spaghetti, 7.05-Ounce (Pack of 6)",Grocery,http://www.amazon.com/dp/B004NSG8F6/,25,3
+"PB2 Powdered Peanut Butter,6.5 oz",Grocery,http://www.amazon.com/dp/B002GJ9JWS/,44,2
+"Veggetti Spiral Vegetable Slicer, Makes Veggie Pasta",Kitchen,http://www.amazon.com/dp/B00IIVRB3W/,31,2
+Zwilling J.A. Henckels Twin Signature 7-Inch Hollow Edge Santoku,Kitchen,http://www.amazon.com/dp/B0002ZW5WY/,3,2
+Pyrex Simply Store 3-Cup Rectangular Glass Food Storage Dish,Kitchen,http://www.amazon.com/dp/B0000CFTP7/,3,2
+Glasslock 18-Piece Assorted Oven Safe Container Set,Kitchen,http://www.amazon.com/dp/B00LN810PM/,18,2
+Kodiak Cakes Power Cakes: Flapjack and Waffle Mix Whole Grain Buttermilk Net Wt. 4.5 lb,Grocery,http://www.amazon.com/dp/B00LH6ZAN8/,11,2
+"Bell Plantation Powdered PB2 Bundle: 1 Peanut Butter and 1 Chocolate Peanut Butter, 1 lb Jar (2-pack)",Health and Beauty,http://www.amazon.com/dp/B00JBCGYMG/,7,2
+Misto Brushed Aluminum Olive Oil Sprayer,Kitchen,http://www.amazon.com/dp/B00004SPZV/,31,2
+"Ozeri Pronto Digital Multifunction Kitchen and Food Scale, Elegant Black",Kitchen,http://www.amazon.com/dp/B004164SRA/,281,2
+"Racing Weight Cookbook: Lean, Light Recipes for Athletes (Racing Weight Series)",Book,http://www.amazon.com/dp/1937715159/,2,1
+Zak Designs E-Z-Rol Garlic Peeler (Blue),Kitchen,http://www.amazon.com/dp/B00004RDDP/,7,1
+Norpro Egg Perfect Egg Timer,Kitchen,http://www.amazon.com/dp/B00004UE75/,5,1
+"Nordic Ware Microwave Popcorn Popper, 12-Cup, White",Kitchen,http://www.amazon.com/dp/B00004W4UP/,15,1
+"All-Clad 5112 Stainless Steel Fry Pan Cookware, 12-Inch, Silver",Kitchen,http://www.amazon.com/dp/B00005AL5F/,2,1
+Pyrex Simply Store 10-Piece Glass Food Storage Set with Blue Lids,Kitchen,http://www.amazon.com/dp/B00005B8K5/,5,1
+"Kuhn Rikon Julienne Peeler with Blade Protector, Stainless Steel Handle",Boost,http://www.amazon.com/dp/B0000CEWJD/,4,1
+"Polder 362-90 Digital In-Oven Thermometer/Timer, White",Kitchen,http://www.amazon.com/dp/B0000CF5MT/,15,1
+OXO Good Grips Mandoline Slicer,Kitchen,http://www.amazon.com/dp/B0000DAQ8B/,3,1
+"Maggi Domestic Seasoning, 3.38 oz",Grocery,http://www.amazon.com/dp/B0000GHEGC/,3,1
+"Cuisinart CRC-400 Rice Cooker, Stainless Steel, 4-Cup",Kitchen,http://www.amazon.com/dp/B0001XAG8W/,2,1
+"Zojirushi SL-JAE14SA Mr. Bento Stainless Steel Lunch Jar, Silver",Kitchen,http://www.amazon.com/dp/B000246GSE/,39,1
+Ajinomoto - Hon Dashi (Soup Stock) 4.23 Oz.,Grocery,http://www.amazon.com/dp/B0002YB40O/,6,1
+"Wilton 2105-459 Excelle Elite 3-Tier Cooling Rack, 15 7/8"" X 9 7/8""",Kitchen,http://www.amazon.com/dp/B00030CGKY/,5,1
+"Lodge P14W3 Seasoned Cast Iron Wok, 14 inch",Kitchen,http://www.amazon.com/dp/B00063RXQK/,8,1
+JFC - Nori Komi Furikake (Rice Seasoning) 1.7 Ounce Jar,Grocery,http://www.amazon.com/dp/B0006G5KEY/,11,1
 "Celestial Seasonings Herbal Tea, Bengal Spice, 20 Count (Pack of 6)",Grocery,http://www.amazon.com/dp/B000E63LDS/,1,1
-"Cuisinart SBC-1000 Blend-and-Cook Soup Maker, Black",Kitchen,http://www.amazon.com/dp/B004VS31LC/,1,1
-Rice Seasoning Furikake 8 Variety Furikake Set,Grocery,http://www.amazon.com/dp/B00A6ID6MU/,1,1
-"NOW Nutritional Yeast Flakes,10-Ounce",Health and Beauty,http://www.amazon.com/dp/B000MGR1N6/,1,1
-Pyrex Simply Store 3-Cup Rectangular Glass Food Storage Dish,Kitchen,http://www.amazon.com/dp/B0000CFTP7/,1,1
-"The I-Can't-Chew Cookbook: Delicious Soft Diet Recipes for People with Chewing, Swallowing, and Dry Mouth Disorders",Book,http://www.amazon.com/dp/0897934008/,1,1
-"Understanding Nutrition, Ninth Edition",Book,http://www.amazon.com/dp/0534590047/,1,1
 "Let's Do Organic Sprinkelz Organic Confetti, Gluten-Free, 1-ounce (12 pack)",Grocery,http://www.amazon.com/dp/B000F4D5U8/,1,1
+"T-fal E93808 Professional Total Nonstick Thermo-Spot Heat Indicator Fry Pan, 12.5 Inch, Black",Kitchen,http://www.amazon.com/dp/B000GWG0T2/,47,1
+"NOW Nutritional Yeast Flakes,10-Ounce",Health and Beauty,http://www.amazon.com/dp/B000MGR1N6/,5,1
+"Optimum Nutrition Gold Standard 100% Whey Protein Powder, Double Rich Chocolate, 5 Pound",Health and Beauty,http://www.amazon.com/dp/B000QSNYGI/,68,1
+"Walden Farms Pancake Syrup, 12 Ounce",Grocery,http://www.amazon.com/dp/B000TO7U64/,5,1
+"Fiber One Cereal, Original Bran, Whole Grain Cereal, 16.2 oz",Pantry,http://www.amazon.com/dp/B000VDT4M6/,2,1
+"Amazing Grass Green Superfood Organic Powder with Wheat Grass and Greens, Flavor: Original, 30 Servings",Grocery,http://www.amazon.com/dp/B00112ILZM/,11,1
+"S&B Golden Curry Sauce Mix, Hot, 8.4-Ounce",Grocery,http://www.amazon.com/dp/B0011UGYLM/,8,1
+"Nutiva Organic Hemp Protein, Hi-Fiber, 3 Pound",Grocery,http://www.amazon.com/dp/B0012C2GFM/,7,1
+"Huy Fong Chili Garlic Sauce, 8 oz",Grocery,http://www.amazon.com/dp/B0016L34GO/,7,1
+Zojirushi Classic Bento Vacuum Lunch Jar,Kitchen,http://www.amazon.com/dp/B0016S11VC/,3,1
+SEOH Centrifuge Tubes Sterile 50ml disposable flat cap 50/bg,BISS,http://www.amazon.com/dp/B0018MQ9TK/,1,1
+"The Flavor Bible: The Essential Guide to Culinary Creativity, Based on the Wisdom of America's Most Imaginative Chefs",eBooks,http://www.amazon.com/dp/B001FA0P86/,6,1
+Norpro Stainless Steel Vegetable Steamer,Kitchen,http://www.amazon.com/dp/B001FBCP7O/,8,1
+"EatSmart Precision Pro Digital Kitchen Scale, Silver",Kitchen,http://www.amazon.com/dp/B001N07KUE/,33,1
+"Bumble Bee Premium Skinless & Boneless Wild Pink Salmon, 5oz Pouch (Pack of 12)",Grocery,http://www.amazon.com/dp/B0025ULK66/,2,1
+Bragg Organic Yeast Seasoning-4.5 oz,Grocery,http://www.amazon.com/dp/B002863BIW/,16,1
+Not Your Mother's Slow Cooker Recipes for Entertaining (NYM Series),Book,http://www.amazon.com/dp/B0028N72RG/,1,1
+"Chef Craft 100% Stainless  Steel Steamer Basket, 6-Inch Expands to 9.5-Inch",Kitchen,http://www.amazon.com/dp/B0029728H0/,5,1
+"NOW Psyllium Husk Powder, 24-Ounce",Health and Beauty,http://www.amazon.com/dp/B002RWUNYM/,23,1
+"Reynolds Slow Cooker Liners, 4-Count (Pack of 12)",Health and Beauty,http://www.amazon.com/dp/B002U0KKK8/,18,1
+Smart Planet MDM-1 Mini Donut Maker,Kitchen,http://www.amazon.com/dp/B002Y0483O/,1,1
+"Nutribiotic Organic Rice Protein, Plain, 3 Pound",Health and Beauty,http://www.amazon.com/dp/B0033T8CZK/,3,1
+"MusclePharm Combat Powder Advanced Time Release Protein, Chocolate Milk, 4 Pound",Health and Beauty,http://www.amazon.com/dp/B003BVI5FW/,3,1
+"Carolina Gold Nuggets Microwave Pork Puffies Pork Rinds, Original, 5 Pound",Grocery,http://www.amazon.com/dp/B003EFJTS2/,1,1
+"Barilla Whole Grain Pasta, Thin Spaghetti, 13.25oz, 4 Count",Grocery,http://www.amazon.com/dp/B003EXVM4S/,1,1
+Barilla Whole Grain Rotini 13.25 oz. (Pack  of 4),Grocery,http://www.amazon.com/dp/B003EXXPRK/,1,1
+"MusclePharm Combat Powder Advanced Time Release Protein, Banana Cream  4 Pound",Health and Beauty,http://www.amazon.com/dp/B003IEM11G/,2,1
+"Lekue Steam Case with Tray for 1 to 2 Person, Clear",Kitchen,http://www.amazon.com/dp/B003OW6H0S/,1,1
+"Optimum Nutrition Essential Amino Energy, Fruit Fusion, 30 Servings, 9.5 Ounce (Pack of 3)",Health and Beauty,http://www.amazon.com/dp/B003X5FYJQ/,2,1
+"Microhearth Grill Pan for Microwave Cooking, Red",Kitchen,http://www.amazon.com/dp/B004FGAVEK/,3,1
+Chef'n VeggiChop Hand-Powered Food Chopper (Arugula),Kitchen,http://www.amazon.com/dp/B004HFR2MS/,3,1
+25 sets 32oz plastic soup/Food container with lids,BISS,http://www.amazon.com/dp/B004HV0X7S/,1,1
+"Cuisinart SBC-1000 Blend-and-Cook Soup Maker, Black",Kitchen,http://www.amazon.com/dp/B004VS31LC/,1,1
+Kagayaki Six Grain Rice 2.2 lbs,Grocery,http://www.amazon.com/dp/B0057H5G6Y/,1,1
+The Art and Science of Low Carbohydrate Living:  An Expert Guide to Making the Life-Saving Benefits of Carbohydrate Restriction Sustainable and Enjoyable,eBooks,http://www.amazon.com/dp/B005CVV2AE/,20,1
+"True Lime Bulk Dispenser Pack, 100 Count (2.82oz)",Grocery,http://www.amazon.com/dp/B005ECLIUA/,5,1
+"Zojirushi NS-LAC05XT Micom 3-Cup Rice Cooker and Warmer, Black and Stainless Steel",Kitchen,http://www.amazon.com/dp/B005FVROW6/,13,1
+"Coleman 30 Can Cooler, Green",Sports,http://www.amazon.com/dp/B006HFBF7E/,1,1
+Trader Joe's Ming's Sesame Soy Ginger Vinaigrette,Grocery,http://www.amazon.com/dp/B0071QTGDI/,2,1
+"Garden of Life Meal Replacement - Organic Raw Plant Based Protein Powder, Vanilla, Vegan, Gluten-Free, 34.2oz (969g) Powder",Health and Beauty,http://www.amazon.com/dp/B007S6Y74O/,5,1
+Flour Water Salt Yeast: The Fundamentals of Artisan Bread and Pizza,eBooks,http://www.amazon.com/dp/B007SGLZH6/,8,1
+"Elite Gourmet MST-250XS 1.5 Quart Slow Cooker, Silver (Stainless Steel Finish)",Kitchen,http://www.amazon.com/dp/B008GS8R3K/,9,1
+"BLACK+DECKER RC3314W 8-Cup Dry/14-Cup Cooked Rice Cooker, White",Kitchen,http://www.amazon.com/dp/B008YS1V62/,2,1
+"Cleanblend Blender: 3HP 1800-Watt Commercial Blender Commercial Blender with a virtually unbreakable 64 ounce BPA Free container, Stainless steel enclosed blade assembly, includes Tamper, recipe book",Kitchen,http://www.amazon.com/dp/B0094B94BM/,3,1
+"Bell Plantation PB2 Powdered Peanut Butter and PB2 with Premium Chocolate, 6.5 Ounce (Pack of 2)",Grocery,http://www.amazon.com/dp/B0098WV8F2/,5,1
+Deceptively Delicious: Simple Secrets to Get Your Kids Eating Good Food,Book,http://www.amazon.com/dp/006176793X/,9,1
+Rice Seasoning Furikake 8 Variety Furikake Set,Grocery,http://www.amazon.com/dp/B00A6ID6MU/,7,1
+"Baobest Baobab Fruit Powder, 16 Ounce (Pack of 6)",Grocery,http://www.amazon.com/dp/B00AAP9GKU/,1,1
+"Sistema To Go Collection Sauce Container/Squeeze Bottle, 1.1 Ounce each, Assorted Colors, Set of 3",Kitchen,http://www.amazon.com/dp/B00BG4DHLS/,5,1
+Snapware: 18PC Total Solution Pyrex Glass Food Keeper Set - Featuring Write N' Erase Lids - 18PC - 18-Piece Set.,Kitchen,http://www.amazon.com/dp/B00BSZJYY4/,8,1
+"OhYeah! Victory Bars, Chocolate Chip Cookie Dough, 12 Count,2.29oz bars",Health and Beauty,http://www.amazon.com/dp/B00CTUIS12/,1,1
+"Growing Naturals Organic Rice Protein Powder, Chocolate, 33.6 Ounce",Health and Beauty,http://www.amazon.com/dp/B00CYQWC8G/,3,1
+Explore Asian Organic Black Bean Spaghetti Pasta -- 7.05 oz Each / Pack of 2,Health and Beauty,http://www.amazon.com/dp/B00DUNR7Y6/,1,1
+"Bamboo Lane Crunchy Rice Rollers, 3.5 Ounce",Grocery,http://www.amazon.com/dp/B00FGKJQPE/,2,1
+"Lodge Cast Iron Skillet with Red Silicone Hot Handle Holder, 12-inch",Kitchen,http://www.amazon.com/dp/B00G2XGC88/,20,1
+"PackIt Freezable Lunch Bag with Zip Closure, Black",Kitchen,http://www.amazon.com/dp/B00HJ8DFGC/,9,1
+Squooshi Reusable Food Pouch | G.O. 8 Pack | 8 Large Pouches,Baby Product,http://www.amazon.com/dp/B00HPD4V1Y/,6,1
+Ikea Kullar Thermos,Kitchen,http://www.amazon.com/dp/B00HQ4489W/,1,1
+Kyocera CFP30BK Ceramic Coated Nonstick 12-inch Fry Pan,Kitchen,http://www.amazon.com/dp/B00I5HE5RY/,2,1
+50set 38oz Black Square Food Takeout Storage Containers with Lids,Kitchen,http://www.amazon.com/dp/B00IJJVBFC/,1,1
+"Heinz Tomato Ketchup, Reduced Sugar, 13 Ounce (Pack of 6)",Grocery,http://www.amazon.com/dp/B00IOE034C/,4,1
+Shrimp Balachong (Excellent Food Topping) (X 2 Promotion),Grocery,http://www.amazon.com/dp/B00IU8VZCQ/,1,1
+Nutri Ninja Pro BL450 (Discontinued),Kitchen,http://www.amazon.com/dp/B00JFLVMNE/,9,1
+"Gogogu Vegetable Spiral Slicer, Vegetti Spiralizer Spiral Cutter for Healthy Vegetable Meals",Kitchen,http://www.amazon.com/dp/B00K8LHA3G/,1,1
+"BPI Sports Whey-HD Ultra Premium Whey Protein Powder, Banana Marshmallow, 2  Pound",Health and Beauty,http://www.amazon.com/dp/B00KB5L3OQ/,1,1
+"PBfit- All-Natural Peanut Butter Powder, Produced by BetterBody Foods - 15 oz",Grocery,http://www.amazon.com/dp/B00KDCCYEA/,6,1
+"Premium Vegetable Spiralizer Bundle - Spiral Slicer - Best Veggie, Zucchini Spaghetti Pasta Noodle Maker - Black",Kitchen,http://www.amazon.com/dp/B00KIVD1PC/,7,1
+"Nutiva Organic Coconut Oil, Refined, 54 Ounce",Grocery,http://www.amazon.com/dp/B00KRFLDBS/,1,1
+Cube Plastics CR815B - 16 Ounce Black Base Plastic Container with Clear Plastic Dome Lid - 150 per case,Kitchen,http://www.amazon.com/dp/B00MQ09BIE/,2,1

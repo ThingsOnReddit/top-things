@@ -1,12 +1,34 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
+Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids,Book,http://www.amazon.com/dp/0521629713/,7,5
+Campbell Biology (10th Edition),Book,http://www.amazon.com/dp/0321775651/,12,4
+Molecular Biology of the Cell,Book,http://www.amazon.com/dp/0815344325/,6,3
+Bioinformatics Data Skills: Reproducible and Robust Research with Open Source Tools,Book,http://www.amazon.com/dp/1449367372/,4,2
 "Discrete Mathematics for New Technology, Second Edition",Book,http://www.amazon.com/dp/0750306521/,2,2
-Data Mining for Bioinformatics,eBooks,http://www.amazon.com/dp/B00BOO2P22/,,1
-Campbell Biology (10th Edition),Book,http://www.amazon.com/dp/0321775651/,3,1
-Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids,Book,http://www.amazon.com/dp/0521629713/,3,1
-"R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics (O'Reilly Cookbooks)",Book,http://www.amazon.com/dp/0596809158/,1,1
 ggplot2: Elegant Graphics for Data Analysis (Use R!),Book,http://www.amazon.com/dp/0387981403/,1,1
-R Graphics Cookbook: Practical Recipes for Visualizing Data,Book,http://www.amazon.com/dp/1449316956/,1,1
-Molecular Biology of the Cell,Book,http://www.amazon.com/dp/0815344325/,1,1
-"Molecular Biology of the Cell, 5th Edition",Book,http://www.amazon.com/dp/0815341059/,1,1
-Bioinformatics Programming Using Python: Practical Programming for Biological Data,Book,http://www.amazon.com/dp/059615450X/,1,1
+"Natural Computing: DNA, Quantum Bits, and the Future of Smart Machines",Book,http://www.amazon.com/dp/0393336832/,1,1
+Flawless Consulting: A Guide to Getting Your Expertise Used,Book,http://www.amazon.com/dp/0470620749/,1,1
+Math Refresher for Scientists and Engineers,Book,http://www.amazon.com/dp/0471757152/,1,1
 "Methods of Mathematics Applied to Calculus, Probability, and Statistics (Dover Books on Mathematics)",Book,http://www.amazon.com/dp/0486439453/,1,1
+Bayesian Reasoning and Machine Learning,Book,http://www.amazon.com/dp/0521518148/,2,1
+Bioinformatics Programming Using Python: Practical Programming for Biological Data,Book,http://www.amazon.com/dp/059615450X/,1,1
+"R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics (O'Reilly Cookbooks)",Book,http://www.amazon.com/dp/0596809158/,3,1
+Molecular Cell Biology,Book,http://www.amazon.com/dp/0716776014/,2,1
+"Molecular Biology of the Cell, 5th Edition",Book,http://www.amazon.com/dp/0815341059/,5,1
+"Human Evolutionary Genetics: Origins, Peoples and Disease",Book,http://www.amazon.com/dp/0815341857/,1,1
+A Primer of Genome Science,Book,http://www.amazon.com/dp/0878932364/,1,1
+Cracking the Coding Interview: 189 Programming Questions and Solutions,Book,http://www.amazon.com/dp/0984782850/,90,1
+R Graphics Cookbook: Practical Recipes for Visualizing Data,Book,http://www.amazon.com/dp/1449316956/,3,1
+The Art of R Programming: A Tour of Statistical Software Design,Book,http://www.amazon.com/dp/1593273843/,2,1
+The Linux Command Line: A Complete Introduction,Book,http://www.amazon.com/dp/1593273894/,24,1
+Automate the Boring Stuff with Python: Practical Programming for Total Beginners,Book,http://www.amazon.com/dp/1593275994/,29,1
+The Book of R: A First Course in Programming and Statistics,Book,http://www.amazon.com/dp/1593276516/,1,1
+Evolution,Book,http://www.amazon.com/dp/1605356050/,1,1
+"A Statistical Approach to Genetic Epidemiology: Concepts and Applications, with an e-Learning Platform",Book,http://www.amazon.com/dp/3527323899/,1,1
+Digital Image Processing Using Matlab,Book,http://www.amazon.com/dp/8177588982/,1,1
+Data Mining for Bioinformatics,eBooks,http://www.amazon.com/dp/B00BOO2P22/,1,1
+Introduction to Genomics,Book,http://www.amazon.com/dp/0199564353/,1,1
+Lehninger Principles of Biochemistry,eBooks,http://www.amazon.com/dp/B00HQO0V3O/,1,1
+Introduction to Bioinformatics,Book,http://www.amazon.com/dp/0199651566/,1,1
+How to Break Software: A Practical Guide to Testing W/CD,Book,http://www.amazon.com/dp/0201796198/,1,1
+An Introduction to Bioinformatics Algorithms (Computational Molecular Biology),Book,http://www.amazon.com/dp/0262101068/,2,1
+Concepts of Genetics (11th Edition),Book,http://www.amazon.com/dp/0321948912/,1,1

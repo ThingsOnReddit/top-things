@@ -1,31 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),Book,http://www.amazon.com/dp/1878424319/,14,1
-"ProLab Caffeine Maximum Potency 200mg Tablets, 100-Count",Health and Beauty,http://www.amazon.com/dp/B0011865IQ/,11,1
-Vegetable Slicer Green (Old Version),Kitchen,http://www.amazon.com/dp/B0000VZ57C/,7,1
-"Optimum Nutrition Creatine Powder, Unflavored, 600g",Health and Beauty,http://www.amazon.com/dp/B002DYIZEO/,6,1
-"CAP Barbell Olympic 2-Inch Spring Clip Collars, Pair",Sports,http://www.amazon.com/dp/B000BJKWXK/,4,1
-JFC - Nori Komi Furikake (Rice Seasoning) 1.7 Ounce Jar,Grocery,http://www.amazon.com/dp/B0006G5KEY/,4,1
-"Optimum Nutrition Serious Mass Gainer Protein Powder, Chocolate, 12 Pound",Health and Beauty,http://www.amazon.com/dp/B000GIPJ0M/,4,1
-"BlenderBottle Classic Loop Top Shaker Bottle, Clear/Black, 28-Ounce Loop Top",Home & Kitchen,https://www.amazon.com/BlenderBottle-Classic-Shaker-Bottle-Clear/dp/B00MVMCUK8/ref=sr_1_2?ie=UTF8&amp;qid=1473130276&amp;sr=8-2&amp;keywords=blender+bottle,4,1
-"Optimum Nutrition Creatine Powder, Unflavored",Health and Beauty,http://www.amazon.com/dp/B000GIQS34/,3,1
-One Pair of Adjustable Dumbbells Cast Iron Total 105 Lbs (2 X 52.5 Lbs) by Unipack,Sports,http://www.amazon.com/dp/B007WKK5HE/,2,1
-"Hamilton Beach Personal Single Serve Blender with Travel Lid, Black (51101BA)",Kitchen,http://www.amazon.com/dp/B00KVZ27UA/,2,1
-"Jarrow Formulas Whey Protein, Supports Muscle Development, Unflavored, 32 oz.","Health, Household & Baby Care",https://www.amazon.com/Jarrow-Formulas-Supports-Development-Unflavored/dp/B0013OVWHM/ref=sr_1_1_a_it?ie=UTF8&amp;qid=1473130311&amp;sr=8-1&amp;keywords=jarrow+whey+protein,2,1
-"Bob's Red Mill Gluten Free Oat Flour, 22-ounce (Pack of 4)",Grocery,http://www.amazon.com/dp/B003LPKETS/,1,1
+"Optimum Nutrition Serious Mass Gainer Protein Powder, Chocolate, 12 Pound",Health and Beauty,http://www.amazon.com/dp/B000GIPJ0M/,17,7
+"Optimum Nutrition Gold Standard 100% Whey Protein Powder, Double Rich Chocolate, 5 Pound",Health and Beauty,http://www.amazon.com/dp/B000QSNYGI/,68,7
+"CAP Barbell Olympic 2-Inch Spring Clip Collars, Pair",Sports,http://www.amazon.com/dp/B000BJKWXK/,12,3
+Iron Gym Total Upper Body Workout Bar,Sports,http://www.amazon.com/dp/B001EJMS6K/,82,3
+"Starting Strength:  Basic Barbell Training, 3rd edition",Book,http://www.amazon.com/dp/0982522738/,141,3
+"Optimum Nutrition Pro Gainer Protein Powder, Double Chocolate, 5.09 Pounds",Health and Beauty,http://www.amazon.com/dp/B0015R3A1S/,3,2
+"Mike's Mix All-Natural, Unflavored Whey Protein Concentrate-4 lbs",Health and Beauty,http://www.amazon.com/dp/B00C5PDP28/,2,2
+"MuscleMeds Carnivor Beef Protein Isolate Powder, Chocolate, 56 Servings",Health and Beauty,http://www.amazon.com/dp/B004HY325K/,4,2
+PowerLine PPR200X Power Rack,Sports,http://www.amazon.com/dp/B000VLRVSC/,29,2
+Bob's Red Mill Whole Grain Oat Flour - 22 oz,Grocery,http://www.amazon.com/dp/B0013JOK8K/,2,2
+"Becoming a Supple Leopard: The Ultimate Guide to Resolving Pain, Preventing Injury, and Optimizing Athletic Performance",Book,http://www.amazon.com/dp/1936608588/,12,2
+"Reehut Single Resistance Band, Exercise Tube - With Door Anchor and Manual Red",Sports,http://www.amazon.com/dp/B01IBIZFRA/,2,2
+"Bob's Red Mill Gluten Free Oat Flour, 22-ounce (Pack of 4)",Grocery,http://www.amazon.com/dp/B003LPKETS/,2,2
+"Instant Pot DUO60 6 Qt 7-in-1 Multi-Use Programmable Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Sauté, Yogurt Maker and Warmer",Kitchen,http://www.amazon.com/dp/B00FLYWNYQ/,170,2
+Proctor-Silex 59738A Hand Blender,Kitchen,http://www.amazon.com/dp/B00TJTASYG/,8,2
+105 lbs Adjustable Cast Iron Dumbbells - ²DWP2Z,Sports,http://www.amazon.com/dp/B009GC76NW/,5,2
+"Ninja Master Prep Chopper, Blender, Food Processor (QB900B)",Kitchen,http://www.amazon.com/dp/B003XU3C7M/,17,2
+"Ozeri Pronto Digital Multifunction Kitchen and Food Scale, Elegant Black",Kitchen,http://www.amazon.com/dp/B004164SRA/,281,2
+"Smart Balance Omega Oil, 48 oz",Grocery,http://www.amazon.com/dp/B000VCFZRU/,1,1
+"Gaiam Total Body Balance Ball Kit - Includes 75cm Anti-Burst Stability Exercise Yoga Ball, Air Pump & Workout DVD - Blue",Sports,http://www.amazon.com/dp/B000VDTEDA/,3,1
+Body Solid MA307N Nylon Head Harness,Sports,http://www.amazon.com/dp/B0010XRMLQ/,1,1
+Cap Barbell Solid 20-Inch Dumbbell Handle,Sports,http://www.amazon.com/dp/B0010YOBB4/,10,1
+"Schiek Sports Ultimate Wrist Supports, One Size Fits All",Health and Beauty,http://www.amazon.com/dp/B001183UJ8/,1,1
+"ProLab Caffeine Maximum Potency 200mg Tablets, 100-Count",Health and Beauty,http://www.amazon.com/dp/B0011865IQ/,59,1
+"Nutiva Organic Hemp Protein, Hi-Fiber, 3 Pound",Grocery,http://www.amazon.com/dp/B0012C2GFM/,7,1
+"American Weigh Scales Black Blade Digital Pocket Scale, BL-1KG-BLK 1000 by 0.1 G",Kitchen,http://www.amazon.com/dp/B0012N1NAA/,41,1
+"NOW Sports Dutch Chocolate Whey Protein Isolate, 5-Pound",Health and Beauty,http://www.amazon.com/dp/B0013OXOKU/,1,1
+CAP Barbell Olympic 2-Inch Plate Rack,Sports,http://www.amazon.com/dp/B0013SZC8S/,6,1
+"NOW Sports Whey Protein Isolate,5-Pound",Health and Beauty,http://www.amazon.com/dp/B0015AQL1Q/,21,1
+"Optimum Nutrition Serious Mass Gainer Protein Powder, Chocolate, 6 Pound",Health and Beauty,http://www.amazon.com/dp/B0015R36SK/,5,1
+Manta Ray,Sports,http://www.amazon.com/dp/B0017DGBY8/,5,1
+"HERSHEY'S Natural Unsweetened 100% Cocoa, Baking/Beverage Gluten Free, 8 Ounce Can (Pack of 6)",Grocery,http://www.amazon.com/dp/B001EQ5AHW/,3,1
+Body Solid Rubber Grip Olympic Weight Plates,Sports,http://www.amazon.com/dp/B001F1Y17G/,1,1
+"Digestive Advantage Lactose Defense, 96 Capsules (3 packs of 32ct)",Health and Beauty,http://www.amazon.com/dp/B001G7QGCM/,3,1
+"Native Forest Organic Classic Coconut Milk, 13.5-oz. Cans (Count of 12)",Grocery,http://www.amazon.com/dp/B001HTJ2BQ/,2,1
+"Bob's Red Mill Flour Oat, 22-ounces (Pack of4)",Grocery,http://www.amazon.com/dp/B001KUSKUQ/,1,1
+EatSmart Precision Digital Bathroom Scale with Extra Large Lighted Display,Health and Beauty,http://www.amazon.com/dp/B001KXZ808/,74,1
+"Nutiva Organic Hemp Protein 15g, 3-Pound Bag",Grocery,http://www.amazon.com/dp/B001OHX1ZY/,2,1
 Bernardin Freezer Jars - Plastic - 16 oz,Kitchen,http://www.amazon.com/dp/B001U9DIL8/,1,1
+"Quaker Oats, Quick 1-Minute Oatmeal, Breakfast Cereal, 55 Servings, Two 40oz Bags in Box",Grocery,http://www.amazon.com/dp/B001V78QPC/,1,1
+"PlantFusion Complete Protein Powder, Natural Unflavored, No Soy or Rice, 30 Servings, 22g Protein, 2lb Tub",Health and Beauty,http://www.amazon.com/dp/B0021F8HH0/,1,1
 "Kirkland Signature Extra Virgin Olive Oil, 67.62 Ounce",Grocery,http://www.amazon.com/dp/B0027EOTKO/,1,1
-Body Solid Oly Power Bar 7 ft Black,Sports,http://www.amazon.com/dp/B005PGBFQW/,1,1
-Nutricost Caffeine Pills - 200mg Capsules - 240 Count,Health and Beauty,http://www.amazon.com/dp/B015P6QWFA/,1,1
-"CLIF BAR - Energy Bar - Cool Mint Chocolate - (2.4 Ounce Protein Bar, 6 Count)",Pantry,http://www.amazon.com/dp/B00I669LU0/,1,1
-"GoWISE USA Body Fat Scale with FDA approved– Measures Weight, Body Fat, Water, & Bone Mass 400 Lbs Capacity Tempered Glass (Black)",Home,http://www.amazon.com/dp/B00CZPF5L2/,1,1
-"Muscle Monster, Vanilla, 15 Ounce (Pack of 12)",Grocery,http://www.amazon.com/dp/B00DAXD7GS/,1,1
-"Gaiam Total Body Balance Ball Kit - Includes 75cm Anti-Burst Stability Exercise Yoga Ball, Air Pump & Workout DVD - Blue",Sports,http://www.amazon.com/dp/B000VDTEDA/,1,1
-"Mike's Mix All-Natural, Unflavored Whey Protein Concentrate-4 lbs",Health and Beauty,http://www.amazon.com/dp/B00C5PDP28/,1,1
-Boudreaux's Butt Paste Diaper Rash Ointment - Original - Contains 16% Zinc Oxide - Pediatrician Recommended - Paraben and Preservative-Free - 16 Ounce ( Packaging May Vary ),Beauty,http://www.amazon.com/dp/B0009RF8G0/,1,1
-"Barilla Protein Plus Pasta, Penne, 14.5 Ounce (Pack of 8)",Grocery,http://www.amazon.com/dp/B00NBK9XUO/,1,1
-adidas Performance Flat Training Bench,Sports,http://www.amazon.com/dp/B00WHIG6X8/,1,1
-The Great Cholesterol Con,Book,http://www.amazon.com/dp/1430309334/,1,1
-"Digestive Advantage Lactose Defense  formula, 32 Capsules (Pack of 3)",Health and Beauty,http://www.amazon.com/dp/B001G7QGCM/,1,1
-Lactase Drops 0.5 Ounce Pack Of 2 | Lactase Enzyme Supplement | Say Goodbye To Lactose Intolerance!,Health and Beauty,http://www.amazon.com/dp/B006VH2L8K/,1,1
-Realistic Sleeve Penis Pump Extender,Health and Beauty,http://www.amazon.com/dp/B014V44PLA/,1,1
+"truRoots Organic Quinoa 100% Whole Grain Premium Quality, 4 lbs",Grocery,http://www.amazon.com/dp/B002BWS1OM/,3,1
+"Manitoba Harvest Hemp Pro 70 Protein Supplement, 16 Ounce",Grocery,http://www.amazon.com/dp/B002CPVTH4/,3,1
+"Optimum Nutrition Creatine Powder, Unflavored, 600g",Health and Beauty,http://www.amazon.com/dp/B002DYIZEO/,33,1
+"Optimum Nutrition 100% Whey Gold Standard, Caramel Toffee Fudge, 2 Pound",Health and Beauty,http://www.amazon.com/dp/B002DYJ0F2/,2,1
+"Vibrant Health Puregreen Protein, Chocolate, 17.23-Ounces",Health and Beauty,http://www.amazon.com/dp/B002L4RWC2/,1,1
+Casio General Men's Watches Standard Active Dial A-168WG-9UR - WW,Watch,http://www.amazon.com/dp/B002LAS086/,12,1
+Universal 5 Position Weight Bench,Sports,http://www.amazon.com/dp/B002QJZAE4/,5,1
+"NOW Psyllium Husk Powder, 24-Ounce",Health and Beauty,http://www.amazon.com/dp/B002RWUNYM/,23,1
+AccuMeasure MyoTape MT05 and AM-3000 Fitness 3000 Personal Body Fat Tester Kit,Health and Beauty,http://www.amazon.com/dp/B002VAPHXW/,4,1
+"Post Shredded Wheat ' Bran, Spoon Size, 18-Ounce Boxes (Pack of 5)",Grocery,http://www.amazon.com/dp/B0037MVZMA/,1,1
+Soffe Men's Running ShortBlackMED,Apparel,http://www.amazon.com/dp/B003AU5VZQ/,7,1
+"Optimum Nutrition Fish Oil, 300 MG, 200 Softgels",Health and Beauty,http://www.amazon.com/dp/B003RDGNY4/,1,1
+Lactase Drops 15 ml | Lactase Enzyme Supplement | 76 Servings | Safe for Infants | Non-GMO | Kosher Certified | Physician Formulated | Seeking Health,Health and Beauty,http://www.amazon.com/dp/B003VSTRY8/,7,1
+"Premium Gold Whole Flaxseed with Fiber Lignans and Omega-3 Fatty Acids, Preventative and Restorative Abilities for Your Diet, 96-Ounce Plastic Jar",Grocery,http://www.amazon.com/dp/B004579W2Q/,1,1
+"Healthworks Cacao Nibs Raw Organic, 1lb",Grocery,http://www.amazon.com/dp/B004EKHMXU/,5,1
+"Explore Asian Organic Soybean Pasta, Spaghetti Shape, 7.05-Ounce (Pack of 6)",Grocery,http://www.amazon.com/dp/B004K4EWVK/,4,1
+XMark 7' Chrome Olympic Bar with Ball Bearings XM-3812,Sports,http://www.amazon.com/dp/B004NQO7FG/,1,1
+"Oster BLSTPB-WBL My Blend 250-Watt Blender with Travel Sport Bottle, Light Powder Blue",Kitchen,http://www.amazon.com/dp/B004P2OLB8/,8,1
+"vitafusion Fiber Gummies, 220 Count,5g of fiber, ""Sugar Free""",Health and Beauty,http://www.amazon.com/dp/B004QHLDOK/,6,1
 "Bob's Red Mill Old Fashioned Regular Rolled Oats, 32-ounce (Pack of 4)",Grocery,http://www.amazon.com/dp/B004VLVB5C/,1,1
+CAP Barbell Olympic 2-Inch Combo Hex Bar,Sports,http://www.amazon.com/dp/B004X1674A/,5,1
+"Kirkland Signature chicken breast, packed in water, premium chunk, 6 12.5-ounce cans",Grocery,http://www.amazon.com/dp/B004YPJKBC/,2,1
+"Ensure Original Nutrition Shake, Vanilla, 8 ounces, 6 count",Health and Beauty,http://www.amazon.com/dp/B005CGZKJ8/,1,1
+"Fat Gripz - The Ultimate Arm Builder, Blue",Sports,http://www.amazon.com/dp/B005FIS14Y/,8,1
+"BELLA Personal Size Rocket Blender, 12 piece set, color stainless steel and black",Kitchen,http://www.amazon.com/dp/B005IGVBRC/,1,1
+Body Solid Oly Power Bar 7 ft Black,Sports,http://www.amazon.com/dp/B005PGBFQW/,3,1
+5/3/1: The Simplest and Most Effective Training System for Raw Strength (2nd Edition),Book,http://www.amazon.com/dp/B00686OYGQ/,10,1
+Captains of Crush Hand Gripper - Point Five,Sports,http://www.amazon.com/dp/B006G377UQ/,2,1
+Lactase Drops 0.5 Ounce Pack Of 2 | Lactase Enzyme Supplement | Say Goodbye To Lactose Intolerance!,Health and Beauty,http://www.amazon.com/dp/B006VH2L8K/,1,1
+Starting Strength,eBooks,http://www.amazon.com/dp/B006XJR5ZA/,32,1
+Trader Joe's Sunflower Seed Butter 16oz,Grocery,http://www.amazon.com/dp/B007HTCY56/,1,1
+One Pair of Adjustable Dumbbells Cast Iron Total 105 Lbs (2 X 52.5 Lbs) by Unipack,Sports,http://www.amazon.com/dp/B007WKK5HE/,6,1
+"Lawry's Seasoned Salt, 5 lb",Grocery,http://www.amazon.com/dp/B007X4HDVK/,1,1
+Olympic Fractional Plates Pair- 1 Lb / Each Black,Sports,http://www.amazon.com/dp/B008ROGWEO/,1,1
+Ader Fitness Olympic Fractional Plates - 5 LB Set,Sports,http://www.amazon.com/dp/B008RP3KY8/,10,1
+"Cuisinart MSC-600 3-In-1 Cook Central 6-Quart Multi-Cooker: Slow Cooker, Brown/Saute, Steamer",Kitchen,http://www.amazon.com/dp/B008YEXC22/,6,1
+"BalanceFrom High Accuracy Digital Bathroom Scale with 4.3"" Large Backlight Display and Step-on Technology, Silver",Health and Beauty,http://www.amazon.com/dp/B00A8SLH8I/,3,1
+"Body Champ Olympic Weight Bench with Leg Developer, Gray/Silver",Sports,http://www.amazon.com/dp/B00B152GEQ/,2,1
+Kirkland Signature Organic Extra Virgin Olive Oil 2L (2QT 3.6 fl. oz),Grocery,http://www.amazon.com/dp/B00BOTZTDO/,2,1
+2.5 Pound Black Olympic Plate Pair,Sports,http://www.amazon.com/dp/B00BYPADI4/,1,1
+DYMATIZE NUTRITION Super Mass Gainer Strawberry 6 lbs,Health and Beauty,http://www.amazon.com/dp/B00COQXFB4/,1,1
+"Peanut Butter & Co. Top Sellers Pack, Non-GMO, Gluten Free, Vegan, 16 Ounce Jars (Pack of 4)",Grocery,http://www.amazon.com/dp/B00CWYXLZ8/,1,1
+"GoWISE USA Body Fat Scale with FDA approved– Measures Weight, Body Fat, Water, & Bone Mass 400 Lbs Capacity Tempered Glass (Black)",Home,http://www.amazon.com/dp/B00CZPF5L2/,7,1
+"Muscle Monster, Vanilla, 15 Ounce (Pack of 12)",Grocery,http://www.amazon.com/dp/B00DAXD7GS/,1,1
+Creatine Monohydrate Powder Micronized by BulkSupplements (1 kilogram) | 99.99% Pure High Performance Formula | Pre/Post Workout Bodybuilding/Crossfit Supplement,Health and Beauty,http://www.amazon.com/dp/B00E9M4XEE/,36,1
+"MusclePharm Arnold Schwarzenegger Series Iron Mass Weight Gainer, Chocolate Malt, 5 Pound",Health and Beauty,http://www.amazon.com/dp/B00FA4JNZE/,1,1
+"Optimum Nutrition Serious Mass Gainer Protein Powder, Chocolate Peanut Butter, 6 Pound",Health and Beauty,http://www.amazon.com/dp/B00GJXA2RS/,1,1
+"NATURADE SUGAR FREE WEIGHT GAIN, 40 OZ, EA-1",Single Detail Page Misc,http://www.amazon.com/dp/B00H4HXIVU/,1,1
+6 Pack Fitness Innovator 300 Stealth Meal Management Bag,Kitchen,http://www.amazon.com/dp/B00HK38M64/,1,1
+"CLIF BAR - Energy Bar - Cool Mint Chocolate - (2.4 Ounce Protein Bar, 6 Count)",Pantry,http://www.amazon.com/dp/B00I669LU0/,1,1
+"Orgain Organic Plant Based Protein Powder, Sweet Vanilla Bean, 2.03 Pound, Packaging May Vary",Grocery,http://www.amazon.com/dp/B00J074W7Q/,16,1
+"Genceutic Naturals Plant Head Protein Dietary Supplement, Vanilla, 23 Ounce",Grocery,http://www.amazon.com/dp/B00JBCEUFE/,1,1
+"ProSource Puzzle Exercise Mat, EVA Foam Interlocking Tiles, 24 Square Feet, Blue",Sports,http://www.amazon.com/dp/B00K2TWXO0/,3,1
+"Hamilton Beach Personal Single Serve Blender with Travel Lid, Black (51101BA)",Kitchen,http://www.amazon.com/dp/B00KVZ27UA/,5,1
+"Serious Steel Mobility & Recovery (Floss) Bands |Compression Band | Tack & Flossing Band (7' L x 2"" W) *Quick Start e-Guide INCLUDED*",Sports,http://www.amazon.com/dp/B00LI8S5LO/,1,1
+"SoundPEATS Bluetooth Headphones Stereo Wireless Earphones for Running with Mic (6 Hours Play Time, Bluetooth 4.0, IPX4 Sweatproof, Secure Ear Hooks Design) - Black & Green",Wireless,http://www.amazon.com/dp/B00LP6CFEC/,56,1
+Trader Joe's Crunchy Salted Peanut Butter with Flax & Chia Seeds - 16 oz - Pack of 3,Grocery,http://www.amazon.com/dp/B00MMLN8KE/,1,1
+"Vega Protein & Greens, Chocolate, 1.79 lb, 25 Servings",Health and Beauty,http://www.amazon.com/dp/B00MYRXDHE/,6,1

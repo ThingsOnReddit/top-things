@@ -1,26 +1,28 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
+The Art of the Metaobject Protocol,Book,http://www.amazon.com/dp/0262610744/,3,2
 Object-Oriented Programming in COMMON LISP: A Programmer's Guide to CLOS,Book,http://www.amazon.com/dp/0201175894/,2,2
-The Art of the Metaobject Protocol,Book,http://www.amazon.com/dp/0262610744/,2,2
-Lisp in Small Pieces,eBooks,http://www.amazon.com/dp/B00AKE1U6O/,,1
-The Little Schemer - 4th Edition,Book,http://www.amazon.com/dp/0262560992/,5,1
-Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science),Book,http://www.amazon.com/dp/0262510871/,5,1
+Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp,Book,http://www.amazon.com/dp/1558601910/,5,2
+The Little Schemer - 4th Edition,Book,http://www.amazon.com/dp/0262560992/,16,2
+Understanding CLOS: The Common Lisp Object System,Book,http://www.amazon.com/dp/013717232X/,1,1
 The Schematics of Computation,Book,http://www.amazon.com/dp/0138342849/,1,1
-ANSI Common LISP,Book,http://www.amazon.com/dp/0133708756/,1,1
 Performance and Evaluation of Lisp Systems (Computer Systems Series),Book,http://www.amazon.com/dp/0262070936/,1,1
 Scheme and the Art of Programming,Book,http://www.amazon.com/dp/0262192888/,1,1
-Anatomy of Lisp (McGraw-Hill computer science series),Book,http://www.amazon.com/dp/007001115X/,1,1
+Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science),Book,http://www.amazon.com/dp/0262510871/,15,1
 Programming in Scheme: Trade Edition,Book,http://www.amazon.com/dp/0262550172/,1,1
 The Little LISPer: Trade Edition,Book,http://www.amazon.com/dp/0262560380/,1,1
-Structure and Interpretation of Computer Programs (The Mit Electrical Engineering and Computer Science Series),Book,http://www.amazon.com/dp/0070004226/,1,1
-Programming Paradigms in Lisp (McGraw-Hill series in artificial intelligence),Book,http://www.amazon.com/dp/0070546665/,1,1
 Common LISPcraft,Book,http://www.amazon.com/dp/0393955443/,1,1
 Symbolic Computing with LISP and PROLOG,Book,http://www.amazon.com/dp/0471607711/,1,1
 "Lisp, Objects and Symbolic Programming",Book,http://www.amazon.com/dp/0673397734/,1,1
+LISP Lore: A Guide to Programming the LISP Machine,Book,http://www.amazon.com/dp/0898382289/,1,1
 Common LISP: The Language,Book,http://www.amazon.com/dp/093237641X/,1,1
 Programmer's Guide to Common LISP,Book,http://www.amazon.com/dp/0932376878/,1,1
 Common LISP: The Language,Book,http://www.amazon.com/dp/1555580424/,1,1
-Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp,Book,http://www.amazon.com/dp/1558601910/,1,1
 Practical Common Lisp,Book,http://www.amazon.com/dp/1590592395/,1,1
 Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer,Book,http://www.amazon.com/dp/1593275919/,1,1
 The Joy of Clojure: Thinking the Clojure Way,Book,http://www.amazon.com/dp/1935182641/,1,1
-Understanding CLOS: The Common Lisp Object System,Book,http://www.amazon.com/dp/013717232X/,1,1
+Griffin 2001-ADB iMate/Universal ADB to USB adapter,CE,http://www.amazon.com/dp/B000067V8L/,3,1
+Structure and Interpretation of Computer Programs (The Mit Electrical Engineering and Computer Science Series),Book,http://www.amazon.com/dp/0070004226/,1,1
+Lisp in Small Pieces,eBooks,http://www.amazon.com/dp/B00AKE1U6O/,1,1
+Anatomy of Lisp (McGraw-Hill computer science series),Book,http://www.amazon.com/dp/007001115X/,2,1
+Programming Paradigms in Lisp (McGraw-Hill series in artificial intelligence),Book,http://www.amazon.com/dp/0070546665/,1,1
+ANSI Common LISP,Book,http://www.amazon.com/dp/0133708756/,1,1

@@ -1,27 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"Calculus, 4th edition",Book,http://www.amazon.com/dp/0914098918/,7,3
-Basic Mathematics,Book,http://www.amazon.com/dp/0387967877/,5,3
-"How to Prove It: A Structured Approach, 2nd Edition",Book,http://www.amazon.com/dp/0521675995/,26,2
-Linear Algebra Done Right (Undergraduate Texts in Mathematics),Book,http://www.amazon.com/dp/0387982582/,8,2
-Trigonometry,Book,http://www.amazon.com/dp/0817639144/,2,2
-"Advanced Linear Algebra (Graduate Texts in Mathematics, Vol. 135)",Book,http://www.amazon.com/dp/0387728287/,3,1
-Conceptual Mathematics: A First Introduction to Categories,Book,http://www.amazon.com/dp/052171916X/,2,1
-Discrete Mathematics with Applications,Book,http://www.amazon.com/dp/0495391328/,2,1
-Precalculus,Book,http://www.amazon.com/dp/0840069421/,1,1
-Elementary Algebra,Book,http://www.amazon.com/dp/0716710471/,1,1
-Precalculus: A Problems-Oriented Approach (with CD-ROM and iLrn™ Tutorial),Book,http://www.amazon.com/dp/0534402127/,1,1
-Principles of Mathematical Analysis (International Series in Pure and Applied Mathematics),Book,http://www.amazon.com/dp/007054235X/,1,1
-Fermat's Enigma: The Epic Quest to Solve the World's Greatest Mathematical Problem,Book,http://www.amazon.com/dp/0385493622/,1,1
+"How to Prove It: A Structured Approach, 2nd Edition",Book,http://www.amazon.com/dp/0521675995/,92,18
+"Calculus, 4th edition",Book,http://www.amazon.com/dp/0914098918/,26,8
+Discrete Mathematics with Applications,Book,http://www.amazon.com/dp/0495391328/,20,6
+Basic Mathematics,Book,http://www.amazon.com/dp/0387967877/,18,5
+Algebra,Book,http://www.amazon.com/dp/0817636773/,18,4
+"Learning to Reason: An Introduction to Logic, Sets, and Relations",Book,http://www.amazon.com/dp/047137122X/,5,4
+The Calculus Lifesaver: All the Tools You Need to Excel at Calculus (Princeton Lifesaver Study Guides),Book,http://www.amazon.com/dp/0691130884/,5,3
+A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra),eBooks,http://www.amazon.com/dp/B00G3L19ZU/,22,3
+Trigonometry,Book,http://www.amazon.com/dp/0817639144/,10,3
+Book of Proof,Book,http://www.amazon.com/dp/0989472108/,8,3
+A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra),Book,http://www.amazon.com/dp/039916524X/,28,3
+Mathematical Proofs: A Transition to Advanced Mathematics (3rd Edition) (Featured Titles for Transition to Advanced Mathematics),Book,http://www.amazon.com/dp/0321797094/,15,3
+Introduction to Graph Theory (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486678709/,9,3
+Understanding Analysis (Undergraduate Texts in Mathematics),Book,http://www.amazon.com/dp/1493927116/,12,2
+Advanced Mathematics: Precalculus with Discrete Mathematics and Data Analysis,Book,http://www.amazon.com/dp/0395551897/,2,2
+Arithmetic and Algebra Again: Leaving Math Anxiety Behind Forever,Book,http://www.amazon.com/dp/0071435336/,2,2
+Thinking Mathematically (2nd Edition),Book,http://www.amazon.com/dp/0273728911/,2,2
+How to Think About Analysis,Book,http://www.amazon.com/dp/0198723539/,10,2
+Algebra,Book,http://www.amazon.com/dp/0130047635/,2,2
+"The Math Book: From Pythagoras to the 57th Dimension, 250 Milestones in the History of Mathematics (Sterling Milestones)",Book,http://www.amazon.com/dp/1402788290/,2,2
+Precalculus (9th Edition),Book,http://www.amazon.com/dp/0321716833/,2,2
+How to Solve It: A New Aspect of Mathematical Method (Princeton Science Library),Book,http://www.amazon.com/dp/069111966X/,12,2
+A Book of Abstract Algebra: Second Edition (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486474178/,25,2
+The Art and Craft of Problem Solving,Book,http://www.amazon.com/dp/0471789011/,6,2
+Linear Algebra Done Right (Undergraduate Texts in Mathematics),Book,http://www.amazon.com/dp/0387982582/,17,2
+The Humongous Book of Algebra Problems,Book,http://www.amazon.com/dp/1592577229/,3,2
+"Practical Algebra: A Self-Teaching Guide, Second Edition",Book,http://www.amazon.com/dp/0471530123/,4,2
+Differential Topology (AMS Chelsea Publishing),Book,http://www.amazon.com/dp/0821851934/,3,2
+Introduction to Mathematical Thinking,Book,http://www.amazon.com/dp/0615653634/,2,2
+Make It Stick: The Science of Successful Learning,Book,http://www.amazon.com/dp/0674729013/,41,2
+Principles of Mathematical Analysis (International Series in Pure and Applied Mathematics),Book,http://www.amazon.com/dp/007054235X/,13,2
+The Princeton Companion to Mathematics,Book,http://www.amazon.com/dp/0691118809/,21,2
+Calculus,Book,http://www.amazon.com/dp/0470183497/,2,2
+How to Solve It: A New Aspect of Mathematical Method (Princeton Science Library),Book,http://www.amazon.com/dp/069116407X/,7,2
+Contemporary Abstract Algebra,Book,http://www.amazon.com/dp/1133599702/,2,2
+"Precalculus Mathematics in a Nutshell:  Geometry, Algebra, Trigonometry:",Book,http://www.amazon.com/dp/1592441300/,3,2
+Mathematics for the Nonmathematician,Book,http://www.amazon.com/dp/0486248232/,4,2
+"Abstract Algebra, 3rd Edition",Book,http://www.amazon.com/dp/0471433349/,11,2
+Basic Training in Mathematics: A Fitness Program for Science Students,Book,http://www.amazon.com/dp/0306450364/,5,1
+"Fundamentals of Physics: Mechanics, Relativity, and Thermodynamics (The Open Yale Courses Series)",Book,http://www.amazon.com/dp/0300192207/,2,1
+Trigonometry,Book,http://www.amazon.com/dp/0077349970/,1,1
+Mathematics: From the Birth of Numbers,Book,http://www.amazon.com/dp/039304002X/,2,1
+Geometry: Euclid and Beyond (Undergraduate Texts in Mathematics),Book,http://www.amazon.com/dp/0387986502/,4,1
+Concrete Mathematics: A Foundation for Computer Science (2nd Edition),Book,http://www.amazon.com/dp/0201558025/,29,1
+Calculus: Early Transcendental Functions,Book,http://www.amazon.com/dp/0073532320/,1,1
+Introduction to Metric and Topological Spaces (Oxford Mathematics),Book,http://www.amazon.com/dp/019956308X/,1,1
+Probability Through Problems (Problem Books in Mathematics),Book,http://www.amazon.com/dp/038795063X/,1,1
+Discrete Mathematics and Its Applications Seventh Edition,Book,http://www.amazon.com/dp/0073383090/,9,1
+Linear Algebra: An Introduction to Abstract Mathematics (Undergraduate Texts in Mathematics),Book,http://www.amazon.com/dp/0387940995/,2,1
+Introduction to Analytic Number Theory,Book,http://www.amazon.com/dp/0387901639/,4,1
+One Thousand Exercises in Probability,Book,http://www.amazon.com/dp/0198572212/,1,1
+"Measure, Topology, and Fractal Geometry (Undergraduate Texts in Mathematics)",Book,http://www.amazon.com/dp/0387747486/,1,1
 Linear Algebra Through Geometry (Undergraduate Texts in Mathematics),Book,http://www.amazon.com/dp/0387975861/,1,1
-"Learning to Reason: An Introduction to Logic, Sets, and Relations",Book,http://www.amazon.com/dp/047137122X/,1,1
-"Advanced Calculus, Revised Edition",Book,http://www.amazon.com/dp/0867201223/,1,1
-Precalculus: A Prelude to Calculus,Book,http://www.amazon.com/dp/1118083768/,1,1
-Functions and Graphs (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486425649/,1,1
-Algebra,Book,http://www.amazon.com/dp/0817636773/,1,1
-Calculus: Concepts and Applications,Book,http://www.amazon.com/dp/1559536543/,1,1
-Calculus: A Complete Introduction (Teach Yourself: Math & Science),Book,http://www.amazon.com/dp/144419111X/,1,1
-Introduction to Mathematical Thinking,Book,http://www.amazon.com/dp/0615653634/,1,1
-The Art and Craft of Problem Solving,Book,http://www.amazon.com/dp/0471135712/,1,1
-"Elements of Advanced Mathematics, Third Edition (Textbooks in Mathematics)",Book,http://www.amazon.com/dp/1439898340/,1,1
-Arithmetic and Algebra Again: Leaving Math Anxiety Behind Forever,Book,http://www.amazon.com/dp/0071435336/,1,1
-"Thinking Mathematically by John Mason, Leone Burton, Kaye Stacey (1985) Paperback",Book,http://www.amazon.com/dp/B00NPMYUQU/,1,1
+"Advanced Linear Algebra (Graduate Texts in Mathematics, Vol. 135)",Book,http://www.amazon.com/dp/0387728287/,5,1
+Visual Complex Analysis,Book,http://www.amazon.com/dp/0198534469/,8,1
+"The Colossal Book of Mathematics: Classic Puzzles, Paradoxes, and Problems",Book,http://www.amazon.com/dp/0393020231/,4,1
+Calculus: Early Transcendental Functions,Book,http://www.amazon.com/dp/0073229733/,1,1
+The Colossal Book of Short Puzzles and Problems,Book,http://www.amazon.com/dp/0393061140/,1,1
+The Science of Interstellar,Book,http://www.amazon.com/dp/0393351378/,35,1
+"Div, Grad, Curl, and All That: An Informal Text on Vector Calculus (Fourth Edition)",Book,http://www.amazon.com/dp/0393925161/,18,1
+"How to Solve Word Problems in Algebra, (Proven Techniques from an Expert)",Book,http://www.amazon.com/dp/0071343075/,1,1
+Complex Analysis,Book,http://www.amazon.com/dp/0070006571/,1,1
+All of Statistics: A Concise Course in Statistical Inference (Springer Texts in Statistics),Book,http://www.amazon.com/dp/0387402721/,10,1
+"222: Lie Groups, Lie Algebras, and Representations: An Elementary Introduction",Book,http://www.amazon.com/dp/0387401229/,2,1
+What Is Mathematics? An Elementary Approach to Ideas and Methods,Book,http://www.amazon.com/dp/0195105192/,6,1
+The Four Pillars of Geometry (Undergraduate Texts in Mathematics),Book,http://www.amazon.com/dp/0387255303/,2,1
+Fermat's Enigma: The Epic Quest to Solve the World's Greatest Mathematical Problem,Book,http://www.amazon.com/dp/0385493622/,2,1
+Proofiness: How You're Being Fooled by the Numbers,Book,http://www.amazon.com/dp/0143120077/,1,1
+Intermediate Algebra,Book,http://www.amazon.com/dp/0072934735/,1,1
+Calculus for the Life Sciences (2nd Edition),Book,http://www.amazon.com/dp/0321964039/,2,1
+"A History of Greek Mathematics, Vol. 1: From Thales to Euclid",Book,http://www.amazon.com/dp/0486240738/,1,1
+Discrete-Time Signal Processing (2nd Edition) (Prentice-hall Signal Processing Series),Book,http://www.amazon.com/dp/0137549202/,2,1
+"Analysis With An Introduction to Proof, 5th Edition",Book,http://www.amazon.com/dp/032174747X/,2,1
+Mathematical Reasoning: Writing and Proof (2nd Edition),Book,http://www.amazon.com/dp/0131877186/,1,1
+Discrete Mathematics and Its Applications,Book,http://www.amazon.com/dp/0072899050/,3,1
+The Principles of Mathematical Analysis (International Series in Pure & Applied Mathematics),Book,http://www.amazon.com/dp/0070856133/,3,1
+Just-in-Time Algebra and Trigonometry for Early Transcendentals Calculus (4th Edition),Book,http://www.amazon.com/dp/0321671031/,4,1
+"An Introduction to Probability Theory and Its Applications, Vol. 1, 3rd Edition",Book,http://www.amazon.com/dp/0471257087/,2,1
+"Foundations of Differential Geometry, Vol.1 (Wiley Classics Library)",Book,http://www.amazon.com/dp/0471157333/,1,1
+University Calculus: Elements with Early Transcendentals,Book,http://www.amazon.com/dp/0321533488/,1,1
+"Quick Calculus: A Self-Teaching Guide, 2nd Edition",Book,http://www.amazon.com/dp/0471827223/,1,1
+Calculus Refresher (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486203700/,1,1
+Thinking Mathematically,Book,http://www.amazon.com/dp/0131752049/,1,1
+The Art and Craft of Problem Solving,Book,http://www.amazon.com/dp/0471135712/,5,1
+One Two Three . . . Infinity: Facts and Speculations of Science (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486256642/,4,1
+Calculus: An Intuitive and Physical Approach (Second Edition) (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486404536/,7,1
+Functions and Graphs (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486425649/,8,1
+Counterexamples in Analysis (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486428753/,7,1
+Gauge Theory and Variational Principles (Dover Books on Physics),Book,http://www.amazon.com/dp/0486445461/,1,1
+Algebraic Theory of Numbers: Translated from the French by Allan J. Silberger (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486466663/,3,1
+"Arithmetricks: 50 Easy Ways to Add, Subtract, Multiply, and Divide Without a Calculator",Book,http://www.amazon.com/dp/0471106399/,2,1
+Fourier Series (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486633179/,1,1
+"Problems in Probability Theory, Mathematical Statistics and Theory of Random Functions",Book,http://www.amazon.com/dp/0486637174/,1,1
+Ordinary Differential Equations (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486649407/,14,1
+Numerical Methods for Scientists and Engineers (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486652416/,1,1
+Geometry: A Comprehensive Course (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486658120/,2,1
+Introduction to Topology: Third Edition (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486663523/,5,1
+Theoretical Nuclear Physics (Dover Books on Physics),Book,http://www.amazon.com/dp/0486668274/,2,1
+Mathematical Proofs: A Transition to Advanced Mathematics (2nd Edition),Book,http://www.amazon.com/dp/0321390539/,3,1
+Partial Differential Equations for Scientists and Engineers (Dover Books on Mathematics),Book,http://www.amazon.com/dp/048667620X/,5,1

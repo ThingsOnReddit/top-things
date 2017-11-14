@@ -1,8 +1,56 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-The Linux Command Line: A Complete Introduction,Book,http://www.amazon.com/dp/1593273894/,7,2
-"UNIX and Linux System Administration Handbook, 4th Edition",Book,http://www.amazon.com/dp/0131480057/,13,1
-"RHCSA/RHCE Red Hat Linux Certification Study Guide, Seventh Edition (Exams EX200 & EX300)",Book,http://www.amazon.com/dp/0071841962/,7,1
-Linux Bible,Book,http://www.amazon.com/dp/1118999878/,3,1
-Learning Unix for OS X: Going Deep With the Terminal and Shell,Book,http://www.amazon.com/dp/1491939982/,1,1
-Dell XPS 13 13.3-Inch Touchscreen Laptop (XPS9343-6364SLV) [Discontinued By Manufacturer],Personal Computer,http://www.amazon.com/dp/B00SIJMPDK/,1,1
-"2015 Model Dell XPS13 Touchscreen Ultrabook - the World's First Infinity Display of 13.3"" QHD+ (3200 x 1800) Touchscreen, 5th Gen Intel Core i5-5200U Processor 2.2GHz / 8GB DDR3 / 256GB SSD / Windows 8.1",Personal Computer,http://www.amazon.com/dp/B00TIWQYNI/,1,1
+The Linux Command Line: A Complete Introduction,Book,http://www.amazon.com/dp/1593273894/,24,7
+Linux Bible,Book,http://www.amazon.com/dp/1118999878/,16,7
+"UNIX and Linux System Administration Handbook, 4th Edition",Book,http://www.amazon.com/dp/0131480057/,51,4
+"How Linux Works, 2nd Edition: What Every Superuser Should Know",Book,http://www.amazon.com/dp/1593275676/,17,3
+Linux Command Line and Shell Scripting Bible,Book,http://www.amazon.com/dp/111898384X/,6,2
+"Kingwin Hard Drive Power Switch Module for 2.5 inch/3.5 inch SATA HDD/SSD.  Optimized for SSD, Power On or Off HDDs as Wish, Controls up to Six HDDs, and Provide Longevity to Your Hard Drives",Personal Computer,http://www.amazon.com/dp/B00TZR3E70/,5,2
+"Understanding the Linux Kernel, Third Edition",Book,http://www.amazon.com/dp/0596005652/,8,1
+Learning the vi and Vim Editors: Text Processing at Maximum Speed and Power,Book,http://www.amazon.com/dp/059652983X/,1,1
+CompTIA Linux+ Powered by Linux Professional Institute Study Guide: Exam LX0-103 and Exam LX0-104 (Comptia Linux + Study Guide),Book,http://www.amazon.com/dp/1119021219/,9,1
+Linux Device Drivers,Book,http://www.amazon.com/dp/1449371612/,3,1
+Learning Unix for OS X: Going Deep With the Terminal and Shell,Book,http://www.amazon.com/dp/1491939982/,3,1
+Basic Security Testing with Kali Linux,Book,http://www.amazon.com/dp/1494861275/,1,1
+"RHCSA & RHCE Red Hat Enterprise Linux 7: Training and Exam Preparation Guide (EX200 and EX300), Third Edition",Book,http://www.amazon.com/dp/1495148203/,12,1
+Linux for Beginners: An Introduction to the Linux Operating System and Command Line,Book,http://www.amazon.com/dp/1496145097/,1,1
+"Slackware Linux Essentials, 2nd Edition",Book,http://www.amazon.com/dp/1571763384/,1,1
+How Linux Works: What Every Superuser Should Know,Book,http://www.amazon.com/dp/1593270356/,5,1
+Linux in Easy Steps,Book,http://www.amazon.com/dp/1840783966/,1,1
+Installing Linux on a Dead Badger,Book,http://www.amazon.com/dp/1894953479/,11,1
+TP-Link 5-Port Fast Ethernet Unmanaged Switch | Plug and Play | Desktop (TL-SF1005D),CE,http://www.amazon.com/dp/B000FNFSPY/,37,1
+"ASUS Eee PC 1000HA 10-Inch Netbook (1.6 GHz Intel ATOM N270 Processor, 1 GB RAM, 160 GB Hard Drive, 10 GB E-Storage, XP Home, 6 Cell Battery)",Personal Computer,http://www.amazon.com/dp/B001GIPSAC/,1,1
+Mosuch SATA/PATA/IDE Drive to USB 2.0 Adapter Converter Cable for 2.5 / 3.5 Inch Hard Drive / 5 inch Optical Drive with External AC Power Adapter,PC Accessory,http://www.amazon.com/dp/B002OV1VJW/,19,1
+Athena Power Dual 4-pin Molex to Dual 8-pin 6+2 PCI-Express Cable Cable-PCIE4628,Speakers,http://www.amazon.com/dp/B0032MT0OU/,2,1
+"Edimax EW-7811Un 150Mbps 11n Wi-Fi USB Adapter, Nano Size Lets You Plug it and Forget it, Ideal for Raspberry Pi / Pi2, Supports Windows, Mac OS, Linux (Black/Gold)",Personal Computer,http://www.amazon.com/dp/B003MTTJOY/,127,1
+Mens Bronze Super Plus Shaving Saftey Razor with 1 Extra Blade in Travel Case,Beauty,http://www.amazon.com/dp/B004U5CG2Q/,1,1
+Ballistix Sport 16GB Kit (8GBx2) DDR3 1600 MT/s (PC3-12800) UDIMM 240-Pin Memory - BLS2KIT8G3D1609DS1S00,Personal Computer,http://www.amazon.com/dp/B006YG9EEW/,5,1
+TP-Link Wireless Dual Band PCI Express Adapter (TL-WDN4800),Personal Computer,http://www.amazon.com/dp/B007GMPZ0A/,86,1
+New HP Intel 4965 AGN Wireless-N WiFi Link Mini PCI-E Card 300 Mbps 802.11a/b/g/n 2.4/5 GHz 4965AGN MM1,PC Accessory,http://www.amazon.com/dp/B0099F32MK/,1,1
+ADATA Premier SP600 128 GB 2.5 Inch SATA III Excellent Read up to 540MB/s Solid State Drive (ASP600S3-128GM-C),Personal Computer,http://www.amazon.com/dp/B009SX6VLC/,2,1
+SODIAL(R) Silver Tone Double Edge Blade Razor Shaver w Nonslip Metal Handle,Health and Beauty,http://www.amazon.com/dp/B00A7239EK/,1,1
+Kingston Digital 120GB SSDNow mS200 mSATA (6Gbps) Solid State Drive for Notebooks Tablets and Ultrabooks SMS200S3/120G,Personal Computer,http://www.amazon.com/dp/B00CG8GTPO/,4,1
+Kingston Digital DataTraveler SE9 16GB USB 2.0 (DTSE9H/16GBZET),Personal Computer,http://www.amazon.com/dp/B00DYQYITG/,16,1
+MyDigitalSSD SC2 Super Cache 2 42mm SATA III 6G M.2 NGFF M2 2242 128GB Solid State Drive,PC Accessory,http://www.amazon.com/dp/B00EZ2E8NO/,13,1
+Optoma NuForce uDAC3 Mobile USB DAC and Headphone Amplifier (Silver),Speakers,http://www.amazon.com/dp/B00FG9MJTA/,1,1
+CanaKit Raspberry Pi 2 Ultimate Starter Kit with WiFi,Personal Computer,http://www.amazon.com/dp/B00G1PNG54/,12,1
+Double Edge Safety Razor By Apollo & 1 Merkur Platinum Coated Double Edge Blade Will Fit in Your Safety Razor Stand / Kit / Set / 4 Inch Long Safety Grip Handle Provides a Close Wet Shaving Experience / Best Lifetime Warranty,Beauty,http://www.amazon.com/dp/B00GG2RJ6Y/,1,1
+"ORICO 3-Port HUB with RJ45 10/100/1000 Gigabit Lan Port USB Network Adapter for Surface Pro, Windows OS - Black (HR01-U3)",Personal Computer,http://www.amazon.com/dp/B00H8MDOUQ/,2,1
+Bplus: Intel Network 7260.HMWG WiFi Wireless-AC 7260 H/T Dual Band 2x2 AC+Bluetooth HMCPartner; Bluetooth half Size Module,Personal Computer,http://www.amazon.com/dp/B00HJCBV64/,6,1
+"Brother HL-L2340DW Compact Laser Printer, Monochrome, Wireless, Duplex Printing, Amazon Dash Replenishment Enabled",Office Product,http://www.amazon.com/dp/B00LZS5EEI/,43,1
+"Inateck USB 3.0 to SATA Dual-Bay USB 3.0 Hard Drive Docking Station with Offline Clone Function for 2.5 / 3.5 Inch HDD SSD SATA (SATA I/ II/ III), Support 2x 8TB and UASP, Tool-Free(FD2002)",Personal Computer,http://www.amazon.com/dp/B00N1KXE9K/,10,1
+Dell XPS 13 13.3-Inch Touchscreen Laptop (XPS9343-6364SLV) [Discontinued By Manufacturer],Personal Computer,http://www.amazon.com/dp/B00SIJMPDK/,3,1
+"Raspberry Pi 2 Model B Desktop (Quad Core CPU 900 MHz, 1 GB RAM, Linux)",Personal Computer,http://www.amazon.com/dp/B00T2U7R7I/,30,1
+Samsung 850 EVO - 250GB - mSATA Internal SSD (MZ-M5E250BW),Personal Computer,http://www.amazon.com/dp/B00TGIVTP2/,14,1
+"2015 Model Dell XPS13 Touchscreen Ultrabook - the World's First Infinity Display of 13.3"" QHD+ (3200 x 1800) Touchscreen, 5th Gen Intel Core i5-5200U Processor 2.2GHz / 8GB DDR3 / 256GB SSD / Windows 8.1",Personal Computer,http://www.amazon.com/dp/B00TIWQYNI/,2,1
+"Haier Chromebook 11 (11.6-Inch, 16 GB Storage)",Personal Computer,http://www.amazon.com/dp/B00V3DYVLM/,7,1
+SanDisk Ultra 16GB Ultra Micro SDHC UHS-I/Class 10 Card with Adapter (SDSQUNC-016G-GN6MA),Personal Computer,http://www.amazon.com/dp/B010Q57SEE/,7,1
+ASUS UX305 13-Inch Laptop [2015 model],Personal Computer,http://www.amazon.com/dp/B013KKANTE/,67,1
+"ASUS Chromebook C202SA-YS02 11.6"" Ruggedized and Water Resistant Design with 180 Degree (Intel Celeron 4 GB, 16GB eMMC, Dark Blue, Silver)",Personal Computer,http://www.amazon.com/dp/B01DBGVB7K/,16,1
+Seagate 2TB BarraCuda SATA 6Gb/s 64MB Cache 3.5-Inch Internal Hard Drive (ST2000DM006),Personal Computer,http://www.amazon.com/dp/B01IEKG402/,30,1
+"RHCSA/RHCE Red Hat Linux Certification Study Guide (Exams EX200 & EX300), 6th Edition (Certification Press)",Book,http://www.amazon.com/dp/0071765654/,10,1
+"AVANTEK Laptop Cooling Pad with 6 Speed-Adjustable Fans, Ultra Slim Notebook Cooler, Quiet Chill Mat for 9'' - 16'' Laptops, 2 USB Ports for both Data and Charging (CPN-002)",PC Accessory,http://www.amazon.com/dp/B01LX6VNBE/,1,1
+"CompTIA Linux+/LPIC-1 Certification All-in-One Exam Guide, Second Edition (Exams LX0-103 & LX0-104/101-400 & 102-400)",Book,http://www.amazon.com/dp/0071841687/,6,1
+"RHCSA/RHCE Red Hat Linux Certification Study Guide, Seventh Edition (Exams EX200 & EX300)",Book,http://www.amazon.com/dp/0071841962/,30,1
+"C Programming: A Modern Approach, 2nd Edition",Book,http://www.amazon.com/dp/0393979504/,39,1
+"Linux For Dummies, 9th Edition",Book,http://www.amazon.com/dp/0470467010/,4,1
+"Practical Unix & Internet Security, 3rd Edition",Book,http://www.amazon.com/dp/0596003234/,2,1

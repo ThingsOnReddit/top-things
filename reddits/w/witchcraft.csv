@@ -1,44 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Buckland's Complete Book of Witchcraft (Llewellyn's Practical Magick),Book,http://www.amazon.com/dp/0875420508/,2,2
-Fairy Legends and Traditions of The South of Ireland,eBooks,http://www.amazon.com/dp/B00AQMJXBO/,,1
-Edible Wild Plants: Eastern/Central North America (Peterson Field Guides),Book,http://www.amazon.com/dp/039592622X/,5,1
-Mushrooms Demystified,Book,http://www.amazon.com/dp/0898151694/,4,1
-"Edible Wild Plants: Wild Foods From Dirt To Plate (The Wild Food Adventure Series, Book 1)",Book,http://www.amazon.com/dp/1423601505/,3,1
-The Fifth Kingdom,Book,http://www.amazon.com/dp/1585100226/,3,1
-Hermetic Magic: The Postmodern Papyrus of Abaris,Book,http://www.amazon.com/dp/0877288283/,3,1
-"Spiritual Protection: A Safety Manual for Energy Workers, Healers, and Psychics",Book,http://www.amazon.com/dp/1601631243/,2,1
-Protection and Reversal Magick (Beyond 101),Book,http://www.amazon.com/dp/1564148793/,2,1
-"Botany for Gardeners, 3rd Edition",Book,http://www.amazon.com/dp/160469095X/,2,1
-Mycelium Running: How Mushrooms Can Help Save the World,Book,http://www.amazon.com/dp/1580085792/,2,1
-"The Forager's Harvest: A Guide to Identifying, Harvesting, and Preparing Edible Wild Plants",Book,http://www.amazon.com/dp/0976626608/,2,1
-300 Herbs: Their Indications & Contraindications (A Materia Medica & Repertory),Book,http://www.amazon.com/dp/0961296445/,1,1
-"Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants",Book,http://www.amazon.com/dp/1571313567/,1,1
-"A Modern Herbal (Volume 2, I-Z and Indexes)",Book,http://www.amazon.com/dp/0486227995/,1,1
-Plant Physiology and Development,Book,http://www.amazon.com/dp/1605352551/,1,1
-"Rosemary Gladstar's Medicinal Herbs: A Beginner's Guide: 33 Healing Herbs to Know, Grow, and Use",Book,http://www.amazon.com/dp/1612120059/,1,1
-"Magical Mushrooms, Mischievous Molds",Book,http://www.amazon.com/dp/0691070164/,1,1
-Whispers from the Woods: The Lore & Magic of Trees,Book,http://www.amazon.com/dp/0738707813/,1,1
-"Natural Witchery: Intuitive, Personal & Practical Magick",Book,http://www.amazon.com/dp/0738709220/,1,1
-"A Modern Herbal (Volume 1, A-H): The Medicinal, Culinary, Cosmetic and Economic Properties, Cultivation and Folk-Lore of Herbs, Grasses, Fungi, Shrubs & Trees with Their Modern Scientific Uses",Book,http://www.amazon.com/dp/0486227987/,1,1
-American Horticultural Society Plant Propagation: The Fully Illustrated Plant-by-Plant Manual of Practical Techniques,Book,http://www.amazon.com/dp/0789441160/,1,1
-"Essential Plant Pathology, Second Edition",Book,http://www.amazon.com/dp/089054381X/,1,1
-The Herbal Medicine-Maker's Handbook: A Home Manual,Book,http://www.amazon.com/dp/0895949903/,1,1
-The Herbal Apothecary: 100 Medicinal Herbs and How to Use Them,Book,http://www.amazon.com/dp/1604695676/,1,1
-"Folklore and Symbolism of Flowers, Plants and Trees (Dover Pictorial Archive)",Book,http://www.amazon.com/dp/0486429784/,1,1
-Culpeper's Complete Herbal,Book,http://www.amazon.com/dp/159462772X/,1,1
-"Appalachian Folklore Omens, Signs and Superstitions",Book,http://www.amazon.com/dp/1461017556/,1,1
-The Candle and the Crossroads: A Book of Appalachian Conjure and Southern Root-Work,Book,http://www.amazon.com/dp/157863508X/,1,1
-Fatecrafter,Book,http://www.amazon.com/dp/1545351023/,1,1
-Cunning-Folk and Familiar Spirits: Shamanistic Visionary Traditions in Early Modern British Witchcraft and Magic,Book,http://www.amazon.com/dp/1845190793/,1,1
-Robert Kirk: Walker Between the Worlds,Book,http://www.amazon.com/dp/0979140242/,1,1
-JAJAFOOK Unisex's Stainless Steel Tibetan Mantra Bands Spins Ring Couple's Jewelry,Jewelry,http://www.amazon.com/dp/B01MR0B7G9/,1,1
-Ancient Egyptian Magic,Book,http://www.amazon.com/dp/0688007961/,1,1
-Techniques of Graeco-Egyptian Magic,Book,http://www.amazon.com/dp/0738746320/,1,1
-The Mechanics of Ancient Egyptian Magical Practice (Studies in Ancient Oriental Civilizations),Book,http://www.amazon.com/dp/0918986753/,1,1
-Palo Mayombe: The Garden of Blood and Bones,Book,http://www.amazon.com/dp/0956720390/,1,1
-Graeco-Egyptian Magick,Book,http://www.amazon.com/dp/1905713037/,1,1
-"Isis Magic Cultivating a Relationship with the Goddess of 10,000 Names",Book,http://www.amazon.com/dp/1939112001/,1,1
-Egyptian Magic: The Quest for Thoth's Book of Secrets,Book,http://www.amazon.com/dp/9774165322/,1,1
-Cast Iron Skillet Wax Warmer and Trivet,Home,http://www.amazon.com/dp/B00113V5TU/,1,1
-Evil Eye Pendant Necklace Sterling Silver with Clear Blue Lamp-work glass Lucky Eye with chain,Jewelry,http://www.amazon.com/dp/B00L4AYDCG/,1,1
+Buckland's Complete Book of Witchcraft (Llewellyn's Practical Magick),Book,http://www.amazon.com/dp/0875420508/,11,6
+The Physicians of Myddfai,Book,http://www.amazon.com/dp/1479347116/,4,3
+Cunningham's Encyclopedia of Magical Herbs (Llewellyn's Sourcebook Series) (Cunningham's Encyclopedia Series),Book,http://www.amazon.com/dp/0875421229/,9,2
+The Plant Spirit Familiar,Book,http://www.amazon.com/dp/0982774311/,2,2
+Grimoire of the Thorn-Blooded Witch: Mastering the Five Arts of Old World Witchery,Book,http://www.amazon.com/dp/1578635500/,2,2
+"Encyclopedia of 5,000 Spells",Book,http://www.amazon.com/dp/0061711233/,2,2
+Protection and Reversal Magick (Beyond 101),Book,http://www.amazon.com/dp/1564148793/,5,2
+"Natural Witchery: Intuitive, Personal & Practical Magick",Book,http://www.amazon.com/dp/0738709220/,2,2
+"Drawing Down the Moon: Witches, Druids, Goddess-Worshippers, and Other Pagans in America",Book,http://www.amazon.com/dp/0143038192/,11,2
+How to Connect with Nature (School of Life),Book,http://www.amazon.com/dp/0230768075/,1,1
 Magic in Ancient Egypt: Revised Edition,Book,http://www.amazon.com/dp/0292722621/,1,1
+The Poetic Edda,Book,http://www.amazon.com/dp/0292764995/,7,1
+Altars: Bringing Sacred Shrines into Your Everyday Life,Book,http://www.amazon.com/dp/0345434463/,1,1
+"Power of the Witch: The Earth, the Moon, and the Magical Path to Enlightenment",Book,http://www.amazon.com/dp/0385301898/,1,1
+"An Encyclopedia of Fairies: Hobgoblins, Brownies, Bogies, & Other Supernatural Creatures",Book,http://www.amazon.com/dp/039473467X/,4,1
+Edible Wild Plants: Eastern/Central North America (Peterson Field Guides),Book,http://www.amazon.com/dp/039592622X/,19,1
+"Wicca and the Christian Heritage: Ritual, Sex and Magic",Book,http://www.amazon.com/dp/0415254140/,1,1
+Bulfinch's Mythology: The Age of Fable / The Legends of Charlemagne / The Age of Chivalry (Laurel Classic),Book,http://www.amazon.com/dp/0440308453/,3,1
+D'Aulaires' Book of Greek Myths,Book,http://www.amazon.com/dp/0440406943/,19,1
+Edda (Everyman's Library),Book,http://www.amazon.com/dp/0460876163/,10,1
+"A Modern Herbal (Volume 1, A-H): The Medicinal, Culinary, Cosmetic and Economic Properties, Cultivation and Folk-Lore of Herbs, Grasses, Fungi, Shrubs & Trees with Their Modern Scientific Uses",Book,http://www.amazon.com/dp/0486227987/,2,1
+"A Modern Herbal (Volume 2, I-Z and Indexes)",Book,http://www.amazon.com/dp/0486227995/,2,1
+"Folklore and Symbolism of Flowers, Plants and Trees (Dover Pictorial Archive)",Book,http://www.amazon.com/dp/0486429784/,1,1
+Russian Folktales from the Collection of A. Afanasyev: A Dual-Language Book (Dover Dual Language Russian),Book,http://www.amazon.com/dp/048649392X/,3,1
+Hands of Light: A Guide to Healing Through the Human Energy Field,Book,http://www.amazon.com/dp/0553345397/,4,1
+Light Emerging: The Journey of Personal Healing,Book,http://www.amazon.com/dp/0553354566/,5,1
+"Mastering Witchcraft: A Practical Guide for Witches, Warlocks, and Covens",Book,http://www.amazon.com/dp/0595420060/,3,1
+Ancient Egyptian Magic,Book,http://www.amazon.com/dp/0688007961/,1,1
+"Magical Mushrooms, Mischievous Molds",Book,http://www.amazon.com/dp/0691070164/,2,1
+Witchcraft for Tomorrow,Book,http://www.amazon.com/dp/0709052448/,3,1
+Helping Yourself with White Witchcraft,Book,http://www.amazon.com/dp/0735203733/,1,1
+The Witches' Craft: The Roots of Witchcraft & Magical Transformation,Book,http://www.amazon.com/dp/073870265X/,1,1
+"The Inner Temple of Witchcraft: Magick, Meditation and Psychic Development (Penczak Temple Series)",Book,http://www.amazon.com/dp/0738702765/,1,1
+Solitary Witch: The Ultimate Book of Shadows for the New Generation,Book,http://www.amazon.com/dp/0738703192/,2,1
+Incense: Crafting and Use of Magickal Scents,Book,http://www.amazon.com/dp/0738703362/,2,1
+Spirit of the Witch: Religion & Spirituality in Contemporary Witchcraft,Book,http://www.amazon.com/dp/0738703389/,1,1
+Speak with the Dead: Seven Methods for Spirit Communication,Book,http://www.amazon.com/dp/0738705225/,1,1
+"The Outer Temple of Witchcraft: Circles, Spells and Rituals (Penczak Temple Series)",Book,http://www.amazon.com/dp/0738705314/,1,1
+Whispers from the Woods: The Lore & Magic of Trees,Book,http://www.amazon.com/dp/0738707813/,1,1
+Your Altar: Creating a Sacred Space for Prayer & Meditation,Book,http://www.amazon.com/dp/0738711055/,1,1
+"The Temple of High Witchcraft: Ceremonies, Spheres and The Witches' Qabalah (Penczak Temple Series)",Book,http://www.amazon.com/dp/0738711659/,1,1
+Energy Essentials for Witches and Spellcasters,Book,http://www.amazon.com/dp/0738715506/,2,1
+The Cauldron of Memory: Retrieving Ancestral Knowledge & Wisdom,Book,http://www.amazon.com/dp/0738715751/,1,1
+Techniques of Graeco-Egyptian Magic,Book,http://www.amazon.com/dp/0738746320/,2,1
+Celtic Myths and Legends,Book,http://www.amazon.com/dp/0786711078/,9,1
+American Horticultural Society Plant Propagation: The Fully Illustrated Plant-by-Plant Manual of Practical Techniques,Book,http://www.amazon.com/dp/0789441160/,7,1
+Weeds of the Northeast,Book,http://www.amazon.com/dp/0801483344/,1,1
+Secret Lore of Magic,Book,http://www.amazon.com/dp/0806500042/,1,1
+Fairy-Faith in Celtic Countries (Library of the Mystic Arts),Book,http://www.amazon.com/dp/0806511605/,3,1
+The Enchanted Candle: Crafting and Casting Magickal Light,Book,http://www.amazon.com/dp/0806525789/,1,1
+Witchcraft Today,Book,http://www.amazon.com/dp/0806525932/,6,1
+"The Enchanted Formulary: Blending Magickal Oils for Love, Prosperity, and Healing",Book,http://www.amazon.com/dp/0806527048/,1,1
+A Field Guide to the Little People,Book,http://www.amazon.com/dp/0809044501/,2,1
+"Witchcraft and Magic in Europe, Vol. 6: The Twentieth Century (Witchcraft and Magic in Europe)",Book,http://www.amazon.com/dp/0812217071/,1,1
+"The Encyclopedia of Witches, Witchcraft and Wicca",Book,http://www.amazon.com/dp/0816071047/,1,1
+Wicca: A Guide for the Solitary Practitioner,Book,http://www.amazon.com/dp/0875421180/,14,1
+Three Books of Occult Philosophy (Llewellyn's Sourcebook),Book,http://www.amazon.com/dp/0875428320/,6,1
+Futhark: A Handbook of Rune Magic,Book,http://www.amazon.com/dp/0877285489/,3,1
+Hermetic Magic: The Postmodern Papyrus of Abaris,Book,http://www.amazon.com/dp/0877288283/,4,1
+The Original Rider Waite Tarot Pack,Book,http://www.amazon.com/dp/0880796863/,2,1
+"Essential Plant Pathology, Second Edition",Book,http://www.amazon.com/dp/089054381X/,1,1
+Mystical Origins of the Tarot: From Ancient Roots to Modern Usage,Book,http://www.amazon.com/dp/0892811900/,5,1
+The Herbal Medicine-Maker's Handbook: A Home Manual,Book,http://www.amazon.com/dp/0895949903/,1,1
+Mushrooms Demystified,Book,http://www.amazon.com/dp/0898151694/,21,1
+The Rider Tarot Deck,Book,http://www.amazon.com/dp/091386613X/,6,1
+Legal Highs: A Concise Encyclopedia of Legal Herbs and Chemicals with Psychoactive Properties,Book,http://www.amazon.com/dp/0914171828/,1,1
+The Mechanics of Ancient Egyptian Magical Practice (STUDIES IN ANCIENT ORIENTAL CIVILIZATION),Book,http://www.amazon.com/dp/0918986753/,1,1
+Compendium of Herbal Magic,Book,http://www.amazon.com/dp/091934545X/,4,1
+The Master Book of Herbalism,Book,http://www.amazon.com/dp/0919345530/,8,1
+Natural Magic,Book,http://www.amazon.com/dp/0919345808/,1,1
+The Satanic Witch,Book,http://www.amazon.com/dp/0922915849/,3,1
+Magickal Formulary Spellbook 1,Book,http://www.amazon.com/dp/0939708000/,1,1
+002: A Magickal Formulary Spellbook Companion: Book II,Book,http://www.amazon.com/dp/0939708108/,1,1
+Complete Book of Baths,Book,http://www.amazon.com/dp/0942272730/,1,1
+Palo Mayombe: The Garden of Blood and Bones,Book,http://www.amazon.com/dp/0956720390/,1,1
+300 Herbs: Their Indications & Contraindications (A Materia Medica & Repertory),Book,http://www.amazon.com/dp/0961296445/,1,1
+Love is in the Earth: A Kaleidoscope of Crystals - The Reference Book Describing the Metaphysical Properties of the Mineral Kingdom,Book,http://www.amazon.com/dp/0962819034/,3,1
+Making Plant Medicine,Book,http://www.amazon.com/dp/0970031203/,1,1
+Edible Plants of the Gulf South,Book,http://www.amazon.com/dp/0971862524/,2,1
+"The Forager's Harvest: A Guide to Identifying, Harvesting, and Preparing Edible Wild Plants",Book,http://www.amazon.com/dp/0976626608/,4,1
+Robert Kirk: Walker Between the Worlds,Book,http://www.amazon.com/dp/0979140242/,1,1
+"Utterly Wicked: Curses, Hexes & Other Unsavory Notions",Book,http://www.amazon.com/dp/0979453313/,1,1
+Balkan Traditional Witchcraft,Book,http://www.amazon.com/dp/0979616859/,2,1
+Sea Witch,Book,http://www.amazon.com/dp/0981743307/,1,1
+Witching Way of the Hollow Hill,Book,http://www.amazon.com/dp/0982031882/,1,1
+Aradia or The Gospel of the Witches,Book,http://www.amazon.com/dp/0982432356/,2,1
+The Mighty Dead,Book,http://www.amazon.com/dp/0982774370/,2,1
+"Edible Wild Plants: Wild Foods From Dirt To Plate (The Wild Food Adventure Series, Book 1)",Book,http://www.amazon.com/dp/1423601505/,9,1
+"Appalachian Folklore Omens, Signs and Superstitions",Book,http://www.amazon.com/dp/1461017556/,1,1
+Etruscan Roman Remains,Book,http://www.amazon.com/dp/1494302519/,1,1
+"Letters from the Devil's Forest: An Anthology of Writings on Traditional Witchcraft, Spiritual Ecology and Provenance Traditionalism",Book,http://www.amazon.com/dp/1500796360/,2,1
+"Magickal Protection: Defend Against Curses, Gossip, Bullies, Thieves, Demonic Forces, Violence, Threats and Psychic Attack",Book,http://www.amazon.com/dp/1508842787/,1,1
+The Sisters Grimmoire: Spells and Charms for your Happily Ever After,Book,http://www.amazon.com/dp/1517279399/,1,1
+Fatecrafter,Book,http://www.amazon.com/dp/1545351023/,1,1
+"The Secret Doctrine: The Synthesis of Science, Religion, and Philosophy (2-volume set)",Book,http://www.amazon.com/dp/1557002282/,1,1
+Magical Use of Thought Forms: A Proven System of Mental & Spiritual Empowerment,Book,http://www.amazon.com/dp/1567180841/,5,1
+Everyday Magic: Spells & Rituals for Modern Living (Everyday Series),Book,http://www.amazon.com/dp/1567184693/,1,1
+Crone's Book of Charms & Spells,Book,http://www.amazon.com/dp/1567188117/,1,1
+Crone's Book of Magical Words,Book,http://www.amazon.com/dp/1567188257/,1,1
+"Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants",Book,http://www.amazon.com/dp/1571313567/,1,1

@@ -1,12 +1,55 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Code: The Hidden Language of Computer Hardware and Software,Book,http://www.amazon.com/dp/0735611319/,48,1
-"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,36,1
-"Acer Chromebook 14, Aluminum, 14-inch Full HD, Intel Celeron Quad-Core N3160, 4GB LPDDR3, 32GB, Chrome, CB3-431-C5FM",Personal Computer,http://www.amazon.com/dp/B01CVOLVPA/,7,1
-The Algorithm Design Manual,Book,http://www.amazon.com/dp/1849967202/,6,1
-Modern Information Retrieval: The Concepts and Technology behind Search (2nd Edition) (ACM Press Books),Book,http://www.amazon.com/dp/0321416910/,2,1
-Foundations Of Algorithms,Book,http://www.amazon.com/dp/1284049191/,1,1
-Discrete Mathematics with Applications,Book,http://www.amazon.com/dp/0534359450/,1,1
-Introduction to Information Retrieval,Book,http://www.amazon.com/dp/0521865719/,1,1
-Home Networking Demystified,Book,http://www.amazon.com/dp/0072258780/,1,1
+Code: The Hidden Language of Computer Hardware and Software,Book,http://www.amazon.com/dp/0735611319/,158,6
+"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,112,4
+Computer Architecture: A Quantitative Approach,Book,http://www.amazon.com/dp/012383872X/,26,2
+Cracking the Coding Interview: 189 Programming Questions and Solutions,Book,http://www.amazon.com/dp/0984782850/,90,2
+"C Programming Language, 2nd Edition",Book,http://www.amazon.com/dp/0131103628/,109,2
+Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science),Book,http://www.amazon.com/dp/0262510871/,15,2
+Computer Systems: A Programmer's Perspective (3rd Edition),Book,http://www.amazon.com/dp/013409266X/,13,1
+Computer Systems: A Programmer's Perspective (2nd Edition),Book,http://www.amazon.com/dp/0136108040/,5,1
+"Compilers: Principles, Techniques, and Tools",Book,http://www.amazon.com/dp/0201100886/,3,1
+The Pragmatic Programmer: From Journeyman to Master,Book,http://www.amazon.com/dp/020161622X/,86,1
+From Logic to Logic Programming (Foundations of Computing),Book,http://www.amazon.com/dp/0262041421/,1,1
 Information Retrieval: Implementing and Evaluating Search Engines (MIT Press),Book,http://www.amazon.com/dp/0262528878/,1,1
+The Reasoned Schemer (MIT Press),Book,http://www.amazon.com/dp/0262562146/,1,1
+Algorithm Design,Book,http://www.amazon.com/dp/0321295358/,10,1
+Modern Information Retrieval: The Concepts and Technology behind Search (2nd Edition) (ACM Press Books),Book,http://www.amazon.com/dp/0321416910/,2,1
+"Introduction to Automata Theory, Languages, and Computation (3rd Edition)",Book,http://www.amazon.com/dp/0321455363/,4,1
+"Compilers: Principles, Techniques, and Tools (2nd Edition)",Book,http://www.amazon.com/dp/0321486811/,25,1
+"The Art of Computer Programming, Volumes 1-4A Boxed Set",Book,http://www.amazon.com/dp/0321751043/,21,1
+Mathematical Proofs: A Transition to Advanced Mathematics (3rd Edition) (Featured Titles for Transition to Advanced Mathematics),Book,http://www.amazon.com/dp/0321797094/,15,1
+Hacker's Delight (2nd Edition),Book,http://www.amazon.com/dp/0321842685/,11,1
+An Introduction to the Analysis of Algorithms (2nd Edition),Book,http://www.amazon.com/dp/032190575X/,1,1
+Guide to Assembly Language Programming in Linux,Book,http://www.amazon.com/dp/0387258973/,1,1
+Security Engineering: A Guide to Building Dependable Distributed Systems,Book,http://www.amazon.com/dp/0470068523/,3,1
+Introduction to Information Retrieval,Book,http://www.amazon.com/dp/0521865719/,1,1
+Discrete Mathematics with Applications,Book,http://www.amazon.com/dp/0534359450/,1,1
+Introduction to the Theory of Computation,Book,http://www.amazon.com/dp/053494728X/,4,1
+Head First Design Patterns: A Brain-Friendly Guide,Book,http://www.amazon.com/dp/0596007124/,51,1
+The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet,Book,http://www.amazon.com/dp/0684831309/,7,1
+Code: The Hidden Language of Computer Hardware and Software,Book,http://www.amazon.com/dp/073560505X/,1,1
+"Code Complete: A Practical Handbook of Software Construction, Second Edition",Book,http://www.amazon.com/dp/0735619670/,85,1
+The New Turing Omnibus: Sixty-Six Excursions in Computer Science,Book,http://www.amazon.com/dp/0805071660/,6,1
+Ship it! A Practical Guide to Successful Software Projects,Book,http://www.amazon.com/dp/0974514047/,1,1
+"Applied Cryptography: Protocols, Algorithms and Source Code in C",Book,http://www.amazon.com/dp/1119096723/,3,1
+Foundations Of Algorithms,Book,http://www.amazon.com/dp/1284049191/,2,1
+High Performance Browser Networking: What every web developer should know about networking and web performance,Book,http://www.amazon.com/dp/1449344763/,3,1
+Modern Compiler Design,Book,http://www.amazon.com/dp/1461446988/,1,1
+Algorithms to Live By: The Computer Science of Human Decisions,Book,http://www.amazon.com/dp/1480560367/,1,1
+Writing Solid Code (Microsoft Programming Series),Book,http://www.amazon.com/dp/1556155514/,3,1
+"Routing TCP/IP, Volume 1 (2nd Edition)",Book,http://www.amazon.com/dp/1587052024/,3,1
+Think Like a Programmer: An Introduction to Creative Problem Solving,Book,http://www.amazon.com/dp/1593274246/,19,1
+Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture,Book,http://www.amazon.com/dp/1593276680/,6,1
+The Algorithm Design Manual,Book,http://www.amazon.com/dp/1848000693/,39,1
+The Algorithm Design Manual,Book,http://www.amazon.com/dp/1849967202/,15,1
+Gigabyte GC-RAMDISK i-RAM 4 GB Hard Drive,CE,http://www.amazon.com/dp/B000EPM9NC/,2,1
+AMD FD8320FRHKBOX FX-8320 FX-Series 8-Core Black Edition Processor,Personal Computer,http://www.amazon.com/dp/B009O7YU56/,7,1
+"Operating System Concepts, 9th Edition",eBooks,http://www.amazon.com/dp/B00APSZCEQ/,1,1
+"Vansky Bias Lighting for HDTV USB LED Strip Normal Bright White Backlight Kit for Flat Screen TV LCD, Desktop PC (Reduce eye fatigue and increase image clarity)",Speakers,http://www.amazon.com/dp/B01A9RN0UK/,3,1
 Operating Systems DeMYSTiFieD,Book,http://www.amazon.com/dp/0071752269/,1,1
+"Acer Chromebook 14, Aluminum, 14-inch Full HD, Intel Celeron Quad-Core N3160, 4GB LPDDR3, 32GB, Chrome, CB3-431-C5FM",Personal Computer,http://www.amazon.com/dp/B01CVOLVPA/,56,1
+Home Networking Demystified,Book,http://www.amazon.com/dp/0072258780/,1,1
+Engineering: A Compiler,Book,http://www.amazon.com/dp/012088478X/,9,1
+"Unix Network Programming, Volume 1: The Sockets Networking API (3rd Edition)",Book,http://www.amazon.com/dp/0131411551/,10,1
+Calculus with Differential  Equations (9th Edition),Book,http://www.amazon.com/dp/0132306336/,1,1
+Modern Operating Systems (4th Edition),Book,http://www.amazon.com/dp/013359162X/,22,1

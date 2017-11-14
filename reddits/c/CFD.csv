@@ -1,8 +1,17 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Computational Fluid Dynamics,Book,http://www.amazon.com/dp/0070016852/,2,1
-"Nodal Discontinuous Galerkin Methods: Algorithms, Analysis, and Applications (Texts in Applied Mathematics)",Book,http://www.amazon.com/dp/0387720650/,1,1
-An Introduction to Computational Fluid Dynamics: The Finite Volume Method (2nd Edition),Book,http://www.amazon.com/dp/0131274988/,1,1
+"Numerical Computation of Internal and External Flows: The Fundamentals of Computational Fluid Dynamics, Second Edition",Book,http://www.amazon.com/dp/0750665947/,2,2
+Turbulence Modeling for CFD (Third Edition),Book,http://www.amazon.com/dp/1928729088/,2,2
+An Introduction to Computational Fluid Dynamics: The Finite Volume Method (2nd Edition),Book,http://www.amazon.com/dp/0131274988/,2,2
 "Fluid Mechanics, Fifth Edition",Book,http://www.amazon.com/dp/0123821002/,1,1
-Turbulence Modeling for CFD (Third Edition),Book,http://www.amazon.com/dp/1928729088/,1,1
+"Fluid Mechanics and Thermodynamics of Turbomachinery, Seventh Edition",Book,http://www.amazon.com/dp/0124159540/,1,1
+"Nodal Discontinuous Galerkin Methods: Algorithms, Analysis, and Applications (Texts in Applied Mathematics)",Book,http://www.amazon.com/dp/0387720650/,1,1
+Principles of Continuum Mechanics: A Study of Conservation Principles with Applications,Book,http://www.amazon.com/dp/0521513693/,1,1
+Handbook of Grid Generation,Book,http://www.amazon.com/dp/0849326877/,1,1
+Numerical Simulation in Fluid Dynamics: A Practical Introduction (Monographs on Mathematical Modeling and Computation),Book,http://www.amazon.com/dp/0898713986/,1,1
+Fundamentals of Computational Fluid Dynamics (Scientific Computation),Book,http://www.amazon.com/dp/3540416072/,1,1
+Computational Methods for Fluid Dynamics,Book,http://www.amazon.com/dp/3540420746/,1,1
 Boundary-Layer Theory,Book,http://www.amazon.com/dp/3540662707/,1,1
-"Numerical Computation of Internal and External Flows: The Fundamentals of Computational Fluid Dynamics, Second Edition",Book,http://www.amazon.com/dp/0750665947/,1,1
+Computational Fluid Dynamics,Book,http://www.amazon.com/dp/0070016852/,3,1
+Viscous Fluid Flow by Frank M. White (1991-01-01),Book,http://www.amazon.com/dp/B01F9QH2VO/,1,1
+Fundamentals of Aerodynamics,Book,http://www.amazon.com/dp/0073398101/,10,1
+"Computational Fluid Dynamics, Second Edition: A Practical Approach",Book,http://www.amazon.com/dp/0080982433/,2,1

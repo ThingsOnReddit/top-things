@@ -1,19 +1,74 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-RTL-SDR Blog R820T2 RTL2832U 1PPM TCXO SMA Software Defined Radio with 2x Telescopic Antennas,CE,http://www.amazon.com/dp/B011HVUEME/,13,8
-"NooElec NESDR SMArt Bundle - Premium RTL-SDR w/ Aluminum Enclosure, 0.5PPM TCXO, SMA Input & 3 Antennas. RTL2832U & R820T2-Based Software Defined Radio.",PC Accessory,http://www.amazon.com/dp/B01GDN1T4S/,3,2
-The Hobbyist's Guide to the RTL-SDR: Really Cheap Software Defined Radio,eBooks,http://www.amazon.com/dp/B00KCDF1QI/,,1
-RTL-SDR Blog R820T2 RTL2832U Software Defined Radio with 2x Telescopic Antenna,Speakers,http://www.amazon.com/dp/B00QFCNNV0/,4,1
-RTL-SDR Blog R820T2 RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only),Speakers,http://www.amazon.com/dp/B0129EBDS2/,3,1
-"TP-Link 2.4GHz 24dBi Directional Grid Parabolic Antenna, N Female Connector, Weather Resistant (TL-ANT2424B)",CE,http://www.amazon.com/dp/B003CFATOW/,3,1
-Understanding Digital Signal Processing (3rd Edition),Book,http://www.amazon.com/dp/0137027419/,3,1
-"NooElec Ham It Up v1.3 - NooElec RF Upconverter For Software Defined Radio. Works With Most SDRs Like HackRF & RTL-SDR (RTL2832U with E4000, FC0013 or R820T Tuners); MF/HF Converter With SMA Jacks",CE,http://www.amazon.com/dp/B009LQT3G6/,3,1
-The Scientist & Engineer's Guide to Digital Signal Processing,Book,http://www.amazon.com/dp/0966017633/,2,1
-"NooElec Balun One Nine - Tiny Low-Cost 1:9 HF Antenna Balun with Antenna Input Protection for Ham It Up, SDR and Many Other Applications!",Speakers,http://www.amazon.com/dp/B00R09WHT6/,2,1
-"uxcell 9.8"" x 7.5"" x 4.3"" Blue Metal Enclosure Project Case DIY Junction Box",Speakers,http://www.amazon.com/dp/B00LGKE2GQ/,1,1
-"RTL-SDR Blog MCX Male to SMA F, SMA M, BNC F, Type N F, Type F F, UHF F, PAL F RG316 20cm Pigtail Adapters Bundle",Speakers,http://www.amazon.com/dp/B00RF15070/,1,1
-DHT Electronics RF coaxial coax cable F female to MCX male right angle RG316 6'',PC Accessory,http://www.amazon.com/dp/B00CKG6T9I/,1,1
+RTL-SDR Blog R820T2 RTL2832U 1PPM TCXO SMA Software Defined Radio with 2x Telescopic Antennas,CE,http://www.amazon.com/dp/B011HVUEME/,46,26
+"NooElec NESDR SMArt Bundle - Premium RTL-SDR w/ Aluminum Enclosure, 0.5PPM TCXO, SMA Input & 3 Antennas. RTL2832U & R820T2-Based Software Defined Radio.",PC Accessory,http://www.amazon.com/dp/B01GDN1T4S/,15,10
+RTL-SDR Blog R820T2 RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only),Speakers,http://www.amazon.com/dp/B0129EBDS2/,15,6
+"NooElec Ham It Up v1.3 - NooElec RF Upconverter For Software Defined Radio. Works With Most SDRs Like HackRF & RTL-SDR (RTL2832U with E4000, FC0013 or R820T Tuners); MF/HF Converter With SMA Jacks",CE,http://www.amazon.com/dp/B009LQT3G6/,14,5
+The Hobbyist's Guide to the RTL-SDR: Really Cheap Software Defined Radio,eBooks,http://www.amazon.com/dp/B00KCDF1QI/,5,4
+RTL-SDR Blog R820T2 RTL2832U Software Defined Radio with 2x Telescopic Antenna,Speakers,http://www.amazon.com/dp/B00QFCNNV0/,9,4
+"Ghost Wire Flat RG6 Coax Jumper Cable Extreme Slim Flat Window Cable,1ft",CE,http://www.amazon.com/dp/B01DVKOOA2/,4,2
+MCX Male to F Female Video Adapter,BISS,http://www.amazon.com/dp/B0090RGIKU/,2,2
+1090MHz ADS-B Antenna - 66cm / 26in,Speakers,http://www.amazon.com/dp/B00WZL6WPO/,6,2
+Tram 1410 Broad Band Discone/Scanner Base Antenna,GPS or Navigation System,http://www.amazon.com/dp/B00QVPGKHU/,3,2
+SMA Male to F Type Female Adapter Connector,Speakers,http://www.amazon.com/dp/B00BIMTGXQ/,2,2
+"RTL-SDR Blog MCX Male to SMA F, SMA M, BNC F, Type N F, Type F F, UHF F, PAL F RG316 20cm Pigtail Adapters Bundle",Speakers,http://www.amazon.com/dp/B00RF15070/,2,2
+"NooElec NESDR Mini USB RTL-SDR & ADS-B Receiver Set, RTL2832U & R820T Tuner, MCX Input. Low-Cost Software Defined Radio Compatible with Many SDR Software Packages. R820T Tuner & ESD-Safe Antenna Input",CE,http://www.amazon.com/dp/B009U7WZCA/,16,2
+DHT Electronics RF coaxial coax cable F female to MCX male right angle RG316 6'',PC Accessory,http://www.amazon.com/dp/B00CKG6T9I/,3,2
 Antennacraft St3 Vhf-hi/uhf Scanner Antenna,Speakers,http://www.amazon.com/dp/B003H2FR9M/,1,1
-Micro USB Host OTG Cable with Micro USB Power for Samsung i9100 i9300 i9220 i9250 by AtomicMarket,PC Accessory,http://www.amazon.com/dp/B009YPYORM/,1,1
-Tram 1410 Broad Band Discone/Scanner Base Antenna,GPS or Navigation System,http://www.amazon.com/dp/B00QVPGKHU/,1,1
+DirecTv MSPLIT2R1 Approved Zinwell 2-Way Wide Band SWM Splitter,CE,http://www.amazon.com/dp/B003H2HNQW/,1,1
+"Rigol DS1052E 50MHz Digital Oscope with 2 Channels, USB Storage Access, 1 GSa/sec sampling",BISS,http://www.amazon.com/dp/B003MYND5A/,2,1
+Griffin Technology NA16029 PowerMate USB Multimedia Controller,CE,http://www.amazon.com/dp/B003VWU2WA/,16,1
+Steren 205-750 50-Feet UHF-UHF Mini-RG8x Cable,Speakers,http://www.amazon.com/dp/B004EFNHXE/,1,1
+Single Beam Photoelectric Detector Active IR Sensor,Photography,http://www.amazon.com/dp/B0050GTZ32/,1,1
+"AVerMedia AVerTV Volar Hybrid Q, USB TV Tuner, ATSC, Clear QAM HDTV & FM Radio, Supports Windows & Android TV 7.0 or above (H837)",Personal Computer,http://www.amazon.com/dp/B006PU81QE/,3,1
+"Aluminum 6061 Round Rod, ASTM B221",BISS,http://www.amazon.com/dp/B007P0M1X2/,1,1
+uxcell 2 Pcs F Female to PAL Male 9.5mm TV Satellite Antenna RF Coax Adapter,Speakers,http://www.amazon.com/dp/B007PPZXU0/,1,1
+"uxcell SMA Male to BNC Male Antenna Coax Pigtail Adapter Connector Cable 13.4"" Long",CE,http://www.amazon.com/dp/B009EO7V3M/,1,1
+Micro USB Host OTG Cable with Micro USB Power for Samsung i9100 i9300 i9220 i9250 by AtomicMarket,PC Accessory,http://www.amazon.com/dp/B009YPYORM/,8,1
+"UGREEN 30 Feet USB 2.0 Extension Cable USB Active Type A Male to Female Repeater Cord with Built-in Signal Booster for Printer, Keyboard, Game Console, Loudspeaker, Oculus Rift, scanners, Wifi Antenna",Personal Computer,http://www.amazon.com/dp/B00B2HP3A2/,3,1
+DHT Electronics RF coaxial cable UHF female SO239 to MCX male right angle connector RG316 20CM,PC Accessory,http://www.amazon.com/dp/B00C20FV78/,1,1
+"Keedox® RTL-SDR, FM+DAB, DVB-T USB Stick Set with RTL2832U & R820T. Great SDR for SDR#, HDSDR",Speakers,http://www.amazon.com/dp/B00D3GRU24/,4,1
+"SMA Male Plug Reverse Polarity to SMA Female Jack Reverse Polarity Bulkhead Lightning Surge Arrestor Suppressor With Gas Tube, DC to 6Ghz",PC Accessory,http://www.amazon.com/dp/B00I2Y7QIU/,1,1
+New RF Wireless Transmitter and Receiver Link Kit Module 433Mhz for Arduino DIY,Toy,http://www.amazon.com/dp/B00INTI8R2/,2,1
+"DROK USB 2.0 Digital Multimeter, Ammeter Voltmeter Capacitance and Watt Meter, 7 Modes Multi Tester",BISS,http://www.amazon.com/dp/B00J3JSEG6/,11,1
+"Extruded Aluminum Enclosure Kit, Blue, for Ham It Up v1.3 RF Upconverter for NESDR and RTL-SDR radios",Speakers,http://www.amazon.com/dp/B00J7EY1Z0/,3,1
+HitCar SMA Male Plug GPS Active Antenna Aerial Connector Cable for Dash DVD Head Unit Stereos (Right Angle Plug),Home Theater,http://www.amazon.com/dp/B00JE4GV8S/,1,1
+SODIAL(R)Passive Power over Ethernet PoE Adapter Injector + Splitter Kit 5v 12v 24v 48v,Personal Computer,http://www.amazon.com/dp/B00KD3LVTS/,1,1
+"uxcell 9.8"" x 7.5"" x 4.3"" Blue Metal Enclosure Project Case DIY Junction Box",Speakers,http://www.amazon.com/dp/B00LGKE2GQ/,2,1
+Victor Precision Frequency Counter 0.01Hz to 2.4GHz Digital RF Meter,BISS,http://www.amazon.com/dp/B00MDVN4R0/,1,1
+"Signstek Coax RF Connector Crimping Tool for RG-58, 59, 62, 8x, 141, 142, LMR195, 200, 240",BISS,http://www.amazon.com/dp/B00N3PDPYC/,2,1
+Super Power Supply® F Type Female to MCX Male Right Angle 8 inch / 20cm Pigtail Cable RF Coax Coaxial Connector Adapter,Speakers,http://www.amazon.com/dp/B00N52IMRI/,1,1
+NooElec NESDR Mini 2 SDR & DVB-T USB Stick (RTL2832 + R820T2) with Antenna and Remote Control,Home Theater,http://www.amazon.com/dp/B00P2UOU72/,15,1
+"DVB-T DAB FM,RTL2832U & R820T Tuner,Mini USB RTL-SDR & ADS-B Receiver Set,Radio Compatible,MCX Input,Easy Intall,25 - 1700 MHz,Support Windows XP/2000/Vista/Win7/Win8",CE,http://www.amazon.com/dp/B00PDM76ZW/,2,1
+"NooElec Balun One Nine - Tiny Low-Cost 1:9 HF Antenna Balun with Antenna Input Protection for Ham It Up, SDR and Many Other Applications!",Speakers,http://www.amazon.com/dp/B00R09WHT6/,4,1
+"MeeGoPad T01 Microsoft Windows 8.1 OS TV Stick - Quad-Core CPU, 2GB RAM, 32GB Internal Memory, Bluetooth, HDMI Interface (White)",CE,http://www.amazon.com/dp/B00RVCGNEC/,2,1
+ALARM MINE .22 Cal Claymore Simulator Sentry Mine for Airsoft and Paintball in Multicam Mini Prepper tactical Trip Wire Alarm,Sports,http://www.amazon.com/dp/B00TWYCZSA/,1,1
+Eleduino Raspberry Pi 3 and  Raspberry Pi 2 Metal Case with Cooling Fan Black,Personal Computer,http://www.amazon.com/dp/B012GPCLR6/,4,1
+uxcell F Type Female to SMA Male Coaxial Cable Adapter Connector Silver Tone,CE,http://www.amazon.com/dp/B016FCLM3K/,1,1
+"Anker 4-Port USB 3.0 Ultra-Slim Portable Data Hub with 12W Power Adapter for Macbook, Mac Pro / mini, iMac, XPS, Surface Pro, Notebook PCs and More",Personal Computer,http://www.amazon.com/dp/B0192LPK5M/,6,1
+100pcs Insulated Heat Shrink Butt Connectors Wire electrical 10-22 AWG Kit,Home Improvement,http://www.amazon.com/dp/B01C26ZBMG/,1,1
+"eBoot 20 Pieces Clip-on Ferrite Ring Core RFI EMI Noise Suppressor Cable Clip for 3mm/ 5mm/ 7mm/ 9mm/ 13mm Diameter Cable, Black",BISS,http://www.amazon.com/dp/B01E5E5IY4/,9,1
+"CESS SMA Male to F-Type Adapter Cable Connector (#13: SMA Male to F Female,2-Pack)",CE,http://www.amazon.com/dp/B01FQE4BN6/,1,1
+NooElec ADS-B Discovery 5dBi (High Gain) Antenna Bundle - 1090MHz & 978MHz Antenna Bundle for SMA and MCX-Connected Software Defined Radios (SDRs),GPS or Navigation System,http://www.amazon.com/dp/B01J9DH9U2/,2,1
+L-Band Air Gap Patch Antenna RHCP 1525 - 1559 MHz 8 dBi 4in SMA Male Connector,Speakers,http://www.amazon.com/dp/B01JTE7NHU/,1,1
+Outernet/Inmarsat L-band Amplifier - LNA Module 34dB Gain and 1dB Noise Figure,Speakers,http://www.amazon.com/dp/B01K04UG1I/,1,1
+RTL-SDR Elonics E4000 Tuner w/ Aluminum Enclosure 0.5PPM TCXO SMA Input - Bias Tee Enabled,PC Accessory,http://www.amazon.com/dp/B01K10R2YK/,1,1
+Outernet Elonics RTL-SDR E4000 Tuner 0.5 PPM TCXO SMA Input Bundle with Outernet/Inmarsat L-band Amplifier - LNA Module 34dB Gain and 1dB Noise Figure,Home Theater,http://www.amazon.com/dp/B01K37IZJ2/,1,1
+Broadcast FM Block Filter (88 - 108 MHz Block) by RTL-SDR Blog,Speakers,http://www.amazon.com/dp/B01LE9LRPM/,1,1
+Saim 5 Pcs F Type Female 3 Ways Joiner Adapters for Antenna Cables,Speakers,http://www.amazon.com/dp/B01LZWL73W/,1,1
+FlightAware Pro Stick Plus ADS-B USB Receiver with Built-in Filter,Speakers,http://www.amazon.com/dp/B01M7REJJW/,3,1
+"UCTRONICS IEEE 802.3af Micro USB Active PoE Splitter Power Over Ethernet 48V to 5V 2.4A for Tablets, Dropcam or Raspberry Pi (48V to 5V 2.4A)",PC Accessory,http://www.amazon.com/dp/B01MDLUSE7/,8,1
 "Digital Communications, 5th Edition",Book,http://www.amazon.com/dp/0072957166/,1,1
-"Extruded Aluminum Enclosure Kit, Blue, for Ham It Up v1.3 RF Upconverter for NESDR and RTL-SDR radios",Speakers,http://www.amazon.com/dp/B00J7EY1Z0/,1,1
+HiLetgo 0.1-2000MHz RF Wide Band Amplifier 30dB High Gain Low Noise LNA Amplifier,BISS,http://www.amazon.com/dp/B01N2NJSGV/,2,1
+Understanding Digital Signal Processing (3rd Edition),Book,http://www.amazon.com/dp/0137027419/,3,1
+Arrl's Small Antennas for Small Spaces,Book,http://www.amazon.com/dp/087259839X/,1,1
+The Scientist & Engineer's Guide to Digital Signal Processing,Book,http://www.amazon.com/dp/0966017633/,4,1
+Field Expedient SDR: Introduction to Software Defined Radio (color version) (Volume 1),Book,http://www.amazon.com/dp/1536814881/,1,1
+"The ARRL Handbook for Radio Communications, 2015",Book,http://www.amazon.com/dp/1625950195/,4,1
+Ferrite Core 1/2 Cord Noise Suppressor,CE,http://www.amazon.com/dp/B0002MQGEK/,13,1
+75 to 300 Ohm UHF/VHF Matching Transformer,CE,http://www.amazon.com/dp/B0002ZPIOG/,10,1
+6in USB 2.0 Extension Adapter Cable A to A - M/F,CE,http://www.amazon.com/dp/B000E5CYW8/,7,1
+DSC WS4939 Wireless Key Fob,Home Improvement,http://www.amazon.com/dp/B000TK79WS/,1,1
+RadioShack Center-Loaded Telescoping Scanner Whip Antenna,Speakers,http://www.amazon.com/dp/B000TLQM5M/,1,1
+Winegard HD-6010 HD FM Radio Antenna,CE,http://www.amazon.com/dp/B001HKM1HM/,2,1
+Wired Home 3106AD0A RG-6/U Solid Copper 95% Tinned Copper Braid Coaxial Cable 100 ft.,CE,http://www.amazon.com/dp/B001KP5MDO/,1,1
+"TP-Link 2.4GHz 24dBi Directional Grid Parabolic Antenna, N Female Connector, Weather Resistant (TL-ANT2424B)",CE,http://www.amazon.com/dp/B003CFATOW/,8,1

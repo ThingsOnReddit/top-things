@@ -1,6 +1,31 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
+Analysis Patterns: Reusable Object Models,Book,http://www.amazon.com/dp/0201895420/,2,2
+Enterprise Model Patterns: Describing the World (UML Version),Book,http://www.amazon.com/dp/1935504053/,2,2
+"Data Modeling Made Simple: A Practical Guide for Business and IT Professionals, 2nd Edition",Book,http://www.amazon.com/dp/0977140067/,2,2
+Patterns of Data Modeling (Emerging Directions in Database Systems and Applications),Book,http://www.amazon.com/dp/1439819890/,2,2
+The Practical SQL Handbook: Using SQL Variants (4th Edition),Book,http://www.amazon.com/dp/0201703092/,1,1
+Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design (2nd Edition),Book,http://www.amazon.com/dp/0201752840/,2,1
+Readings in Database Systems (MIT Press),Book,http://www.amazon.com/dp/0262693143/,2,1
 An Introduction to Database Systems (8th Edition),Book,http://www.amazon.com/dp/0321197844/,3,1
-"Joe Celko's SQL for Smarties, Fourth Edition: Advanced SQL Programming (The Morgan Kaufmann Series in Data Management Systems)",Book,http://www.amazon.com/dp/0123820227/,2,1
-The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling,Book,http://www.amazon.com/dp/0471200247/,1,1
-The Art of SQL,Book,http://www.amazon.com/dp/0596008945/,1,1
+Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design (3rd Edition),Book,http://www.amazon.com/dp/0321884493/,9,1
+"The Data Model Resource Book, Vol. 3: Universal Patterns for Data Modeling (Volume 3)",Book,http://www.amazon.com/dp/0470178450/,1,1
+The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling,Book,http://www.amazon.com/dp/0471200247/,2,1
+"The Data Model Resource Book, Vol. 2: A Library of Data Models for Specific Industries",Book,http://www.amazon.com/dp/0471353485/,1,1
+"The Data Model Resource Book, Vol. 1: A Library of Universal Data Models for All Enterprises",Book,http://www.amazon.com/dp/0471380237/,1,1
+SQL Tuning: Generating Optimal  Execution Plans,Book,http://www.amazon.com/dp/0596005733/,2,1
+The Art of SQL,Book,http://www.amazon.com/dp/0596008945/,2,1
+Data Model Patterns,Book,http://www.amazon.com/dp/0932633749/,2,1
+SQL For Dummies,Book,http://www.amazon.com/dp/1118607961/,1,1
+DBA Survivor: Become a Rock Star DBA,Book,http://www.amazon.com/dp/1430227877/,2,1
+"Expert Oracle Database Architecture: Oracle Database 9i, 10g, and 11g Programming Techniques and Solutions",Book,http://www.amazon.com/dp/1430229462/,1,1
+SQL Server Query Performance Tuning,Book,http://www.amazon.com/dp/1430267437/,3,1
+Oracle PL/SQL Programming: Covers Versions Through Oracle Database 12c,Book,http://www.amazon.com/dp/1449324452/,3,1
+Database Design and Relational Theory: Normal Forms and All That Jazz (Theory in Practice),Book,http://www.amazon.com/dp/1449328016/,2,1
 Joe Celko's Data and Databases: Concepts in Practice (The Morgan Kaufmann Series in Data Management Systems),Book,http://www.amazon.com/dp/1558604324/,1,1
+SQL Antipatterns: Avoiding the Pitfalls of Database Programming (Pragmatic Programmers),Book,http://www.amazon.com/dp/1934356557/,4,1
+"Data and Reality: A Timeless Perspective on Perceiving and Managing Information in Our Imprecise World, 3rd Edition",Book,http://www.amazon.com/dp/1935504215/,1,1
+OCA Oracle Database 12c SQL Fundamentals I Exam Guide (Exam 1Z0-061) (Oracle Press),Book,http://www.amazon.com/dp/0071820280/,1,1
+An Introduction to Database Systems,Book,http://www.amazon.com/dp/8178082314/,2,1
+OCA Oracle Database 12c Installation and Administration Exam Guide (Exam 1Z0-062) (Oracle Press),Book,http://www.amazon.com/dp/0071829237/,1,1
+Data Model Patterns: A Metadata Map (The Morgan Kaufmann Series in Data Management Systems),Book,http://www.amazon.com/dp/0120887983/,1,1
+"Joe Celko's SQL for Smarties, Fourth Edition: Advanced SQL Programming (The Morgan Kaufmann Series in Data Management Systems)",Book,http://www.amazon.com/dp/0123820227/,3,1

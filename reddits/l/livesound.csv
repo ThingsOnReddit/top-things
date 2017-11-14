@@ -1,37 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-The Sound Reinforcement Handbook,Book,http://www.amazon.com/dp/0881889008/,10,4
-MEE audio M6 PRO Universal-Fit Noise-Isolating Musician's In-Ear Monitors with Detachable Cables (Clear),Speakers,http://www.amazon.com/dp/B00SLVB71Q/,6,2
-Sound Systems: Design and Optimization: Modern Techniques and Tools for Sound System Design and Alignment,Book,http://www.amazon.com/dp/0415731011/,2,2
-Sound System Engineering,Book,http://www.amazon.com/dp/0240818466/,2,2
-Palmer PDI 09 Passive DI Box for Guitars,Musical Instruments,http://www.amazon.com/dp/B001QUL9OY/,,1
-"Etymotic ETY-Plugs High Fidelity Earplugs, Standard Fit, Frost Tip",Health and Beauty,http://www.amazon.com/dp/B0015WJQ7A/,31,1
-"Leatherman 830039 Wave Multitool with Leather/Nylon Combination Sheath, Silver",Home Improvement,http://www.amazon.com/dp/B0002H49BC/,6,1
-"NooElec NESDR Mini USB RTL-SDR & ADS-B Receiver Set, RTL2832U & R820T Tuner, MCX Input. Low-Cost Software Defined Radio Compatible with Many SDR Software Packages. R820T Tuner & ESD-Safe Antenna Input",CE,http://www.amazon.com/dp/B009U7WZCA/,4,1
-Hakko FX888D-23BY-Kit2 Bundle Includes Soldering Station and CHP170 cutter,BISS Basic,http://www.amazon.com/dp/B00AWUFVY8/,4,1
-Stanley 014725 25-Removable Compartment Professional Organizer,Home Improvement,http://www.amazon.com/dp/B00005QWYF/,3,1
-ASUS RT-ACRH13 Dual-Band 2x2 AC1300 Wifi 4-port Gigabit Router with USB 3.0,Personal Computer,http://www.amazon.com/dp/B01LXL1AR8/,3,1
-BEHRINGER U-PHORIA UM2,Musical Instruments,http://www.amazon.com/dp/B00EK1OTZC/,3,1
-Weller WESD51 Digital Soldering Station,Home Improvement,http://www.amazon.com/dp/B000ARU9PO/,3,1
-Allen & Heath ZED60/10FX Multi-Purpose 6-Channel Mixer with Digital Effects and USB Connectivity,Musical Instruments,http://www.amazon.com/dp/B009G1SHS6/,2,1
-Behringer 2154656 POWERPLAY P1,Musical Instruments,http://www.amazon.com/dp/B00GRKXRMK/,2,1
-"TravelChair Big Bubba Chair, Black",Sports,http://www.amazon.com/dp/B0017H9SW6/,1,1
-"US Air Force Style Military Camouflage Flight Suit Coveralls (Navy Blue, Large)","Clothing, Shoes & Jewelry",https://www.amazon.com/Military-Flight-Coveralls-Paintball-Jumpsuit/dp/B00ATOZSE0/ref=pd_sim_193_2?ie=UTF8&amp;refRID=0C7V2RNZWZG4EBJRSDTJ,1,1
-"Hot Shot Sabre Six Stock Prod 36 "" Carded",Lawn & Patio,http://www.amazon.com/dp/B000LF652Q/,1,1
-Handbook for Sound Engineers (Audio Engineering Society Presents),Book,http://www.amazon.com/dp/041584293X/,1,1
-"The Ultimate Live Sound Operators Handbook, 2nd Edition (Music Pro Guides) Bk/online media",Book,http://www.amazon.com/dp/1617805599/,1,1
-NUOLUX Mop and Broom Holder Wall Mounted Garden Storage Rack 5pcs (Grey),Home,http://www.amazon.com/dp/B01H84V5RM/,1,1
+The Sound Reinforcement Handbook,Book,http://www.amazon.com/dp/0881889008/,33,13
+Electricity for the Entertainment Electrician & Technician,Book,http://www.amazon.com/dp/0415714834/,13,6
+Live Sound Mixing (4th Edition),Book,http://www.amazon.com/dp/B0082C3RJY/,4,4
+Sound Systems: Design and Optimization: Modern Techniques and Tools for Sound System Design and Alignment,Book,http://www.amazon.com/dp/0240521560/,5,4
+Ebtech Hum X Voltage Hum Filter,Musical Instruments,http://www.amazon.com/dp/B0002E4YI8/,13,3
+"Hosa CMP-153 3.5 mm TRS to Dual 1/4 inch TS Stereo Breakout Cable, 3 feet",Musical Instruments,http://www.amazon.com/dp/B000068O3C/,52,3
+Sound Systems: Design and Optimization: Modern Techniques and Tools for Sound System Design and Alignment,Book,http://www.amazon.com/dp/0415731011/,5,3
+Mixing a Musical: Broadway Theatrical Sound Techniques,Book,http://www.amazon.com/dp/0240817591/,4,3
+"Shure WA310 4-Feet Microphone Adapter Cable, 4-Pin Mini Connector (TA4F) to XLR(F) Connector",Musical Instruments,http://www.amazon.com/dp/B00076R384/,2,2
+"The Ultimate Live Sound Operators Handbook, 2nd Edition (Music Pro Guides) Bk/online media",Book,http://www.amazon.com/dp/1617805599/,2,2
+Sound System Engineering,Book,http://www.amazon.com/dp/0240818466/,4,2
+"Shurtape P-724 Console Mixer Marking Tape 3/4"" x 60 yards",Office Product,http://www.amazon.com/dp/B00CTWEY9K/,2,2
+Mackie SRM350v3 1000 Watts High-Definition Portable Powered Loudspeaker,Musical Instruments,http://www.amazon.com/dp/B00IN2WHYE/,2,2
+MEE audio M6 PRO Universal-Fit Noise-Isolating Musician's In-Ear Monitors with Detachable Cables (Clear),Speakers,http://www.amazon.com/dp/B00SLVB71Q/,47,2
+Pyle-Pro PMHMS20 Wired Headset Boom Mini XLR Omni-Directional  Microphone,Musical Instruments,http://www.amazon.com/dp/B003D2VT2K/,2,2
+"Hosa CMP-159 3.5 mm TRS to Dual 1/4 inch TS Stereo Breakout Cable, 10 feet",Musical Instruments,http://www.amazon.com/dp/B005HGM1D6/,82,2
+Pyle-Pro PDC21 1/4'' Instrument To Balanced & Unbalanced (1/4''/XLR) Direct Box,Musical Instruments,http://www.amazon.com/dp/B0027V760M/,5,2
+TC-Helicon VoiceLive 3 Extreme,Musical Instruments,http://www.amazon.com/dp/B00WA7VKEG/,2,2
+Behringer 2154656 POWERPLAY P1,Musical Instruments,http://www.amazon.com/dp/B00GRKXRMK/,7,2
+"VELCRO Brand One Wrap Thin Ties, Black, 8 x 1/2-Inch, 100 Count (91140)",Office Product,http://www.amazon.com/dp/B001E1Y5O6/,206,2
+The Location Sound Bible: How to Record Professional Dialog for Film and TV,Book,http://www.amazon.com/dp/1615931201/,11,1
+The Ultimate Church Sound Operator's Handbook (Hal Leonard Music Pro Guides),Book,http://www.amazon.com/dp/1423419707/,1,1
+Sound Systems: Design and Optimization: Modern Techniques and Tools for Sound System Design and Alignment,Book,http://www.amazon.com/dp/0415730996/,1,1
+Shure SM57-LC Cardioid Dynamic Microphone,Musical Instruments,http://www.amazon.com/dp/B0000AQRST/,21,1
+Weller WESD51 Digital Soldering Station,Home Improvement,http://www.amazon.com/dp/B000ARU9PO/,12,1
+Sennheiser E835 Dynamic Cardioid Vocal Microphone,Musical Instruments,http://www.amazon.com/dp/B00006I5R7/,1,1
+Shure SM58S Vocal Microphone (with On Off Switch),Musical Instruments,http://www.amazon.com/dp/B0000AQRSU/,6,1
+Shure WH20XLR Dynamic Headset Microphone - (Wired) Includes 3-pin Male XLR Connector with Detachable Belt Clip,Musical Instruments,http://www.amazon.com/dp/B0001DBZNM/,2,1
+"Xcelite 170M General Purpose Shearcutter, Diagonal, Flush Jaw, 5"" Length, 3/4"" Jaw length, Red Grip",BISS,http://www.amazon.com/dp/B0002BBZIS/,1,1
+PanaVise 301 Standard PanaVise,BISS Basic,http://www.amazon.com/dp/B0002BC1AY/,3,1
+Tripp Lite IS250 Isolation Transformer 250W Surge 120V 2 Outlet 6 feet Cord TAA GSA,Speakers,http://www.amazon.com/dp/B00006HPFH/,1,1
+Cyberpower CPS-1220RMS Rackmount PDU Power/Surge Strip - 12-Outlet 20A 2400VA 1800 Joules,Speakers,http://www.amazon.com/dp/B00077IS32/,3,1
+Hosa YPP-111 1/4 inch TS to Dual 1/4 inch TSF Y Cable,Musical Instruments,http://www.amazon.com/dp/B000068O53/,13,1
 Live Sound Reinforcement (Mix Pro Audio Series),Book,http://www.amazon.com/dp/0918371074/,1,1
-Extech MN24-KIT Electrical Test Kit,Home Improvement,http://www.amazon.com/dp/B002T1BGXI/,1,1
-BEHRINGER MICROAMP HA400,Musical Instruments,http://www.amazon.com/dp/B000KIPT30/,1,1
-Rapco Horizon LTIBLOX Laptop Interface Device,Musical Instruments,http://www.amazon.com/dp/B003MLFCMA/,1,1
+Sound System Engineering,Book,http://www.amazon.com/dp/0240808304/,3,1
+Marson 39000 HP-2 Professional Hand Riveter,Automotive Parts and Accessories,http://www.amazon.com/dp/B00063Y1F6/,1,1
+"Hosa CMR-206 3.5 mm TRS to Dual RCA Stereo Breakout Cable, 6 feet",Musical Instruments,http://www.amazon.com/dp/B000068O33/,23,1
+Basic Electricity,Book,http://www.amazon.com/dp/087891420X/,2,1
+"On Stage MSA7040TB Top Mount Telescoping Boom, Black",Musical Instruments,http://www.amazon.com/dp/B0002T67K6/,1,1
+"On Stage MS7201B Round Base Microphone Stand, Black",Musical Instruments,http://www.amazon.com/dp/B0002MJTZ8/,2,1
+"Hosa CPR-203 Dual 1/4 inch TS to Dual RCA Stereo Interconnect Cable, 9.8 feet",Speakers,http://www.amazon.com/dp/B000068O18/,13,1
+On-Stage Stands Mic Stand Package,Musical Instruments,http://www.amazon.com/dp/B0002M3OUY/,1,1
+"IOGEAR USB 2.0 Booster Extension Cable, 16 Feet, GUE216",CE,http://www.amazon.com/dp/B0002WPS6C/,1,1
+Whirlwind QBox,Speakers,http://www.amazon.com/dp/B0003C016S/,1,1
+"Greenlee 730BB-15/16 Standard Round Knockout Punch Unit, 15/16-Inch",Home Improvement,http://www.amazon.com/dp/B002NQX038/,1,1
+Neutrik NC3FXS XLR Female with On-Off Switch,Musical Instruments,http://www.amazon.com/dp/B00067JSMI/,1,1
 Generic 121 2618 Iec C13 Right Angle Power Cord Connector,Speakers,http://www.amazon.com/dp/B002T0LS3C/,1,1
-Shure WH20XLR Dynamic Headset Microphone - (Wired) Includes 3-pin Male XLR Connector with Detachable Belt Clip,Musical Instruments,http://www.amazon.com/dp/B0001DBZNM/,1,1
-"Shure BLX14/B98 Wireless Instrument System with Beta 98H/C Instrument Microphone, H8",Musical Instruments,http://www.amazon.com/dp/B00BRQ572M/,1,1
-AmazonBasics XLR Male to Female Microphone Cable - 10 Feet,Musical Instruments,http://www.amazon.com/dp/B01JNLUA5G/,1,1
-Yamaha MSR100 8-inch Powered Speaker with Built in 3 Input Mixer,Musical Instruments,http://www.amazon.com/dp/B000Z7C920/,1,1
-Yamaha HS8 Powered Studio Monitor Pair with XLR-Cables Insolation Monitor PAD and Speaker Stands,Personal Computer,http://www.amazon.com/dp/B00K2ZEIEW/,1,1
+"Dickies Men's Slim Straight Fit Work Pant, Black, 34X32",Apparel,http://www.amazon.com/dp/B002XFI88G/,1,1
+On Stage QK2B Microphone Clip Quick Release,Musical Instruments,http://www.amazon.com/dp/B0007SL86A/,1,1
+On Stage Stands MS7701B Tripod Boom Microphone Stand,Musical Instruments,http://www.amazon.com/dp/B000978D58/,25,1
+Electro-Voice N/D468 Supercardioid Dynamic Instrument Microphone,Musical Instruments,http://www.amazon.com/dp/B001PZD394/,1,1
+Weller WES51 Analog Soldering Station,Home Improvement,http://www.amazon.com/dp/B000BRC2XU/,33,1
+CRC 5103 Quick Dry Electronic Cleaner - 11 Wt Oz.,Automotive Parts and Accessories,http://www.amazon.com/dp/B000BXOGNI/,13,1
+BEHRINGER C-2,Musical Instruments,http://www.amazon.com/dp/B000CZ0RLU/,1,1
+Pelican 1610 Case No Foam (Black),Photography,http://www.amazon.com/dp/B000E9PFMA/,1,1
+"Genuine Joe Anti-Fatigue Mat, Beveled Edge, 2 by 3-Feet, Black",Kitchen,http://www.amazon.com/dp/B000EFK9KM/,8,1
+"VELCRO Brand One Wrap Thin Ties, Black & Gray, 8 x 1/2-Inch, 50 Count (90924)",Office Product,http://www.amazon.com/dp/B000F5K82A/,14,1
+BEHRINGER MICROAMP HA400,Musical Instruments,http://www.amazon.com/dp/B000KIPT30/,34,1
+BEHRINGER V-TONE ACOUSTIC DRIVER DI ADI21,Musical Instruments,http://www.amazon.com/dp/B000KITQK2/,2,1
+BEHRINGER ULTRA-DI DI400P,Musical Instruments,http://www.amazon.com/dp/B000KUA8G6/,4,1
+"Hot Shot Sabre Six Stock Prod 36 "" Carded",Lawn & Patio,http://www.amazon.com/dp/B000LF652Q/,3,1
+"IRWIN VISE-GRIP 2078300 Self-Adjusting Wire Stripper, 8""",Home Improvement,http://www.amazon.com/dp/B000OQ21CA/,11,1
+3.5mm Stereo Headphone Extension 15 feet Straight,Speakers,http://www.amazon.com/dp/B0002KR13M/,3,1
+"Hosa CPR-201 Dual 1/4 inch TS to Dual RCA Stereo Interconnect Cable, 3.3 feet",Musical Instruments,http://www.amazon.com/dp/B000068O16/,11,1
+Live Sound Mixing (3rd Edition),Book,http://www.amazon.com/dp/064611235X/,1,1
+Shure KSM27 Large Single-Diaphragm Microphone,Musical Instruments,http://www.amazon.com/dp/B0002J1K4Y/,2,1
+"Leatherman 830039 Wave Multitool with Leather/Nylon Combination Sheath, Silver",Home Improvement,http://www.amazon.com/dp/B0002H49BC/,17,1
+"Hosa STX-110M 1/4 inch TRS to XLR3M Balanced Interconnect Cable, 10 feet",Musical Instruments,http://www.amazon.com/dp/B000068NYY/,4,1
+Shure SM57 VIP Presidential Microphone Kit,Musical Instruments,http://www.amazon.com/dp/B0018Z7QS0/,2,1
+Shure RK143G Grille for Wired and Wireless SM58,Musical Instruments,http://www.amazon.com/dp/B0002GZOS0/,2,1
+"TravelChair Big Bubba Chair, Black",Sports,http://www.amazon.com/dp/B0017H9SW6/,1,1
+"Etymotic ETY-Plugs High Fidelity Earplugs, Standard Fit, Frost Tip",Health and Beauty,http://www.amazon.com/dp/B0015WJQ7A/,103,1
+Mini Multi-Battery Tester,Home Improvement,http://www.amazon.com/dp/B0002EH4YO/,2,1
+On-Stage Stands MS7920B Bass Drum / Boom Combo Mic Stand,Musical Instruments,http://www.amazon.com/dp/B0019ICXE8/,1,1
 Whirlwind MCT7 Cable Tester,Musical Instruments,http://www.amazon.com/dp/B001D3T59K/,1,1
-Yamaha HS7 Studio Monitor Pair + Stands + Auralex Mopads + Mogami Cables,Musical Instruments,http://www.amazon.com/dp/B013CRZMPA/,1,1
-Ruc Pac Hardcase Backpack Conversion,Sports,http://www.amazon.com/dp/B00AFP5FM8/,1,1
-Woolite Bra Wash Bag,Home,http://www.amazon.com/dp/B004K6L83I/,1,1
-Shure SM57 VIP Presidential Microphone Kit,Musical Instruments,http://www.amazon.com/dp/B0018Z7QS0/,1,1
+Stanley 014725 25-Removable Compartment Professional Organizer,Home Improvement,http://www.amazon.com/dp/B00005QWYF/,51,1
+Gator Cases 1U Fixed Security Cover (Black),Musical Instruments,http://www.amazon.com/dp/B001ECQQ3S/,1,1
+ART SPLITComPro Microphone Splitter/Combiner,Musical Instruments,http://www.amazon.com/dp/B001HTRKHO/,1,1
+Greenlee 8049 CrimpALL 8000 Crimper HDTV Universal,Home Improvement,http://www.amazon.com/dp/B0012YQ9VM/,1,1
+Palmer PDI 09 Passive DI Box for Guitars,Musical Instruments,http://www.amazon.com/dp/B001QUL9OY/,1,1
+Winegard Company Compact Video Antenna (HD7000R),Speakers,http://www.amazon.com/dp/B001TIQ6SW/,1,1
+Blu-Ray Player External USB DVD RW Laptop Burner Drive,PC Accessory,http://www.amazon.com/dp/B001TVAU0E/,9,1
+Monoprice 104767 1.5-Feet Premier Series XLR Female to 1/4-Inch TRS Male 16AWG Cable,Speakers,http://www.amazon.com/dp/B001UJCJPY/,1,1
+BEHRINGER XENYX XL1600,Musical Instruments,http://www.amazon.com/dp/B0023C9N4C/,1,1
+"5.11 Tactical Taclite Shorts , TDU Khaki , 34",Sports,http://www.amazon.com/dp/B0026A374S/,1,1
+Stanley 018800R Mobile Work Center,Home Improvement,http://www.amazon.com/dp/B0026SM66A/,3,1
+TOA A-903MK2 8 Channel Mixer Amplifier,Musical Instruments,http://www.amazon.com/dp/B000Z8ZCC8/,1,1
+Sennheiser EW 135 G3-A-US handheld cardioid EW system,Musical Instruments,http://www.amazon.com/dp/B002EOUOK6/,1,1
+Sennheiser EM 100 G3 - Rackmountable True Diversity Wireless Receiver - A Range (516-558 MHz),Musical Instruments,http://www.amazon.com/dp/B002FOJWEY/,1,1
+ART USB Dual Pre,Musical Instruments,http://www.amazon.com/dp/B002KEAT78/,4,1
+Yamaha MSR100 8-inch Powered Speaker with Built in 3 Input Mixer,Musical Instruments,http://www.amazon.com/dp/B000Z7C920/,1,1
+"Carnation Home Fashions 72 Long by 108-Inch Wide Extra Wide Vinyl Shower Curtain, Frosted Clear",Home,http://www.amazon.com/dp/B002NSMEL0/,1,1
+"Pyle Megaphone Speaker PA Bullhorn with Built-in Siren - Adjustable Volume Control and 800 Yard Range - Ideal for Football, Soccer, Baseball, Hockey and Basketball Cheerleading Fans and Coaches or for Safety Drills (PMP30)",Sports,http://www.amazon.com/dp/B002PAZZIK/,9,1
+VocoPro UHF-8800 Wireless Microphone System,Musical Instruments,http://www.amazon.com/dp/B002QBUSVC/,1,1
+"Hosa USB-205AB Type A to Type B High Speed USB Cable, 5 feet",Musical Instruments,http://www.amazon.com/dp/B000XJ7OSY/,1,1
+Extech MN24-KIT Electrical Test Kit,Home Improvement,http://www.amazon.com/dp/B002T1BGXI/,1,1
+Furman SS6B 6 Plug Surge Protector,Musical Instruments,http://www.amazon.com/dp/B0002D017M/,6,1
+Mackie PROFX8 8-Channel Mixer,Musical Instruments,http://www.amazon.com/dp/B00352MHGA/,2,1
+Dremel 290-05 120-Volt Industrial Engraver,Home Improvement,http://www.amazon.com/dp/B000VZIGA0/,1,1
+iPower 520mAh 9V Lithium Polymer Pro Rechargeable Battery,Health and Beauty,http://www.amazon.com/dp/B0035HB46O/,1,1

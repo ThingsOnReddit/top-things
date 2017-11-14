@@ -1,14 +1,71 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Microsoft Windows 10 Home 64 Bit System Builder OEM | PC Disc,Software,http://www.amazon.com/dp/B00ZSI7Y3U/,5,2
-Microsoft Windows 10 Home USB Flash Drive,Software,http://www.amazon.com/dp/B01019T6O0/,8,1
-Crucial 8GB Single DDR3/DDR3L 1600 MT/S (PC3-12800) Unbuffered SODIMM 204-Pin Memory - CT102464BF160B,Personal Computer,http://www.amazon.com/dp/B006YG8X9Y/,6,1
-"Microsoft Windows 10 Pro (64-bit, OEM DVD)",Software,http://www.amazon.com/dp/B00ZSHDJ4O/,4,1
-"Windows Internals, Part 1: Covering Windows Server® 2008 R2 and Windows 7 (Developer Reference)",Book,http://www.amazon.com/dp/0735648735/,3,1
-"ASUS K501UX 15.6-inch Gaming Laptop (Intel Core i7 Processor, NVIDIA GTX 950M, 8GB RAM, 256GB SSD Hard Drive, Windows 10 (64 bit)), Black/Silver Metal",Personal Computer,http://www.amazon.com/dp/B0146DD02G/,3,1
-Microsoft Windows 7 Home Premium SP1 64bit System Builder OEM DVD 1 Pack - Frustration-Free Packaging,Software,http://www.amazon.com/dp/B00H09BB16/,3,1
-"ASUS X551 15.6-inch Laptop (Intel Celeron 2.16GHz Processor, 4GB RAM, 500GB HDD, Windows 8.1 includes Windows 10 upgrade), Black",Personal Computer,http://www.amazon.com/dp/B00L49X8E6/,1,1
+Microsoft Windows 10 Home USB Flash Drive,Software,http://www.amazon.com/dp/B01019T6O0/,52,9
+Microsoft Windows 10 Home 64 Bit System Builder OEM | PC Disc,Software,http://www.amazon.com/dp/B00ZSI7Y3U/,29,5
+Microsoft Windows 7 Home Premium SP1 64bit System Builder OEM DVD 1 Pack - Frustration-Free Packaging,Software,http://www.amazon.com/dp/B00H09BB16/,19,2
+Microsoft Windows 10 Pro | Download,Digital Software,http://www.amazon.com/dp/B01019BOEA/,4,2
+Sabrent USB 2.0 TO SATA/IDE 2.5/3.5/-INCH Hard Drive Converter EC-AHDD,CE,http://www.amazon.com/dp/B000HJ99DI/,16,1
+Microsoft Xbox 360 Wireless Receiver for Windows,Personal Computer,http://www.amazon.com/dp/B000HZFCT2/,179,1
+"Vantec CB-ISATAU2 SATA/IDE to USB 2.0 Adapter Supports 2.5-Inch, 3.5-Inch, 5.25-Inch Hard Disk Drives (Black)",CE,http://www.amazon.com/dp/B000J01I1G/,17,1
+Apricorn DriveWire USB 2.0 to IDE/PATA/SATA Universal Hard Drive Adapter ADW-USB-KIT (Red),CE,http://www.amazon.com/dp/B000QY9KIS/,1,1
+StarTech.com 1 Port PCI Express IDE Controller Adapter Card PEX2IDE,CE,http://www.amazon.com/dp/B000YAX13Y/,2,1
+ATI TV Wonder HD 650 Combo USB PC TV Tuner,CE,http://www.amazon.com/dp/B00138H420/,1,1
 Transcend 8GB JetFlash 300 Flash Drive (TS8GJF300),CE,http://www.amazon.com/dp/B002Z58GQS/,1,1
+Turtle Beach Audio Advantage Amigo II USB Sound Card & Headset Adapter,CE,http://www.amazon.com/dp/B0036VO4XO/,6,1
+StarTech.com SATA Hard Drive HDD Duplicator Dock - eSATA USB Hard Disk Drive Duplicator - 2.5 / 3.5-Inch Hard Drive Cloner,CE,http://www.amazon.com/dp/B003WV5DLA/,1,1
+Audio-Technica ATR2500-USB Cardioid Condenser USB Microphone,Musical Instruments,http://www.amazon.com/dp/B004QJREXM/,34,1
+CJESLNA SATA 2nd HDD caddy for 12.7mm Universal CD/DVD-ROM,Personal Computer,http://www.amazon.com/dp/B0056EW4A4/,19,1
+"Logitech Wireless Touch Keyboard K400 with Built-In Multi-Touch Touchpad, Black",CE,http://www.amazon.com/dp/B005DKZTMG/,105,1
+Crucial 8GB Single DDR3/DDR3L 1600 MT/S (PC3-12800) Unbuffered SODIMM 204-Pin Memory - CT102464BF160B,Personal Computer,http://www.amazon.com/dp/B006YG8X9Y/,49,1
+TP-Link N150 Wireless Nano USB Adapter (TL-WN725N),Personal Computer,http://www.amazon.com/dp/B008IFXQFU/,24,1
+Microsoft Wedge Mobile Keyboard,Personal Computer,http://www.amazon.com/dp/B008OEHPKM/,10,1
+"Plugable USB Bluetooth 4.0 Low Energy Micro Adapter (Windows 10, 8.1, 8, 7, Raspberry Pi, Linux Compatible; Classic Bluetooth, and Stereo Headset Compatible)",Personal Computer,http://www.amazon.com/dp/B009ZIILLI/,38,1
+Bravo Audio Ocean Mini Valve Class A Tube Headphone Amplifier,Speakers,http://www.amazon.com/dp/B00A2QKSVI/,3,1
+Lenovo Multimedia Remote Keyboard N5902 (Non-backlit) 0C51503,PC Accessory,http://www.amazon.com/dp/B00BV9N3M6/,3,1
+"Original OEM Nokia WH-208 3.5mm Stereo Headset for Nokia Lumia 900, 920, 820, 720, 710, 620, 610, 510, 520 - Bulk Packaging - Black",Wireless,http://www.amazon.com/dp/B00E6MYC6G/,2,1
+"Hittime 3 in 1 USB OTG Cable Adapter, Micro USB Hub USB OTG Extension Adapter for Smartphone and Tablet",Personal Computer,http://www.amazon.com/dp/B00FGKXY9S/,9,1
+"Centrance HIFI-M8 Portable DAC Amp for USB and iDevices, 4-Pin XLR, 1/4"" TRS, 1/8"" TRS Outputs,",Speakers,http://www.amazon.com/dp/B00GRZAWQE/,1,1
+Windows 7 Professional SP1 64bit (OEM) System Builder DVD 1 Pack (New Packaging),Software,http://www.amazon.com/dp/B00H09BOXQ/,7,1
+Microsoft Windows 8.1 Pro Pack (Win 8.1 to Win 8.1 Pro Upgrade) [Online Code],Digital Software,http://www.amazon.com/dp/B00HG0460M/,1,1
+"StarTech USB 3.0 to 2.5"" SATA III Hard Drive Adapter Cable w/ UASP - SATA to USB 3.0 Converter for SSD/HDD",Personal Computer,http://www.amazon.com/dp/B00HJZJI84/,100,1
+"Audio-Technica ATH-M50x Professional Monitor Headphones, Black",Musical Instruments,http://www.amazon.com/dp/B00HVLUR86/,221,1
+Microsoft Wireless Display Adapter v1,Personal Computer,http://www.amazon.com/dp/B00J9C2JDG/,9,1
+TP-Link AC1200 Wireless Dual Band USB Adapter (Archer T4U V1),Personal Computer,http://www.amazon.com/dp/B00JBJ6VG8/,11,1
+HP Desktop Computer Chromebox Celeron 2955U (1.4 GHz) 4 GB DDR3 16 GB SSD (J5N50UT),Personal Computer,http://www.amazon.com/dp/B00KLINBCU/,1,1
+"ASUS X551 15.6-inch Laptop (Intel Celeron 2.16GHz Processor, 4GB RAM, 500GB HDD, Windows 8.1 includes Windows 10 upgrade), Black",Personal Computer,http://www.amazon.com/dp/B00L49X8E6/,10,1
+FiiO E10K USB DAC and Headphone Amplifier (Black),Wireless,http://www.amazon.com/dp/B00LP3AMC2/,163,1
+"Kingwin USB 3.0 to SSD/SATA/IDE Adapter for 2.5 Inch, 3.5 Inch, 5.25 Inch Hard Drives with Offline One Touch Clone/Duplicator Function, Tool-Free, SATA I/II/III Support",Personal Computer,http://www.amazon.com/dp/B00LSU4SHW/,2,1
+"Digigear SD SDHC SDXC to PCMCIA PC Card, Adapter Supports, ATA Flash Memory",Personal Computer,http://www.amazon.com/dp/B00MFVG9XO/,1,1
+MyDigitalSSD 480GB (512GB) OTG V2 SuperSpeed USB 3.1 Gen 1 Portable SSD with UASP Support - MDMS-OTG-512,Personal Computer,http://www.amazon.com/dp/B00N0V4JG2/,2,1
+"[3*USB 3.0 + 1*Gigabit Ethernet Adapter] ZeroLemon 3 Ports USB 3.0 Bus-Powered Hub with RJ45 10/100/1000 Gigabit Ethernet Converter LAN Wired Network Adapter for Laptops, Ultrabooks and Tablet PCs with USB Ports, Compatible with Windows XP/7/8, Mac OS-X, Linux",Personal Computer,http://www.amazon.com/dp/B00NSEPU46/,3,1
+HP Stream 8 Tablet 32GB Windows 8.1 Signature Edition + Office 365 Personal,Personal Computer,http://www.amazon.com/dp/B00NSHLUFQ/,5,1
+Samsung 850 EVO 1TB 2.5-Inch SATA III Internal SSD (MZ-75E1T0B/AM),Personal Computer,http://www.amazon.com/dp/B00OBRFFAS/,53,1
+"Sabrent 2.5-Inch SATA to USB 3.0 Tool-free External Hard Drive Enclosure [Optimized For SSD, Support UASP SATA III] Black (EC-UASP)",Personal Computer,http://www.amazon.com/dp/B00OJ3UJ2S/,27,1
+Patriot Torch 120GB SATA 3 2.5 (7mm height) Solid State Drive - With Transfer Speeds of Up-To 555 MB/s read and 535 MB/s write,Personal Computer,http://www.amazon.com/dp/B00OTY083M/,3,1
+"Infiland HP Stream 7 Tablet Bluetooth Keyboard Case Cover - Folio Slim Fit PU Leather Case with Wireless Removable Bluetooth Keyboard +Free OTG Cable,Black",PC Accessory,http://www.amazon.com/dp/B00P6HGJAC/,1,1
+Maeline 3.5mm Female to 2 Male Gold Plated Headphone Mic Audio Y Splitter Flat Cable,Wireless,http://www.amazon.com/dp/B00PYZ2BT4/,37,1
+WD Black 500GB Performance Mobile Hard Disk Drive - 7200 RPM SATA 6 Gb/s 32MB Cache 7 MM 2.5 Inch - WD5000LPLX,Personal Computer,http://www.amazon.com/dp/B00QFXOL5G/,6,1
+"Dell XPS13 XPS13-9343 13.3-inch Ultrabook Computer (2.2 GHz Intel Core i5 Processor, 4 GB DDR3 SDRAM, 128 GB Solid State Hard Drive, Windows 8)",Personal Computer,http://www.amazon.com/dp/B00RY4X8A4/,28,1
+"Philips BDM4065UC 40"" Class 4K Monitor UHD 3840 x2160 Resolution, Speakers, USB Hub, VGA, DisplayPort, Mini DisplayPort, HDMI, MHL-HDMI",Personal Computer,http://www.amazon.com/dp/B00SCX78JS/,21,1
+"Asus X551MAV-EB01-B(S) 15.6-Inch Notebook (Intel Dual-Core Celeron N2830 2.16 GHz Processor, 4GB RAM, 500GB HDD, Windows 8.1), Black",Personal Computer,http://www.amazon.com/dp/B00SV72ZA2/,15,1
+"ASUS Transformer Book Chi 12.5-Inch T300CHI-F1-DB Slim All-Aluminum 2 in 1 Detachable Touchscreen Laptop, Core M, 4 GB RAM, 128 GB SSD",Personal Computer,http://www.amazon.com/dp/B00T7XR888/,21,1
+"Asus Zenbook UX305FA-USM1 13.3-Inch Laptop (Intel Core M-5Y10, 8 GB RAM, 256GB SSD, Windows 8.1), Greyish Black",Personal Computer,http://www.amazon.com/dp/B00TP5AZFQ/,5,1
+"Kingwin Hard Drive Power Switch Module for 2.5 inch/3.5 inch SATA HDD/SSD.  Optimized for SSD, Power On or Off HDDs as Wish, Controls up to Six HDDs, and Provide Longevity to Your Hard Drives",Personal Computer,http://www.amazon.com/dp/B00TZR3E70/,5,1
+Brightech - DoublePlay HD Bluetooth 4.0 Transmitter / Splitter - Transmit up to 2 Headphones or Receivers At The Same Time - With aptX Low Latency Technology,Wireless,http://www.amazon.com/dp/B00UEGDDAY/,2,1
+Intel SSD 750 Series PCIe AIC 1.2TB Internal SSD SSDPEDMW012T4R5,Personal Computer,http://www.amazon.com/dp/B00UHJJQ3Q/,4,1
+WD 1TB Black My Passport Ultra Portable External Hard Drive - USB 3.0 - WDBGPU0010BBK-NESN [Old Model],Personal Computer,http://www.amazon.com/dp/B00W8XXRPM/,26,1
+"Sandisk Z400s 128GB Solid State Drive (2.5”, SATA 3.2 6GB/s, 128GB Capacity)",Personal Computer,http://www.amazon.com/dp/B00Z1NFLJG/,2,1
+"Microsoft Windows 10 Pro (64-bit, OEM DVD)",Software,http://www.amazon.com/dp/B00ZSHDJ4O/,11,1
+Microsoft Windows 10 Home | Download,Digital Software,http://www.amazon.com/dp/B01019BM7O/,12,1
+"Microsoft Surface 3 Tablet (10.8-Inch, 64 GB, Intel Atom, Windows 10)",Personal Computer,http://www.amazon.com/dp/B012DTDBI8/,6,1
+ASUS UX305 13-Inch Laptop [2015 model],Personal Computer,http://www.amazon.com/dp/B013KKANTE/,67,1
+"ASUS K501UX 15.6-inch Gaming Laptop (Intel Core i7 Processor, NVIDIA GTX 950M, 8GB RAM, 256GB SSD Hard Drive, Windows 10 (64 bit)), Black/Silver Metal",Personal Computer,http://www.amazon.com/dp/B0146DD02G/,71,1
+"ASUS ROG GL752VW-DH71 17.3-inch Gaming Laptop (Intel i7 2.6GHz, 16GB DDR4 RAM, 1TB HDD,  GTX960M 2GB Graphic Card, Windows 10)",Personal Computer,http://www.amazon.com/dp/B01578ZK9A/,47,1
+"Dell 15.6-Inch Gaming Laptop (6th Gen Intel Quad-Core i5-6300HQ Processor up to 3.2GHz, 8GB DDR3, 256GB SSD, Nvidia GeForce GTX 960M, Windows 10)",Personal Computer,http://www.amazon.com/dp/B015PYYDMQ/,799,1
+ASUS GL551 15-inch Gaming Laptiop [2014 Model],Personal Computer,http://www.amazon.com/dp/B017NGH4DY/,6,1
 "HP 8200 Elite, Intel Quad Core i5 3.10 GHz, 16GB DDR3, 1TB HDD, Windows 7 Pro 64-Bit (Certified Refurbished)",Personal Computer,http://www.amazon.com/dp/B017S118BI/,1,1
-"ASUS Transformer Book Chi 12.5-Inch T300CHI-F1-DB Slim All-Aluminum 2 in 1 Detachable Touchscreen Laptop, Core M, 4 GB RAM, 128 GB SSD",Personal Computer,http://www.amazon.com/dp/B00T7XR888/,1,1
-"[3*USB 3.0 + 1*Gigabit Ethernet Adapter] ZeroLemon 3 Ports USB 3.0 Bus-Powered Hub with RJ45 10/100/1000 Gigabit Ethernet Converter LAN Wired Network Adapter for Laptops, Ultrabooks and Tablet PCs with USB Ports, Compatible with Windows XP/7/8, Mac OS-X, Linux",Personal Computer,http://www.amazon.com/dp/B00NSEPU46/,1,1
-Intel SSD 750 Series PCIe AIC 1.2TB Internal SSD SSDPEDMW012T4R5,Personal Computer,http://www.amazon.com/dp/B00UHJJQ3Q/,1,1
+WD 1TB Black My Passport  Portable External Hard Drive - USB 3.0 - WDBYNN0010BBK-WESN,Personal Computer,http://www.amazon.com/dp/B01LQQHI8I/,9,1
+Microsoft Windows User Experience (Microsoft Professional Editions),Book,http://www.amazon.com/dp/0735605661/,1,1
+WD 3TB  My Book Desktop External Hard Drive - USB 3.0 - WDBBGB0030HBK-NESN,Personal Computer,http://www.amazon.com/dp/B01LQQHL2G/,4,1
+"Windows Internals, Part 1: Covering Windows Server® 2008 R2 and Windows 7 (Developer Reference)",Book,http://www.amazon.com/dp/0735648735/,9,1
+Exam Ref 70-480 Programming in HTML5 with JavaScript and CSS3 (MCSD),Book,http://www.amazon.com/dp/0735676631/,1,1
+Cisco-Linksys EC2T PCMCIA Ethernet Card,CE,http://www.amazon.com/dp/B00003005I/,1,1

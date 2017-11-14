@@ -1,51 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-High Speed Digital Design: A Handbook of Black Magic,Book,http://www.amazon.com/dp/0133957241/,5,2
-The Art of Internet Dating,eBooks,http://www.amazon.com/dp/B004MDLVAO/,,1
-"Encyclopedia of Electronic Components Volume 1: Resistors, Capacitors, Inductors, Switches, Encoders, Relays, Transistors",eBooks,http://www.amazon.com/dp/B00COVJULI/,,1
-"Transistor Circuit Techniques, Discrete and Integrated (TUTORIAL GUIDES IN ELECTRONIC ENGINEERING)",eBooks,http://www.amazon.com/dp/B000Q35YSO/,,1
-AudioQuest Diamond 16m (52.49 feet) Braided HDMI Cable,CE,http://www.amazon.com/dp/B00IL3TZSQ/,51,1
-Diamond HDMI Digital Audio/Video Cable W/ Ethernet Connection 5 meters,CE,http://www.amazon.com/dp/B003CT2A6I/,11,1
-"Sperry Instruments GFI6302 GFCI Outlet / Receptacle Tester, Standard 120V AC Outlets, 7 Visual Indication / Wiring Legend, Home & Professional Use, Yellow & Black",Home Improvement,http://www.amazon.com/dp/B000RUL2UU/,10,1
-Set Of Ten Finger Hands Finger Puppets,Toy,http://www.amazon.com/dp/B00OACD9CU/,8,1
-Weller WLC100 40-Watt Soldering Station,Home Improvement,http://www.amazon.com/dp/B000AS28UC/,7,1
-Weller WES51 Analog Soldering Station,Home Improvement,http://www.amazon.com/dp/B000BRC2XU/,7,1
-High Speed Signal Propagation: Advanced Black Magic,Book,http://www.amazon.com/dp/013084408X/,3,1
-BCW 100 9-Pocket Plastic Sheets,Toy,http://www.amazon.com/dp/B005JCL05I/,2,1
-"Avery Big Tab Insertable Plastic Dividers, Multicolor, 1 Set of 8 Tabs (11901)",Office Product,http://www.amazon.com/dp/B0000AQOH2/,2,1
-Safety Works 817664 Toxic Dust Respirator,Home Improvement,http://www.amazon.com/dp/B0009XW3ZS/,2,1
-uxcell 10 Pcs UF90B Clip-on Ferrite Ring Core Black for 9mm Diameter Cable,Cell Phones & Accessories,https://www.amazon.com/UF90B-Clip-Ferrite-Black-Diameter/dp/B007Q94CJS,2,1
-Logitech x-230 2.1 2-Piece Dual Drive Speakers with Ported Subwoofer,CE,http://www.amazon.com/dp/B0002SQ0A4/,2,1
-"WEP 858D (110V) Hot Air Rework Soldering Station, Suitable For SMD, SOIC, CHIP, QFP, PLCC, BGA",Home Improvement,http://www.amazon.com/dp/B0055B6NGE/,2,1
-"BUD Industries NBF-32016 Plastic ABS NEMA INDOOR USE Box with Solid Door, 11-51/64"" Length x 7-55/64"" Width x 5-7/64"" Height, Light Gray Finish",BISS,http://www.amazon.com/dp/B005UPANU2/,2,1
-"Wilson Jones 3 Ring Binder 1-1/2 Inch, Round Ring View Binder, Basic, 362 Series, Customizable, White, 4 Pack (W70362-34WPP)",Office Product,http://www.amazon.com/dp/B00ICQ40F0/,1,1
-Water & Wood 40PCS Dupont wire 20cm cable Line color 1p-1p pin connector,Electronics,https://www.amazon.com/40PCS-Dupont-cable-color-connector/dp/B007XPSVMY,1,1
-Baofeng VB-29 7.4V 3800mAh Li-ion Battery for UV-5R / UV-5RTP / UV-5R Plus,Network Media Player,http://www.amazon.com/dp/B013WPA6YO/,1,1
-Elenco  0-15V Power Supply Soldering Kit  [ SOLDERING REQUIRED ],Hobby,http://www.amazon.com/dp/B0002DVF4K/,1,1
-Ubiquiti PBE-M5-400 (2-pack) PowerBeam M5 25dBi 5GHz AirMAX CPE 400mm 150+ Mbps,Personal Computer,http://www.amazon.com/dp/B00UZ03UUW/,1,1
-Gaunt Industries HYPO-350 - Jewelery Maker Flux Dispenser - 1-1/4 Ounce Clear Plastic LDPE Bottle with 20 Gauge Blunt Needle tip,Art and Craft Supply,http://www.amazon.com/dp/B00IOQGUB0/,1,1
-Semiconductor Device Fundamentals,Book,http://www.amazon.com/dp/0201543931/,1,1
-Advanced Semiconductor Fundamentals (2nd Edition),Book,http://www.amazon.com/dp/013061792X/,1,1
-Casio FR-2650A PLUS Printing Calculator,CE,http://www.amazon.com/dp/B00004U1PB/,1,1
-Permatex 09117 Complete Rear Window Defogger Repair Kit,Automotive Parts and Accessories,http://www.amazon.com/dp/B000ALBZJY/,1,1
-"BLACK+DECKER GD2011B Family Sized Electric Griddle, 20 x 11-Inch, Black",Kitchen,http://www.amazon.com/dp/B00CI51RS4/,1,1
-SODIAL(R) Welding Practice Plate Board DIY Kit SMT SMD Component,BISS,http://www.amazon.com/dp/B00SO3141Y/,1,1
-GeauxRobot Raspberry Pi 3 B 2-layer Dog Bone Stack Clear Case Box Enclosure also for Pi 2B B+ A+,PC Accessory,http://www.amazon.com/dp/B00NU70MZS/,1,1
-all-sun EM9807 GFCI Outlet Tester,BISS,http://www.amazon.com/dp/B01ID5V05C/,1,1
+Make: Electronics (Learning by Discovery),Book,http://www.amazon.com/dp/0596153740/,21,5
+High Speed Digital Design: A Handbook of Black Magic,Book,http://www.amazon.com/dp/0133957241/,14,3
+"Practical Electronics for Inventors, Third Edition",Book,http://www.amazon.com/dp/0071771336/,35,3
+The Art of Electronics,Book,http://www.amazon.com/dp/0521809266/,36,3
+"Kester 951 Soldering Flux Pen Low-Solids, No-Clean 10ml",Home Improvement,http://www.amazon.com/dp/B004X4KOWS/,3,2
+Elenco  0-15V Power Supply Soldering Kit  [ SOLDERING REQUIRED ],Hobby,http://www.amazon.com/dp/B0002DVF4K/,3,2
+Metal Connectors GX16-2 Aviation Connector Connecting Plug & Socket,Home Improvement,http://www.amazon.com/dp/B00FB56SAU/,2,2
+"American Beauty 3178-300 Heavy-Duty Soldering Iron, 300 Watt, 14-3/8"" Length, 7/8"" Chisel Tip",BISS,http://www.amazon.com/dp/B007S20CMY/,2,2
+SE MZ101B Helping Hand with Magnifying Glass,Home Improvement,http://www.amazon.com/dp/B000RB38X8/,45,2
+Extech MN35 Digital Mini MultiMeter,Home Improvement,http://www.amazon.com/dp/B0012VWR20/,5,2
+BCW 100 9-Pocket Plastic Sheets,Toy,http://www.amazon.com/dp/B005JCL05I/,5,2
+JYE DSO 138 DIY KIT Open Source,BISS,http://www.amazon.com/dp/B00WAQGGZA/,3,2
+"Ultra-Efficient Desk Clamp-Mount 56 SMD LED Spring-Arm Magnifying Lamp - Adjustable Arm - 5"" Lens",Office Product,http://www.amazon.com/dp/B001064VTE/,2,2
+1MHz Function Generator Kit,BISS,http://www.amazon.com/dp/B0002MQEW4/,2,2
+Weller WLC100 40-Watt Soldering Station,Home Improvement,http://www.amazon.com/dp/B000AS28UC/,78,2
+Make: Electronics: Learning Through Discovery,Book,http://www.amazon.com/dp/1680450263/,12,2
+The Art of Electronics,Book,http://www.amazon.com/dp/0521370957/,19,2
+Semiconductor Device Fundamentals,Book,http://www.amazon.com/dp/0201543931/,2,1
+Vector Control and Dynamics of AC Drives (Monographs in Electrical and Electronic Engineering),Book,http://www.amazon.com/dp/0198564392/,1,1
+"Electrical Engineering 101, Third Edition: Everything You Should Have Learned in School...but Probably Didn't",Book,http://www.amazon.com/dp/0123860016/,2,1
+Mastery,Book,http://www.amazon.com/dp/014312417X/,21,1
+Transistor Circuit Techniques: Discrete and Integrated (Tutorial Guides in Electronic Engineering),Book,http://www.amazon.com/dp/0748740759/,1,1
 "Power Wheels Battery, 6 Volt, Type A Connector",Automotive Parts and Accessories,http://www.amazon.com/dp/B00018ZWFO/,1,1
-Breadboard Jumper Wire 75pcs pack,BISS,http://www.amazon.com/dp/B0040DEI9M/,1,1
-"Philips 452978 60-Watt Equivalent SlimStyle A19 LED Light Bulb Soft White, Dimmable",Home Improvement,http://www.amazon.com/dp/B00I134ORI/,1,1
-GQ GMC-320-Plus Geiger Counter Nulcear Radiation Detector Meter Beta Gamma X ray test equipment,BISS,http://www.amazon.com/dp/B00I8GQ1EC/,1,1
-"4-Pack Filters for Soldering Smoke Extractor / Solder Fume Absorber, Activated Carbon",Home Improvement,http://www.amazon.com/dp/B00XIN1ENI/,1,1
-"RADEX RD1503+ with Dosimeter: High accuracy geiger counter, radiation detector",BISS,http://www.amazon.com/dp/B01C89OZPG/,1,1
-"Kester 44 Rosin Core Solder 63/37 .031"" 1oz Dispense-Pak",Home Improvement,http://www.amazon.com/dp/B00AVLM4SO/,1,1
-"Interpower 8301211 IEC 60320 C14 Screw Mount Power Inlet with Solder Tabs, IEC 60320 C14 Socket Type, Black, 10A/15A Rating, 250VAC Rating",BISS,http://www.amazon.com/dp/B00917Z84G/,1,1
-GLE2016 AC 250V 15A Amps ON/OFF 2 Position SPST Toggle Switch with Waterproof Boot,Home Improvement,http://www.amazon.com/dp/B008TOXMXG/,1,1
-Candy Tin Ouija Mystifying Mints 1.5 oz,Grocery,http://www.amazon.com/dp/B005VG89QU/,1,1
-"Aoyue Soldering Iron Tip Cleaner with Brass wire sponge, no water needed",Home Improvement,http://www.amazon.com/dp/B005C789EU/,1,1
-"Scotch-Brite Heavy Duty Scrub Sponge, 6 Count","Health, Household & Baby Care",https://www.amazon.com/Scotch-Brite-Heavy-Sponge-426-6-Count/dp/B004IR3044/,1,1
-Dorman 84793 Headlight Socket,Automotive Parts and Accessories,http://www.amazon.com/dp/B001SGI7SM/,1,1
-30 Arduino Projects for the Evil Genius,Book,http://www.amazon.com/dp/007174133X/,1,1
-90 Tube - 13x100mm Clear Plastic Test Tube Set with Caps and Rack - Karter Scientific 207D3,BISS,http://www.amazon.com/dp/B00CSWFMOC/,1,1
-WELLER 0051303199 SOLDERING TIP TINNER/ACTIVATOR,Industrial & Scientific,https://www.amazon.com/Weller-Tip-Tinner-and-Activator/dp/B00E4WJIKS,1,1
-Weike 1rf Dc12v 2 Channel Wireless Remote Control Momentary Switch Receiver Learning Code 433mhz with 3 Button Contoller,Home Improvement,http://www.amazon.com/dp/B01232VIPI/,1,1
+IC Op-Amp Cookbook (3rd Edition),Book,http://www.amazon.com/dp/0138896011/,2,1
+"Principles of Transistor Circuits, Ninth Edition",Book,http://www.amazon.com/dp/0750644273/,1,1
+"Electric Motors and Drives: Fundamentals, Types and Applications (3rd Edition)",Book,http://www.amazon.com/dp/0750647183/,1,1
+Practical Radio Frequency Test and Measurement: A Technician's Handbook,Book,http://www.amazon.com/dp/0750671610/,2,1
+Electronic Projects for Musicians,Book,http://www.amazon.com/dp/0825695023/,8,1
+Communication Circuits: Analysis and Design,Book,http://www.amazon.com/dp/0894648632/,1,1
 How to Drive into Accidents - And How Not to,Book,http://www.amazon.com/dp/0965564819/,1,1
+"Valve Amplifiers, Fourth Edition",Book,http://www.amazon.com/dp/0080966403/,2,1
+30 Arduino Projects for the Evil Genius,Book,http://www.amazon.com/dp/007174133X/,2,1
+"Avery Big Tab Insertable Plastic Dividers, Multicolor, 1 Set of 8 Tabs (11901)",Office Product,http://www.amazon.com/dp/B0000AQOH2/,2,1
+Tripp Lite 6 Outlet Surge Protector Power Strip 6ft Cord 790 Joules LED & INSURANCE (TLP606),Speakers,http://www.amazon.com/dp/B0000AI0N1/,2,1
+Snap Circuits Jr. SC-100 Electronics Discovery Kit,BISS Basic,http://www.amazon.com/dp/B00008BFZH/,9,1
+Second-Level Basic Electronics,Book,http://www.amazon.com/dp/048622841X/,1,1
+Casio FR-2650A PLUS Printing Calculator,CE,http://www.amazon.com/dp/B00004U1PB/,1,1
+"Woods 2001WD Outdoor 24hr Outlet Timer with Photocell Light Sensor, 1 Grounded Outlet, Weatherproof",Home Improvement,http://www.amazon.com/dp/B00002NB2X/,3,1
+Basic Electronics (Dover Books on Engineering),Book,http://www.amazon.com/dp/0486210766/,1,1
+"The 8086/8088 Family: Designing, Programming and Interfacing",Book,http://www.amazon.com/dp/0132467526/,1,1
+Irwin 45002 Lockhead Adjustable 7/8-Inch to 3-Inch Adjustable Spade Drill Bit for a Drill Press,Home Improvement,http://www.amazon.com/dp/B00004YO6Y/,1,1
+ATEN High Speed Parallel Line Extender (T+R+Line) IC164 (Off White),CE,http://www.amazon.com/dp/B0000510XM/,1,1
+Taymac MX3200 One Gang Vertical In Use Metal Weatherproof Receptacle Cover,Home Improvement,http://www.amazon.com/dp/B001DKIH10/,5,1
+"Duracell Dl123 Ultra Lithium Photo, 10 Battery",Health and Beauty,http://www.amazon.com/dp/B001KI04MK/,1,1
+Aoyue 486 Benchtop Solder Smoke Absorber,Home Improvement,http://www.amazon.com/dp/B001RLZGKK/,8,1
+"Dr. Shrink DS-702B Blue 2"" x 180' Shrink Tape",Automotive Parts and Accessories,http://www.amazon.com/dp/B0000AXY3C/,1,1
+Fluke 28 II True-RMS Rugged IP 67 Industrial Digital Multimeter,BISS Basic,http://www.amazon.com/dp/B002X9ISWI/,1,1
+"Moody Tools - JIS Type S Driver Set, 4Pc Pollicis - 58-0405",Home Improvement,http://www.amazon.com/dp/B0001X0SK8/,1,1
+"Screwdriver Tip, .093"": WLC100",Toy,http://www.amazon.com/dp/B0002BSQQC/,1,1
+Fitzgerald & Kingsley's Electric Machinery,Book,http://www.amazon.com/dp/0073380466/,2,1
+"Akro-Mils 08024 Plastic Wall Mounted Tool Holder Rack, Red",Home Improvement,http://www.amazon.com/dp/B00002N7NI/,1,1
+Logitech x-230 2.1 2-Piece Dual Drive Speakers with Ported Subwoofer,CE,http://www.amazon.com/dp/B0002SQ0A4/,3,1
+"Starrett 117C Center Punch With Round Shank, 4"" Length, 1/8"" Tapered Point Diameter",BISS,http://www.amazon.com/dp/B0006J4QOG/,2,1
+"Wiha 44501 Stainless Steel Fine Point Professional ESD Precision Tech Tweezer with Static Dissipative Grip and Hypo Allergenic, 130mm Overall Length",BISS,http://www.amazon.com/dp/B0009K3IAK/,1,1
+Safety Works 817664 Toxic Dust Respirator,Home Improvement,http://www.amazon.com/dp/B0009XW3ZS/,5,1
+Permatex 09117 Complete Rear Window Defogger Repair Kit,Automotive Parts and Accessories,http://www.amazon.com/dp/B000ALBZJY/,1,1
+"Bebop to the Boolean Boogie, Third Edition: An Unconventional Guide to Electronics",Book,http://www.amazon.com/dp/1856175073/,4,1
+Weller WES51 Analog Soldering Station,Home Improvement,http://www.amazon.com/dp/B000BRC2XU/,33,1
+Allied Tools 49035 41-Piece SAE Tap and Die Tool Set,Home Improvement,http://www.amazon.com/dp/B000EMDI2Q/,1,1
+"Leviton 101-P 15 Amp, 125 Volt, NEMA 1-15P, 2P, 2W, Plug, Straight Blade, Residential Grade, Polarized, Non-Grounding, Brown",Home Improvement,http://www.amazon.com/dp/B000FPAN84/,4,1
+Microsoft Xbox 360 Wireless Receiver for Windows,Personal Computer,http://www.amazon.com/dp/B000HZFCT2/,179,1
+"CableWholesale's Ultra ATA 100/133 IDE Cable, 2 Device, IDC 40 (80 Conductor), 24 inch",PC Accessory,http://www.amazon.com/dp/B000I21Y28/,1,1
+Analysis and Design of Analog Integrated Circuits (3rd Edition),Book,http://www.amazon.com/dp/0471574953/,1,1
+"Transistor Circuit Techniques, Discrete and Integrated (Tutorial Guides in Electronic Engineering)",eBooks,http://www.amazon.com/dp/B000Q35YSO/,1,1
+Think Like a Programmer: An Introduction to Creative Problem Solving,Book,http://www.amazon.com/dp/1593274246/,19,1
+"Analysis and Design of Analog Integrated Circuits, 5th Edition",Book,http://www.amazon.com/dp/0470245999/,6,1
+High Speed Signal Propagation: Advanced Black Magic,Book,http://www.amazon.com/dp/013084408X/,6,1
+Pyramid Compact Power Supply | AC-to-DC Power Converter | 30 Amp Bench Power Supply (PSV300),Car Audio or Theater,http://www.amazon.com/dp/B000NPT4TK/,2,1
+Fluke 1625 Geo Earth Ground Tester,Home Improvement,http://www.amazon.com/dp/B000L9PGA4/,1,1
+Foundations of Analog and Digital Electronic Circuits (The Morgan Kaufmann Series in Computer Architecture and Design),Book,http://www.amazon.com/dp/1558607358/,3,1
+"Wiha 26194 Screwdriver Set, Phillips With Precision Handles, 4 Piece",BISS,http://www.amazon.com/dp/B000NZ5QGK/,6,1
+"IRWIN VISE-GRIP 2078300 Self-Adjusting Wire Stripper, 8""",Home Improvement,http://www.amazon.com/dp/B000OQ21CA/,11,1
+Robert Larson 10 Inch Swing Bit Brace with 3 Jaw Chuck,Home Improvement,http://www.amazon.com/dp/B000JRFJQO/,1,1
+12 VOLT 1.2 Ah BATTERY-Battery,Speakers,http://www.amazon.com/dp/B000RAZ5BW/,1,1
+"Lutron 600-watt maestro IR single pole digital fade dimmer, MIR-600THW-WH, 600 , 120 ( Not compatible with CFL/LED bulbs), White",Home Improvement,http://www.amazon.com/dp/B000JJYJMM/,7,1
+"Sperry Instruments GFI6302 GFCI Outlet / Receptacle Tester, Standard 120V AC Outlets, 7 Visual Indication / Wiring Legend, Home & Professional Use, Yellow & Black",Home Improvement,http://www.amazon.com/dp/B000RUL2UU/,35,1
+"Duracell 852-1807 1,800 Watt Five Outlet Rechargeable Power Source",Automotive Parts and Accessories,http://www.amazon.com/dp/B000S0VFTM/,1,1
+PanaVise 333 Rapid Assembly Circuit Board Holder,BISS,http://www.amazon.com/dp/B000SSR8FY/,1,1
+"Wiha 92190 Master Technicians Bench Top Set, 50 Piece",BISS,http://www.amazon.com/dp/B000T9XZFO/,3,1
+Manifold Destiny: The One! The Only! Guide to Cooking on Your Car Engine!,Book,http://www.amazon.com/dp/1416596232/,13,1
+Circuit Board Working Platform,CE,http://www.amazon.com/dp/B0010KX70O/,1,1
+Sideways Stories from Wayside School,Book,http://www.amazon.com/dp/0380731487/,2,1
+RoadPro RPSL-350 12V 1.5 Quart Slow Cooker,Automotive Parts and Accessories,http://www.amazon.com/dp/B0013IR88A/,7,1
+RCA Compact RF Modulator (CRF907A),Speakers,http://www.amazon.com/dp/B0014KKV7W/,19,1
+"Edsyn Deluxe Soldapullt, DS017LS, Static-Safe, by EDSYN INC",Home Improvement,http://www.amazon.com/dp/B0019V5HRA/,3,1
+"Vaultz Locking Pencil Box, 8.25 x 5.5 x 2.5 Inches, Black (VZ01479)",Office Product,http://www.amazon.com/dp/B001BXZ28K/,40,1
+wolfcraft 4525404 Muilt-Angle Drill Guide Attachment for 1/4in. and 3/8in. Drills,Home Improvement,http://www.amazon.com/dp/B000JCIMEA/,18,1
+LC 5 Gallon Utility Jug - --/White,Automotive Parts and Accessories,http://www.amazon.com/dp/B001HATUKS/,1,1
+Aoyue 850A++ Hot Air Rework Station,Home Improvement,http://www.amazon.com/dp/B000I5JXA0/,2,1
+"Leviton 125 15 Amp, 660 Watt, 125 Volt, 2-Pole, 2-Wire, Socket To Outlet Adapter",Home Improvement,http://www.amazon.com/dp/B001PCVTFC/,9,1
+"Practical Electronics for Inventors, Fourth Edition",Book,http://www.amazon.com/dp/1259587541/,16,1
+Dorman 84793 Headlight Socket,Automotive Parts and Accessories,http://www.amazon.com/dp/B001SGI7SM/,1,1
+"F4 Tape - Self-Fusing Silicone Tape MIL-SPEC 1"" X 36' (Black)",BISS,http://www.amazon.com/dp/B002LA2258/,2,1
+LapGear XL Laptop Lap Desk with Left & Right Mouse Pads - Black,Personal Computer,http://www.amazon.com/dp/B002WER27Q/,7,1
+Velleman PS1503SBU Dc Lab Power Supply 0-15V / 3A Digital Display With Backlight,BISS,http://www.amazon.com/dp/B000I3X7Z4/,1,1
+"Contour ShuttleXpress Input Device,Black",PC Accessory,http://www.amazon.com/dp/B0032Y0OH0/,3,1
+Extech 382275 Switching Mode 600 Watt DC Power Supply,Home Improvement,http://www.amazon.com/dp/B00395DK28/,1,1
+Diamond HDMI Digital Audio/Video Cable W/ Ethernet Connection 5 meters,CE,http://www.amazon.com/dp/B003CT2A6I/,17,1
+"C&E 30S1-01260 2 x RCA Male, 1 x 3.5mm Stereo Female, Y-Cable 6-Inch Gold Plated Connector",Speakers,http://www.amazon.com/dp/B000I23TTE/,37,1
+"Akro-Mils 10144 D 20-Inch by 16-Inch by 6-1/2-Inch Hardware and Craft Cabinet, Black",Home Improvement,http://www.amazon.com/dp/B003P2UOCO/,29,1

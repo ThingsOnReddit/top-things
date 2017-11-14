@@ -1,4 +1,12 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
+The Joy of Clojure,Book,http://www.amazon.com/dp/1617291412/,3,3
 Web Development with Clojure: Build Bulletproof Web Apps with Less Code,Book,http://www.amazon.com/dp/1680500821/,3,3
-The Joy of Clojure,Book,http://www.amazon.com/dp/1617291412/,1,1
+Java Performance,Book,http://www.amazon.com/dp/0137142528/,3,2
+Living Clojure: An Introduction and Training Plan for Developers,Book,http://www.amazon.com/dp/1491909048/,2,1
+Practical Ruby Projects: Ideas for the Eclectic Programmer (Books for Professionals by Professionals),Book,http://www.amazon.com/dp/159059911X/,1,1
+Functional Programming Patterns in Scala and Clojure: Write Lean Programs for the JVM,Book,http://www.amazon.com/dp/1937785475/,1,1
+Seven Concurrency Models in Seven Weeks: When Threads Unravel (The Pragmatic Programmers),Book,http://www.amazon.com/dp/1937785653/,4,1
+Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference (Addison-Wesley Data & Analytics),Book,http://www.amazon.com/dp/0133902838/,1,1
 "Mastering Clojure Macros: Write Cleaner, Faster, Smarter Code",Book,http://www.amazon.com/dp/1941222226/,1,1
+Java Concurrency in Practice,Book,http://www.amazon.com/dp/0321349601/,16,1
+Purely Functional Data Structures,Book,http://www.amazon.com/dp/0521663504/,21,1

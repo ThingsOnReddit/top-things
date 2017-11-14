@@ -1,84 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Hakko FX888D-23BY Digital Soldering Station FX-888D FX-888 (blue & yellow),BISS Basic,http://www.amazon.com/dp/B00ANZRT4M/,9,2
-"Practical Electronics for Inventors, Third Edition",Book,http://www.amazon.com/dp/0071771336/,8,2
-Weller WES51 Analog Soldering Station,Home Improvement,http://www.amazon.com/dp/B000BRC2XU/,7,2
-Elegoo UNO R3 Project Complete Starter Kit with Tutorial for Arduino (63 Items),PC Accessory,http://www.amazon.com/dp/B01CZTLHGE/,4,2
-AVR Programming: Learning to Write Software for Hardware,eBooks,http://www.amazon.com/dp/B00I2YIZSK/,,1
-"Head First Java, 2nd Edition",Book,http://www.amazon.com/dp/0596009208/,13,1
-The Art of Electronics,Book,http://www.amazon.com/dp/0521809266/,9,1
-"Raspberry Pi 2 Model B Desktop (Quad Core CPU 900 MHz, 1 GB RAM, Linux)",Personal Computer,http://www.amazon.com/dp/B00T2U7R7I/,8,1
-Weller WLC100 40-Watt Soldering Station,Home Improvement,http://www.amazon.com/dp/B000AS28UC/,7,1
-Arduino Starter Kit - English Official Kit With 170 Page Book - K000007,Personal Computer,http://www.amazon.com/dp/B009UKZV0A/,6,1
-"Akro-Mils 10164 64 Drawer Plastic Parts Storage Hardware and Craft Cabinet, 20-Inch by 16-Inch by 6-1/2-Inch, Black",Home Improvement,http://www.amazon.com/dp/B000LDH3JC/,4,1
-Getting Started in Electronics,Book,http://www.amazon.com/dp/0945053282/,4,1
-Hakko 599B-02 Wire-type soldering iron tip cleaner,BISS Basic,http://www.amazon.com/dp/B00FZPGDLA/,3,1
-Stanley 014725 25-Removable Compartment Professional Organizer,Home Improvement,http://www.amazon.com/dp/B00005QWYF/,3,1
-Weller WESD51 Digital Soldering Station,Home Improvement,http://www.amazon.com/dp/B000ARU9PO/,3,1
-"PanaVise Model 201 ""Junior"" Miniature Vise",BISS Basic,http://www.amazon.com/dp/B000B61D22/,3,1
-"Plano Molding 1363 Stow N Go Toolbox, Graphite Gray and Sandstone",Home Improvement,http://www.amazon.com/dp/B001TH8P1E/,3,1
-Arduino Uno 3 Ultimate Starter Kit Includes 12 Circuit Learning Guide,Personal Computer,http://www.amazon.com/dp/B00BT0NDB8/,3,1
-PowerSwitch Tail II,BISS,http://www.amazon.com/dp/B00B888VHM/,2,1
-"ALZO Diffusion Fabric Nylon Silk White Light Modifier, 1 Yard Long 60 Inches Wide, Un-Finished Edges, Scissor-Cut for Photography, Softbox and Light Tents",Photography,http://www.amazon.com/dp/B00XPUV1XM/,2,1
-"Solar Charger, Nekteck 10400mAh Dual USB Port Solar Portable Charger Backup Power Pack for iPhone 6 plus 5S 5C 5 4S 4, iPods, Samsung Galaxy S6 S5 S4 S3 Note 4 3 2, Android Smart Phones, Windows phone",Wireless,http://www.amazon.com/dp/B00U864BR4/,2,1
-"Hakko CHP CSP-30-1 Wire Stripper, 30-20 Gauge Maximum Cutting Capacity",BISS,http://www.amazon.com/dp/B00FZPHMUG/,2,1
-Elegoo UNO Project Super Starter Kit with Tutorial for Arduino,BISS Basic,http://www.amazon.com/dp/B01D8KOZF4/,2,1
-"Plano Molding 1354 Stow N Go Tool Box with 4 23500 Series StowAways, Graphite Gray and Sandstone",Home Improvement,http://www.amazon.com/dp/B000OES590/,2,1
-"CPR Call Blocker V202 1200 Number Capacity Block Telemarketer Calls, Solicitor Calls, Junk Faxes",CE,http://www.amazon.com/dp/B00JG02ZEY/,2,1
-"Vaultz Locking VZ01257 Pencil Box, Assorted Colors",Office Product,http://www.amazon.com/dp/B007CDZLBG/,1,1
-Color sensor TCS230 TCS3200 Color Recognition Sensor Detector Module DC 3-5V Input Compatible With Arduino by Atomic Market,Personal Computer,http://www.amazon.com/dp/B00TPYHZR8/,1,1
-Anysun Mini Security DVR Mini CCTV CDVR Micro SD Card Recording Metal with Charger,Photography,http://www.amazon.com/dp/B00OLY86EI/,1,1
-AOSILEY Car Rear Vehicle Backup View Camera 170 Degree Wide Angle Waterproof Rotation Night Vision HD Cam (Black),Car Audio or Theater,http://www.amazon.com/dp/B00WW89NMY/,1,1
-Electronix Express- Hook up Wire Kit (Solid Wire Kit) 22 Gage (25 Feet),Home Improvement,http://www.amazon.com/dp/B00B4ZRPEY/,1,1
-XCSOURCE 5 pcs 1A 5V Micro USB TP4056 Lithium Battery Power Charger Board Module TE420,Wireless,http://www.amazon.com/dp/B01DRT4PWY/,1,1
-uxcell 5 Pcs 5VDC 125VAC 15A 4 Pole SPST NO JQC-3FF/05-1HS(511) Power Relay,Automotive Parts and Accessories,http://www.amazon.com/dp/B01LQIGFC6/,1,1
+Elegoo UNO Project Super Starter Kit with Tutorial for Arduino,BISS Basic,http://www.amazon.com/dp/B01D8KOZF4/,22,15
+Elegoo UNO R3 Project Complete Starter Kit with Tutorial for Arduino (63 Items),PC Accessory,http://www.amazon.com/dp/B01CZTLHGE/,13,9
+HiLetgo New Version ESP8266 NodeMCU LUA CP2102 ESP-12E Internet WIFI Development Board Open source Serial Wireless Module Works Great with Arduino IDE/Micropython,PC Accessory,http://www.amazon.com/dp/B010O1G1ES/,23,7
+"Practical Electronics for Inventors, Third Edition",Book,http://www.amazon.com/dp/0071771336/,35,7
+Arduino Starter Kit - English Official Kit With 170 Page Book - K000007,Personal Computer,http://www.amazon.com/dp/B009UKZV0A/,19,6
+2pcs nRF24L01+ 2.4GHz Wireless Transceiver in Antistatic Foam Arduino Compatible,PC Accessory,http://www.amazon.com/dp/B00E594ZX0/,13,6
+Getting Started in Electronics,Book,http://www.amazon.com/dp/0945053282/,34,6
+Weller WES51 Analog Soldering Station,Home Improvement,http://www.amazon.com/dp/B000BRC2XU/,33,5
+Arduino Workshop: A Hands-On Introduction with 65 Projects,Book,http://www.amazon.com/dp/1593274483/,5,4
+Weller WLC100 40-Watt Soldering Station,Home Improvement,http://www.amazon.com/dp/B000AS28UC/,78,4
+"Akro-Mils 10164 64 Drawer Plastic Parts Storage Hardware and Craft Cabinet, 20-Inch by 16-Inch by 6-1/2-Inch, Black",Home Improvement,http://www.amazon.com/dp/B000LDH3JC/,30,4
+Arduino Uno 3 Ultimate Starter Kit Includes 12 Circuit Learning Guide,Personal Computer,http://www.amazon.com/dp/B00BT0NDB8/,19,4
+Hakko FX888D-23BY Digital Soldering Station FX-888D FX-888 (blue & yellow),BISS Basic,http://www.amazon.com/dp/B00ANZRT4M/,52,4
+"Plano Molding 1354 Stow N Go Tool Box with 4 23500 Series StowAways, Graphite Gray and Sandstone",Home Improvement,http://www.amazon.com/dp/B000OES590/,10,3
+Hakko FX888D-23BY-Kit2 Bundle Includes Soldering Station and CHP170 cutter,BISS Basic,http://www.amazon.com/dp/B00AWUFVY8/,34,3
+AVR Programming: Learning to Write Software for Hardware,Book,http://www.amazon.com/dp/1449355781/,4,3
+ALITOVE 16.4ft WS2812B Individually Addressable LED Strip Light 5050 RGB SMD 150 Pixels Dream Color Waterproof IP66 Black PCB 5V DC,Musical Instruments,http://www.amazon.com/dp/B00ZHB9M6A/,4,3
+"Programming Arduino: Getting Started with Sketches, Second Edition (Tab)",Book,http://www.amazon.com/dp/1259641635/,3,3
+Stanley 014725 25-Removable Compartment Professional Organizer,Home Improvement,http://www.amazon.com/dp/B00005QWYF/,51,3
+"Akro-Mils 10144 D 20-Inch by 16-Inch by 6-1/2-Inch Hardware and Craft Cabinet, Black",Home Improvement,http://www.amazon.com/dp/B003P2UOCO/,29,3
+XCSOURCE 5 pcs 1A 5V Micro USB TP4056 Lithium Battery Power Charger Board Module TE420,Wireless,http://www.amazon.com/dp/B01DRT4PWY/,4,3
+"Encyclopedia of Electronic Components Volume 1: Resistors, Capacitors, Inductors, Switches, Encoders, Relays, Transistors",Book,http://www.amazon.com/dp/1449333893/,3,3
+KMASHI 10000mAh Portable Power Bank with Dual USB Ports 3.1A Output and 2A Input - Black,Wireless,http://www.amazon.com/dp/B00JM59JPG/,41,3
+"Elegoo 37-in-1 Sensor Module Kit for Arduino UNO R3, MEGA, NANO",Personal Computer,http://www.amazon.com/dp/B009OVGKTQ/,4,3
+Tolako 5v Relay Module for Arduino ARM PIC AVR MCU 5V Indicator Light LED 1 Channel Relay Module Works with Official Arduino Boards,Personal Computer,http://www.amazon.com/dp/B00VRUAHLE/,6,3
+SunFounder Project Super Starter Kit with Tutorial Book for Arduino UNO R3 Mega2560 Mega328 Nano (Super Starter Kit) - Including 73 Page Instructions Book,PC Accessory,http://www.amazon.com/dp/B00D9M4BQU/,6,2
+Make: Electronics (Learning by Discovery),Book,http://www.amazon.com/dp/0596153740/,21,2
+EMY 5 X HC-SR501 Adjust Ir Pyroelectric Infrared PIR Motion Sensor Detector Modules,Photography,http://www.amazon.com/dp/B00FDPO9B8/,4,2
+Arduino Arduino Uno Ultimate Starter Kit + LCD Module -- Includes 72 page Instruction Book,PC Accessory,http://www.amazon.com/dp/B00HI0RYJK/,2,2
+HKBAYI 4M 5V 60Leds/M 240pixels programmable WS2812B RGB 5050 LED strip Individually addressable dream color Waterproof IP67 PCB Black,Musical Instruments,http://www.amazon.com/dp/B00K7UHPEC/,3,2
+Programming Arduino Getting Started with Sketches,Book,http://www.amazon.com/dp/0071784225/,2,2
+"Plano Molding 1363 Stow N Go Toolbox, Graphite Gray and Sandstone",Home Improvement,http://www.amazon.com/dp/B001TH8P1E/,6,2
+Aven 17010 Adjustable Circuit Board Holder,BISS Basic,http://www.amazon.com/dp/B00Q2TTQEE/,4,2
+JBtek 4 Channel DC 5V Relay Module for Arduino Raspberry Pi DSP AVR PIC ARM,Personal Computer,http://www.amazon.com/dp/B00KTEN3TM/,8,2
+Stahl Tools SSVT Variable Temperature Soldering Station,Home Improvement,http://www.amazon.com/dp/B0029N70WM/,12,2
+uxcell DC 12V Open Frame Type Solenoid for Electric Door Lock,Home Improvement,http://www.amazon.com/dp/B005FOTJF8/,3,2
+The Art of Electronics,Book,http://www.amazon.com/dp/0521809266/,36,2
+NodeMcu Lua ESP8266 CH340G Wireless WIFI Internet Development Board Module,PC Accessory,http://www.amazon.com/dp/B01KC7QG4O/,2,2
+Elegoo Mega 2560 Project The Most Complete Ultimate Starter Kit w/ TUTORIAL for Arduino Mega2560 UNO Nano,BISS Basic,http://www.amazon.com/dp/B01EWNUUUA/,4,2
+"Practical Electronics for Inventors, Fourth Edition",Book,http://www.amazon.com/dp/1259587541/,16,2
+"Zevro KCH-06114/GAT100 Indispensable Dry Food Dispenser, Single Control, Black/Chrome",Kitchen,http://www.amazon.com/dp/B00013K8O4/,2,2
+Makermotor 10mm 2-flat Shaft 12V DC Reversible Electric Gear Motor 100 RPM,BISS,http://www.amazon.com/dp/B011AQCDLG/,2,2
+XKTTSUEERCRR 5V 8A Power Supply Adapter Charger for 5050 WS2811 LED Strip Light,Home Improvement,http://www.amazon.com/dp/B00MOAR0M0/,2,2
+Smraza UNO Project Basic Starter Kit with UNO R3 1602 LCD and Tutorials for Arduino Mega2560 Nano,PC Accessory,http://www.amazon.com/dp/B01HRFG6BM/,2,2
+Ardokit Smart Robot Car Chassis Kit Speed Encoder Battery Box For Arduino,Personal Computer,http://www.amazon.com/dp/B00K5OWHXO/,3,2
+"4.5"" E-paper Shield for Arduino/pcDuino",Single Detail Page Misc,http://www.amazon.com/dp/B00KRJMRH8/,2,2
+Stepper Motor Nema 17 Bipolar 40mm 64oz.in(45Ncm) 2A 4 Lead 3D Printer Hobby CNC,Photography,http://www.amazon.com/dp/B00PNEQI7W/,4,2
+Qunqi L298N Motor Drive Controller Board Module Dual H Bridge DC Stepper For Arduino,Home Improvement,http://www.amazon.com/dp/B014KMHSW6/,3,2
+"Electronix Express 0603DZ99 Soldering Station, Features Continuously Variable, Power Between 110-130V, 1.5 mm Pointed Tip",BISS,http://www.amazon.com/dp/B00IOVN0SQ/,3,2
+"C Programming Language, 2nd Edition",Book,http://www.amazon.com/dp/0131103628/,109,2
+Motor Drive Controller Board Module L298N Dual H Bridge DC Stepper For Arduino,Home Improvement,http://www.amazon.com/dp/B00HNHUYSG/,2,2
+Plano Molding 974 StowAway Organizer Rack,Home Improvement,http://www.amazon.com/dp/B000CRHD6K/,3,2
+40x1 Pin 2.54 mm Single Row (L 11MM) Male Header 1 Pack,PC Accessory,http://www.amazon.com/dp/B00FR19WQA/,4,2
+"SunFounder 2 pcs Ultrasonic Module HC-SR04 Distance Sensor for Arduino UNO MEGA R3 Mega2560 Duemilanove Nano Robot Rapsberry Pi 3, 2 & RPi Model B+ XBee ZigBee",PC Accessory,http://www.amazon.com/dp/B00E0NXTJW/,2,2
+Estone New Version Pro Mini Module Atmega328 5v 16m for Arduino Compatible,PC Accessory,http://www.amazon.com/dp/B00GLES8BW/,2,2
+Water Solenoid Valve,BISS,http://www.amazon.com/dp/B00K0TKJCU/,2,2
+Hot ! Thunbird New 12v 4 Channel Wireless Remote Control Receiver Momentary Switch,Home Improvement,http://www.amazon.com/dp/B00BQ842DG/,3,2
+Make: Electronics: Learning Through Discovery,Book,http://www.amazon.com/dp/1680450263/,12,2
+"Anker PowerCore+ mini, 3350mAh Lipstick-Sized Portable Charger (3rd Generation, Premium Aluminum Power Bank), One of the Most Compact External Batteries",Wireless,http://www.amazon.com/dp/B005X1Y7I2/,101,2
+"Akro-Mils 10124 24 Drawer Plastic Parts Storage Hardware and Craft Cabinet, 20-Inch x 16-Inch x 6.5-Inch, Black",Home Improvement,http://www.amazon.com/dp/B003TV3NL0/,18,2
+SainSmart HC-SR04 Ranging Detector Mod Distance Sensor (Blue),Wireless,http://www.amazon.com/dp/B004U8TOE6/,4,2
+"Leadingstar GEN09015 Plastic Flexible Water Oil Coolant Pipe Hose, 6-Pack",Home Improvement,http://www.amazon.com/dp/B008O14864/,6,2
+Vilros Uno Ultimate + Ethernet Starter Kit -- Includes 72 Page Instruction Book,Personal Computer,http://www.amazon.com/dp/B00D48SFRA/,2,2
+Addicore 10 Pack LM317T Adjustable 2.2-37V LM317 Voltage Regulator in Antistatic Foam,Speakers,http://www.amazon.com/dp/B00K38NMVI/,2,2
+SainSmart 4-Channel Relay Module,Wireless,http://www.amazon.com/dp/B0057OC5O8/,8,2
+SE MZ101B Helping Hand with Magnifying Glass,Home Improvement,http://www.amazon.com/dp/B000RB38X8/,45,1
+Battery Tender 081-0069-6 Ring Terminal Harness with Black Fused 2-Pin Quick Disconnect Plug,Automotive Parts and Accessories,http://www.amazon.com/dp/B000NCOKZQ/,21,1
+Arctic Star AR550 Mini Infrared Thermometer,Home Improvement,http://www.amazon.com/dp/B000MX5Y9C/,8,1
+Foundations of Analog and Digital Electronic Circuits (The Morgan Kaufmann Series in Computer Architecture and Design),Book,http://www.amazon.com/dp/1558607358/,3,1
+Code: The Hidden Language of Computer Hardware and Software,Book,http://www.amazon.com/dp/0735611319/,158,1
+Mastech MS8268 Series Digital AC/DC Auto/Manual Range Digital Multimeter,Home Improvement,http://www.amazon.com/dp/B000JQ4O2U/,9,1
+Tamiya Male and Female Plug Set M/F 150mm by Venom,Hobby,http://www.amazon.com/dp/B000HKEVH6/,1,1
+Talking Toilet Paper Spindle,Toy,http://www.amazon.com/dp/B000G82KI6/,1,1
+Make: Arduino Bots and Gadgets: Six Embedded Projects with Open Source Hardware and Software (Learning by Discovery),Book,http://www.amazon.com/dp/1449389716/,1,1
+"Digital Design and Computer Architecture, Second Edition",Book,http://www.amazon.com/dp/0123944244/,22,1
+020590 Flambeau Hip Roof Box 2059 20in.X11.65in.X10.64in,Sports,http://www.amazon.com/dp/B000EDPS3C/,2,1
+Plano 1364-00 4-BY 3600 Stowaway Rack System,Sports,http://www.amazon.com/dp/B000E3FKTE/,1,1
+"Arduino Cookbook, 2nd Edition",Book,http://www.amazon.com/dp/1449313876/,2,1
+"Ideal Industries Reflex Premium T-Stripper Wire Stripper, T-7, 22-30 AWG Solid Wire, 24-32 AWG Stranded Wire",BISS,http://www.amazon.com/dp/B000B61EOE/,1,1
+"PanaVise Model 201 ""Junior"" Miniature Vise",BISS Basic,http://www.amazon.com/dp/B000B61D22/,10,1
+"Theory of Applied Robotics: Kinematics, Dynamics, and Control (2nd Edition)",Book,http://www.amazon.com/dp/1441917497/,2,1
+Lee Electronic 5 Mortise Type Electric Door Strike,Home Improvement,http://www.amazon.com/dp/B003TN1HAM/,1,1
+"Hammond 1591MBK Black Flame Retardant ABS Plastic Project Box -- Inches (3.3"" x 2.2"" x 0.8"") mm (85mm x 56mm x 21mm)",Home Improvement,http://www.amazon.com/dp/B003A67F90/,1,1
+Weller WESD51 Digital Soldering Station,Home Improvement,http://www.amazon.com/dp/B000ARU9PO/,12,1
+Building Your Own Electronics Lab: A Guide to Setting Up Your Own Gadget Workshop (Technology in Action),Book,http://www.amazon.com/dp/1430243864/,1,1
+"Head First Java, 2nd Edition",Book,http://www.amazon.com/dp/0596009208/,54,1
+Fundamentals of Electric Circuits,Book,http://www.amazon.com/dp/0073380571/,9,1
+"Cables Unlimited UTP-1800-50W UltraFlat Cat6 Patch Cables (50 feet, White)",CE,http://www.amazon.com/dp/B0007QQJX4/,1,1
 Striker Hand Tools 00-108 Parking Attendant Garage Parking Sensor,Boost,http://www.amazon.com/dp/B002WV8F6Q/,1,1
-Enclosed AC/DC Power Relay with Protection & De-Bounce. Screw Terminals. 120V Trigger Input.,CE,http://www.amazon.com/dp/B017743I7S/,1,1
-"PANASONIC EW SP2-P-DC5V POWER RELAY, 5VDC, 15A, DPDT, PCB",BISS,http://www.amazon.com/dp/B00HPLGLZK/,1,1
-4x Wii/Gamecube Extension Cables,Video Games,http://www.amazon.com/dp/B001AI7CF2/,1,1
-16 Channel PWM/Servo Driver IIC interface-PCA9685 for arduino or Raspberry pi shield module servo shield,PC Accessory,http://www.amazon.com/dp/B01D9VNXEQ/,1,1
-Castle Creations CC Bec Pro 20A 12S Switching Regulator,Hobby,http://www.amazon.com/dp/B002ITEL42/,1,1
-Tattu LiPo Battery Pack 1550mAh 14.8V 45C 4S with XT60 Plug for RC Boat Truck Heli Airplane UAV Drones FPV,Toy,http://www.amazon.com/dp/B013I9S89E/,1,1
-uxcell® DC 3.3-5.5V DS3231 High Precision Real-Time Clock Module for MCU,PC Accessory,http://www.amazon.com/dp/B00HR8LDGS/,1,1
-ALITOVE 5V 15A AC to DC Power Supply Adapter Transformer Converter Charger 5.5x2.1mm Plug 100V-240V AC Input For WS2811 2801 WS2812B LED Strip Pixel Light,PC Accessory,http://www.amazon.com/dp/B01LXN7MN3/,1,1
-Estes Model Rocket Igniters (Pack of 6),BISS,http://www.amazon.com/dp/B009EZS08G/,1,1
-SainSmart MEGA Sensor Shield V2 for Arduino UNO MEGA1280 MEGA2560 MEGA2560 R3,BISS,http://www.amazon.com/dp/B007PABRNM/,1,1
-"Universal Regulated Switching Power Supply 5V 20A 100W for LED Strip Light, CCTV, Radio, Computer Project",Personal Computer,http://www.amazon.com/dp/B01D8ER6QK/,1,1
-"Dr.meter 30V/5A Single-Output DC Power Supply 110V/220V Switchable with Alligator Clip included, US 3-prong Cable,PS305DM",BISS,http://www.amazon.com/dp/B00O8DJ8QC/,1,1
-VOVOV 200 Pack Small Clear 6mm (Dia) X 2mm (H) Round Cabinet and Furniture Bumpers - 100 Pack + 100Pack 8mm (Dia) X 1.5mm (H),Home Improvement,http://www.amazon.com/dp/B016GXAZOA/,1,1
+"SE 87322DB 26 Compartment Plastic Storage Box with Adjustable Sections, 18"" x 12"" x 3""/Large, Black/Yellow/Clear",Home Improvement,http://www.amazon.com/dp/B002UZZ06M/,3,1
+"Rubbermaid Commercial Brute Rollout Container, Square, Plastic, 50 Gallons, Gray (9W27GY)",BISS Basic,http://www.amazon.com/dp/B0007845JC/,2,1
 Microcontrollers: From Assembly Language to C Using the PIC24 Family,Book,http://www.amazon.com/dp/1305076559/,1,1
-Radio Shack Electronics Learning Lab Kit 20-055,Toy,http://www.amazon.com/dp/B00GYYEL8I/,1,1
-"Leviton 88014 1-Gang No Device Blank Wallplate, Standard Size, Thermoset, Box Mount, White",Home Improvement,http://www.amazon.com/dp/B00002NAQZ/,1,1
-Keyestudio Desktop Bluetooth Mini Smart Car 4WD L298P motor driver Robot Car Assembly Kit for Arduino,BISS,http://www.amazon.com/dp/B01EY75RE8/,1,1
-Water Flow Sensor Flowmeter Hall Flow Sensor Water control 1-30L/min by Generic,Industrial & Scientific,https://www.amazon.com/gp/product/B00ENA0M7E/ref=pd_sim_328_2?ie=UTF8&amp;pd_rd_i=B00ENA0M7E&amp;pd_rd_r=2V85HBBPYN3KQP3HTG51&amp;pd_rd_w=bHHvX&amp;pd_rd_wg=eSMJA&amp;psc=1&amp;refRID=2V85HBBPYN3KQP3HTG51,1,1
-HKBAYI 4M 5V 60Leds/M 240pixels programmable WS2812B RGB 5050 LED strip Individually addressable dream color Waterproof IP67 PCB Black,Musical Instruments,http://www.amazon.com/dp/B00K7UHPEC/,1,1
-SODIAL(R) WST Motor Smart Robot Car Chassis Kit Speed Encoder Battery Box,Toys & Games,https://www.amazon.com/SainSmart-Smart-Chassis-Tracing-Encoder/dp/B00NDXEUM0/ref=sr_1_3?ie=UTF8&amp;qid=1449733409&amp;sr=8-3&amp;keywords=smart+chassis,1,1
-AVR Programming: Learning to Write Software for Hardware,Book,http://www.amazon.com/dp/1449355781/,1,1
-"Encyclopedia of Electronic Components Volume 1: Resistors, Capacitors, Inductors, Switches, Encoders, Relays, Transistors",Book,http://www.amazon.com/dp/1449333893/,1,1
-"ALLPOWERS 18V 5W Portable Solar Car Battery Charger Bundle with Cigarette Lighter Plug, Battery Charging Clip Line, Suction Cups & Manual",Automotive Parts and Accessories,http://www.amazon.com/dp/B00QRHDIPY/,1,1
-Solar Controller 10a 12v/24v Solar Charge Controller Yueton Solar Panel Battery Regulator Safe Protection,Lawn & Patio,http://www.amazon.com/dp/B010FNO9NU/,1,1
 "Jonard ST-450 ABS Adjustable Precision Wire Stripper, 26-36 AWG, 3-57/64"" Length x 1-19/32"" Height x 19/32"" Thickness",BISS,http://www.amazon.com/dp/B0032QZMWA/,1,1
-"Smraza Ultimate UNO Project Starter Kit with Stepper Motor, Servo Motor, UNO R3 Board and Ultrasonic Sensor for Arduino UNO R3 Mega2560 NANO(26 Projects)",PC Accessory,http://www.amazon.com/dp/B01L0ZL8N6/,1,1
-"Cloud b Twilight Constellation Night Light, Lady Bug",Baby,https://www.amazon.com//dp/B000VZKGYY,1,1
-Water & Wood 325 pcs New Flexible Solderless Breadboard Jumper Cable Wires Kits for Arduino Male To Male,Speakers,http://www.amazon.com/dp/B00KTXX6N6/,1,1
-"CIRCUIT-TEST Preformed Breadboard Jumper Wire Kit - Assorted Colors, 350 Pcs",BISS,http://www.amazon.com/dp/B008MOLG04/,1,1
-ExpertPower 12V 1.3 Amp Rechargeable Battery ( Not a Replacement for WP3-12),Automotive Parts and Accessories,http://www.amazon.com/dp/B00KC399SY/,1,1
-Klein Tools 11057 Wire Stripper and Cutter for 20-30 AWG Solid Wire and 22-32 AWG Stranded Wire,Home Improvement,http://www.amazon.com/dp/B000XEUPMQ/,1,1
-Qunqi L298N Motor Drive Controller Board Module Dual H Bridge DC Stepper For Arduino,Home Improvement,http://www.amazon.com/dp/B014KMHSW6/,1,1
-VEX Motor Controller 29,Toy,http://www.amazon.com/dp/B00COH6YYS/,1,1
-"Cooler Master SickleFlow 120 - Sleeve Bearing 120mm Silent Fan for Computer Cases, CPU Coolers, and Radiators (Smoke Color)",CE,http://www.amazon.com/dp/B0026ZPFDE/,1,1
-"Officemate PVC-Free Color Coated Paper Clips, #2, 800 per Reusable Plastic Organizer with 8 Compartments (97228)",Office Product,http://www.amazon.com/dp/B0040FKXIA/,1,1
-Mini Drill 15Pc Set High Speed Steel Twist Drills Bits Dremel Jobbers 0.3-1.00mm,BISS,http://www.amazon.com/dp/B00A7H1014/,1,1
-"Tactix 320020 4-in-1 Plastic Tool Organizer Set, Black/Orange",Home Improvement,http://www.amazon.com/dp/B008VOGV0A/,1,1
-"SB300 Solderable PC BreadBoard, 1 Sided PCB, matches 300 tie-point breadboards, 1.20 x 3.00 in (30.5 x 76.2 mm)",BISS,http://www.amazon.com/dp/B0040Z6OK6/,1,1
-Elegoo 8 Channel DC 5V Relay Module with Optocoupler for Arduino UNO R3 MEGA 2560 1280 DSP ARM PIC AVR STM32 Raspberry Pi,Automotive Parts and Accessories,http://www.amazon.com/dp/B01HCFJC0Y/,1,1
-Smraza UNO Project Basic Starter Kit with UNO R3 1602 LCD and Tutorials for Arduino Mega2560 Nano,PC Accessory,http://www.amazon.com/dp/B01HRFG6BM/,1,1
-Aoyue 968A+ SMD Digital Hot Air Rework Station,Home Improvement,http://www.amazon.com/dp/B006FA481G/,1,1
-SainSmart HC-SR04 Ranging Detector Mod Distance Sensor (Blue),Wireless,http://www.amazon.com/dp/B004U8TOE6/,1,1
-Mini Nano V3.0 ATmega328P Microcontroller Board w/USB Cable For Arduino,CE,http://www.amazon.com/dp/B00NLAMS9C/,1,1
-2 Pack HC-SR04 Ultrasonic Distance Measuring Sensor Module Compatible Arduino UNO Mega R3 Mega2560 Duemilanove Nano Robot,Speakers,http://www.amazon.com/dp/B01M13S26V/,1,1
-IEIK UNO R3 Board ATmega328P with USB Cable for Arduino - Compatible With Arduino UNO R3 Mega 2560 Nano Robot,Personal Computer,http://www.amazon.com/dp/B00P2FX9WY/,1,1
-37mm 12V DC 1000RPM Replacement Torque Gear Box Motor,BISS,http://www.amazon.com/dp/B00RGH9EJ8/,1,1
-"Zevro KCH-06114/GAT100 Indispensable Dry Food Dispenser, Single Control, Black/Chrome",Kitchen,http://www.amazon.com/dp/B00013K8O4/,1,1
-Estone New Version Pro Mini Module Atmega328 5v 16m for Arduino Compatible,PC Accessory,http://www.amazon.com/dp/B00GLES8BW/,1,1
-uxcell 12VDC 1000RPM Speed Reducer High Torque Magnetic Gear Box Motor,Home Improvement,http://www.amazon.com/dp/B00G9IV5P6/,1,1
-"EMO Smart Robot Car Chassis Kit with Motors, Speed Encoder and Battery Box for DIY",BISS,http://www.amazon.com/dp/B01LXY7CM3/,1,1
+Johnson Controls Digital Thermostat Control Unit - A419ABG-3C,Kitchen,http://www.amazon.com/dp/B00368D6JA/,13,1
+TEC1-12706 Thermoelectric Peltier Cooler 12 Volt 92 Watt,PC Accessory,http://www.amazon.com/dp/B002UQQ3Q2/,7,1
+"LyonsBlue Desoldering Vacuum Pump ""Solder Sucker"" Solder Removal Tool",Home Improvement,http://www.amazon.com/dp/B003FHYL7I/,10,1
+T.J. Wisemen Remote Control Fart Machine No. 2 Funny Gag Gift Joke Prank,Toy,http://www.amazon.com/dp/B002R9DQQ2/,1,1
+"Kester 83-4000-0000 SN60PB40 Solder Pocket Pack, 0.031"" Wire Diameter",BISS,http://www.amazon.com/dp/B00068IJNQ/,12,1
+Valley Enterprises® 2.1mm x 5.5mm Male CCTV Power Plug Adapter 10 Pack,Photography,http://www.amazon.com/dp/B002QWNZHU/,1,1
+Castle Creations CC Bec Pro 20A 12S Switching Regulator,Hobby,http://www.amazon.com/dp/B002ITEL42/,1,1

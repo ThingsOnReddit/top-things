@@ -1,23 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Haven (Origo Book 1),eBooks,http://www.amazon.com/dp/B00HUL19YI/,,1
-wild irises,eBooks,http://www.amazon.com/dp/B01LBOJBP8/,,1
-A Fire Upon The Deep (Zones of Thought series Book 1),eBooks,http://www.amazon.com/dp/B000FBJAGO/,,1
-The Player of Games (A Culture Novel Book 2),eBooks,http://www.amazon.com/dp/B002WM3HC2/,,1
-Startide Rising (Uplift Trilogy Book 2),eBooks,http://www.amazon.com/dp/B0036S49KU/,,1
-Wool Omnibus Edition [Kindle in Motion] (Silo series Book 1),eBooks,http://www.amazon.com/dp/B0071XO8RA/,11,1
-Lucifer's Hammer,Book,http://www.amazon.com/dp/0449208133/,10,1
-A Brief History of Time,Book,http://www.amazon.com/dp/0553380168/,9,1
-The Three-Body Problem,Book,http://www.amazon.com/dp/0765382032/,6,1
-Kenobi: Star Wars Legends,Book,http://www.amazon.com/dp/0345546849/,5,1
-Cowboy Bebop: The Complete Series [Blu-ray],DVD,http://www.amazon.com/dp/B00NP06DJE/,4,1
-Gateway (Heechee Saga),Book,http://www.amazon.com/dp/0345475836/,4,1
-The Atrocity Archives (Laundry Files Book 1),eBooks,http://www.amazon.com/dp/B000OIZUIA/,3,1
-Downbelow Station (Company Wars Book 1),eBooks,http://www.amazon.com/dp/B00HFXK6KE/,3,1
-Revelation Space,Book,http://www.amazon.com/dp/0441009425/,2,1
-Astral Fall,eBooks,http://www.amazon.com/dp/B01D30K6AW/,2,1
-Earth Abides,Book,http://www.amazon.com/dp/0345487133/,2,1
-The Dark Beyond the Stars: A Novel,Book,http://www.amazon.com/dp/0312866240/,2,1
-The Empire of a Thousand Planets (Valerian),Book,http://www.amazon.com/dp/1849180873/,1,1
-"To Your Scattered Bodies Go (Riverworld Saga, Book 1)",Book,http://www.amazon.com/dp/0345419677/,1,1
+Astral Fall,eBooks,http://www.amazon.com/dp/B01D30K6AW/,9,3
+Cowboy Bebop: The Complete Series [Blu-ray],DVD,http://www.amazon.com/dp/B00NP06DJE/,17,2
+Westworld,Book,http://www.amazon.com/dp/0553084410/,8,2
+Haven (Origo Book 1),eBooks,http://www.amazon.com/dp/B00HUL19YI/,6,2
+Wool Omnibus Edition [Kindle in Motion] (Silo series Book 1),eBooks,http://www.amazon.com/dp/B0071XO8RA/,53,2
+"To Your Scattered Bodies Go (Riverworld Saga, Book 1)",Book,http://www.amazon.com/dp/0345419677/,5,1
+Trading in Danger (Vatta's War),Book,http://www.amazon.com/dp/0345447611/,2,1
+Gateway (Heechee Saga),Book,http://www.amazon.com/dp/0345475836/,6,1
+Earth Abides,Book,http://www.amazon.com/dp/0345487133/,5,1
+Death Troopers (Star Wars) (Star Wars - Legends),Book,http://www.amazon.com/dp/0345520815/,3,1
+Tuf Voyaging,Book,http://www.amazon.com/dp/0345537998/,5,1
+Kenobi: Star Wars Legends,Book,http://www.amazon.com/dp/0345546849/,8,1
+100 Great Science Fiction Short Short Stories,Book,http://www.amazon.com/dp/0380507730/,3,1
+Moonrise,Book,http://www.amazon.com/dp/0380973022/,1,1
+"Isaac Asimov: The Complete Stories, Vol. 1",Book,http://www.amazon.com/dp/038541627X/,2,1
 The Random House Book of Humor for Children,Book,http://www.amazon.com/dp/0394880498/,1,1
-World Out of Mind (Doubleday Science Fiction),Books,https://www.amazon.com/World-MIntosh-Murdoch-MacGregor-McIntosh/dp/B000GVWWSQ,1,1
+"Feminism Without Women: Culture and Criticism in a ""Postfeminist"" Age (Japanese Studies)",Book,http://www.amazon.com/dp/041590417X/,1,1
+The Hercules Text,Book,http://www.amazon.com/dp/0425276015/,2,1
+Revelation Space,Book,http://www.amazon.com/dp/0441009425/,5,1
+Halting State (Ace Science Fiction),Book,http://www.amazon.com/dp/0441016073/,2,1
+Heavy Time,Book,http://www.amazon.com/dp/0446362239/,1,1
+Lucifer's Hammer,Book,http://www.amazon.com/dp/0449208133/,15,1
+Stinker from Space,Book,http://www.amazon.com/dp/0449703304/,1,1
+Into the Storm (Destroyermen),Book,http://www.amazon.com/dp/0451462378/,5,1
+Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World,Book,http://www.amazon.com/dp/0544236041/,2,1
+Foundation,Book,http://www.amazon.com/dp/0553293354/,6,1
+A Brief History of Time,Book,http://www.amazon.com/dp/0553380168/,20,1
+"Rats, Bats & Vats",Book,http://www.amazon.com/dp/0671318284/,1,1
+BLUEPRINTS: STAR TREK: NEXT GENERATION NCC-1701-D (Star Trek: The Next Generation),Book,http://www.amazon.com/dp/0671500937/,5,1
+008: New Destinies Volume 8: Fall 1989,Book,http://www.amazon.com/dp/0671698397/,1,1
+Buying Time,Book,http://www.amazon.com/dp/0688072445/,1,1
+The Prince,Book,http://www.amazon.com/dp/0743435567/,1,1
+Feed,Book,http://www.amazon.com/dp/0763662623/,8,1
+Shipstar: A Science Fiction Novel,Book,http://www.amazon.com/dp/0765328704/,1,1
+All the Birds in the Sky,Book,http://www.amazon.com/dp/0765379945/,2,1
+The Three-Body Problem,Book,http://www.amazon.com/dp/0765382032/,11,1
+"John Carter, Warlord of Mars Omnibus",Book,http://www.amazon.com/dp/0785159908/,1,1
+Blueprints of the Afterlife,Book,http://www.amazon.com/dp/0802170919/,1,1
+Past Times,Book,http://www.amazon.com/dp/0812530810/,1,1
+Usborne Book of the Future,Book,http://www.amazon.com/dp/0860202909/,1,1
+"Black Sun Rising (The Coldfire Trilogy, Book 1)",Book,http://www.amazon.com/dp/0886775272/,3,1
+Barlowe's Guide to Extraterrestrials,Book,http://www.amazon.com/dp/0894805002/,1,1
+Tusk (The Sol Protocol) (Volume 1),Book,http://www.amazon.com/dp/0993582303/,1,1
+The High Crusade,Book,http://www.amazon.com/dp/1439133778/,2,1
+Armored,Book,http://www.amazon.com/dp/1451638175/,2,1
+Terms of Enlistment (Frontlines),Book,http://www.amazon.com/dp/1477809783/,5,1
+Mappa Mundi,Book,http://www.amazon.com/dp/1591024919/,1,1
+Tuf Voyaging,Book,http://www.amazon.com/dp/1592220053/,1,1
+Dark Intelligence: Transformation Book One,Book,http://www.amazon.com/dp/1597808245/,2,1
+"Amazing Stories, May 1986. 60th Anniversary Issue (Volume 61, No. 1)",Book,http://www.amazon.com/dp/1773486055/,1,1
+"Eisenhorn (A Warhammer 40,000 Omnibus)",Book,http://www.amazon.com/dp/1844161560/,15,1
+"The Soul Drinkers Omnibus (Warhammer 40,000 Novels)",Book,http://www.amazon.com/dp/1844164160/,1,1
+The First Heretic (Horus Heresy),Book,http://www.amazon.com/dp/1844168859/,2,1
+Hardware: The Definitive SF Works of Chris Foss,Book,http://www.amazon.com/dp/1848566980/,2,1
+The Empire of a Thousand Planets (Valerian),Book,http://www.amazon.com/dp/1849180873/,2,1
+Horus Rising (The Horus Heresy),Book,http://www.amazon.com/dp/1849707448/,7,1
+From These Ashes: The Complete Short SF (Science Fiction) of Fredric Brown,Book,http://www.amazon.com/dp/1886778183/,1,1
+Stories of Your Life and Others,Book,http://www.amazon.com/dp/1931520720/,22,1
+"Rule 34 (Halting State, Book 2)",Book,http://www.amazon.com/dp/1937007669/,1,1
+Mission Mars: Building Red,Book,http://www.amazon.com/dp/1940442079/,1,1
+The Invincible,Book,http://www.amazon.com/dp/8363471488/,1,1
+A Fire Upon The Deep (Zones of Thought series Book 1),eBooks,http://www.amazon.com/dp/B000FBJAGO/,1,1
+The Atrocity Archives (Laundry Files Book 1),eBooks,http://www.amazon.com/dp/B000OIZUIA/,5,1
+Masters Of Science Fiction,DVD,http://www.amazon.com/dp/B001A7GOCA/,1,1
+Ubik,Audible,http://www.amazon.com/dp/B001EPO4XY/,1,1
+The Player of Games (A Culture Novel Book 2),eBooks,http://www.amazon.com/dp/B002WM3HC2/,3,1
+Startide Rising (Uplift Trilogy Book 2),eBooks,http://www.amazon.com/dp/B0036S49KU/,1,1
+Sarah Jane Adventures Season 1,TV Series Season Video on Demand,http://www.amazon.com/dp/B00412BY6W/,1,1
+Lentara,eBooks,http://www.amazon.com/dp/B004HFS2VS/,1,1
+The Man Who Folded Himself,eBooks,http://www.amazon.com/dp/B004KPLWHQ/,1,1
+The Legacy of Heorot (Heorot series Book 1),eBooks,http://www.amazon.com/dp/B004Q9TC8C/,1,1
+Dragonsbane (Winterlands Book 1),eBooks,http://www.amazon.com/dp/B004TC149G/,4,1
+The Warrior's Apprentice (Vorkosigan Saga),eBooks,http://www.amazon.com/dp/B005DNGSUU/,4,1
+Robotech: The Macross Saga [DVD],DVD,http://www.amazon.com/dp/B005DTGAW0/,1,1
+A Door Into Ocean (Elysium Cycle),eBooks,http://www.amazon.com/dp/B005G4A94W/,1,1
+The Vor Game (Vorkosigan Saga),eBooks,http://www.amazon.com/dp/B005O2WQ60/,2,1
+Brothers in Arms (Vorkosigan Saga),eBooks,http://www.amazon.com/dp/B005S4FLCK/,1,1
+"The Twelve Stones (The Twelve Stones, Book 1)",eBooks,http://www.amazon.com/dp/B0070CSKE4/,1,1
+"THE MAHABHARATA: A Modern Rendering, Vol 1",eBooks,http://www.amazon.com/dp/B007G47QWI/,1,1
+LEGO Star Wars 9500 Sith Fury-class Interceptor,Toy,http://www.amazon.com/dp/B007Q0OV4I/,1,1
+Quarter Share (Trader's Tales from the Golden Age of the Solar Clipper Book 1),eBooks,http://www.amazon.com/dp/B00AMO7VM4/,5,1
+Indie & Small Press Book Marketing,eBooks,http://www.amazon.com/dp/B00AOOXZ9K/,3,1
+To Live Again and The Second Trip: The Complete Novels,eBooks,http://www.amazon.com/dp/B00CHW6C2E/,1,1
+Ascension: A Tangled Axon Novel,eBooks,http://www.amazon.com/dp/B00E40MX70/,1,1
+Diaspora,eBooks,http://www.amazon.com/dp/B00E83YOEI/,1,1
+"""All You Zombies—"": Five Classic Stories by Robert A. Heinlein",eBooks,http://www.amazon.com/dp/B00EIK1VCE/,1,1
+Downbelow Station (Company Wars Book 1),eBooks,http://www.amazon.com/dp/B00HFXK6KE/,5,1
+The Invincible,eBooks,http://www.amazon.com/dp/B00ILGUJEM/,4,1
+Space Battleship Yamato (English Dubbed),Movie,http://www.amazon.com/dp/B00K0CQ4QW/,1,1
+Date Night on Union Station (EarthCent Ambassador Book 1),eBooks,http://www.amazon.com/dp/B00K4I391A/,1,1
+As You Wish: Inconceivable Tales from the Making of The Princess Bride,Audible,http://www.amazon.com/dp/B00NLKFVRS/,2,1
+"The Beast and the Cricket: Paragon Volume 1, Issue 1",eBooks,http://www.amazon.com/dp/B00NUGXWLK/,1,1
+No Such Thing As Werewolves: Deathless Book 1,eBooks,http://www.amazon.com/dp/B00OX6IZ8G/,9,1
+Super Sentai Zyuranger,DVD,http://www.amazon.com/dp/B00P9UVC0I/,5,1
+The New World,TV Series Episode Video on Demand,http://www.amazon.com/dp/B00RSI6NKS/,2,1
+The End of All Things (Old Man's War Book 6),eBooks,http://www.amazon.com/dp/B00SEPVPAW/,2,1
+Nexus (The Nexus Trilogy Book 1),eBooks,http://www.amazon.com/dp/B00TOZI7FM/,4,1
+The Shell,eBooks,http://www.amazon.com/dp/B00W08JGXC/,2,1
+Americosis Vol. 1,eBooks,http://www.amazon.com/dp/B011D804GW/,13,1
+Split Second,eBooks,http://www.amazon.com/dp/B014TE4FUS/,2,1

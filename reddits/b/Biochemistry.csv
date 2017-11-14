@@ -1,45 +1,52 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-The Idea Factory: Bell Labs and the Great Age of American Innovation,eBooks,http://www.amazon.com/dp/B005GSZIWG/,,1
-"Thinking, Fast and Slow",Book,http://www.amazon.com/dp/0374533555/,35,1
-"Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions",Book,http://www.amazon.com/dp/0061353248/,18,1
-A Short History of Nearly Everything,Book,http://www.amazon.com/dp/076790818X/,18,1
-"Surely You're Joking, Mr. Feynman! (Adventures of a Curious Character)",Book,http://www.amazon.com/dp/0393316041/,16,1
-A Universe from Nothing: Why There Is Something Rather than Nothing,Book,http://www.amazon.com/dp/1451624468/,14,1
-Ready Player One: A Novel,Book,http://www.amazon.com/dp/0307887448/,9,1
-Hyperion (Hyperion Cantos),Book,http://www.amazon.com/dp/0553283685/,8,1
-The Immortal Life of Henrietta Lacks,Book,http://www.amazon.com/dp/1400052181/,7,1
-The Emperor of All Maladies: A Biography of Cancer,Book,http://www.amazon.com/dp/1439170916/,6,1
-The Signal and the Noise: Why So Many Predictions Fail--but Some Don't,Book,http://www.amazon.com/dp/0143125087/,6,1
-Snow Crash,Book,http://www.amazon.com/dp/0553380958/,5,1
-Neuromancer,Book,http://www.amazon.com/dp/0441569595/,5,1
-Ender's Game (The Ender Quintet),Book,http://www.amazon.com/dp/0812550706/,4,1
-Chaos: Making a New Science,Book,http://www.amazon.com/dp/0143113453/,4,1
-"The Alchemy of Air: A Jewish Genius, a Doomed Tycoon, and the Scientific Discovery That Fed the World but Fueled the Rise of Hitler",Book,http://www.amazon.com/dp/0307351793/,4,1
-Lehninger Principles of Biochemistry,Book,http://www.amazon.com/dp/1429234148/,3,1
-The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus,Book,http://www.amazon.com/dp/0385479565/,3,1
-"The Joy of x: A Guided Tour of Math, from One to Infinity",Book,http://www.amazon.com/dp/0544105850/,2,1
-The Machinery of Life,Book,http://www.amazon.com/dp/0387849246/,2,1
-"The Information: A History, A Theory, A Flood",Book,http://www.amazon.com/dp/1400096235/,2,1
-Rabid: A Cultural History of the World's Most Diabolical Virus,Book,http://www.amazon.com/dp/0143123572/,2,1
-Lives of a Cell: Notes of a Biology Watcher,Book,http://www.amazon.com/dp/0140047433/,2,1
-The Half-Life of Facts: Why Everything We Know Has an Expiration Date,Book,http://www.amazon.com/dp/159184651X/,2,1
+Life's Ratchet: How Molecular Machines Extract Order from Chaos,Book,http://www.amazon.com/dp/0465022537/,3,2
+The Machinery of Life,Book,http://www.amazon.com/dp/0387849246/,3,2
+Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves,Book,http://www.amazon.com/dp/0465075703/,2,2
+Molecules and Medicine,Book,http://www.amazon.com/dp/0470227494/,2,2
+Chaos: Making a New Science,Book,http://www.amazon.com/dp/0143113453/,17,1
+Rabid: A Cultural History of the World's Most Diabolical Virus,Book,http://www.amazon.com/dp/0143123572/,6,1
+The Signal and the Noise: Why So Many Predictions Fail--but Some Don't,Book,http://www.amazon.com/dp/0143125087/,13,1
+Flowers for Algernon,Book,http://www.amazon.com/dp/015603008X/,2,1
+An Introduction to Medicinal Chemistry,Book,http://www.amazon.com/dp/0199697396/,1,1
 "Meselson, Stahl, and the Replication of DNA: A History of 'The Most Beautiful Experiment in Biology'",Book,http://www.amazon.com/dp/0300085400/,1,1
-The Double Helix: A Personal Account of the Discovery of the Structure of DNA,Book,http://www.amazon.com/dp/074321630X/,1,1
-"Molecular Cloning: A Laboratory Manual, Third Edition (3 volume set)",Book,http://www.amazon.com/dp/0879695773/,1,1
-"Bad Science: Quacks, Hacks, and Big Pharma Flacks",Book,http://www.amazon.com/dp/0865479186/,1,1
-Foundation,Book,http://www.amazon.com/dp/0553293354/,1,1
-"The Demon Under the Microscope: From Battlefield Hospitals to Nazi Labs, One Doctor's Heroic Search for the World's First Miracle Drug",Book,http://www.amazon.com/dp/1400082145/,1,1
-The Story of Human Language,Book,http://www.amazon.com/dp/1565859472/,1,1
-Flowers for Algernon,Book,http://www.amazon.com/dp/015603008X/,1,1
-The Mysterious Island (Wordsworth Classics),Book,http://www.amazon.com/dp/1840226242/,1,1
-Automate This: How Algorithms Came to Rule Our World,Book,http://www.amazon.com/dp/B00D9T9IQG/,1,1
-Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves,Book,http://www.amazon.com/dp/0465075703/,1,1
-The Panic Virus: The True Story Behind the Vaccine-Autism Controversy,Book,http://www.amazon.com/dp/1439158657/,1,1
+"The Alchemy of Air: A Jewish Genius, a Doomed Tycoon, and the Scientific Discovery That Fed the World but Fueled the Rise of Hitler",Book,http://www.amazon.com/dp/0307351793/,12,1
+Ready Player One: A Novel,Book,http://www.amazon.com/dp/0307887448/,46,1
+"Thinking, Fast and Slow",Book,http://www.amazon.com/dp/0374533555/,118,1
+The Emperor of Scent: A True Story of Perfume and Obsession,Book,http://www.amazon.com/dp/0375759816/,2,1
+The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus,Book,http://www.amazon.com/dp/0385479565/,8,1
+"Surely You're Joking, Mr. Feynman! (Adventures of a Curious Character)",Book,http://www.amazon.com/dp/0393316041/,34,1
+Neuromancer,Book,http://www.amazon.com/dp/0441569595/,19,1
 "Linked: How Everything Is Connected to Everything Else and What It Means for Business, Science, and Everyday Life",Book,http://www.amazon.com/dp/0452284392/,1,1
-Ghost in the Wires: My Adventures As the World's Most Wanted Hacker,Book,http://www.amazon.com/dp/1441793755/,1,1
+What Evolution Is (Science Masters Series),Book,http://www.amazon.com/dp/0465044263/,4,1
+"The Joy of x: A Guided Tour of Math, from One to Infinity",Book,http://www.amazon.com/dp/0544105850/,5,1
+Hyperion (Hyperion Cantos),Book,http://www.amazon.com/dp/0553283685/,18,1
+Foundation,Book,http://www.amazon.com/dp/0553293354/,6,1
+Snow Crash,Book,http://www.amazon.com/dp/0553380958/,25,1
+Ontogeny and Phylogeny,Book,http://www.amazon.com/dp/0674639413/,1,1
+The Double Helix: A Personal Account of the Discovery of the Structure of DNA,Book,http://www.amazon.com/dp/074321630X/,1,1
+A Short History of Nearly Everything,Book,http://www.amazon.com/dp/076790818X/,48,1
+Ender's Game (The Ender Quintet),Book,http://www.amazon.com/dp/0812550706/,11,1
+Enzyme Kinetics and Mechanism,Book,http://www.amazon.com/dp/0815341407/,1,1
+"Bad Science: Quacks, Hacks, and Big Pharma Flacks",Book,http://www.amazon.com/dp/0865479186/,6,1
+"Molecular Cloning: A Laboratory Manual, Third Edition (3 volume set)",Book,http://www.amazon.com/dp/0879695773/,1,1
+Advanced Nutrition and Human Metabolism,Book,http://www.amazon.com/dp/1133104053/,4,1
+The Immortal Life of Henrietta Lacks,Book,http://www.amazon.com/dp/1400052181/,15,1
+"The Demon Under the Microscope: From Battlefield Hospitals to Nazi Labs, One Doctor's Heroic Search for the World's First Miracle Drug",Book,http://www.amazon.com/dp/1400082145/,2,1
+"The Information: A History, A Theory, A Flood",Book,http://www.amazon.com/dp/1400096235/,7,1
+Lehninger Principles of Biochemistry,Book,http://www.amazon.com/dp/1429234148/,4,1
+The Panic Virus: The True Story Behind the Vaccine-Autism Controversy,Book,http://www.amazon.com/dp/1439158657/,1,1
+The Emperor of All Maladies: A Biography of Cancer,Book,http://www.amazon.com/dp/1439170916/,19,1
+Ghost in the Wires: My Adventures As the World's Most Wanted Hacker,Book,http://www.amazon.com/dp/1441793755/,4,1
+A Universe from Nothing: Why There Is Something Rather than Nothing,Book,http://www.amazon.com/dp/1451624468/,58,1
 Sixth Column,Book,http://www.amazon.com/dp/1451638728/,1,1
 The Time Machine,Book,http://www.amazon.com/dp/1453767525/,1,1
-Molecules and Medicine,Book,http://www.amazon.com/dp/0470227494/,1,1
-An Introduction to Medicinal Chemistry,Book,http://www.amazon.com/dp/0199697396/,1,1
-"The Organic Chemistry of Drug Design and Drug Action, Third Edition",Book,http://www.amazon.com/dp/0123820308/,1,1
+The Story of Human Language,Book,http://www.amazon.com/dp/1565859472/,1,1
+The Half-Life of Facts: Why Everything We Know Has an Expiration Date,Book,http://www.amazon.com/dp/159184651X/,3,1
+The Mysterious Island (Wordsworth Classics),Book,http://www.amazon.com/dp/1840226242/,1,1
 The Organic Chemistry of Biological Pathways,Book,http://www.amazon.com/dp/193622156X/,1,1
+The Idea Factory: Bell Labs and the Great Age of American Innovation,eBooks,http://www.amazon.com/dp/B005GSZIWG/,2,1
+"Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions",Book,http://www.amazon.com/dp/0061353248/,44,1
+Automate This: How Algorithms Came to Rule Our World,Book,http://www.amazon.com/dp/B00D9T9IQG/,3,1
+"The Organic Chemistry of Drug Design and Drug Action, Third Edition",Book,http://www.amazon.com/dp/0123820308/,1,1
+Handbook of Systems Biology: Concepts and Insights,Book,http://www.amazon.com/dp/0123859441/,1,1
+Lives of a Cell: Notes of a Biology Watcher,Book,http://www.amazon.com/dp/0140047433/,2,1

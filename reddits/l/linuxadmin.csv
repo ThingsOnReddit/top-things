@@ -1,11 +1,37 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"How Linux Works, 2nd Edition: What Every Superuser Should Know",Book,http://www.amazon.com/dp/1593275676/,3,2
-CompTIA Linux+ Powered by Linux Professional Institute Study Guide: Exam LX0-103 and Exam LX0-104 (Comptia Linux + Study Guide),eBooks,http://www.amazon.com/dp/B00WWQQ3EC/,,1
-"UNIX and Linux System Administration Handbook, 4th Edition",Book,http://www.amazon.com/dp/0131480057/,13,1
-The Linux Command Line: A Complete Introduction,Book,http://www.amazon.com/dp/1593273894/,7,1
-Modern Operating Systems (4th Edition),Book,http://www.amazon.com/dp/013359162X/,6,1
-"UCTRONICS IEEE 802.3af Micro USB Active PoE Splitter Power Over Ethernet 48V to 5V 2.4A for Tablets, Dropcam or Raspberry Pi (48V to 5V 2.4A)",PC Accessory,http://www.amazon.com/dp/B01MDLUSE7/,4,1
-"RHCSA & RHCE Red Hat Enterprise Linux 7: Training and Exam Preparation Guide (EX200 and EX300), Third Edition",Book,http://www.amazon.com/dp/1495148203/,2,1
-CCENT Study Guide: Exam 100-101 (ICND1),Book,http://www.amazon.com/dp/1118749685/,1,1
-Modern Operating Systems (3rd Edition),Book,http://www.amazon.com/dp/0136006639/,1,1
+"UNIX and Linux System Administration Handbook, 4th Edition",Book,http://www.amazon.com/dp/0131480057/,51,6
+"How Linux Works, 2nd Edition: What Every Superuser Should Know",Book,http://www.amazon.com/dp/1593275676/,17,2
+Modern Operating Systems (4th Edition),Book,http://www.amazon.com/dp/013359162X/,22,2
+Red Hat RHCSA/RHCE 7 Cert Guide: Red Hat Enterprise Linux 7 (EX200 and EX300) (Certification Guide),Book,http://www.amazon.com/dp/0789754053/,8,2
+Computer Networks (5th Edition),Book,http://www.amazon.com/dp/0132126958/,7,1
+Building a Monitoring Infrastructure with Nagios,Book,http://www.amazon.com/dp/0132236931/,1,1
+Systems Performance: Enterprise and the Cloud,Book,http://www.amazon.com/dp/0133390098/,3,1
+Modern Operating Systems (3rd Edition),Book,http://www.amazon.com/dp/0136006639/,3,1
+The AWK Programming Language,Book,http://www.amazon.com/dp/020107981X/,1,1
+SpamAssassin,Book,http://www.amazon.com/dp/0596007078/,1,1
+"sendmail, 4th Edition",Book,http://www.amazon.com/dp/0596510292/,1,1
+Unix Shell Programming (3rd Edition),Book,http://www.amazon.com/dp/0672324903/,1,1
+Linux Kernel Development (3rd Edition),Book,http://www.amazon.com/dp/0672329468/,5,1
+CCENT Study Guide: Exam 100-101 (ICND1),Book,http://www.amazon.com/dp/1118749685/,4,1
+Linux Bible,Book,http://www.amazon.com/dp/1118999878/,16,1
+"RHCSA & RHCE Red Hat Enterprise Linux 7: Training and Exam Preparation Guide (EX200 and EX300), Third Edition",Book,http://www.amazon.com/dp/1495148203/,12,1
+The Linux Command Line: A Complete Introduction,Book,http://www.amazon.com/dp/1593273894/,24,1
+Learn Windows PowerShell in a Month of Lunches,Book,http://www.amazon.com/dp/1617291080/,74,1
+Learning Zimbra Server Essentials,Book,http://www.amazon.com/dp/1783281391/,1,1
+Practical Linux Security Cookbook,Book,http://www.amazon.com/dp/1785286420/,1,1
+Postfix: The Definitive Guide: A Secure and Easy-to-Use MTA for UNIX,eBooks,http://www.amazon.com/dp/B0043D2EMW/,1,1
+Goldtouch GTU-0088 V2 Adjustable Ergonomic Keyboard -- PC and Mac Compatible (USB),Personal Computer,http://www.amazon.com/dp/B005ZLTNN4/,6,1
+CM Storm QuickFire Rapid - Tenkeyless Mechanical Gaming Keyboard with CHERRY MX Brown Switches,Personal Computer,http://www.amazon.com/dp/B007VDKLLM/,85,1
+CM Storm QuickFire TK - Compact Mechanical Gaming Keyboard with CHERRY MX RED Switches and Fully LED Backlit,Personal Computer,http://www.amazon.com/dp/B00AOIRCI6/,38,1
+Microsoft Sculpt Ergonomic Keyboard for Business (5KV-00001 ),Personal Computer,http://www.amazon.com/dp/B00CYX26BC/,12,1
+WD Red 1TB NAS Hard Disk Drive - 5400 RPM Class SATA 6 Gb/s 16MB Cache 9.5 MM 2.5 Inch - WD10JFCX,Personal Computer,http://www.amazon.com/dp/B00EHBES1U/,2,1
+CODE 104-Key Illuminated Mechanical Keyboard with White LED Backlighting - Cherry MX Clear,PC Accessory,http://www.amazon.com/dp/B00LV5P2N8/,11,1
+CompTIA Linux+ Powered by Linux Professional Institute Study Guide: Exam LX0-103 and Exam LX0-104 (Comptia Linux + Study Guide),eBooks,http://www.amazon.com/dp/B00WWQQ3EC/,1,1
 Dell Latitude E7240 Ultrabook PC - Intel Core i5-4300U 1.9GHz 8GB 128GB SSD Windows 7 Pro (Certified Refurbished),Personal Computer,http://www.amazon.com/dp/B015NG73EQ/,1,1
+"UCTRONICS IEEE 802.3af Micro USB Active PoE Splitter Power Over Ethernet 48V to 5V 2.4A for Tablets, Dropcam or Raspberry Pi (48V to 5V 2.4A)",PC Accessory,http://www.amazon.com/dp/B01MDLUSE7/,8,1
+tmux 2: Productive Mouse-Free Development,eBooks,http://www.amazon.com/dp/B01N9HBR3D/,2,1
+"RHCSA/RHCE Red Hat Linux Certification Study Guide (Exams EX200 & EX300), 6th Edition (Certification Press)",Book,http://www.amazon.com/dp/0071765654/,10,1
+git commit murder,eBooks,http://www.amazon.com/dp/B06XTY4GP5/,1,1
+"RHCSA/RHCE Red Hat Linux Certification Study Guide, Seventh Edition (Exams EX200 & EX300)",Book,http://www.amazon.com/dp/0071841962/,30,1
+"RHCSA/RHCE Red Hat Linux Certification Practice Exams with Virtual Machines, Second Edition (Exams EX200 & EX300)",Book,http://www.amazon.com/dp/007184208X/,3,1
+SELinux by Example: Using Security Enhanced Linux,Book,http://www.amazon.com/dp/0131963694/,1,1

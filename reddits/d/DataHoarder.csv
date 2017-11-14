@@ -1,113 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-WD 16TB My Book Duo Desktop RAID External Hard Drive - USB 3.0 - WDBLWE0160JCH-NESN,Personal Computer,http://www.amazon.com/dp/B01B6BN1CU/,5,4
-Seagate Expansion 8TB Desktop External Hard Drive USB 3.0 (STEB8000100),Personal Computer,http://www.amazon.com/dp/B01HAPGEIE/,7,3
-Mediasonic ProBox HF2-SU3S2 4 Bay 3.5” SATA HDD Enclosure – USB 3.0 & eSATA Support SATA 3 6.0Gbps HDD transfer speed,CE,http://www.amazon.com/dp/B003X26VV4/,5,3
-"Lenovo 70F10000UX THINKSERVER SA120 DIRECT ATTACHED STORAGE,1 I/O MODULE,12 X 3.5IN HOT-SWAP SAS D",PC Accessory,http://www.amazon.com/dp/B00LSQOY6G/,4,3
-IBM Serveraid M1015 SAS/SATA Controller 46M0831,CE,http://www.amazon.com/dp/B0034DMSO6/,3,3
-SAS9211-8I 8PORT Int 6GB Sata+sas Pcie 2.0,PC Accessory,http://www.amazon.com/dp/B002RL8I7M/,3,3
-SanDisk Ultra 200GB Micro SDXC Memory Card (SDSDQUAN-200G-G4A),Personal Computer,http://www.amazon.com/dp/B00V62XBQQ/,22,2
-Seagate Expansion 5TB Desktop External Hard Drive USB 3.0 (STEB5000100),Personal Computer,http://www.amazon.com/dp/B00TKFEEBW/,9,2
-WD Red 8TB NAS Hard Disk Drive - 5400 RPM Class SATA 6 Gb/s 128MB Cache 3.5 Inch - WD80EFZX,Personal Computer,http://www.amazon.com/dp/B01BYLY4DM/,5,2
-"Seagate Backup Plus 4TB Portable External Hard Drive USB 3.0, Black (STDR4000100)",Personal Computer,http://www.amazon.com/dp/B00ZTRXFBA/,5,2
-WD Red 4TB NAS Hard Disk Drive - 5400 RPM Class SATA 6 GB/S 64 MB Cache 3.5-Inch (WD40EFRX),Electronics,https://www.amazon.com/gp/product/B00EHBERSE,5,2
-IO Crest 4 Port SATA III PCI-e 2.0 x1 Controller Card Marvell Non-Raid with Low Profile Bracket SI-PEX40064,Personal Computer,http://www.amazon.com/dp/B00AZ9T3OU/,3,2
-Rosewill 3 x 5.25-Inch to 4 x 3.5-Inch Hot-swap SATAIII/SAS Hard Disk Drive Cage - Black (RSV-SATA-Cage-34),Personal Computer,http://www.amazon.com/dp/B00DGZ42SM/,2,2
+Mediasonic ProBox HF2-SU3S2 4 Bay 3.5” SATA HDD Enclosure – USB 3.0 & eSATA Support SATA 3 6.0Gbps HDD transfer speed,CE,http://www.amazon.com/dp/B003X26VV4/,40,16
+WD 16TB My Book Duo Desktop RAID External Hard Drive - USB 3.0 - WDBLWE0160JCH-NESN,Personal Computer,http://www.amazon.com/dp/B01B6BN1CU/,17,14
+Seagate Expansion 8TB Desktop External Hard Drive USB 3.0 (STEB8000100),Personal Computer,http://www.amazon.com/dp/B01HAPGEIE/,23,12
+SAS9211-8I 8PORT Int 6GB Sata+sas Pcie 2.0,PC Accessory,http://www.amazon.com/dp/B002RL8I7M/,14,11
+"Lenovo 70F10000UX THINKSERVER SA120 DIRECT ATTACHED STORAGE,1 I/O MODULE,12 X 3.5IN HOT-SWAP SAS D",PC Accessory,http://www.amazon.com/dp/B00LSQOY6G/,18,10
+WD Red 8TB NAS Hard Disk Drive - 5400 RPM Class SATA 6 Gb/s 128MB Cache 3.5 Inch - WD80EFZX,Personal Computer,http://www.amazon.com/dp/B01BYLY4DM/,17,10
+Cable Matters Internal Mini-SAS to 4x SATA Forward Breakout Cable 3.3 Feet,Personal Computer,http://www.amazon.com/dp/B012BPLYJC/,12,8
+Rosewill 3 x 5.25-Inch to 4 x 3.5-Inch Hot-swap SATAIII/SAS Hard Disk Drive Cage - Black (RSV-SATA-Cage-34),Personal Computer,http://www.amazon.com/dp/B00DGZ42SM/,11,7
+WD 8TB  My Book Desktop External Hard Drive - USB 3.0 - WDBBGB0080HBK-NESN,Personal Computer,http://www.amazon.com/dp/B01LQQHLGC/,9,6
+"Toshiba 5TB SATA 6Gb/s 7200rpm, 128MB Cache, 3.5-Inch Internal Hard Drive (PH3500U-1I72)",Personal Computer,http://www.amazon.com/dp/B00OP2PKH2/,17,6
+SAS9200-8E 8PORT Ext 6GB Sata+sas Pcie 2.0,CE,http://www.amazon.com/dp/B002QJZLCA/,11,5
+IBM Serveraid M1015 SAS/SATA Controller 46M0831,CE,http://www.amazon.com/dp/B0034DMSO6/,8,5
+IO Crest 4 Port SATA III PCI-e 2.0 x1 Controller Card Marvell Non-Raid with Low Profile Bracket SI-PEX40064,Personal Computer,http://www.amazon.com/dp/B00AZ9T3OU/,22,5
+"Synology DiskStation 2-bay 3.5-Inches NAS server 1.0GHz, 512MB RAM, 1xGigabit (DS216J )",Personal Computer,http://www.amazon.com/dp/B01BNPT1EG/,12,5
+"Mediasonic H82-SU3S2 ProBox 8 Bay 3.5"" Hard Drive External Hard Drive Enclosure - USB 3.0 & eSATA",CE,http://www.amazon.com/dp/B005GYDMYG/,5,5
+Seagate Expansion 5TB Desktop External Hard Drive USB 3.0 (STEB5000100),Personal Computer,http://www.amazon.com/dp/B00TKFEEBW/,68,4
+"HighPoint Internal Mini-SAS to 4SATA(SFF8087 to SATA), 1M (3 feet) Int-MS-1M4S",CE,http://www.amazon.com/dp/B001L9DU88/,4,4
+StarTech.com 4x SATA Power Splitter Adapter Cable (PYO4SATA),Speakers,http://www.amazon.com/dp/B0086OGN9E/,21,4
+Seagate Backup Plus 8TB Desktop External Hard Drive USB 3.0 (STDT8000100),Personal Computer,http://www.amazon.com/dp/B00R45V3SW/,12,4
+"Nanoxia Deep Silence 6 Rev. B Gigantic Big/Full Tower Computer Case with 8 Fan Controllers, Fits HPTX Motherboard and 360mm Radiators, 61.1 Pounds, Black (NXDS6B)",Personal Computer,http://www.amazon.com/dp/B00DSFDSUS/,8,4
+"Rosewill 4U Server Chassis / Server Case / Rackmount Case, Metal Rack Mount Computer Case with 12 Hot Swap Bays & 5 Fans Pre-Installed (RSV-L4412)",Personal Computer,http://www.amazon.com/dp/B00N9CXGSO/,7,3
+SanDisk Ultra 200GB Micro SD (SDSDQUAN-200G-G4A),Personal Computer,http://www.amazon.com/dp/B00V62XBQQ/,102,3
+"WL 6TB 5700RPM 64MB Cache 5700RPM SATA III (6.0Gb/s) 3.5"" Internal Hard Drive (Desktop PC, CCTV DVR, NAS) - w/1 Year Warranty",PC Accessory,http://www.amazon.com/dp/B00UCP11U6/,6,3
+LSI 9200-8E 8-Port 6Gb/s SAS/SATA PCI-Express x8 External Host Bus Adapter,PC Accessory,http://www.amazon.com/dp/B005MQP232/,3,3
+"Seagate Backup Plus 4TB Portable External Hard Drive USB 3.0, Black (STDR4000100)",Personal Computer,http://www.amazon.com/dp/B00ZTRXFBA/,28,3
+Seagate Backup Plus Hub 8TB External Desktop Hard Drive Storage  (STEL8000100),Personal Computer,http://www.amazon.com/dp/B01HD6ZLQ6/,10,3
+"HGST Ultrastar 7K4000 HUS724030ALE641 (0F17731) 3TB 64MB Cache 7200RPM SATA III 6.0Gb/s 3.5"" Enterprise Internal Hard Drive (Certified Refurbished)",PC Accessory,http://www.amazon.com/dp/B01LYVD7ME/,12,3
+EverCool Dual 5.25 in. Drive Bay to Triple 3.5 in. HDD Cooling Box,Personal Computer,http://www.amazon.com/dp/B0032UUGF4/,9,3
+WD 8TB My Book Desktop External Hard Drive - USB 3.0 - WDBFJK0080HBK-NESN,Personal Computer,http://www.amazon.com/dp/B01B6BN0Q2/,3,3
+"SilverStone Technology Premium Mini-ITX / DTX Small Form Factor NAS Computer Case, Black (DS380B)",Personal Computer,http://www.amazon.com/dp/B00IAELTAI/,13,3
+P3 P4400 Kill A Watt Electricity Usage Monitor,Home Improvement,http://www.amazon.com/dp/B00009MDBU/,153,3
+HGST Deskstar NAS 3.5-Inch 4TB 7200RPM SATA III 64MB Cache Internal Hard Drive Kit (0S03664),Personal Computer,http://www.amazon.com/dp/B00HHAJRU0/,15,3
+"Plugable USB 3.0 Hard Drive Dock for 2.5 and 3.5 HDD or SSD (Supports SATA III, UASP and Drives 8TB+)",Personal Computer,http://www.amazon.com/dp/B00APP6694/,13,3
+NORCO 4U Rack Mount 24 x Hot-Swappable SATA/SAS 6G Drive Bays Server Rack mount RPC-4224,Personal Computer,http://www.amazon.com/dp/B00BQY3916/,5,3
+WD Red 3TB NAS Hard Disk Drive - 5400 RPM Class SATA 6 Gb/s 64MB Cache 3.5 Inch - WD30EFRX,Personal Computer,http://www.amazon.com/dp/B008JJLW4M/,15,3
+"ORICO Toolfree USB 3.0 to SATA External Hard Disk Drive Enclosure Case for 3.5"" SATA HDD and SSD[Support UASP and 8TB Drives]",Personal Computer,http://www.amazon.com/dp/B00GAML7OK/,16,3
+"Rosewill 4U Server Chassis / Server Case / Rackmount Case, Metal Rack Mount Computer Case support with 15 bays & 7 Fans Pre-Installed (RSV-L4500)",Personal Computer,http://www.amazon.com/dp/B0091IZ1ZG/,11,3
+ASRock Intel Avoton C2750 2.4GHz/DDR3/SATA3/V&2GbE/Mini-ITX Motherboard and CPU Combo C2750D4I COLOR BOX,Personal Computer,http://www.amazon.com/dp/B00HIDQG6E/,7,2
+"Nanoxia Deep Silence 3 Mid Tower Case Computer with 6 Fan Controllers, Fits ATX Motherboard and up to 8 HDD/SDD, 20.5 Pounds, Black (NXDS3B)",Personal Computer,http://www.amazon.com/dp/B00M49SNVI/,2,2
+Hard Drive Transporter Classic,Personal Computer,http://www.amazon.com/dp/B002IY6B9U/,2,2
+RiteCable (2 Pack) Molex to Dual SATA Power Splitter Cable Hard Drive HDD SSD,PC Accessory,http://www.amazon.com/dp/B01C7QTKJG/,6,2
+"UNNI Antistatic Bags, Resealable, Size: 6 inch X 10 inch, Pack of 10",PC Accessory,http://www.amazon.com/dp/B000BSN274/,5,2
+TerraMaster D5-300 USB3.0 (5Gbps) Type C 5-Bay External Hard Drive Enclosure Support RAID 5 Hard Disk RAID Storage (Diskless),Personal Computer,http://www.amazon.com/dp/B01DW1X348/,2,2
+"Hitachi Ultrastar A7K2000 2TB HUA722020ALA331 2TB 32MB Cache 7200RPM SATA 3.0Gb/s Enterprise 3.5"" Hard Drive (Certified Refurbished)",PC Accessory,http://www.amazon.com/dp/B01CM85C0K/,4,2
+Seagate 10TB IronWolf NAS SATA 6Gb/s NCQ 256MB Cache 3.5-Inch Internal Hard Drive (ST10000VN0004),Personal Computer,http://www.amazon.com/dp/B01IA9GU0Q/,9,2
+Cable Matters Internal Mini-SAS to 4x SATA Forward Breakout Cable 1.6 Feet,Personal Computer,http://www.amazon.com/dp/B018YHS8BS/,2,2
+Synology Disk Station 4-Bay Diskless Network Attached Storage (DS416j),Personal Computer,http://www.amazon.com/dp/B019ZUR5WQ/,5,2
+ORICO Aluminum 3.5-inch Hard Drive Protection 10-bay Storage Box with Locking - Silver,PC Accessory,http://www.amazon.com/dp/B01K4HP8B4/,2,2
+"Actiontec Bonded MoCA 2.0 Ethernet to Coax Adapter, 2 Pack (ECB6200K02)",Personal Computer,http://www.amazon.com/dp/B013J7O3X0/,45,2
+Seagate Archive HDD 8TB SATA 6GBps 128MB Cache SATA Hard Drive (ST8000AS0002),Personal Computer,http://www.amazon.com/dp/B00XS423SC/,14,2
+Samsung Momentus 4TB SATA III 5400 RPM 2.5-inch Hard Drive (ST4000LM016 ),PC Accessory,http://www.amazon.com/dp/B016YFEYK6/,4,2
+Synology Disk Station 12-Bay Network Attached Storage (DS2415+),Personal Computer,http://www.amazon.com/dp/B00SWEM4DW/,5,2
+NZXT Source 210 Computer Case Black,CE,http://www.amazon.com/dp/B005869A7K/,7,2
+Synology DS1815+ Disk Station 8-Bay Network Attached Storage,Personal Computer,http://www.amazon.com/dp/B00P3RPMEO/,6,2
+Ableconn PEX10-SAT 10 Port SATA 6G PCI Express Host Adapter Card - AHCI 6 Gbps SATA III Low Profile PCIe 2.0 Expansion Card,PC Accessory,http://www.amazon.com/dp/B0177GBY0Y/,3,2
+WD 4TB Black My Passport  Portable External Hard Drive - USB 3.0 - WDBYFT0040BBK-WESN,Personal Computer,http://www.amazon.com/dp/B01LQQH86A/,16,2
+"Inateck USB 3.0 to SATA Dual-Bay USB 3.0 Hard Drive Docking Station with Offline Clone Function for 2.5 / 3.5 Inch HDD SSD SATA (SATA I/ II/ III), Support 2x 8TB and UASP, Tool-Free(FD2002)",Personal Computer,http://www.amazon.com/dp/B00N1KXE9K/,10,2
+Synology Disk Station 4-Bay Network Attached Storage (DS415play),Personal Computer,http://www.amazon.com/dp/B00LO3KW7S/,3,2
+WD Red 5TB NAS Hard Disk Drive - 5400 RPM Class SATA 6 Gb/s 64MB Cache 3.5 Inch - WD50EFRX,Personal Computer,http://www.amazon.com/dp/B00LO3KR0U/,3,2
+"Sabrent USB 3.0 to SATA External Hard Drive Docking Station for 2.5 or 3.5in HDD, SSD [Support UASP] (DS-UBLK)",Personal Computer,http://www.amazon.com/dp/B00IKAQ538/,16,2
+"EVGA 430 W1, 80+ WHITE 430W, 3 Year Warranty, Power Supply 100-W1-0430-KR, Black",Personal Computer,http://www.amazon.com/dp/B00H33SDR4/,18,2
+SanDisk Ultra Fit 16GB USB 3.0 Flash Drive SDCZ43-016G-G46,Personal Computer,http://www.amazon.com/dp/B00LLEN5FQ/,8,2
 iKross 3 Colors Package - 3.5 Inch IDE/SATA HDD Storage Protection Boxes - Gray x 3,PC Accessory,http://www.amazon.com/dp/B00CYW17UY/,2,2
-LSI 9200-8E 8-Port 6Gb/s SAS/SATA PCI-Express x8 External Host Bus Adapter,PC Accessory,http://www.amazon.com/dp/B005MQP232/,2,2
-Cable Matters Internal Mini-SAS to 4x SATA Forward Breakout Cable 3.3 Feet,Personal Computer,http://www.amazon.com/dp/B012BPLYJC/,2,2
-WD Red 3TB NAS Hard Disk Drive - 5400 RPM Class SATA 6 Gb/s 64MB Cache 3.5 Inch - WD30EFRX,Personal Computer,http://www.amazon.com/dp/B008JJLW4M/,2,2
-"Passion Lubes, Natural Water-Based Lubricant, 55 Gallon Drum",Health and Beauty,http://www.amazon.com/dp/B005MR3IVO/,273,1
-"VELCRO Brand One Wrap Thin Ties, Black, 8 x 1/2-Inch, 100 Count (91140)",Office Product,http://www.amazon.com/dp/B001E1Y5O6/,30,1
-AudioQuest Diamond 1m (3.2 feet) Braided HDMI Cable,CE,http://www.amazon.com/dp/B003CT08E4/,27,1
-Samsung 850 EVO 500GB 2.5-Inch SATA III Internal SSD (MZ-75E500B/AM),Electronics,https://www.amazon.com/Samsung-2-5-Inch-Internal-MZ-75E500B-AM/dp/B00OBRE5UE/ref=sr_1_2?s=pc&amp;ie=UTF8&amp;qid=1442606660&amp;sr=1-2&amp;keywords=850+evo,18,1
-Samsung 850 EVO 1TB 2.5-Inch SATA III Internal SSD (MZ-75E1T0B/AM),Personal Computer,http://www.amazon.com/dp/B00OBRFFAS/,14,1
-WireWorld - Platinum Starlight 7 HDMI Cable - 20 Meter,Speakers,http://www.amazon.com/dp/B00KY2NKCO/,14,1
-WD 4TB My Book Desktop External Hard Drive - USB 3.0 - WDBFJK0040HBK-NESN,Personal Computer,http://www.amazon.com/dp/B00E3RH61W/,9,1
-Noctua NH-D15 6 heatpipe with Dual NF-A15 140mm fans,Personal Computer,http://www.amazon.com/dp/B00L7UZMAK/,5,1
-"CyberPower CP1500PFCLCD PFC Sinewave UPS System, 1500VA/900W, 10 Outlets, AVR, Mini-Tower",Speakers,http://www.amazon.com/dp/B00429N19W/,5,1
-"Elgato Game Capture HD, Xbox and PlayStation High Definition Game Recorder for Mac and PC, Full HD 1080p",Personal Computer,http://www.amazon.com/dp/B00840353W/,5,1
-Denon AKDL1 Dedicated Link Cable (Discontinued by Manufacturer),Electronics,https://www.amazon.com/Denon-AKDL1-Dedicated-/dp/B000I1X6PM,4,1
-"HGST Ultrastar 7K4000 HUS724030ALE641 (0F17731) 3TB 64MB Cache 7200RPM SATA III 6.0Gb/s 3.5"" Enterprise Internal Hard Drive (Certified Refurbished)",PC Accessory,http://www.amazon.com/dp/B01LYVD7ME/,4,1
-WD 4TB Black My Passport  Portable External Hard Drive - USB 3.0 - WDBYFT0040BBK-WESN,Personal Computer,http://www.amazon.com/dp/B01LQQH86A/,3,1
-Synology Disk Station 12-Bay Network Attached Storage (DS2415+),Personal Computer,http://www.amazon.com/dp/B00SWEM4DW/,3,1
-Seagate 10TB IronWolf NAS SATA 6Gb/s NCQ 256MB Cache 3.5-Inch Internal Hard Drive (ST10000VN0004),Personal Computer,http://www.amazon.com/dp/B01IA9GU0Q/,3,1
-House M.D. Complete Collection [Blu-Ray] [Region Free],DVD,http://www.amazon.com/dp/B008M7OGWQ/,3,1
-Seagate Backup Plus 8TB Desktop External Hard Drive USB 3.0 (STDT8000100),Personal Computer,http://www.amazon.com/dp/B00R45V3SW/,3,1
-"Vastar 62 in 1 with 56 Bit Magnetic Driver Kit, Precision Screwdriver Set Smartphone Repair Tool Kit for iPhone 7, iPhone 7 Plus and other Cell Phone, Tablet, PC, Macbook, Clock, Game Console and More",Home Improvement,http://www.amazon.com/dp/B015F734P0/,3,1
-Seagate Backup Plus 5TB Desktop External Hard Drive USB 3.0 (STDT5000100),Personal Computer,http://www.amazon.com/dp/B00J0O5R2I/,3,1
-Seagate Backup Plus Hub 8TB External Desktop Hard Drive Storage  (STEL8000100),Personal Computer,http://www.amazon.com/dp/B01HD6ZLQ6/,2,1
-RiteCable (2 Pack) Molex to Dual SATA Power Splitter Cable Hard Drive HDD SSD,PC Accessory,http://www.amazon.com/dp/B01C7QTKJG/,2,1
-"EVGA SuperNOVA 850 B2, 80+ BRONZE 850W, Semi Modular, 5 Year Warranty, Includes FREE Power On Self Tester, Power Supply 110-B2-0850-V1",Personal Computer,http://www.amazon.com/dp/B00KYK1CC6/,2,1
-Sony DVPCX995V 400-Disc DVD Mega Changer/Player (2009 Model),Home Theater,http://www.amazon.com/dp/B000A3XRSO/,2,1
-VINCA DCLA-0605 Quality Electronic Digital Vernier Caliper Inch/Metric/Fractions Conversion 0-6 Inch/150 mm Stainless Steel Body Red/Black Extra Large LCD Screen Auto Off Featured Measuring Tool,Home Improvement,http://www.amazon.com/dp/B017KUC6XQ/,2,1
-HighPoint 6Gbps 16-Channel SATA Port-Multiplier Expander Module Hard Drive Rocket EJ340,Personal Computer,http://www.amazon.com/dp/B00DWV4SKM/,2,1
-Tascam DR-22WL Portable Handheld Recorder with WiFi,Musical Instruments,http://www.amazon.com/dp/B00MIXFBKG/,2,1
-"UNNI Antistatic Bags, Resealable, Size: 6 inch X 10 inch, Pack of 10",PC Accessory,http://www.amazon.com/dp/B000BSN274/,2,1
-ARCTIC F9 PWM Rev.2 - Standard Low Noise PWM Controlled Case Fan,Personal Computer,http://www.amazon.com/dp/B00H3SVWF4/,2,1
-Sandisk Ultra 400GB Micro SDXC UHS-I Card with Adapter - SDSQUAR-400G-GN6MA,Personal Computer,http://www.amazon.com/dp/B074RNRM2B/,2,1
-SAS9200-8E 8PORT Ext 6GB Sata+sas Pcie 2.0,CE,http://www.amazon.com/dp/B002QJZLCA/,2,1
-"19"" Shoe Horns - Made in the USA",Shoes,http://www.amazon.com/dp/B016924OLS/,2,1
-"ORICO USB3.0 to SATA III 2.5"" External Hard Drive Enclosure for 7mm and 9.5mm 2.5 Inch SATA HDD/SSD Tool Free [UASP Supported] Black(2189U3)",PC Accessory,http://www.amazon.com/dp/B01M08LCXW/,2,1
-Supermicro LGA2011/Intel C612 ATX Server Motherboards X10SRA-F-O,Personal Computer,http://www.amazon.com/dp/B00O7ZK10S/,1,1
-"Nanoxia Deep Silence 6 Rev. B Gigantic Big/Full Tower Computer Case with 8 Fan Controllers, Fits HPTX Motherboard and 360mm Radiators, 61.1 Pounds, Black (NXDS6B)",Personal Computer,http://www.amazon.com/dp/B00DSFDSUS/,1,1
-Cable Matters Internal Mini-SAS to 4x SATA Forward Breakout Cable 1.6 Feet,Personal Computer,http://www.amazon.com/dp/B018YHS8BS/,1,1
-"Nanoxia Deep Silence 3 Mid Tower Case Computer with 6 Fan Controllers, Fits ATX Motherboard and up to 8 HDD/SDD, 20.5 Pounds, Black (NXDS3B)",Personal Computer,http://www.amazon.com/dp/B00M49SNVI/,1,1
-Lot Of Two HP 10GB Single Port Mellanox Connectx-2 PCI-E 10GBe Ethernet Network Interface Card 671798-001/666172-001 (Bulk Package),PC Accessory,http://www.amazon.com/dp/B0178CNZ9U/,1,1
-IBM's Early Computers (History of Computing),Book,http://www.amazon.com/dp/0262022257/,1,1
-"Kingston Digital 128GB KC400 SSD C2C 2.5"" Solid State Drive (SKC400S37/128G)",Personal Computer,http://www.amazon.com/dp/B019SDOHMQ/,1,1
-NORCO 4U Rack Mount 24 x Hot-Swappable SATA/SAS 6G Drive Bays Server Rack mount RPC-4224,Personal Computer,http://www.amazon.com/dp/B00BQY3916/,1,1
-"NZXT Sentry Mix 2 Fan Controller, Matte Black (AC SEN-MIX2-M1)",Personal Computer,http://www.amazon.com/dp/B00DN3IT7M/,1,1
-Monoprice 1m 30AWG Internal Mini SAS 36-Pin SFF-8087 Male to Mini SAS 36-Pin SFF-8087 Male Cable - Black (108189),Personal Computer,http://www.amazon.com/dp/B008VLHOR2/,1,1
-Kingston Technology ValueRAM 16GB 2133MHz DDR4 ECC CL15 DIMM 2Rx8 Desktop Memory KVR21E15D8/16,Personal Computer,http://www.amazon.com/dp/B01DKBPY2E/,1,1
-STARDOM SOHORAID SR2-WBS3: 2-Bay RAID eSATA/FireWire 800/USB 3.0 enclosure.,PC Accessory,http://www.amazon.com/dp/B005OJFCGY/,1,1
-Synology Disk Station 4-Bay Diskless Network Attached Storage (DS416j),Personal Computer,http://www.amazon.com/dp/B019ZUR5WQ/,1,1
-Seagate 8TB BarraCuda Pro 7200RPM SATA 6Gb/s 256MB Cache 3.5-Inch Internal Hard Drive (ST8000DM005),Personal Computer,http://www.amazon.com/dp/B01LOOJBNW/,1,1
+HGST MegaScale DC 4000.B 3.5-Inch Enterprise Coolspin 4000GB SATA 64MB MEGA-B 512E 0F22146,Personal Computer,http://www.amazon.com/dp/B00FZQRKQG/,2,2
+LSI LOGIC SAS 9207-8i Storage Controller LSI00301,Personal Computer,http://www.amazon.com/dp/B0085FT2JC/,3,2
+"CyberPower CP1500PFCLCD PFC Sinewave UPS System, 1500VA/900W, 10 Outlets, AVR, Mini-Tower",Speakers,http://www.amazon.com/dp/B00429N19W/,48,2
+StarTech.com 5.25in Trayless Hot Swap Mobile Rack for 3.5in Hard Drive - Internal SATA Backplane Enclosure,CE,http://www.amazon.com/dp/B000KS8S9W/,15,2
+Sunon 40x40x20mm 3 pin fan #KDE1204PKVX,PC Accessory,http://www.amazon.com/dp/B006ODM76C/,4,2
+"(Old Model) Toshiba 4TB SATA 6Gb/s 7200rpm, 128MB Ca",Personal Computer,http://www.amazon.com/dp/B00OP2PKHW/,7,2
+"Dell Compatible - 600GB 15K RPM SAS 3.5"" HD - Mfg # W347K",PC Accessory,http://www.amazon.com/dp/B003ZWWBQG/,1,1
+"Mediasonic HFR2-SU3S2 PRORAID 4 Bay 3.5"" SATA Hard Drive Enclosure - USB 3.0 & eSATA",CE,http://www.amazon.com/dp/B003YFHEAC/,7,1
 "Marshal 1TB 7200RPM 16MB Cache SATAⅢ(6.0Gb/s) 3.5 Inch Internal Hard Drive Near Line Model 16MB Cache 7200rpm MAL31000SA-W72 for All Use, Especiaｌly Desktop Storage",PC Accessory,http://www.amazon.com/dp/B003WMNLHC/,1,1
-Verbatim M-Disc BD-R 25GB 4X with Branded Surface - 5 Pack Jewel Case 98900,Speakers,http://www.amazon.com/dp/B011PZAHTM/,1,1
-ASRock Rack J3710-ITX Motherboard,Personal Computer,http://www.amazon.com/dp/B01E97ZTPA/,1,1
-4TB 3.5-inch Enterprise CoolSpin Internal Hard Drive HMS5C4040BLE640 0F22146,PC Accessory,http://www.amazon.com/dp/B01CKBN76A/,1,1
-Synology DS1815+ Disk Station 8-Bay Network Attached Storage,Personal Computer,http://www.amazon.com/dp/B00P3RPMEO/,1,1
-"Black & Decker LDX120C 20-Volt MAX Lithium-Ion Cordless Drill/Driver w/ 71-081 Double Ended Screwdriving Bit Set, 10-Piece",Home Improvement,http://www.amazon.com/dp/B01F9K6Y50/,1,1
-"Black & Decker BDCCS20B 20-Volt MAX Lithium-Ion Circular Saw Bare Tool, 5.5-Inch.",Home Improvement,http://www.amazon.com/dp/B00FRMSMRE/,1,1
-"Hard-to-Find Fastener 014973291525 Phillips Flat TwinFast Wood Screws, 8 x 1-Inch, 100-Piece",Home Improvement,http://www.amazon.com/dp/B00OHUPMM0/,1,1
-"Starrett K53-8-N Stainless Steel Carpenters Try Square, 8"" Length",BISS,http://www.amazon.com/dp/B00ELMS8Q6/,1,1
-"HDMI to VGA, 1080P with Audio Port, Rankie Gold-Plated Active HDMI HDTV to VGA Adapter Converter Male to Female with Micro USB & 3.5mm Audio Port Cable - R1150",Personal Computer,http://www.amazon.com/dp/B00ZMV7RL2/,1,1
-Cable Matters (2 Pack) 15 Pin SATA to 4 SATA Power Splitter Cable - 18 Inches,PC Accessory,http://www.amazon.com/dp/B012BPLW08/,1,1
-Sienoc 3.3V/1A. 3.3Vaux/100mA 12V 5V Version 2.3 PCI-E Express x1 Slot to PCI / PCI-X 32Bit Adapter Card Windows2000/NT/2003/XP/Vista/WIN7/WIN8/8.1/Linux,PC Accessory,http://www.amazon.com/dp/B00NV0EJXU/,1,1
-"Black & Decker 15557 Drill Bit Set, 10-Piece",Home Improvement,http://www.amazon.com/dp/B000RH22WA/,1,1
-"IRWIN QUICK-GRIP 1964758 One-Handed Mini Bar Clamp 4 Pack, 6""",Home Improvement,http://www.amazon.com/dp/B001DSY4QO/,1,1
-"iStarUSA BPN-DE340SS 3x5.25"" to 4x3.5"" SAS/SATA 6.0 Gb/s Trayless Hot-Swap Cage Black",CE,http://www.amazon.com/dp/B004IMKTX4/,1,1
-"Sabrent USB 3.0 to SATA Dual Bay External Hard Drive Docking Station with Built-in Cooling Fan for 2.5 or 3.5in HDD, SSD with Hard Drive Duplicator/Cloner Function [8TB Support] (EC-HDFN)",Personal Computer,http://www.amazon.com/dp/B01D4F3A7C/,1,1
-"UGREEN Power Esata (eSATAp) to Sata Cable Dual Power USB 12V 5V Combo to 22 Pin (7Pin + 15Pin)For 2.5"" 3.5"" HDD",PC Accessory,http://www.amazon.com/dp/B00HL87BQK/,1,1
-WD Diskless My Cloud Pro Series PR4100 Network Attached Storage - NAS - WDBNFA0000NBK-NESN,Personal Computer,http://www.amazon.com/dp/B01GLRX6C4/,1,1
-Hard Drive Transporter Classic,Personal Computer,http://www.amazon.com/dp/B002IY6B9U/,1,1
-"AmazonBasics 6-Outlet Surge Protector Power Strip, 790 Joule - Black",Electronics,https://www.amazon.com/AmazonBasics-6-Outlet-Surge-Protector-Power/dp/B00TP1C51M/ref=sr_1_7?ie=UTF8&amp;qid=1444229590&amp;sr=8-7&amp;keywords=outlet+surge+protector,1,1
-"Rosewill 3.5 Inch Hard Drive Enclosure to USB 3.0 / eSATA. External Hard Drive Case Aluminum Body, Built-in Cooling Fan and Fan Switch. Support 3.5” SATA III / II / I Hard Drive up to 6TB and UASP function.",PC Accessory,http://www.amazon.com/dp/B005KGNXTE/,1,1
-VIDBOX VHS to DVD 8.0 Deluxe,Software,http://www.amazon.com/dp/B00ND0E7BW/,1,1
-"Inateck USB 3.0 to SATA Converter Adapter for 2.5 inch/3.5 inch Hard Drive Disk HDD and SSD, Power Adapter Included(UA1001)",PC Accessory,http://www.amazon.com/dp/B00N4JUOI2/,1,1
-Verbatim M-Disc BDXL 100GB 4X with Branded Surface - 25 Pack Spindle 98914,Speakers,http://www.amazon.com/dp/B017H13DFS/,1,1
-StarTech.com 4x SATA Power Splitter Adapter Cable (PYO4SATA),Speakers,http://www.amazon.com/dp/B0086OGN9E/,1,1
-Synology Disk Station 4-Bay Network Attached Storage (DS415play),Personal Computer,http://www.amazon.com/dp/B00LO3KW7S/,1,1
-Synology Disk Station 4-Bay Network Attached Storage (DS414j),Personal Computer,http://www.amazon.com/dp/B00K6PCTCG/,1,1
-NZXT Source 210 Computer Case Black,CE,http://www.amazon.com/dp/B005869A7K/,1,1
-"CRJ 24-Pin ATX Red LED Power On/Off Switch Jumper Bridge Cable, Black Sleeved 22""",PC Accessory,http://www.amazon.com/dp/B01MSY4966/,1,1
-"Mediasonic HFR2-SU3S2 PRORAID 4 Bay 3.5"" SATA Hard Drive Enclosure - USB 3.0 & eSATA",CE,http://www.amazon.com/dp/B003YFHEAC/,1,1
-Crucial 16GB Kit (8GBx2) DDR3/DDR3L 1600 MT/S (PC3-12800) Unbuffered SODIMM 204-Pin Memory - CT2KIT102464BF160B,Personal Computer,http://www.amazon.com/dp/B007B5S52C/,1,1
-"Nekteck USB Type C USB3.1 (USB-C) to SATA 2.5/3.5 Inch External Hard Drive Disk Docking Station Enclosure for for 3.5"" 2.5"" SATA HDD and SSD [Support Up to 8TB] - Tool Free, 1 Bay",PC Accessory,http://www.amazon.com/dp/B01GJ1DFD2/,1,1
-Synology DiskStation 5-Bay Diskless Network Attached Storage (NAS) with iSCSI/DS1513+ (DS1513+),Personal Computer,http://www.amazon.com/dp/B00CM9K7E6/,1,1
-WD 8TB  My Book Desktop External Hard Drive - USB 3.0 - WDBBGB0080HBK-NESN,Personal Computer,http://www.amazon.com/dp/B01LQQHLGC/,1,1
-Cable Matters Cat6 Snagless Ethernet Patch Cable in Black 25 Feet.,Personal Computer,http://www.amazon.com/dp/B007NZGPAY/,1,1
-WD   My Cloud EX4100 Diskless Expert Series 4-Bay Network Attached Storage - NAS - WDBWZE0000NBK-NESN,Personal Computer,http://www.amazon.com/dp/B00TB8XMR0/,1,1
-"Mediasonic 4 Bay Dock for 2.5"" / 3.5"" SATA HDD / SSD - USB 3.0 & eSATA Support 10TB HDD & 6.0Gbps HDD transfer rate",PC Accessory,http://www.amazon.com/dp/B0078H8L04/,1,1
-Dynatron G555 2U CPU Fan For Intel Xeon 5500 Series LGA1366 CPU Copper Base&Aluminum Fins,PC Accessory,http://www.amazon.com/dp/B005OYESL4/,1,1
-Nouvelle Legende Flame Retardant Quilted Oven Mitts (2-Pack),Kitchen,http://www.amazon.com/dp/B00ZZXB4RU/,1,1
-"QNAP TS-431 4-Bay Dual Core Personal Cloud NAS with DLNA, Mobile Apps and AirPlay Support (TS-431-US)",Electronics,https://www.amazon.com/QNAP-TS-431-Personal-Mobile-Support/dp/B00O4DKAVS/ref=sr_1_9?ie=UTF8&amp;qid=1458501449&amp;sr=8-9&amp;keywords=Qnap,1,1
-Toshiba X300 5TB Desktop 3.5 Inch SATA 6Gb/s 7200rpm Internal Hard Drive,Personal Computer,http://www.amazon.com/dp/B013JPLKQK/,1,1
-LaCie LAC9000504U 5Big RAID Thunderbolt 2 30TB 7200RPM External Hard Drive,Personal Computer,http://www.amazon.com/dp/B00LF88OB8/,1,1
-WD 8TB My Book Desktop External Hard Drive - USB 3.0 - WDBFJK0080HBK-NESN,Personal Computer,http://www.amazon.com/dp/B01B6BN0Q2/,1,1
-CG 24 inch 4pin molex to four SATA 15pin 90 degree crimping type connector cable w/ black sleeved,PC Accessory,http://www.amazon.com/dp/B002TW03X6/,1,1
-100 CD Double-sided Plastic Sleeve White,CE,http://www.amazon.com/dp/B002RO8JE6/,1,1
-Epson WorkForce DS-510 Color Document Scanner,CE,http://www.amazon.com/dp/B00EO58Z5O/,1,1
-Startech 3U 19-Inch Steel Vertical Rack and Wall Mountable Server Rack,CE,http://www.amazon.com/dp/B001YI12A4/,1,1
-Ritek Ridata Blu-Ray (BD-R) White Inkjet Hub Printable 4X BD-R Media 25GB 50 Pack in Cake Box (BDR-254-RDIWN-CB50),Speakers,http://www.amazon.com/dp/B00AYX7VRS/,1,1
-Synology DS1817+ (8GB) 8 - bay NAS Disk Station (Diskless),Personal Computer,http://www.amazon.com/dp/B06Y4TJL54/,1,1
+"Seagate FreeAgent Desk 1.5 TB External Hard Drive - Silver (ST315005FDA2E1-RK, Recertified)",CE,http://www.amazon.com/dp/B001FWCB7C/,1,1
+Intel PRO/1000 PT Quad Port Server Adapter,CE,http://www.amazon.com/dp/B000JLF4FG/,1,1
+"Megaraid Sas 9260-16I Single, 16-PORT Int, 6GB/S Sata+sas, Pcie 2.0, 512MB; In T",CE,http://www.amazon.com/dp/B003VP2EJQ/,1,1
+"MiniPro 2.5"" SATA to USB 3.1 External Aluminum Hard Drive HDD/Solid State SSD Enclosure",Personal Computer,http://www.amazon.com/dp/B003VKTJGW/,2,1
+"VELCRO Brand One Wrap Thin Ties, Black, 8 x 1/2-Inch, 100 Count (91140)",Office Product,http://www.amazon.com/dp/B001E1Y5O6/,206,1
+HP 507616-B21 Hard Drive - 2TB - 7200rpm - SAS 600 - Serial Attached SCSI - 3.5-Inch - Internal,CE,http://www.amazon.com/dp/B003ELYQ4S/,3,1
+Verbatim BD-R 25GB 6X with Branded Surface - 10pk Spindle Box 97238,Speakers,http://www.amazon.com/dp/B003EE08S8/,1,1
+Tripp Lite SRSHELF4PHD Rack Enclosure Cabinet Heavy Duty Fixed Shelf 250 Pound Capacity,Personal Computer,http://www.amazon.com/dp/B001DW296C/,1,1
+Pura PC Computer Air Filter - Polyurethane Foam Filter,Personal Computer,http://www.amazon.com/dp/B000FJU8BC/,3,1
+AudioQuest Diamond 1m (3.2 feet) Braided HDMI Cable,CE,http://www.amazon.com/dp/B003CT08E4/,53,1
+APC Back-UPS Pro 1300VA UPS Battery Backup & Surge Protector (BR1300G),Speakers,http://www.amazon.com/dp/B0038ZU2FC/,5,1
+"IRWIN QUICK-GRIP 1964758 One-Handed Mini Bar Clamp 4 Pack, 6""",Home Improvement,http://www.amazon.com/dp/B001DSY4QO/,3,1
+12U 4 Post Open Rack,CE,http://www.amazon.com/dp/B0037ECAJA/,2,1
+ARCTIC F12 TC - 120 mm Standard Low Noise Temperature Controlled Case Fan,Personal Computer,http://www.amazon.com/dp/B0037AQLLM/,1,1
+50-Ft. 4-Conductor Phone Cable,CE,http://www.amazon.com/dp/B001C16L18/,1,1
+3WARE Cable Multi-lane Internal Cable (SFF-8087),Personal Computer,http://www.amazon.com/dp/B000FBYS2U/,4,1
+Supermicro AOC-USAS2-L8I Add-on Card 6Gb/s Eight-Port SAS Internal RAID Adapter,Personal Computer,http://www.amazon.com/dp/B0034IKJXI/,1,1
+IBM 6 Gb Performance Optimized HBA,Office Product,http://www.amazon.com/dp/B0069CRKF6/,1,1
+2 Meter Multimode Duplex Fiber Optic Cable (62.5/125) - LC to LC - Orange,CE,http://www.amazon.com/dp/B001B1DV0S/,1,1
+Antec Mini-ITX Case ISK110-VESA,Personal Computer,http://www.amazon.com/dp/B0064LWISQ/,4,1
+2.5-inch SSD/Hard Drive to 3.5-inch Bay Plastic Tray Mount Adapter Kit,Personal Computer,http://www.amazon.com/dp/B0061GEORW/,5,1
+Coolerguys PRO-Metal Dual 120mm Deluxe Cabinet Cooling Kit with built-in LED Controller,PC Accessory,http://www.amazon.com/dp/B005ZIR13Q/,1,1
+Western Digital My Book for Mac 2 TB USB 2.0 Desktop External Hard Drive,CE,http://www.amazon.com/dp/B0031WU8XS/,1,1
+"Scotch Extreme Tape 8959-RD, 1.9 Inches x 21 Yards",Office Product,http://www.amazon.com/dp/B001AFKV0S/,1,1
+Ubuntu Server Cookbook,Book,http://www.amazon.com/dp/1785883062/,1,1
+NZXT Technologies SOURCE 220 CA-SO220-01 Matt Steel Mesh Front Mid Tower Case with USB 3.0,Personal Computer,http://www.amazon.com/dp/B0066130AO/,2,1
+"Quantum Field Theory in a Nutshell, 2nd Edition (In a nutshell)",Book,http://www.amazon.com/dp/0691140340/,7,1
+Antec P280 Black ATX Mid Tower Computer Case,Personal Computer,http://www.amazon.com/dp/B005X3E5BO/,1,1

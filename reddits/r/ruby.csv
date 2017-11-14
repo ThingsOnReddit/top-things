@@ -1,8 +1,33 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Practical Object-Oriented Design in Ruby: An Agile Primer (Addison-Wesley Professional Ruby),Book,http://www.amazon.com/dp/0321721330/,6,3
-Eloquent Ruby (Addison-Wesley Professional Ruby),Book,http://www.amazon.com/dp/0321584104/,4,3
-Design Patterns: Elements of Reusable Object-Oriented Software,Book,http://www.amazon.com/dp/0201633612/,26,1
-Algorithms (4th Edition),Book,http://www.amazon.com/dp/032157351X/,7,1
-The Little Schemer - 4th Edition,Book,http://www.amazon.com/dp/0262560992/,5,1
-Design Patterns in Ruby,Book,http://www.amazon.com/dp/0321490452/,1,1
-Ruby Under a Microscope: An Illustrated Guide to Ruby Internals,Book,http://www.amazon.com/dp/1593275277/,1,1
+Practical Object-Oriented Design in Ruby: An Agile Primer (Addison-Wesley Professional Ruby),Book,http://www.amazon.com/dp/0321721330/,20,8
+Eloquent Ruby (Addison-Wesley Professional Ruby),Book,http://www.amazon.com/dp/0321584104/,12,8
+Design Patterns in Ruby,Book,http://www.amazon.com/dp/0321490452/,4,3
+The Well-Grounded Rubyist,Book,http://www.amazon.com/dp/1617291692/,6,2
+Design Patterns: Elements of Reusable Object-Oriented Software,Book,http://www.amazon.com/dp/0201633612/,87,2
+Programming Ruby 1.9 & 2.0: The Pragmatic Programmers' Guide (The Facets of Ruby),Book,http://www.amazon.com/dp/1937785491/,5,2
+Algorithms (4th Edition),Book,http://www.amazon.com/dp/032157351X/,26,1
+Rails AntiPatterns: Best Practice Ruby on Rails Refactoring (Addison-Wesley Professional Ruby),Book,http://www.amazon.com/dp/0321604814/,2,1
+The Ruby Way: Solutions and Techniques in Ruby Programming (3rd Edition) (Addison-Wesley Professional Ruby),Book,http://www.amazon.com/dp/0321714636/,1,1
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby),Book,http://www.amazon.com/dp/0321984137/,2,1
+Head First Object-Oriented Analysis and Design,Book,http://www.amazon.com/dp/0596008678/,5,1
+Mastering Regular Expressions,Book,http://www.amazon.com/dp/0596528124/,10,1
+"The Ruby Way, Second Edition: Solutions and Techniques in Ruby Programming (2nd Edition)",Book,http://www.amazon.com/dp/0672328844/,1,1
+Cracking the Coding Interview: 189 Programming Questions and Solutions,Book,http://www.amazon.com/dp/0984782850/,90,1
+Exploring Everyday Things with R and Ruby: Learning About Everyday Things,Book,http://www.amazon.com/dp/1449315151/,2,1
+Head First Ruby: A Brain-Friendly Guide,Book,http://www.amazon.com/dp/1449372651/,1,1
+Programming Problems in Ruby: A Primer for the Technical Interview,Book,http://www.amazon.com/dp/1492141119/,1,1
+A Smarter Way to Learn JavaScript. The new tech-assisted approach that requires half the effort,Book,http://www.amazon.com/dp/1497408180/,11,1
+Ruby Under a Microscope: An Illustrated Guide to Ruby Internals,Book,http://www.amazon.com/dp/1593275277/,2,1
+Metaprogramming Ruby: Program Like the Ruby Pros,Book,http://www.amazon.com/dp/1934356476/,1,1
+Agile Web Development with Rails 4 (Facets of Ruby),Book,http://www.amazon.com/dp/1937785564/,4,1
+"Build Awesome Command-Line Applications in Ruby 2: Control Your Computer, Simplify Your Life",Book,http://www.amazon.com/dp/1937785750/,1,1
+Metaprogramming Ruby 2: Program Like the Ruby Pros (Facets of Ruby),Book,http://www.amazon.com/dp/1941222129/,3,1
+DATA STRUCTURES - AN ADVANCED APPROACH USING C (Prentice Hall Software Series),Book,http://www.amazon.com/dp/B00101Y58Q/,1,1
+Confident Ruby: 32 Patterns for Joyful Coding,eBooks,http://www.amazon.com/dp/B00ETE0D2S/,1,1
+Data Structures and Other Objects Using Java (4th Edition),Book,http://www.amazon.com/dp/0132576244/,1,1
+Learn Ruby on Rails: Book One,eBooks,http://www.amazon.com/dp/B00QK2T1SY/,8,1
+Smalltalk Best Practice Patterns,Book,http://www.amazon.com/dp/013476904X/,3,1
+Refactoring: Improving the Design of Existing Code,Book,http://www.amazon.com/dp/0201485672/,34,1
+"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,112,1
+The Little Schemer - 4th Edition,Book,http://www.amazon.com/dp/0262560992/,16,1
+Domain-Driven Design: Tackling Complexity in the Heart of Software,Book,http://www.amazon.com/dp/0321125215/,24,1

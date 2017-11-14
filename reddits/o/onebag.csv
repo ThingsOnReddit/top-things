@@ -1,61 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"Anker 20000mAh Portable Charger PowerCore 20100 - Ultra High Capacity Power Bank with 4.8A Output, PowerIQ Technology for iPhone, iPad & Samsung Galaxy & More – Black",Wireless,http://www.amazon.com/dp/B00X5RV14Y/,25,2
-"AmazonBasics Carry-On Travel Backpack, Black",Apparel,http://www.amazon.com/dp/B01J24H2K0/,2,2
-"Swiss+Tech ST66676 Polished SS 6-in-1 Utility Key Multitool for Keychain for Auto, Camping, Hardware",Automotive Parts and Accessories,http://www.amazon.com/dp/B0001EFSTI/,10,1
-"Anker PowerCore 13000 Portable Charger - Compact 13000mAh 2-Port Ultra Portable Phone Charger Power Bank with PowerIQ and VoltageBoost Technology for iPhone, iPad, Samsung Galaxy (Black)",Cell Phones & Accessories,https://www.amazon.com/dp/B00Z9QVE4Q,7,1
-"Kindle Paperwhite E-reader - Black, 6"" High-Resolution Display (300 ppi) with Built-in Light, Wi-Fi - Includes Special Offers",Amazon Ereaders,http://www.amazon.com/dp/B00OQVZDJM/,6,1
-"Clarks Men's Bushacre 2 Desert Boot,Beeswax Leather,10 M US",Shoes,http://www.amazon.com/dp/B004DCNN64/,5,1
-Vapur 10215 - Eclipse 1.0L Foldable Flexible Water Bottle w/ Carabiner (Night Blue),Sports,http://www.amazon.com/dp/B00BI9AM3C/,5,1
-"Mini Moso Natural Air Purifying Bags, Shoe Deodorizer and Odor Eliminator. (Two Bags Per Package)",Home,http://www.amazon.com/dp/B0099K6OVQ/,3,1
-UE BOOM Wireless Bluetooth Speaker - Black,Personal Computer,http://www.amazon.com/dp/B00CM0XHNS/,3,1
-Monster MP OTG400 BK Outlets To Go Power Strip - 4 AC Outlets - Black,Speakers,http://www.amazon.com/dp/B000F9YN2M/,2,1
-Maxpedition Mini Pocket Organizer,Sports,http://www.amazon.com/dp/B005CSYV82/,2,1
-"Bose QuietComfort 20 Acoustic Noise Cancelling Headphones, Apple Devices, Black",Electronics,https://www.amazon.com/Bose-QuietComfort-Acoustic-Cancelling-Headphones/dp/B00X9KV0HU/ref=sr_1_5?s=electronics&amp;ie=UTF8&amp;qid=1503275133&amp;sr=1-5&amp;keywords=bose+noise+cancelling+headphones,2,1
-"Acer Chromebook CB3-131-C3SZ 11.6-Inch Laptop (Intel Celeron N2840 Dual-Core Processor,2 GB RAM,16 GB Solid State Drive,Chrome), White",Personal Computer,http://www.amazon.com/dp/B019G7VPTC/,1,1
-Pelican U100 Elite Backpack With Laptop Storage (Black),Personal Computer,http://www.amazon.com/dp/B008K4PGX4/,1,1
-"Yosi Samra Women's Samra Ballet Flat,Camel,5",Shoes,http://www.amazon.com/dp/B00H13MYZI/,1,1
-"AUKEY iPhone Tripod Mount, Phone Holder for iPhone 7, 6S, Samsung, Smartphones, Cell Phone Adapter for Monopod, Selfie, Desktop Tripod (2 Pack)",CE,http://www.amazon.com/dp/B01LYN73TQ/,1,1
-"Sunland Microfiber Ultra Compact Sports Bath Towels (Dark Blue, 32inch X 60inch)",Sports,http://www.amazon.com/dp/B00MGGYZVG/,1,1
-"Osprey Farpoint 40 Travel Backpack (2015 Model), Charcoal, Medium/Large",Sports,http://www.amazon.com/dp/B006P5Q02Q/,1,1
-"Ape Case Cubeze 39, Camera Insert, Black / Yellow, Interior Case For Cameras (ACQB39)",Photography,http://www.amazon.com/dp/B009GA6CS4/,1,1
-"Manfrotto MTPIXI-B PIXI Mini Tripod, Black",Boost,http://www.amazon.com/dp/B00D76RNLS/,1,1
-"Osprey Packs Farpoint 40 Travel Backpack, Volcanic Grey, Medium/Large",Sports,http://www.amazon.com/dp/B014EBM3KA/,1,1
-"Eagle Creek Pack It Starter Set , Black,  3pc Set (Medium Garment Folder/Medium Cube/Small Cube)",Apparel,http://www.amazon.com/dp/B00F9S84D8/,1,1
-Philips Norelco PQ208/40 Travel Electric Razor,Beauty,http://www.amazon.com/dp/B00AEINQ9K/,1,1
-"Wahl 9962-717 Travel Cordless / Battery Trimmer, Black",Beauty & Personal Care,https://www.amazon.com/gp/product/B000FJ9M5K/ref=od_aui_detailpages01?ie=UTF8&amp;psc=1,1,1
-Aquasentials Exfoliating Mesh Soap Saver Pouch (4pk)(Color Assorted),Beauty,http://www.amazon.com/dp/B0068UZBHS/,1,1
-"Dr. Bronner's Liquid Soap, Baby Mild, Travel Sized, 2 oz",Grocery,http://www.amazon.com/dp/B00119Q8RI/,1,1
-Otter Wax Fabric & Canvas Wax | Regular Bar | All-Natural Water Repellent | Made in USA,Shoes,http://www.amazon.com/dp/B005MV99L8/,1,1
-ibagbar Canvas Backpack Travel Bag Hiking Bag Camping Bag Rucksack Black Large,Sports,http://www.amazon.com/dp/B01IUTEKWQ/,1,1
-"Fj llr ven High Coast 24, Navy, One Size",Apparel,http://www.amazon.com/dp/B018EF0IPY/,1,1
-Aleader Men's Mesh Slip On Water Shoes White 11 D(M) US,Shoes,http://www.amazon.com/dp/B01FTZ7ZCQ/,1,1
-"Mpow Car Phone Mount Magnetic,Universal Air Vent Car Mount with Strong Magnet Car Phone Holder for iPhone 8/8Plus/7/7Plus/6s/6Plus/5S, Galaxy S5/S6/S7/S8, Google Nexus, LG, Huawei and More",Wireless,http://www.amazon.com/dp/B01K3YOA8K/,1,1
-Swiss+Tech Utili-Key Stainless Steel 6-in-1 Multi Tool,Automotive Parts and Accessories,http://www.amazon.com/dp/B001AY2WKQ/,1,1
+AmazonBasics Travel Laptop Backpack,Personal Computer,http://www.amazon.com/dp/B011J4BPWC/,4,3
+Victorinox Swiss Army Jetsetter 3 Pocket Knife,Sports,http://www.amazon.com/dp/B00932EPYI/,8,3
+"Leatherman - Style PS Multitool, Black",Home Improvement,http://www.amazon.com/dp/B0058RX9NU/,19,3
+"Tortuga Air Travel Backpack - Carry-On-Sized, 27L, Expandable Weekend Bag",Sports,http://www.amazon.com/dp/B01AV640WQ/,4,3
+"AmazonBasics Carry-On Travel Backpack, Black",Apparel,http://www.amazon.com/dp/B01J24H2K0/,3,3
+Cabin Max Metz Backpack Flight Approved Carry on Bag,Apparel,http://www.amazon.com/dp/B00IR2VESA/,3,3
+Ceptics USA to Europe Asia Plug Adapter - CE Certified - RoHS Compliant - 6 Pack,Speakers,http://www.amazon.com/dp/B0084OPT8C/,6,2
+"Sunland Microfiber Ultra Compact Sports Bath Towels (Dark Blue, 32inch X 60inch)",Sports,http://www.amazon.com/dp/B00MGGYZVG/,2,2
+"Osprey Porter Travel Duffel Bag, Black, 30-Liter",Sports,http://www.amazon.com/dp/B00IMXQTG6/,4,2
+"Dr. Bronner's Organic Castile Liquid Soap Liquid, Tree Tea, 2 Ounce",Beauty,http://www.amazon.com/dp/B000VD3XKK/,2,2
+Kookaburra Wash (16-Ounce),Health and Beauty,http://www.amazon.com/dp/B0007CQ6UE/,3,2
+"J.R. Liggett Bar Shampoo, Virgin Coconut Aragan Oil, 3.5 oz.",Beauty,http://www.amazon.com/dp/B00937VAQE/,5,2
+"Colgate Travel Toothbrush, Soft - Colors may Vary (6 Pack)",Beauty,http://www.amazon.com/dp/B003A4HSIA/,3,2
+Philips Norelco PQ208/40 Travel Electric Razor,Beauty,http://www.amazon.com/dp/B00AEINQ9K/,2,2
+"100% Pure Flax Linen Bath Towel 25""x 52""",Home,http://www.amazon.com/dp/B00WBC17N4/,2,2
+"Belkin 3-Outlet SurgePlus Mini Travel Swivel Charger Surge Protector with Dual USB Ports (2.1 AMP / 10 Watt), BST300",Speakers,http://www.amazon.com/dp/B00ATZJ5YS/,19,2
+Panasonic ES3831K Electric Travel Shaver ,Beauty,http://www.amazon.com/dp/B001CS8BJ6/,3,2
+"Wahl 9962-717 Travel Cordless / Battery Trimmer, Black",Beauty,http://www.amazon.com/dp/B000ICLIO2/,3,2
+"Scrubba Portable Laundry System Wash Bag, Light  Green",Sports,http://www.amazon.com/dp/B00BUI7HFC/,7,2
+"Osprey Farpoint 40 Travel Backpack (2015 Model), Charcoal, Medium/Large",Sports,http://www.amazon.com/dp/B006P5Q02Q/,4,2
+"Anker 20000mAh Portable Charger PowerCore 20100 - Ultra High Capacity Power Bank with 4.8A Output, PowerIQ Technology for iPhone, iPad & Samsung Galaxy & More – Black",Wireless,http://www.amazon.com/dp/B00X5RV14Y/,187,2
+"Swiss Army Victorinox Nail clippers with nail file, stainless, in Blister",Sports,http://www.amazon.com/dp/B001U52C9Q/,12,2
+Thule Covert DSLR Rolltop Backpack,Photography,http://www.amazon.com/dp/B00JXECZSE/,5,2
+"Danco, Inc. 5"" Flat Suction Sink Stopper,White",Home Improvement,http://www.amazon.com/dp/B00G99DMVU/,4,2
+"Master Lock 647D Set-Your-Own Combination Luggage Lock, 1-3/16-Inch (Assorted finish - brass or satin nickel)",Home Improvement,http://www.amazon.com/dp/B000BD8MQ0/,2,1
+"Sea to Summit Ultra-Sil Shopping Bag,Blue",Sports,http://www.amazon.com/dp/B001MS0KRC/,1,1
+Sea To Summit Lite Line Clothesline,Sports,http://www.amazon.com/dp/B000T28X4E/,3,1
+"Thai Deodorant Stone Crystal-Deodorant, 4.25 Ounce",Beauty,http://www.amazon.com/dp/B000AN1JEI/,8,1
+Aquapac Waterproof Keymaster 608,Sports,http://www.amazon.com/dp/B000VQUUVW/,3,1
+"Master Lock Padlock, Set Your Own Combination TSA Accepted Cable Luggage Lock, 1-3/16 in. Wide, Assorted Colors, 4688D",Home Improvement,http://www.amazon.com/dp/B000WO84Z2/,8,1
+NALGE TRAVEL KIT MD,Sports,http://www.amazon.com/dp/B00076RC0S/,1,1
+"ONGUARD 87401 PVC Men's Buffalo Plain Toe Knee Boots with Lug Outsole, 16"" Height, Black, Size 11",BISS,http://www.amazon.com/dp/B000QDK5RO/,1,1
+"Eco-Dent Baking Soda Toothpowder...Cinnamon, 2oz",Beauty,http://www.amazon.com/dp/B000OL8P2U/,1,1
+"Dr. Bronner's Fair Trade & Organic Castile Liquid Soap - (Almond, 2 oz)",Health and Beauty,http://www.amazon.com/dp/B000A42QBM/,1,1
+Coghlan's Bungee Clothesline,Sports,http://www.amazon.com/dp/B000NUM8D4/,2,1
+"Eagle Creek Pack It Compression Sac Set (Small/Medium/Large) , No Color,  3pc Set",Apparel,http://www.amazon.com/dp/B000NRSJ8U/,2,1
+"Andis 1600-Watt MicroTurbo Dual Voltage Hair Dryer, White (33805) (Packaging May Vary)",Beauty,http://www.amazon.com/dp/B0009XH6V4/,1,1
+"MMF Industries Seven-pin Security/Night Deposit Bag with 2 keys, 11 x 8-1/2 Inches, Royal Blue (2330881W08)",Office Product,http://www.amazon.com/dp/B0006HWRE4/,2,1
+"J.R. Liggett Bar Shampoo, Original Formula, 3.5 Ounce",Beauty,http://www.amazon.com/dp/B00016X68Q/,3,1
+ShedRain WindPro Vented Auto Open Auto Close Compact Umbrella with Teflon,Apparel,http://www.amazon.com/dp/B001DL5WN0/,1,1
+Esbit Ultralight Folding Pocket Stove with Six 14g Solid Fuel Tablets,Sports,http://www.amazon.com/dp/B001C1UGVO/,11,1
+"Ergodyne Chill-Its 6602 Evaporative Cooling Towel, Blue",Home Improvement,http://www.amazon.com/dp/B001B5I57I/,17,1
+Black Wahl Rubberised Pocket Pro Battery Trimmer,Beauty,http://www.amazon.com/dp/B000HC2MDE/,1,1
+"Master Lock Padlock, Set Your Own Combination Lock, 2 in. Wide, 178D",Home Improvement,http://www.amazon.com/dp/B0009V1WMA/,2,1
+Alpine Swiss Mens Leather Zip Around Wallet ID Card Secure Zipper Bifold Crosshatch Black,Apparel,http://www.amazon.com/dp/B004M6UDC8/,1,1
+"Sea to Summit Ultra-Sil Sling Bag (Blue, 16-Liter)",Sports,http://www.amazon.com/dp/B004WBAE5O/,1,1
+"Panasonic ES8103S Arc3 Men’s Electric Shaver Wet/Dry with Nanotech Blades, 3-Blade Cordless with Flexible Pivoting Head",Beauty,http://www.amazon.com/dp/B001DNE3KQ/,4,1
+Cocoon Silk TravelSheet,Sports,http://www.amazon.com/dp/B001DXC6FA/,2,1
+BLACKHAWK! Shemaugh - Olive/Black,Sports,http://www.amazon.com/dp/B001E8K6YM/,1,1
+"Wahl Clipper Lithium Ion Rechargeable All in One Men's Grooming Kit, Beard Trimmers, Hair Clippers and Electric Shavers, Gifts for Dads, Boyfriends by the Brand used by Professionals  #9854-600",Beauty,http://www.amazon.com/dp/B001GQ3GEY/,12,1
+"Wet Original Gel Lubricant Water Based One Gallon, 128 Ounce",Health and Beauty,http://www.amazon.com/dp/B001H0AXRW/,2,1
+TETON Sports Scout 3400 Internal Frame Backpack; Great Backpacking Gear or Pack for Camping or Hiking; Mecca Orange,Sports,http://www.amazon.com/dp/B001KBYPIG/,2,1
+Bobs Red Mill Baking Soda Gf (4 Pack),Grocery,http://www.amazon.com/dp/B001KUWFHA/,1,1
+GSI Outdoors Glacier Stainless 14 fl Oz Cup,Sports,http://www.amazon.com/dp/B001LF3IAM/,1,1
+GSI Outdoors Glacier Stainless Bottle Cup/Pot,Sports,http://www.amazon.com/dp/B001LF3IB6/,10,1
+"ExOfficio Men's Give-N-Go Boxer Brief, Charcoal, Medium",Sports,http://www.amazon.com/dp/B001M0MMYO/,7,1
 "Ergodyne Arsenal 5220 Responder Trauma, Blue",Home Improvement,http://www.amazon.com/dp/B001AYGFP4/,1,1
-Condor Rip-Away EMT Pouch (Black),Sports,http://www.amazon.com/dp/B003TPNG5E/,1,1
-"Tactical First Aid Pouch, MOLLE Compatible- Black",Sports,http://www.amazon.com/dp/B003TPR73G/,1,1
-Condor Rip-Away EMT Pouch Lite Tan,Sports,http://www.amazon.com/dp/B00I0RRDDW/,1,1
-NZ Fusion Botanicals Australian Sandalwood Solid Fragrance,Beauty,http://www.amazon.com/dp/B00MCSVLHE/,1,1
-"AmazonBasics 4-Piece Packing Cube Set - Small, Medium, Large, and Slim, Green",Apparel,http://www.amazon.com/dp/B014VBIS6G/,1,1
-Hanging Backpack Organizer and Carry-On Organizer (With Zippers) - Gorgeous Colors - Built In Hooks For Convenient Hanging - Holds More Than 4 Packing Cubes - Durable - Only 9oz - Designed In USA By PACK Gear,Apparel,http://www.amazon.com/dp/B016YY9V3C/,1,1
-"HomeIdeas Men’s & Women’s Foldable Nylon Anti-Slip Portable Travel Slippers With Storage Bag Perfect for Flight, Hotel, SPA (Medium / 7-8.5 D(M) US, Red)",Shoes,http://www.amazon.com/dp/B01MS36RT6/,1,1
-AmazonBasics Travel Laptop Backpack,Personal Computer,http://www.amazon.com/dp/B011J4BPWC/,1,1
-OXO Tot Silicone Tub Drain Stopper- Aqua,Baby Product,http://www.amazon.com/dp/B0038JE650/,1,1
-"Danco, Inc. 5"" Flat Suction Sink Stopper,White",Home Improvement,http://www.amazon.com/dp/B00G99DMVU/,1,1
-"Soak S07-6G Soak Wash Rinse, 12-Ounce, Celebration",Beauty,http://www.amazon.com/dp/B00II57Q1U/,1,1
-Sea To Summit Lite Line Clothesline,Sports,http://www.amazon.com/dp/B000T28X4E/,1,1
-ROCO Minimalist Aluminum Slim Wallet RFID BLOCKING Money Clip - No.2 (Black),Apparel,http://www.amazon.com/dp/B01EWZ6EU8/,1,1
-GRAYL Ultralight Water Purifier [+ FILTER] BOTTLE (Black),Sports,http://www.amazon.com/dp/B01C6HAYCS/,1,1
-JBL Clip 2 Waterproof Portable Bluetooth Speaker (Black),CE,http://www.amazon.com/dp/B01F24RELQ/,1,1
-"Carhartt Men's Base Force Wicking Cotton Super Cold Weather Bottom,Black,Medium",Apparel,http://www.amazon.com/dp/B00CBAOEMW/,1,1
-Energizer L91BP-8 Ultimate Lithium AA Batteries (8-Pack),Health and Beauty,http://www.amazon.com/dp/B0000DC4EL/,1,1
-"Travelon Laundry Soap Sheets, 50-Count",Health and Beauty,http://www.amazon.com/dp/B000Y0CL8K/,1,1
-"32Degrees Weatherproof Men's Reversible Fleece To Nano Light Puffer Jacket, Charcoal/Black, Large",Apparel,http://www.amazon.com/dp/B00N5PN2PW/,1,1
-adidas Outdoor RockStack Leather Hiking Shoe - Men's,Shoes,http://www.amazon.com/dp/B00LNHG3SW/,1,1
-"Osprey UltraLight 3 Dry Sack, One Size",Sports,http://www.amazon.com/dp/B00UC5BWUK/,1,1
-"Columbia Men's Trail Drier Jacket, Black, Large",Sports,http://www.amazon.com/dp/B010NLGNJM/,1,1
-Osprey Ultralight Stuff Pack,Sports,http://www.amazon.com/dp/B0124Y2V4M/,1,1
-BOSS Hugo Boss Men's Haindt Leather Glove,Apparel,http://www.amazon.com/dp/B00EUTMWYO/,1,1
-Icebreaker Men's Seeker Long Sleeve Shirt,Sports,http://www.amazon.com/dp/B00DJ9BXRS/,1,1
-Sea To Summit Travelling Light Hanging Toiletry Bag - Lime Green Small,Health and Beauty,http://www.amazon.com/dp/B00D8TYCKO/,1,1
-Mohem Men's Poseidon Quick Drying Casual Aqua Water Shoes Mesh Walking Shoes(3166Black38),Shoes,http://www.amazon.com/dp/B019LOO7TK/,1,1
+"adidas Originals Men's Adilette Slide Sandal,Black/White/Black,11 M US",Apparel,http://www.amazon.com/dp/B001N0E0OI/,1,1
+SPACE SAVER CUP,Sports,http://www.amazon.com/dp/B001ODH4O2/,2,1
+"WITZ See it Safe Waterproof ID/Badge Holder Case, Clear",Sports,http://www.amazon.com/dp/B001P5Y08C/,2,1
+"Sea to Summit DryLite towel - Large,Eucalyptus",Sports,http://www.amazon.com/dp/B001Q3KLEK/,3,1
+Swiss+Tech Utili-Key Stainless Steel 6-in-1 Multi Tool,Automotive Parts and Accessories,http://www.amazon.com/dp/B001AY2WKQ/,2,1
+"View Slimmy Thin Front Pocket ID Wallet, Black",Apparel,http://www.amazon.com/dp/B000GQGWCS/,1,1
+Evernew Water Carry (900 ml),Sports,http://www.amazon.com/dp/B001ASIRMO/,3,1
+"Guyot Designs Squishy Bowl and Cup Set, Tahoe Blue",Sports,http://www.amazon.com/dp/B001AO4ISU/,1,1
+Monster MP OTG400 BK Outlets To Go Power Strip - 4 AC Outlets - Black,Speakers,http://www.amazon.com/dp/B000F9YN2M/,13,1
+"Biokleen Bac-Out Stain+Odor Remover, 32 Ounces",Health and Beauty,http://www.amazon.com/dp/B0009ET4XQ/,3,1
+Atsko Silicone Water-Guard 10.5 oz,Sports,http://www.amazon.com/dp/B0001FYL2M/,2,1
+"5.11 3 Day Rush Backpack, Black",Sports,http://www.amazon.com/dp/B0019MPNNC/,1,1
+"Patagonia Men's Loulu Casual Walking Shoe,Walnut,11 M US",Shoes,http://www.amazon.com/dp/B0018Y91JS/,1,1
+"Everest Luggage Backpack with Front and Side Pockets, Black, Large",Apparel,http://www.amazon.com/dp/B000F3HQZO/,1,1
+Gerber Shard Keychain Tool [22-01769],Home Improvement,http://www.amazon.com/dp/B002ZK45IQ/,30,1
+"AmazonBasics Universal Travel Case for Small Electronics and Accessories, Black",Wireless,http://www.amazon.com/dp/B002VPE1QG/,40,1
+"Wahl Professional Peanut Cordless Clipper/Trimmer #8663, White - Great On-the-Go Trimmer for Barbers and Stylists - Powerful Rotary Motor",Beauty,http://www.amazon.com/dp/B00126XOI6/,1,1
+OXO Tot Silicone Tub Drain Stopper- Aqua,Baby Product,http://www.amazon.com/dp/B0038JE650/,2,1
+"Braun M90 Mobile Shaver for Precision Trimming, Great for Travel, Black/Silver",Beauty,http://www.amazon.com/dp/B002TQ4AO0/,3,1
+"The American Red Cross Clipray the crank-powered, clip-on flashlight and smartphone charger, ARCCR100R-SNG",Home Improvement,http://www.amazon.com/dp/B003BYROUQ/,4,1
+Biotrue Multi-purpose Solution Travel 2 oz. (Pack of 1),Health and Beauty,http://www.amazon.com/dp/B003QYKQY2/,1,1
+Griffin Technology GC17097 USB Mini-Cable Kit,CE,http://www.amazon.com/dp/B003T5KXJQ/,4,1
+Condor Rip-Away EMT Pouch (Black),Sports,http://www.amazon.com/dp/B003TPNG5E/,5,1
+"Tactical First Aid Pouch, MOLLE Compatible- Black",Sports,http://www.amazon.com/dp/B003TPR73G/,3,1
+"Ziploc Vacuum Starter Kit, 3-Quart Bags, 1-Pump",Health and Beauty,http://www.amazon.com/dp/B003UEMFUG/,22,1
+Logitech Ultimate Ears 600vi Noise-Isolating Headset - Dark Silver,Speakers,http://www.amazon.com/dp/B003YKG2UK/,6,1
+Fred CITRUS SAW Bottle Opener And Fruit Slicer,Kitchen,http://www.amazon.com/dp/B003YUBQJW/,1,1
+"Tide Sink Pack Liquid Laundry Detergent, 0.51oz  (Pack of 12)",Health and Beauty,http://www.amazon.com/dp/B0041O0SU8/,1,1
+"Chrome Metropolis Messenger Bag Grey/Black, One Size",Apparel,http://www.amazon.com/dp/B004673IX4/,1,1
+"Clarks Men's Bushacre 2 Desert Boot,Beeswax Leather,10 M US",Shoes,http://www.amazon.com/dp/B004DCNN64/,12,1
+Sesamee KCR0436 Chrome Plated Marine Padlock,Home Improvement,http://www.amazon.com/dp/B004FF4SCM/,1,1
+Maxpedition Pygmy Falcon-II Backpack,Sports,http://www.amazon.com/dp/B004H0TR0S/,1,1
+Maxpedition Cuboid - Medium,Sports,http://www.amazon.com/dp/B004H48JFS/,1,1
+Tweezerman  Moustache Scissors(Model: 7200),Beauty,http://www.amazon.com/dp/B002HK2GN0/,3,1
+"Braun Cruzer 6 Precision Cruzer, 6 High Definition Precision",Beauty,http://www.amazon.com/dp/B004UKSLFC/,2,1
+"The Original Indexknobber II by the Pressure Positive Company, Ruby Red",Health and Beauty,http://www.amazon.com/dp/B001211O74/,1,1
+Jansport Right Pack Navy,Sports,http://www.amazon.com/dp/B004YORK1U/,3,1
+"Smart Planet Collapsible Eco Meal Kit, Small , Blue",Kitchen,http://www.amazon.com/dp/B0051XRYYQ/,1,1
+"Condor H2O Pouch (Multicam, 10 x 4Dia-Inch)",Sports,http://www.amazon.com/dp/B005281N1K/,1,1
+Aleene's 29134 Fabric Fusion Tape,Art and Craft Supply,http://www.amazon.com/dp/B005572IKS/,1,1
+Ultra Retractable Cord RJ-11 Modem Cable,Personal Computer,http://www.amazon.com/dp/B000EWGXHS/,1,1
+Energizer Pro 3 LED Headlamp,Home Improvement,http://www.amazon.com/dp/B00081GATG/,7,1
+Suisse Sport Everest Sleeping Bag,Sports,http://www.amazon.com/dp/B002EIU14Q/,1,1

@@ -1,65 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-The 21 Bitcoin Computer,Personal Computer,http://www.amazon.com/dp/B014RD021C/,11,2
-The Creature from Jekyll Island: A Second Look at the Federal Reserve,Book,http://www.amazon.com/dp/091298645X/,10,2
-Amlong Crystal Clear Crystal Ball 110mm (4.2 in.) Including Wooden Stand,Home,http://www.amazon.com/dp/B004ZWMA3Y/,3,2
-The Bitcoin Big Bang: How Alternative Currencies Are About to Change the World,eBooks,http://www.amazon.com/dp/B00NRC5AWQ/,,1
-DiceCheck,Mobile Application,http://www.amazon.com/dp/B00R122I46/,,1
-Deep Web,Movie,http://www.amazon.com/dp/B012PJRXQC/,,1
-The Bitcoin Investor: Gay Male Erotica Daily Release Series (High Street Hunger Book 51),eBooks,http://www.amazon.com/dp/B00MRAC8HY/,,1
-Banking on Bitcoin,Movie,http://www.amazon.com/dp/B01N980S1A/,,1
-Bitcoin:  The End Of Money As We Know It,Movie,http://www.amazon.com/dp/B013HU40NC/,,1
-Magic Money,Movie,http://www.amazon.com/dp/B01N9I4XLE/,,1
-The Book Of Satoshi: The Collected Writings of Bitcoin Creator Satoshi Nakamoto,eBooks,http://www.amazon.com/dp/B00M6KGJ2K/,,1
-Three Felonies A Day: How the Feds Target the Innocent,Book,http://www.amazon.com/dp/1594035229/,38,1
-Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics,Book,http://www.amazon.com/dp/0517548232/,14,1
-CanaKit Raspberry Pi 2 Complete Starter Kit (9-Items),Personal Computer,http://www.amazon.com/dp/B008XVAVAW/,13,1
-A Random Walk down Wall Street: The Time-tested Strategy for Successful Investing,Book,http://www.amazon.com/dp/0393352242/,10,1
-"Cryptex Round Lock USB Flash Drive 32 GB, USB 3.0, Antique Gold",Personal Computer,http://www.amazon.com/dp/B01F44IZ3U/,9,1
-Antifragile: Things That Gain from Disorder (Incerto),Book,http://www.amazon.com/dp/0812979680/,8,1
-Basic Economics,Book,http://www.amazon.com/dp/0465060730/,8,1
-Crucial BX100 250GB SATA 2.5 Inch Internal Solid State Drive - CT250BX100SSD1,Personal Computer,http://www.amazon.com/dp/B00RQA6TEI/,3,1
-The Misbehavior of Markets: A Fractal View of Financial Turbulence,Book,http://www.amazon.com/dp/0465043577/,3,1
-Silk Road,eBooks,http://www.amazon.com/dp/B00HTWDEK0/,2,1
-"Trezor bitcoin wallet, Black",Personal Computer,http://www.amazon.com/dp/B00R6MKDDE/,2,1
-Metaphors We Live By,Book,http://www.amazon.com/dp/0226468011/,2,1
-The IT Regulatory and Standards Compliance Handbook: How to Survive Information Systems Audit and Assessments,Book,http://www.amazon.com/dp/1597492663/,2,1
-Wall Street and the Bolshevik Revolution: The Remarkable True Story of the American Capitalists Who Financed the Russian Communists,Book,http://www.amazon.com/dp/190557035X/,2,1
-Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money,Book,http://www.amazon.com/dp/0062362496/,2,1
-Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction,Book,http://www.amazon.com/dp/0691171696/,2,1
-The Geologic Model of Religion,eBooks,http://www.amazon.com/dp/B008MZVRXO/,2,1
-The Innovator's Dilemma: The Revolutionary Book That Will Change the Way You Do Business,Book,http://www.amazon.com/dp/0062060244/,2,1
-The Book Of Satoshi: The Collected Writings of Bitcoin Creator Satoshi Nakamoto,Book,http://www.amazon.com/dp/0996061312/,2,1
-America's Bank: The Epic Struggle to Create the Federal Reserve,Book,http://www.amazon.com/dp/1594205493/,1,1
-Sirman MINICOOKER Thermal Blender,Kitchen,http://www.amazon.com/dp/B00E5J1U06/,1,1
-"Sirman 15304C0G08NA Canova 300 Commercial Food Slicer, 12-Inch",Kitchen,http://www.amazon.com/dp/B00FU4URF4/,1,1
-The Bitcoin Big Bang: How Alternative Currencies Are About to Change the World,Book,http://www.amazon.com/dp/1118963660/,1,1
-Ledger Wallet Nano Bitcoin Security Card (Ledger Wallet Nano),Personal Computer,http://www.amazon.com/dp/B00UA47IIS/,1,1
-Practical Cryptography,Book,http://www.amazon.com/dp/0471223573/,1,1
-INTEL NUC Kit Component - BOXNUC6CAYH,Personal Computer,http://www.amazon.com/dp/B01MSZTD8N/,1,1
-Seagate 1TB BarraCuda SATA 6Gb/s 128MB Cache 2.5-Inch 7mm Internal Hard Drive (ST1000LM048),Personal Computer,http://www.amazon.com/dp/B01LYNQXCP/,1,1
-Crucial 8GB KiT (4GBx2) DDR3/DDR3L 1866 MT/s (PC3-14900) Unbuffered SODIMM 204-Pin Memory - CT2K51264BF186DJ,Personal Computer,http://www.amazon.com/dp/B00N5UFBME/,1,1
-Wall Street and the Rise of Hitler,Book,http://www.amazon.com/dp/0945001533/,1,1
-Kingston Technology 8GB 1600MHz DDR3L (PC3-12800) 1.35V Non-ECC CL11 SODIMM Intel Laptop Memory KVR16LS11/8,Personal Computer,http://www.amazon.com/dp/B00CQ35HBQ/,1,1
-Gigabyte Intel Celeron J1900 Mini PC Barebone Components GB-BXBT-1900,Personal Computer,http://www.amazon.com/dp/B00VBNSO8U/,1,1
-Western Digital 500GB SATA 3.5 Hard Drive - WD5000AAKX-60U6AA0,PC Accessory,http://www.amazon.com/dp/B00Y3DSLD8/,1,1
-"Encyclopedia of Physical Bitcoins and Crypto-Currencies, Revised Edition",Book,http://www.amazon.com/dp/0995089922/,1,1
-"The Investor's Manifesto: Preparing for Prosperity, Armageddon, and Everything in Between",Book,http://www.amazon.com/dp/1118073762/,1,1
+Mastering Bitcoin: Unlocking Digital Cryptocurrencies,Book,http://www.amazon.com/dp/1449374042/,20,7
+The 21 Bitcoin Computer,Personal Computer,http://www.amazon.com/dp/B014RD021C/,17,6
+"Trezor bitcoin wallet, Black",Personal Computer,http://www.amazon.com/dp/B00R6MKDDE/,8,5
+The Book Of Satoshi: The Collected Writings of Bitcoin Creator Satoshi Nakamoto,Book,http://www.amazon.com/dp/0996061312/,6,5
+The Internet of Money,Book,http://www.amazon.com/dp/1537000454/,6,5
+Crucial 8GB Single DDR3/DDR3L 1600 MT/S (PC3-12800) Unbuffered SODIMM 204-Pin Memory - CT102464BF160B,Personal Computer,http://www.amazon.com/dp/B006YG8X9Y/,49,3
+Building Bitcoin Websites: A Beginner's Guide to Bitcoin Focused Web Development,Book,http://www.amazon.com/dp/153494544X/,3,3
+Amlong Crystal Clear Crystal Ball 110mm (4.2 in.) Including Wooden Stand,Home,http://www.amazon.com/dp/B004ZWMA3Y/,5,3
+Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money,Book,http://www.amazon.com/dp/006236250X/,6,3
+The Misbehavior of Markets: A Fractal View of Financial Turbulence,Book,http://www.amazon.com/dp/0465043577/,10,3
+"Cryptex Round Lock USB Flash Drive 32 GB, USB 3.0, Antique Gold",Personal Computer,http://www.amazon.com/dp/B01F44IZ3U/,24,3
+Ledger Wallet Nano Bitcoin Security Card (Ledger Wallet Nano),Personal Computer,http://www.amazon.com/dp/B00UA47IIS/,5,2
+The Sovereign Individual: Mastering the Transition to the Information Age,Book,http://www.amazon.com/dp/0684832720/,4,2
+The Age of Cryptocurrency: How Bitcoin and Digital Money Are Challenging the Global Economic Order,eBooks,http://www.amazon.com/dp/B00L73JQ18/,2,2
+Kids Funny Bitcoin Rollercoaster T-Shirt | Cryptocurrency Tee 6 Baby Blue,Apparel,http://www.amazon.com/dp/B071FG1415/,2,2
+WD 1TB Elements Portable External Hard Drive  - USB 3.0  - WDBUZG0010BBK-WESN,Personal Computer,http://www.amazon.com/dp/B00CRZ2PRM/,15,2
+U2F Zero,PC Accessory,http://www.amazon.com/dp/B01L9DUPK6/,3,2
+The Creature from Jekyll Island: A Second Look at the Federal Reserve,Book,http://www.amazon.com/dp/091298645X/,25,2
+HODL BTC Funny Bitcoin Cryptocurrency T-Shirt,Apparel,http://www.amazon.com/dp/B01GY9RL4S/,3,2
+Antminer S7 ~4.73TH/s @ .25W/GH 28nm ASIC Bitcoin Miner,Personal Computer,http://www.amazon.com/dp/B014OGCP6W/,6,2
+DiceCheck,Mobile Application,http://www.amazon.com/dp/B00R122I46/,2,2
+Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction,Book,http://www.amazon.com/dp/0691171696/,5,2
+Block C Avalon6 Bitcoin Miners - 3.5 TH/s,Personal Computer,http://www.amazon.com/dp/B01AKU94HY/,2,2
+Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics,Book,http://www.amazon.com/dp/0517548232/,37,2
+SanDisk Ultra 200GB Micro SDXC Memory Card (SDSDQUAN-200G-G4A),Personal Computer,http://www.amazon.com/dp/B00V62XBQQ/,102,2
+The Age of Cryptocurrency: How Bitcoin and Digital Money Are Challenging the Global Economic Order,Book,http://www.amazon.com/dp/1250065631/,6,2
+AntMiner S5 ~1155Gh/s @ 0.51W/Gh 28nm ASIC Bitcoin Miner,PC Accessory,http://www.amazon.com/dp/B00RCTIY4G/,5,2
+Three Felonies A Day: How the Feds Target the Innocent,Book,http://www.amazon.com/dp/1594035229/,127,2
+Anker USB 3.0 to SATA Portable Adapter with 3ft Cable and Power Adapter for 2.5 / 3.5 inch HDD and SSD,CE,http://www.amazon.com/dp/B005B3VO24/,15,2
+.999 Fine Gold Bitcoin Commemorative Round Collectors Coin - Bit Coin is Gold Plated Copper Physical Coin,Toy,http://www.amazon.com/dp/B00J2B0KEO/,3,2
+Bit by Bit: How P2P Is Freeing the World,eBooks,http://www.amazon.com/dp/B00S085TRS/,2,2
+Silk Road,eBooks,http://www.amazon.com/dp/B00HTWDEK0/,8,2
+SanDisk Ultra Fit 16GB USB 3.0 Flash Drive SDCZ43-016G-G46,Personal Computer,http://www.amazon.com/dp/B00LLEN5FQ/,8,2
+The Book Of Satoshi: The Collected Writings of Bitcoin Creator Satoshi Nakamoto,eBooks,http://www.amazon.com/dp/B00M6KGJ2K/,3,2
+Treasury's War: The Unleashing of a New Era of Financial Warfare,Book,http://www.amazon.com/dp/1610391152/,5,2
+KeepKey: the Simple Cryptocurrency Hardware Wallet,Personal Computer,http://www.amazon.com/dp/B0143M2A5S/,4,2
+"Encyclopedia of Physical Bitcoins and Crypto-Currencies, Revised Edition",Book,http://www.amazon.com/dp/0995089922/,2,2
+Scientific Investment Analysis,Book,http://www.amazon.com/dp/1567203388/,1,1
+"Living on Love: ""The Messenger""",Book,http://www.amazon.com/dp/0595172873/,1,1
+A Random Walk down Wall Street: The Time-tested Strategy for Successful Investing,Book,http://www.amazon.com/dp/0393352242/,23,1
+1995: The Year the Future Began,Book,http://www.amazon.com/dp/0520273990/,1,1
+Mastering Bitcoin: Programming the Open Blockchain,Book,http://www.amazon.com/dp/1491954388/,5,1
+Flash Boys,Book,http://www.amazon.com/dp/0393244660/,7,1
 Ethics DeMYSTiFieD: Hard Stuff Made Easy,Book,http://www.amazon.com/dp/0071762752/,1,1
-Sandisk CZ48 128GB USB 3.0 Flash memory Drive - SDCZ48-128G-U46,Personal Computer,http://www.amazon.com/dp/B00P8XQPY4/,1,1
-Komputerbay 128GB SDXC Secure Digital Extended Capacity Speed Class 10 600X UHS-I Ultra High Speed Flash Memory Card 60MB/s Write 90MB/s Read 128 GB,Personal Computer,http://www.amazon.com/dp/B008AN1C1A/,1,1
-"A Radically Beneficial World: Automation, Technology and Creating Jobs for All: The Future Belongs to Work That Is Meaningful",Book,http://www.amazon.com/dp/1517160960/,1,1
-Bitcoin: And the Future of Money,Book,http://www.amazon.com/dp/1629370363/,1,1
-Against Intellectual Property,Book,http://www.amazon.com/dp/B001DTHFWS/,1,1
-Victoria Palace Canopy Bed by Michael Amini,Furniture,http://www.amazon.com/dp/B00ZCOJXAW/,1,1
-"Tsukineko Full-Size StazOn Multi-Surface Inkpad, Blazing Red",Art and Craft Supply,http://www.amazon.com/dp/B0013JLEBG/,1,1
-The Official CHFI Study Guide (Exam 312-49): for Computer Hacking Forensic Investigator,Book,http://www.amazon.com/dp/1597491977/,1,1
-Building Bitcoin Websites: A Beginner's Guide to Bitcoin Focused Web Development,Book,http://www.amazon.com/dp/153494544X/,1,1
-Arouse-Rx Sex Pheromones For Men: Unscented Cologne Additive to Attract Women - 10mL,Beauty,http://www.amazon.com/dp/B001P4EM3G/,1,1
-Bitcoin: The future of money?,Book,http://www.amazon.com/dp/1783521023/,1,1
-"The Sovereign Individual: How to Survive and Thrive During the Collapse of the Welfare State First edition by Davidson, James Dale; Rees-Mogg, William published by Simon & Schuster Hardcover",Book,http://www.amazon.com/dp/B00924G6J4/,1,1
-AntMiner S5 ~1155Gh/s @ 0.51W/Gh 28nm ASIC Bitcoin Miner,PC Accessory,http://www.amazon.com/dp/B00RCTIY4G/,1,1
-APPLE II BASIC programming manual,Book,http://www.amazon.com/dp/B0006XJ4GW/,1,1
-StarTech.com 3 Drive 3.5in Trayless Hot Swap SATA Mobile Rack Backplane,CE,http://www.amazon.com/dp/B000NMAZU0/,1,1
-OXO Good Grips Ratcheting Pineapple Slicer,Kitchen,http://www.amazon.com/dp/B005LCT5I0/,1,1
+Where Are the Customers' Yachts?: or A Good Hard Look at Wall Street,Book,http://www.amazon.com/dp/0471770892/,5,1
+"Manias, Panics, and Crashes: A History of Financial Crises (Wiley Investment Classics)",Book,http://www.amazon.com/dp/0471389455/,1,1
+Beyond Fear: Thinking Sensibly About Security in an Uncertain World.,Book,http://www.amazon.com/dp/0387026207/,1,1
+"Hope Endures: Leaving Mother Teresa, Losing Faith, and Searching for Meaning",Book,http://www.amazon.com/dp/1416597832/,4,1
+The Moral Landscape: How Science Can Determine Human Values,eBooks,http://www.amazon.com/dp/B003V1WT72/,1,1
+Secrets and Lies: Digital Security in a Networked World,Book,http://www.amazon.com/dp/0471253111/,1,1
+"Technical Analysis of Stock Trends, Tenth Edition",Book,http://www.amazon.com/dp/1439898189/,1,1
+"The Gold Cartel: Government Intervention on Gold, the Mega Bubble in Paper, and What This Means for Your Future",Book,http://www.amazon.com/dp/1137286423/,1,1
+"Primalbranding: Create Zealots for Your Brand, Your Company, and Your Future",Book,http://www.amazon.com/dp/1451655312/,1,1
+Capital in the Twenty-First Century,Book,http://www.amazon.com/dp/1491591617/,15,1
+Wild Bill's 1oz Hickory Smoked Beef Jerky Packs (12 beef jerky packs per bag),Grocery,http://www.amazon.com/dp/B00239K3LW/,1,1
+Understanding Bitcoin: The Liberty Lover's Guide to the Mechanics & Economics of Crypto-Currencies,Book,http://www.amazon.com/dp/1505819784/,1,1
+"A Radically Beneficial World: Automation, Technology and Creating Jobs for All: The Future Belongs to Work That Is Meaningful",Book,http://www.amazon.com/dp/1517160960/,2,1
 The Science of the Blockchain,Book,http://www.amazon.com/dp/1522751831/,1,1
-TREZOR - The Bitcoin Safe (Grey),Electronics,https://www.amazon.com/TREZOR-The-Bitcoin-Safe-Grey/dp/B00R6MRI50,1,1
+The Bitcoin Big Bang: How Alternative Currencies Are About to Change the World,Book,http://www.amazon.com/dp/1118963660/,1,1
+Practical Cryptography,Book,http://www.amazon.com/dp/0471223573/,5,1
+"Why Nations Fail: The Origins of Power, Prosperity, and Poverty",Book,http://www.amazon.com/dp/0307719227/,47,1
+The Death of Money: The Coming Collapse of the International Monetary System,Book,http://www.amazon.com/dp/1591846706/,3,1
+The Innovator's Dilemma: The Revolutionary Book That Will Change the Way You Do Business,Book,http://www.amazon.com/dp/0062060244/,9,1
+"The Investor's Manifesto: Preparing for Prosperity, Armageddon, and Everything in Between",Book,http://www.amazon.com/dp/1118073762/,2,1
+Big Time Toys Moon Shoes Purple,Toy,http://www.amazon.com/dp/B0018KGR26/,2,1
+Financial Markets and Trading: An Introduction to Market Microstructure and Trading Strategies,Book,http://www.amazon.com/dp/0470924128/,1,1
+Jump-N-Carry JNC300XL 900 Peak Amp 12V Jump Starter,Automotive Parts and Accessories,http://www.amazon.com/dp/B000XQ9MGE/,5,1
+Web of Debt: The Shocking Truth about Our Money System and How We Can Break Free,Book,http://www.amazon.com/dp/0983330859/,1,1
+Boombustology: Spotting Financial Bubbles Before They Burst,Book,http://www.amazon.com/dp/0470879467/,1,1
+The Best Way to Rob a Bank is to Own One: How Corporate Executives and Politicians Looted the S&L Industry,Book,http://www.amazon.com/dp/0292754183/,3,1
+All In Against the IRS: Every Gambler's Tax Guide,Book,http://www.amazon.com/dp/0983290709/,1,1
+Wall Street and the Rise of Hitler,Book,http://www.amazon.com/dp/0945001533/,4,1
+How an Economy Grows and Why It Crashes,Book,http://www.amazon.com/dp/047052670X/,17,1
+Barren Metal: A History of Capitalism as the Conflict between Labor and Usury,Book,http://www.amazon.com/dp/0929891147/,1,1
+"The End of Banking: Money, Credit, and the Digital Revolution",Book,http://www.amazon.com/dp/3952438510/,1,1
+Basic Economics,Book,http://www.amazon.com/dp/0465060730/,24,1
+Metaphors We Live By,Book,http://www.amazon.com/dp/0226468011/,7,1
+Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money,Book,http://www.amazon.com/dp/0062362496/,6,1
+A Beginners Guide to Bitcoin And Austrian Economics,Book,http://www.amazon.com/dp/3898799638/,1,1
+The Big Reset: War on Gold and the Financial Endgame,Book,http://www.amazon.com/dp/9089645993/,1,1
+HTC DROID Incredible 4G LTE Smartphone HDMI to Micro-USB MHL adapter! True digital conversion using official chipset. (Bulk Packaging),Wireless,http://www.amazon.com/dp/9973223330/,1,1
+Texas Instruments 94327 Ti Graphlink USB,CE,http://www.amazon.com/dp/B00006BXBS/,4,1
+"Windex(R) Powerized Glass Cleaner with Ammonia-D, 32 Oz. Spray Bottle",Health and Beauty,http://www.amazon.com/dp/B000093INI/,1,1
+P3 P4400 Kill A Watt Electricity Usage Monitor,Home Improvement,http://www.amazon.com/dp/B00009MDBU/,153,1
+APPLE II BASIC programming manual,Book,http://www.amazon.com/dp/B0006XJ4GW/,1,1
+The Famous Drinking Bird,Toy,http://www.amazon.com/dp/B000JSGLBK/,18,1
+StarTech.com 3 Drive 3.5in Trayless Hot Swap SATA Mobile Rack Backplane,CE,http://www.amazon.com/dp/B000NMAZU0/,1,1
+"WD Blue 160 GB Desktop Hard Drive: 3.5 Inch, 7200 RPM, PATA, 8 MB Cache - WD1600AAJB",CE,http://www.amazon.com/dp/B000VRZ7PA/,1,1
+Don't Think of an Elephant!: Know Your Values and Frame the Debate--The Essential Guide for Progressives,Book,http://www.amazon.com/dp/1931498717/,7,1
+"Tsukineko Full-Size StazOn Multi-Surface Inkpad, Blazing Red",Art and Craft Supply,http://www.amazon.com/dp/B0013JLEBG/,1,1
+American Contempt for Liberty (Hoover Institution Press Publication),Book,http://www.amazon.com/dp/0817918752/,1,1
+Against Intellectual Property,Book,http://www.amazon.com/dp/B001DTHFWS/,1,1
+Arouse-Rx Sex Pheromones For Men: Unscented Cologne Additive to Attract Women - 10mL,Beauty,http://www.amazon.com/dp/B001P4EM3G/,1,1
+Kingston 8 GB microSDHC Class 4 Flash Memory Card SDC4/8GBET,CE,http://www.amazon.com/dp/B00200K1TS/,6,1
+Wall Street and the Bolshevik Revolution: The Remarkable True Story of the American Capitalists Who Financed the Russian Communists,Book,http://www.amazon.com/dp/190557035X/,2,1
+"Kindle DX, Free 3G, 9.7"" E Ink Display, 3G Works Globally",Amazon Ereaders,http://www.amazon.com/dp/B002GYWHSQ/,6,1
+One Second After (A John Matherson Novel),eBooks,http://www.amazon.com/dp/B002LATV16/,7,1
+"Lowercase Metal Stamping Set, 3/32""",Home Improvement,http://www.amazon.com/dp/B003TTWKJS/,1,1
+Bitcoin: The future of money?,Book,http://www.amazon.com/dp/1783521023/,1,1
+Antifragile: Things That Gain from Disorder (Incerto),Book,http://www.amazon.com/dp/0812979680/,22,1

@@ -1,24 +1,77 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-CLR via C# (4th Edition) (Developer Reference),Book,http://www.amazon.com/dp/0735667454/,6,4
-Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,71,2
-The Pragmatic Programmer: From Journeyman to Master,Book,http://www.amazon.com/dp/020161622X/,27,2
-"Code Complete: A Practical Handbook of Software Construction, Second Edition",Book,http://www.amazon.com/dp/0735619670/,25,2
-"C# in Depth, 3rd Edition",Book,http://www.amazon.com/dp/161729134X/,5,2
-C# 6.0 in a Nutshell: The Definitive Reference,Book,http://www.amazon.com/dp/1491927062/,2,2
-"Framework Design Guidelines: Conventions, Idioms, and Patterns for Reusable .NET Libraries (Microsoft Windows Development Series)",eBooks,http://www.amazon.com/dp/B0017SWPNO/,,1
-Design Patterns: Elements of Reusable Object-Oriented Software,Book,http://www.amazon.com/dp/0201633612/,26,1
-Soft Skills: The software developer's life manual,Book,http://www.amazon.com/dp/1617292397/,7,1
-C# 5.0 in a Nutshell: The Definitive Reference,Book,http://www.amazon.com/dp/1449320104/,4,1
-The C# Player's Guide,Book,http://www.amazon.com/dp/0985580100/,3,1
-Dependency Injection in .NET,Book,http://www.amazon.com/dp/1935182501/,3,1
-The Art of Unit Testing: with examples in C#,Book,http://www.amazon.com/dp/1617290890/,2,1
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life),Book,http://www.amazon.com/dp/1934356344/,2,1
-Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers),Book,http://www.amazon.com/dp/193435659X/,2,1
-C# 6.0 and the .NET 4.6 Framework,Book,http://www.amazon.com/dp/1484213335/,1,1
-Head First Object-Oriented Analysis and Design,Book,http://www.amazon.com/dp/0596008678/,1,1
-The C# Player's Guide (2nd Edition),Book,http://www.amazon.com/dp/0985580127/,1,1
+CLR via C# (4th Edition) (Developer Reference),Book,http://www.amazon.com/dp/0735667454/,19,9
+Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,236,6
+"Framework Design Guidelines: Conventions, Idioms, and Patterns for Reusable .NET Libraries (2nd Edition)",Book,http://www.amazon.com/dp/0321545613/,8,5
+"Code Complete: A Practical Handbook of Software Construction, Second Edition",Book,http://www.amazon.com/dp/0735619670/,85,4
+"C# in Depth, 3rd Edition",Book,http://www.amazon.com/dp/161729134X/,14,4
+The Pragmatic Programmer: From Journeyman to Master,Book,http://www.amazon.com/dp/020161622X/,86,3
+C# 6.0 and the .NET 4.6 Framework,Book,http://www.amazon.com/dp/1484213335/,6,3
+C# 6.0 in a Nutshell: The Definitive Reference,Book,http://www.amazon.com/dp/1491927062/,6,3
+Pro ASP.NET MVC 5 (Expert's Voice in ASP.Net),Book,http://www.amazon.com/dp/1430265299/,8,3
+Dependency Injection in .NET,Book,http://www.amazon.com/dp/1935182501/,6,3
+"Head First C#: A Learner's Guide to Real-World Programming with C#, XAML, and .NET",Book,http://www.amazon.com/dp/1449343503/,10,3
+Essential C# 6.0 (5th Edition) (Addison-Wesley Microsoft Technology),Book,http://www.amazon.com/dp/0134141040/,6,3
+Design Patterns: Elements of Reusable Object-Oriented Software,Book,http://www.amazon.com/dp/0201633612/,87,2
+The C# Player's Guide (2nd Edition),Book,http://www.amazon.com/dp/0985580127/,2,2
+xUnit Test Patterns: Refactoring Test Code,Book,http://www.amazon.com/dp/0131495054/,3,2
+"Agile Principles, Patterns, and Practices in C#",Book,http://www.amazon.com/dp/0131857258/,8,2
+Head First C#,Book,http://www.amazon.com/dp/0596514824/,5,2
+The Art of Unit Testing: with examples in C#,Book,http://www.amazon.com/dp/1617290890/,6,2
+Professional ASP.NET MVC 5,Book,http://www.amazon.com/dp/1118794753/,7,2
+Windows Presentation Foundation Unleashed (WPF),Book,http://www.amazon.com/dp/0672328917/,3,2
+Learning C# by Developing Games with Unity 3D Beginner's Guide,Book,http://www.amazon.com/dp/1849696586/,3,2
+Working Effectively with Legacy Code,Book,http://www.amazon.com/dp/0131177052/,59,2
+"Concurrency in C# Cookbook: Asynchronous, Parallel, and Multithreaded Programming",Book,http://www.amazon.com/dp/1449367569/,2,2
+The C# Programming Language (Covering C# 4.0) (4th Edition) (Microsoft Windows Development Series),Book,http://www.amazon.com/dp/0321741765/,6,2
+Pro C# 5.0 and the .NET 4.5 Framework (Expert's Voice in .NET),Book,http://www.amazon.com/dp/1430242337/,9,1
+Expert C# 5.0: with the .NET 4.5 Framework (Expert's Voice in .NET),Book,http://www.amazon.com/dp/1430248602/,3,1
+Pro Asynchronous Programming with .NET,Book,http://www.amazon.com/dp/1430259205/,1,1
+.NET IL Assembler,Book,http://www.amazon.com/dp/1430267615/,1,1
+C# 5.0 in a Nutshell: The Definitive Reference,Book,http://www.amazon.com/dp/1449320104/,11,1
+Async in C# 5.0: Unleash the Power of Async,Book,http://www.amazon.com/dp/1449337163/,1,1
+ASP.NET Web API 2: Building a REST Service from Start to Finish,Book,http://www.amazon.com/dp/1484201108/,1,1
+Pro ASP.NET Core MVC,Book,http://www.amazon.com/dp/1484203984/,1,1
+C# 6.0 Cookbook: Solutions for C# Developers,Book,http://www.amazon.com/dp/1491921463/,1,1
+C# 7.0 in a Nutshell: The Definitive Reference,Book,http://www.amazon.com/dp/1491987650/,2,1
+Microsoft Visual C# Step by Step (8th Edition) (Developer Reference),Book,http://www.amazon.com/dp/1509301046/,3,1
+The Career Programmer: Guerilla Tactics for an Imperfect World (Expert's Voice),Book,http://www.amazon.com/dp/1590596242/,1,1
+Metaprogramming in .NET,Book,http://www.amazon.com/dp/1617290262/,1,1
+Soft Skills: The software developer's life manual,Book,http://www.amazon.com/dp/1617292397/,18,1
 Unity Game Development Scripting,Book,http://www.amazon.com/dp/1783553634/,1,1
-Microsoft Visual C# Step by Step (8th Edition) (Developer Reference),Book,http://www.amazon.com/dp/1509301046/,1,1
-"Joe Celko's Thinking in Sets: Auxiliary, Temporal, and Virtual Tables in SQL (The Morgan Kaufmann Series in Data Management Systems)",Book,http://www.amazon.com/dp/0123741378/,1,1
-Seven More Languages in Seven Weeks: Languages That Are Shaping the Future,Book,http://www.amazon.com/dp/1941222153/,1,1
+ASP.NET Core 1.0 High Performance,Book,http://www.amazon.com/dp/1785881892/,1,1
+The Art of Unit Testing: with Examples in .NET,Book,http://www.amazon.com/dp/1933988274/,1,1
+The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life),Book,http://www.amazon.com/dp/1934356344/,7,1
+Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers),Book,http://www.amazon.com/dp/193435659X/,4,1
+Seven More Languages in Seven Weeks: Languages That Are Shaping the Future,Book,http://www.amazon.com/dp/1941222153/,2,1
+"Framework Design Guidelines: Conventions, Idioms, and Patterns for Reusable .NET Libraries (Microsoft Windows Development Series)",eBooks,http://www.amazon.com/dp/B0017SWPNO/,1,1
+WPF Control Development Unleashed: Building Advanced User Experiences,eBooks,http://www.amazon.com/dp/B002R5YNYK/,1,1
+TXB0104 Breakout - Bidirectional Voltage Level Translator,BISS,http://www.amazon.com/dp/B00FGD7ZZ4/,1,1
+Showstopper!: The Breakneck Race to Create Windows NT and the Next Generation at Microsoft,eBooks,http://www.amazon.com/dp/B00J5X5E9U/,1,1
+Creating Mobile Apps with Xamarin.Forms Preview Edition 2 (Developer Reference),eBooks,http://www.amazon.com/dp/B00VYSSNJW/,1,1
+Programmer's Coffee Mug Ceramic Mug Choose Between 11 or 15oz mug (11 Ounce),Kitchen,http://www.amazon.com/dp/B010Y0QZEK/,1,1
+Microsoft Visual C# Step by Step (Developer Reference),eBooks,http://www.amazon.com/dp/B017A8UAEK/,1,1
+Xamarin: Cross-Platform Mobile Application Development,eBooks,http://www.amazon.com/dp/B01LD8K5ZM/,1,1
+Beginning C# 6 Programming with Visual Studio 2015,Book,http://www.amazon.com/dp/1119096685/,2,1
+"TCP/IP Sockets in C, Second Edition: Practical Guide for Programmers (Morgan Kaufmann Practical Guides)",Book,http://www.amazon.com/dp/0123745403/,1,1
+Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development (3rd Edition),Book,http://www.amazon.com/dp/0131489062/,2,1
+The Clean Coder: A Code of Conduct for Professional Programmers,Book,http://www.amazon.com/dp/0137081073/,23,1
+"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,112,1
+Domain-Driven Design: Tackling Complexity in the Heart of Software,Book,http://www.amazon.com/dp/0321125215/,24,1
+"Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions",Book,http://www.amazon.com/dp/0321200683/,2,1
 Concurrent Programming on Windows,Book,http://www.amazon.com/dp/032143482X/,1,1
+Essential Windows Communication Foundation (WCF): For .NET Framework 3.5,Book,http://www.amazon.com/dp/0321440064/,1,1
+Implementing Domain-Driven Design,Book,http://www.amazon.com/dp/0321834577/,7,1
+Professional ASP.NET Design Patterns,Book,http://www.amazon.com/dp/0470292784/,1,1
+Professional Test Driven Development with C#: Developing Real World Applications with TDD,Book,http://www.amazon.com/dp/047064320X/,1,1
+Head First Object-Oriented Analysis and Design,Book,http://www.amazon.com/dp/0596008678/,5,1
+JavaScript: The Good Parts,Book,http://www.amazon.com/dp/0596517742/,60,1
+WPF 4.5 Unleashed,Book,http://www.amazon.com/dp/0672336979/,3,1
+"Effective C#  (Covers C# 6.0), (includes Content Update Program): 50 Specific Ways to Improve Your C# (3rd Edition) (Effective Software Development Series)",Book,http://www.amazon.com/dp/0672337878/,1,1
+Microsoft Visual C# 2013 Step by Step (Step by Step Developer),Book,http://www.amazon.com/dp/073568183X/,2,1
+"Adaptive Code via C#: Class and Interface Design, Design Patterns, and SOLID Principles (Developer Reference)",Book,http://www.amazon.com/dp/0735683204/,5,1
+C# Design Pattern Essentials,Book,http://www.amazon.com/dp/0956575862/,2,1
+The C# Player's Guide,Book,http://www.amazon.com/dp/0985580100/,6,1
+The C# Player's Guide (3rd Edition),Book,http://www.amazon.com/dp/0985580135/,2,1
+"The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win",Book,http://www.amazon.com/dp/0988262509/,28,1
+"Patterns, Principles, and Practices of Domain-Driven Design",Book,http://www.amazon.com/dp/1118714709/,2,1
+"Joe Celko's Thinking in Sets: Auxiliary, Temporal, and Virtual Tables in SQL (The Morgan Kaufmann Series in Data Management Systems)",Book,http://www.amazon.com/dp/0123741378/,1,1

@@ -1,41 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Thrustmaster T-Flight Hotas X Flight Stick,Video Games,http://www.amazon.com/dp/B001CXYMFS/,32,11
-Thrustmaster   T.16000M FCS HOTAS Controller,Personal Computer,http://www.amazon.com/dp/B01KCHPRXA/,18,3
-AuraSound AST-2B-4 Pro Bass Shaker Tactile Transducer,CE,http://www.amazon.com/dp/B0002ZPTBI/,4,3
-Lepai LP-2020A+ Tripath TA2020 Class-T Hi-Fi Audio Amplifier with Power Supply,Speakers,http://www.amazon.com/dp/B0049P6OTI/,20,2
-Logitech 963290-0403 Extreme 3D Pro Joystick for Windows,CE,http://www.amazon.com/dp/B00009OY9U/,20,2
-CH Products Pro Throttle USB,CE,http://www.amazon.com/dp/B00006B84Z/,4,2
-Bracket Pole Mount VESA75/100,CE,http://www.amazon.com/dp/B00BCRRUQ2/,3,2
-Monoprice 6ft Premium 3.5mm Stereo Male to 2RCA Male 22AWG Cable (Gold Plated) - Black,Speakers,http://www.amazon.com/dp/B002K8A75I/,2,2
-FMOD Crossover Pair 70 Hz Low Pass,CE,http://www.amazon.com/dp/B0006N41EM/,2,2
-Elite: And Here The Wheel (Elite: Dangerous),eBooks,http://www.amazon.com/dp/B00KZ0ZNI4/,,1
-Elite: Reclamation (Elite: Dangerous),eBooks,http://www.amazon.com/dp/B00KUY2MX4/,,1
-Elite: Out of the Darkness... the Universe has Never Been so Dangerous,eBooks,http://www.amazon.com/dp/B00MZD32JQ/,,1
-Microsoft Xbox 360 Wired Controller for Windows & Xbox 360 Console,CE,http://www.amazon.com/dp/B004QRKWLA/,25,1
-Thrustmaster T-16000M Flight Stick,CE,http://www.amazon.com/dp/B001S0RTU0/,17,1
-Steam Controller,Video Games,http://www.amazon.com/dp/B016KBVBCS/,13,1
-Thrustmaster Hotas Warthog Joystick,Electronics,https://www.amazon.com/dp/B00371R8P4/ref=cm_sw_r_cp_dp_T2_hzZFzbX8B5MET,7,1
-Microsoft Xbox One Controller + Wireless Adapter for Windows 10,Video Games,http://www.amazon.com/dp/B015IX3X3E/,7,1
-Xbox One Elite Wireless Controller,Video Games,http://www.amazon.com/dp/B00ZDNNRB8/,6,1
-CH Products Pro Pedals USB Flight Simulator Pedals ( 300-111 ),CE,http://www.amazon.com/dp/B0000512IE/,4,1
-CH Products Fighterstick USB,CE,http://www.amazon.com/dp/B00006B84X/,4,1
-Razer Tartarus Chroma Expert RGB Gaming Keypad with 25 Programmable Keys Including an 8-way Thumb-pad,Personal Computer,http://www.amazon.com/dp/B00ZTRW00C/,4,1
-"Razer Orbweaver Chroma - Elite RGB Mechanical Switches Gaming Keypad - Adjustable Hand, Thumb and Palm-Rest",Personal Computer,http://www.amazon.com/dp/B013P0HW7K/,3,1
-Logitech G Saitek X52 Flight Control System,Personal Computer,http://www.amazon.com/dp/B01LY285ZH/,2,1
-CH Products Flight Sim Yoke USB ( 200-615 ),CE,http://www.amazon.com/dp/B000056SPM/,2,1
-CH Products Flightstick Pro USB 4-Button Joystick 8-Way Hatswitch,CE,http://www.amazon.com/dp/B00006B84V/,2,1
-The Elder Scrolls V: Skyrim [Online Game Code],Digital Video Games,http://www.amazon.com/dp/B00GXHJGVI/,2,1
-Out of the Darkness (Elite: Dangerous),Book,http://www.amazon.com/dp/1500950718/,1,1
-WD-40 Specialist Dirt and Dust Resistant Dry Lube PTFE Spray - High Temperature Lubricant up to 500° F. 10 oz. (Pack of 1),BISS Basic,http://www.amazon.com/dp/B00AF0ODGM/,1,1
-AquaCraft Models 1/72 Scale Radio Controlled Electric-Powered Almost-Ready-to-Run US Fletcher Class Destroyer Kit,Hobby,http://www.amazon.com/dp/B00TKI1MHI/,1,1
-LEGO Star Wars MagnaGuard Starfighter,Toy,http://www.amazon.com/dp/B00160EZIQ/,1,1
-Nike Elite Basketball Crew Mens,Sports,http://www.amazon.com/dp/B004TR0S8O/,1,1
+Thrustmaster T-Flight Hotas X Flight Stick,Video Games,http://www.amazon.com/dp/B001CXYMFS/,220,85
+Thrustmaster   T.16000M FCS HOTAS Controller,Personal Computer,http://www.amazon.com/dp/B01KCHPRXA/,90,28
+Extreme 3D Pro Joystick for Windows,CE,http://www.amazon.com/dp/B00009OY9U/,107,16
+Bracket Pole Mount VESA75/100,Home,http://www.amazon.com/dp/B00PZDB2HM/,19,12
+CH Products Pro Throttle USB,CE,http://www.amazon.com/dp/B00006B84Z/,27,12
+Thrustmaster T-16000M Flight Stick,CE,http://www.amazon.com/dp/B001S0RTU0/,96,10
+Bracket Pole Mount VESA75/100,CE,http://www.amazon.com/dp/B00BCRRUQ2/,26,10
+Mad Catz V.1 Stick for PC,CE,http://www.amazon.com/dp/B001MGNWDI/,12,8
+AuraSound AST-2B-4 Pro Bass Shaker Tactile Transducer,CE,http://www.amazon.com/dp/B0002ZPTBI/,25,8
+Thrustmaster T.Flight Hotas 4 Flight Stick for PS4 & PC,Video Games,http://www.amazon.com/dp/B015PJ68BK/,28,7
+Saitek X52 Pro Flight System Controller,CE,http://www.amazon.com/dp/B000LQ4HTS/,20,6
+Saitek PS28 X52 Flight Control System,CE,http://www.amazon.com/dp/B00030GSJY/,18,5
+Lepai LP-2020A+ Tripath TA2020 Class-T Hi-Fi Audio Amplifier with Power Supply,Speakers,http://www.amazon.com/dp/B0049P6OTI/,103,4
+Monoprice 6ft Premium 3.5mm Stereo Male to 2RCA Male 22AWG Cable (Gold Plated) - Black,Speakers,http://www.amazon.com/dp/B002K8A75I/,7,4
+FMOD Crossover Pair 70 Hz Low Pass,CE,http://www.amazon.com/dp/B0006N41EM/,5,4
+CH Products Pro Pedals USB Flight Simulator Pedals ( 300-111 ),CE,http://www.amazon.com/dp/B0000512IE/,17,4
+Out of the Darkness (Elite: Dangerous),Book,http://www.amazon.com/dp/1500950718/,4,4
+Thrustmaster VG TWCS Throttle Controller (2960754) - PC Mac Linux,Personal Computer,http://www.amazon.com/dp/B01L28LVUG/,12,4
+CH Products Fighterstick USB,CE,http://www.amazon.com/dp/B00006B84X/,16,3
+Logitech G Saitek X52 Pro Flight Contol System,Personal Computer,http://www.amazon.com/dp/B01LZ1MQTL/,6,3
+"IOGEAR 2.4GHz Wireless Compact Keyboard with Optical Trackball and Scroll Wheel, Silver/Black,GKM681R",CE,http://www.amazon.com/dp/B004OBAJCA/,3,3
+Logitech G Pro Flight X56 Rhino HOTAS,Personal Computer,http://www.amazon.com/dp/B01LX398IE/,7,3
+Mad Catz F.L.Y.5 Stick for PC,CE,http://www.amazon.com/dp/B001EYU1VO/,8,3
+"AboveTEK Heavy Duty Aluminum Gooseneck iPad Holder, Cell Phone Desk Mount Tablet Holder iPad Stand for Office Kitchen Bed, Fits 3.5""-10"" iPad Pro Air Mini & Mobile iPhone 7 6 5, Strong & Flexible Arm",PC Accessory,http://www.amazon.com/dp/B00X8C39J6/,5,3
+Thrustmaster T-Flight Stick X Flight Stick - PC,Video Games,http://www.amazon.com/dp/B000U1OOH4/,10,2
+"VELCRO Brand - Industrial Strength - 2"" Wide Tape, 4' - White",Office Product,http://www.amazon.com/dp/B00006IC2U/,2,2
+Elite: Out of the Darkness... the Universe has Never Been so Dangerous,eBooks,http://www.amazon.com/dp/B00MZD32JQ/,2,2
+LED Backlight for TV Normal Bright Cool White Mini Kit (Extra Small): Recommended for Flat Screen TV LCD (Table Mount or Wall Mount),CE,http://www.amazon.com/dp/B00390GFJS/,3,2
+Thrustmaster   T16000M FCS Flight Pack - PC,Personal Computer,http://www.amazon.com/dp/B01N2PE8CZ/,5,2
+"Thrustmaster VG T16000M FCS Joystick, Black - PC",Personal Computer,http://www.amazon.com/dp/B01MQEDEEW/,19,2
+"VideoSecu ML12B TV LCD Monitor Wall Mount Full Motion 15-Inch Extension Arm Articulating Tilt Swivel for Most 15 to 27-Inch LED TV Flat Panel Screen with VESA 100x100,75x75 1KX (Black)",Speakers,http://www.amazon.com/dp/B003O1UYHG/,18,2
+Thrustmaster MFD Cougar Pack Flight Control Panels,CE,http://www.amazon.com/dp/B002HH9TRY/,12,2
+TrackIr 5 Premium Head Tracking for Gaming,Video Games,http://www.amazon.com/dp/B0029M6VKA/,8,2
+Elite: Dangerous Original Soundtrack,Digital Music Album,http://www.amazon.com/dp/B00UPEQVPE/,2,2
+Saitek Pro X-56 Rhino H.O.T.A.S. Video Game Flight Controller for PC (SCB432210002/01/1),Personal Computer,http://www.amazon.com/dp/B01CZTSS3O/,10,2
+Logitech G Saitek X52 Flight Control System,Personal Computer,http://www.amazon.com/dp/B01LY285ZH/,8,2
+Saitek Pro Flight X-55 Rhino H.O.T.A.S. (Hands on Throttle and Stick) System for PC,Personal Computer,http://www.amazon.com/dp/B00HHAIY72/,17,2
+"ModRight Xtreme Super Large Anti-Static Mod-Mat Work and Assembly Surface (Over 47"" x 23"" in Size)",CE,http://www.amazon.com/dp/B00CPP6QUG/,4,2
+Elite: Reclamation (Elite: Dangerous),eBooks,http://www.amazon.com/dp/B00KUY2MX4/,3,2
+Saitek Pro Flight Rudder Pedals,CE,http://www.amazon.com/dp/B000H67DDY/,6,2
+Wilton Silver Color Mist,Kitchen,http://www.amazon.com/dp/B005KTVG86/,71,2
+SteelSeries World of Warcraft Legendary MMO Gaming Mouse,CE,http://www.amazon.com/dp/B005L38QHA/,3,2
+Macally 7 Port Powered USB 2.0 Hub with 5V 2A Power Adapter & 5 foot long Cable (TriHub7),CE,http://www.amazon.com/dp/B001DBF07S/,2,2
+Elite: And Here The Wheel (Elite: Dangerous),eBooks,http://www.amazon.com/dp/B00KZ0ZNI4/,2,2
+Phantom Force Electronic Chess by Excalibur,Toy,http://www.amazon.com/dp/B0018PWUJA/,4,1
+"Bessey XCR-4PC Ratcheting Spring Clamp 2-Inch Capacity, 4-Pack",Home Improvement,http://www.amazon.com/dp/B0012YLFP2/,1,1
+The Science of Interstellar,Book,http://www.amazon.com/dp/1494559390/,11,1
+CH Products USB Combatstick,CE,http://www.amazon.com/dp/B00006B84W/,2,1
+CH Products Flightstick Pro USB 4-Button Joystick 8-Way Hatswitch,CE,http://www.amazon.com/dp/B00006B84V/,6,1
+"The Long Way to a Small, Angry Planet: Wayfarers 1",Book,http://www.amazon.com/dp/1473619793/,2,1
+The Wreck of the River of Stars,Book,http://www.amazon.com/dp/0765334194/,1,1
 How To Cook a Sock,Book,http://www.amazon.com/dp/B000Q15T8G/,1,1
-CH Products Eclipse Yoke with 144 Programmable Functions with Control Manager Software,CE,http://www.amazon.com/dp/B001GIOGBY/,1,1
-CH Products USB Combatstick,CE,http://www.amazon.com/dp/B00006B84W/,1,1
-Mobotron MS-426 Standard Car iPad Laptop Mount Holder Stand,Personal Computer,http://www.amazon.com/dp/B004Q287M6/,1,1
-Bracket Pole Mount VESA75/100,Home,http://www.amazon.com/dp/B00PZDB2HM/,1,1
-Pirates and Privateers (Star Wars RPG),Book,http://www.amazon.com/dp/0874312949/,1,1
-3D connexion SpaceExplorer 3D Navigation Device with USB Interface ( 3DX-700026 ),CE,http://www.amazon.com/dp/B000LB5IXC/,1,1
+Thrustmaster Nascar Pro Force Feedback Racing Wheel,CE,http://www.amazon.com/dp/B000062SSA/,1,1
+Manfrotto 196B-2 143BKT 2-Section Single Articulated Arm with Camera Bracket (Black),Photography,http://www.amazon.com/dp/B000OPWSYM/,4,1
+"VideoSecu 2 Heavy duty PA DJ Club Adjustable Height Satellite Speaker Stand Mount - Extends 26.5"" to 47"" (i.e. Bose, Harmon Kardon, Polk, JBL, KEF, Klipsch, Sony, Yamaha, Pioneer and others) 1B7",CE,http://www.amazon.com/dp/B000VRREPG/,53,1
+PlayStation Eye,Video Games,http://www.amazon.com/dp/B000VTQ3LU/,17,1
+Slipstick CB840 3-1/4 Inch Bed Roller / Furniture Wheel Gripper Caster Cups (Set of 4) Caramel Color,Home Improvement,http://www.amazon.com/dp/B000X8X58S/,10,1
+Anelace Powers of 2 Binary Code Clock Classic Red with Red Lights,Home,http://www.amazon.com/dp/B000YHR5UC/,2,1
+MAYFLASH 3 in 1 Magic Joy Box For Pc,Toy,http://www.amazon.com/dp/B000ND3XXA/,5,1
+LEGO Star Wars MagnaGuard Starfighter,Toy,http://www.amazon.com/dp/B00160EZIQ/,1,1
+CH Products Flight Sim Yoke USB ( 200-615 ),CE,http://www.amazon.com/dp/B000056SPM/,4,1
+APC Back-UPS 550VA UPS Battery Backup & Surge Protector (BE550G),Speakers,http://www.amazon.com/dp/B0019804U8/,43,1
 Elite: Wanted (Elite: Dangerous),Book,http://www.amazon.com/dp/1473201284/,1,1
+3D connexion SpaceExplorer 3D Navigation Device with USB Interface ( 3DX-700026 ),CE,http://www.amazon.com/dp/B000LB5IXC/,1,1
+A Brief History of Time,Audible,http://www.amazon.com/dp/B0000545OB/,2,1
+Performance Tool W88989 Protective Diamond Shape Anti-Fatigue Interlocking Floor Mat (24 Square Feet),Home Improvement,http://www.amazon.com/dp/B000IZ9C9M/,4,1
+"Amscan Sticky Tack Party Decoration Adhesive, Blue, 6"" X 3.8""",Toy,http://www.amazon.com/dp/B000HAZCS8/,2,1
+"Surely You're Joking, Mr. Feynman!",Audible,http://www.amazon.com/dp/B00005458Z/,1,1
+The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics,Book,http://www.amazon.com/dp/1433243687/,1,1
+I Want My Hat Back,Book,http://www.amazon.com/dp/0763655988/,11,1
+Billions & Billions: Thoughts on Life and Death at the Brink of the Millennium,Book,http://www.amazon.com/dp/0345379187/,2,1
+Leviathan Wakes (The Expanse Book 1),eBooks,http://www.amazon.com/dp/B0047Y171G/,11,1
+Creative Sound Blaster X-Fi Surround 5.1 Pro USB Audio System with SBX SB1095,CE,http://www.amazon.com/dp/B0044DEDCA/,10,1
+Pandora's Star (The Commonwealth Saga Book 1),eBooks,http://www.amazon.com/dp/B000FC1AFC/,5,1
+Natural Point TrackIR 4 Pro Head Tracking System,CE,http://www.amazon.com/dp/B000EP3BAC/,1,1
+What Do You Care What Other People Think?: Further Adventures of a Curious Character,Audible,http://www.amazon.com/dp/B000BKSFXI/,1,1
+"3M Scotch 4011 Exterior Mounting Tape, 1 in x 60 in",Home Improvement,http://www.amazon.com/dp/B00004Z4BV/,13,1
 How to Avoid Huge Ships: Or I Never Met a Ship I Liked,Book,http://www.amazon.com/dp/0881000191/,1,1
+6PK Pine Air Freshener,Automotive Parts and Accessories,http://www.amazon.com/dp/B000B5QFIU/,1,1
+ASA Instrument Pilot Kneeboard (IFR) - ASA-KB-2,Sports,http://www.amazon.com/dp/B0035X6F62/,2,1
+Mobo Chair Mount Ergo Keyboard and Mouse Tray System - 2.5-Inch x 12.5-Inch x 7.5-Inch - Black,Office Product,http://www.amazon.com/dp/B002YERS32/,5,1
+Logitech WingMan Formula,PC Accessory,http://www.amazon.com/dp/B00001W021/,1,1
+Wenzel Klondike Tent - 8 Person,Sports,http://www.amazon.com/dp/B002PB2HPS/,3,1
+Kensington Orbit Trackball Mouse with Scroll Ring (K72337US),CE,http://www.amazon.com/dp/B002OOWB3O/,11,1
+"PetSafe Drinkwell Original Dog and Cat Water Fountain, 50 oz.",Pet Products,http://www.amazon.com/dp/B00063446M/,29,1
+"VELCRO Brand - Industrial Strength Tape 4"" x 2"" Strips, 2 Sets - Black",Art and Craft Supply,http://www.amazon.com/dp/B003CEXPSA/,7,1
+CowboyStudio Super Clamp with Standard Stud,Photography,http://www.amazon.com/dp/B002LV7X1K/,1,1
+River's Edge Beautiful Hand Painted Poly Resin Salt and Pepper Shaker Set (Bass),Sports,http://www.amazon.com/dp/B003P115XW/,1,1
+Andrea Communications C1-1022600-50 model NC-185 VM USB High Fidelity Stereo USB Computer Headset with Noise Canceling Microphone and Volume/Mute Controls,Personal Computer,http://www.amazon.com/dp/B003VW41G8/,1,1
+Forbidden The Stars (The Interstellar Age Book 1),eBooks,http://www.amazon.com/dp/B003XT5S4S/,2,1
+The Theory of Everything: The Origin and Fate of the Universe,Audible,http://www.amazon.com/dp/B002LL0OQ6/,1,1
+Hutzler 571 Banana Slicer,Kitchen,http://www.amazon.com/dp/B0047E0EII/,32,1
+"Tuscan Dairy Whole Vitamin D Milk, Gallon, 128 oz",Grocery,http://www.amazon.com/dp/B00032G1S0/,31,1
+"Moleskine Classic Notebook, Large, Plain, Black, Hard Cover (5 x 8.25) (Classic Notebooks)",Book,http://www.amazon.com/dp/8883701143/,5,1
+Benro DJ80 Tilthead (DJ80),Photography,http://www.amazon.com/dp/B004D7PX58/,1,1
+Saitek PRO Flight Combat Rudder Pedals,CE,http://www.amazon.com/dp/B004ING996/,6,1
+The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos,Audible,http://www.amazon.com/dp/B004KRUR2U/,1,1
+Pirates and Privateers (Star Wars RPG),Book,http://www.amazon.com/dp/0874312949/,1,1
+"Dauntless (The Lost Fleet, Book 1)",Book,http://www.amazon.com/dp/0441014186/,6,1
+The Mountain Three Wolf Moon Short Sleeve Tee,Apparel,http://www.amazon.com/dp/B002HJ377A/,53,1

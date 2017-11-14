@@ -1,18 +1,66 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"Neuroscience: Exploring the Brain, 3rd Edition",Book,http://www.amazon.com/dp/0781760038/,2,2
-"Neuroscience, Fourth Edition",Book,http://www.amazon.com/dp/0878936971/,2,2
-Principles of Neural Science,Book,http://www.amazon.com/dp/0838577016/,2,2
-"Why Zebras Don't Get Ulcers: The Acclaimed Guide to Stress, Stress-Related Diseases, and Coping - Now Revised and Updated",eBooks,http://www.amazon.com/dp/B0037NX018/,3,1
-Discrete Mathematics and Its Applications Seventh Edition,Book,http://www.amazon.com/dp/0073383090/,3,1
-Ordinary Differential Equations (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486649407/,2,1
-Elementary Statistics (12th Edition),Book,http://www.amazon.com/dp/0321836960/,2,1
-Ion Channels of Excitable Membranes,Book,http://www.amazon.com/dp/0878933212/,1,1
-Neuroscience: Exploring the Brain,Book,http://www.amazon.com/dp/0781778174/,1,1
-Probability and Statistical Inference (9th Edition),Book,http://www.amazon.com/dp/0321923278/,1,1
-Computational Explorations in Cognitive Neuroscience: Understanding the Mind by Simulating the Brain,Book,http://www.amazon.com/dp/0262650541/,1,1
-Calculus: Early Transcendentals,Book,http://www.amazon.com/dp/1285741552/,1,1
+Principles of Neural Science,Book,http://www.amazon.com/dp/0838577016/,5,4
+"Neuroscience, Fourth Edition",Book,http://www.amazon.com/dp/0878936971/,3,3
+"Nolte's The Human Brain: An Introduction to its Functional Anatomy With STUDENT CONSULT Online Access, 6e (Human Brain: An Introduction to Its Functional Anatomy (Nolt)",Book,http://www.amazon.com/dp/0323041310/,5,3
+Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems (Computational Neuroscience Series),Book,http://www.amazon.com/dp/0262541858/,8,3
+"Principles of Neural Science, Fifth Edition (Principles of Neural Science (Kandel))",Book,http://www.amazon.com/dp/0071390111/,11,3
+"Neuroscience: Exploring the Brain, 3rd Edition",Book,http://www.amazon.com/dp/0781760038/,5,3
+Neuroscience,Book,http://www.amazon.com/dp/0878936467/,3,2
+Ion Channels of Excitable Membranes,Book,http://www.amazon.com/dp/0878933212/,2,2
+"Fundamental Neuroscience, Fourth Edition (Squire,Fundamental Neuroscience)",Book,http://www.amazon.com/dp/0123858704/,3,2
+Statistical Analysis of fMRI Data (MIT Press),Book,http://www.amazon.com/dp/0262015048/,2,2
+Pleasures of the Brain (Series in Affective Science),Book,http://www.amazon.com/dp/0195331028/,1,1
+Cajal's Butterflies of the Soul: Science and Art,Book,http://www.amazon.com/dp/0195392701/,1,1
+Neurobiology: A Functional Approach,Book,http://www.amazon.com/dp/0195396154/,1,1
+Fundamentals of Computational Neuroscience,Book,http://www.amazon.com/dp/0199568413/,4,1
+Physiology of Behavior (11th Edition),Book,http://www.amazon.com/dp/0205239390/,1,1
+Networks of the Brain (MIT Press),Book,http://www.amazon.com/dp/0262014696/,2,1
+Analyzing Neural Time Series Data: Theory and Practice (Issues in Clinical and Cognitive Neuropsychology),Book,http://www.amazon.com/dp/0262019876/,3,1
+"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,112,1
 Feeling Pain and Being in Pain (MIT Press),Book,http://www.amazon.com/dp/0262517329/,1,1
-"Nolte's The Human Brain: An Introduction to its Functional Anatomy With STUDENT CONSULT Online Access, 6e (Human Brain: An Introduction to Its Functional Anatomy (Nolt)",Book,http://www.amazon.com/dp/0323041310/,1,1
-The Brain Anatomical Chart,Office Product,http://www.amazon.com/dp/1587791064/,1,1
+Computational Explorations in Cognitive Neuroscience: Understanding the Mind by Simulating the Brain,Book,http://www.amazon.com/dp/0262650541/,1,1
+"The Tale of the Dueling Neurosurgeons: The History of the Human Brain as Revealed by True Stories of Trauma, Madness, and Recovery",Book,http://www.amazon.com/dp/0316182354/,1,1
+Elementary Statistics (12th Edition),Book,http://www.amazon.com/dp/0321836960/,2,1
+Probability and Statistical Inference (9th Edition),Book,http://www.amazon.com/dp/0321923278/,3,1
+"Thinking, Fast and Slow",Book,http://www.amazon.com/dp/0374533555/,118,1
+Applied Bioelectricity: From Electrical Stimulation to Electropathology (Studies in British Literature; 37),Book,http://www.amazon.com/dp/0387984070/,1,1
+Buzzed: The Straight Facts About the Most Used and Abused Drugs from Alcohol to Ecstasy (Third Edition) (Buzzed: The Straight Facts about the Most Used & Abused Drugs),Book,http://www.amazon.com/dp/0393329852/,1,1
+Ordinary Differential Equations (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486649407/,14,1
+Handbook of Functional MRI Data Analysis,Book,http://www.amazon.com/dp/0521517664/,1,1
 "Rang & Dale's Pharmacology: with STUDENT CONSULT Online Access, 7e",Book,http://www.amazon.com/dp/0702034711/,1,1
-Insider's Guide to Graduate Programs in Clinical and Counseling Psychology: 2016/2017 Edition (Insider's Guide to Graduate Programs in Clinical & Counseling Psychology),Book,http://www.amazon.com/dp/1462525725/,1,1
+"Primer of EEG: With A Mini-Atlas, 1e",Book,http://www.amazon.com/dp/0750674768/,1,1
+Sidman's Neuroanatomy: A Programmed Learning Tool (Point (Lippincott Williams & Wilkins)),Book,http://www.amazon.com/dp/0781765684/,5,1
+Neuroscience: Exploring the Brain,Book,http://www.amazon.com/dp/0781778174/,5,1
+Chimpanzee Politics: Power and Sex among Apes,Book,http://www.amazon.com/dp/0801886562/,5,1
+On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines,Book,http://www.amazon.com/dp/0805078533/,10,1
+Molecular Basis of Neuropharmacology: A Foundation for Clinical Neuroscience,Book,http://www.amazon.com/dp/0838563791/,1,1
+Biological Psychology (Critical Thinking in Psychology Series),Book,http://www.amazon.com/dp/0857256939/,1,1
+"Functional Magnetic Resonance Imaging, Second Edition",Book,http://www.amazon.com/dp/0878932860/,1,1
+Functional Magnetic Resonance Imaging,Book,http://www.amazon.com/dp/0878936270/,1,1
+Principles of Brain Evolution,Book,http://www.amazon.com/dp/0878938206/,1,1
+Stahl's Essential Psychopharmacology: Neuroscientific Basis and Practical Applications,Book,http://www.amazon.com/dp/1107686466/,8,1
+Sensation and Perception (with CourseMate Printed Access Card),Book,http://www.amazon.com/dp/1133958494/,1,1
+Calculus: Early Transcendentals,Book,http://www.amazon.com/dp/1285741552/,4,1
+A Primer of Drug Action,Book,http://www.amazon.com/dp/1429233435/,3,1
+"Discovering Statistics Using IBM SPSS Statistics, 4th Edition",Book,http://www.amazon.com/dp/1446249182/,9,1
+"Nolte's The Human Brain: An Introduction to its Functional Anatomy, 7e",Book,http://www.amazon.com/dp/1455728594/,2,1
+Insider's Guide to Graduate Programs in Clinical and Counseling Psychology: 2016/2017 Edition (Insider's Guide to Graduate Programs in Clinical & Counseling Psychology),Book,http://www.amazon.com/dp/1462525725/,6,1
+The Brain Anatomical Chart,Office Product,http://www.amazon.com/dp/1587791064/,1,1
+A History of the Brain: From Stone Age surgery to modern neuroscience,Book,http://www.amazon.com/dp/1848723652/,1,1
+Clinical Neuroanatomy Made Ridiculously Simple,Book,http://www.amazon.com/dp/1935660195/,2,1
+"Nonlinear Dynamics in Complex Systems: Theory and Applications for the Life-, Neuro- and Natural Sciences",Book,http://www.amazon.com/dp/3642335519/,1,1
+"Why Zebras Don't Get Ulcers: The Acclaimed Guide to Stress, Stress-Related Diseases, and Coping - Now Revised and Updated",eBooks,http://www.amazon.com/dp/B0037NX018/,5,1
+Willpower: Rediscovering the Greatest Human Strength,eBooks,http://www.amazon.com/dp/B0052REQCY/,3,1
+Introduction to Graph Theory (Dover Books on Mathematics),eBooks,http://www.amazon.com/dp/B00BX1DX9U/,1,1
+Mirrors in the Brain: How our minds share actions and emotions,eBooks,http://www.amazon.com/dp/B00QMD3VGY/,1,1
+"Nature Via Nurture: Genes, Experience, and What Makes Us Human",Book,http://www.amazon.com/dp/0060006781/,1,1
+Pinsanity Brain in a Jar Lapel Pin,Single Detail Page Misc,http://www.amazon.com/dp/B01GR3GBR4/,1,1
+The Second Brain: A Groundbreaking New Understanding of Nervous Disorders of the Stomach and Intestine,Book,http://www.amazon.com/dp/0060930721/,2,1
+"Influence: The Psychology of Persuasion, Revised Edition",Book,http://www.amazon.com/dp/006124189X/,77,1
+Tales from Both Sides of the Brain: A Life in Neuroscience,Book,http://www.amazon.com/dp/0062228803/,2,1
+Discrete Mathematics and Its Applications Seventh Edition,Book,http://www.amazon.com/dp/0073383090/,9,1
+"Neuroeconomics, Second Edition: Decision Making and the Brain",Book,http://www.amazon.com/dp/0124160085/,3,1
+Synaptic Self: How Our Brains Become Who We Are,Book,http://www.amazon.com/dp/0142001783/,1,1
+The Brain That Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science,Book,http://www.amazon.com/dp/0143113100/,24,1
+"The Compass of Pleasure: How Our Brains Make Fatty Foods, Orgasm, Exercise, Marijuana, Generosity, Vodka,  Learning, and Gambling Feel So Good",Book,http://www.amazon.com/dp/0143120751/,2,1
+An Anatomy of Thought: The Origin and Machinery of the Mind,Book,http://www.amazon.com/dp/0195158032/,1,1

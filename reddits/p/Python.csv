@@ -1,45 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"Fluent Python: Clear, Concise, and Effective Programming",Book,http://www.amazon.com/dp/1491946008/,4,2
-Effective Python: 59 Specific Ways to Write Better Python (Effective Software Development Series),Book,http://www.amazon.com/dp/0134034287/,3,2
-Exploring C++ 11 (Expert's Voice in C++),Book,http://www.amazon.com/dp/1430261935/,,1
-Effective Python: 59 Specific Ways to Write Better Python (Effective Software Development Series),eBooks,http://www.amazon.com/dp/B00TKGY0GU/,,1
-NumPy Cookbook,eBooks,http://www.amazon.com/dp/B009X5KIH8/,,1
-Python Data Analysis,eBooks,http://www.amazon.com/dp/B00OZLVAW2/,,1
-NumPy Beginner's Guide - Second Edition,eBooks,http://www.amazon.com/dp/B00CITNP76/,,1
-Learning NumPy Array,eBooks,http://www.amazon.com/dp/B00L2AP6KQ/,,1
-Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,71,1
-"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,36,1
-The Pragmatic Programmer: From Journeyman to Master,Book,http://www.amazon.com/dp/020161622X/,27,1
-"Code Complete: A Practical Handbook of Software Construction, Second Edition",Book,http://www.amazon.com/dp/0735619670/,25,1
-Working Effectively with Legacy Code,Book,http://www.amazon.com/dp/0131177052/,22,1
-The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws,Book,http://www.amazon.com/dp/1118026470/,18,1
-"Hacking: The Art of Exploitation, 2nd Edition",Book,http://www.amazon.com/dp/1593271441/,15,1
-"Computer Organization and Design MIPS Edition, Fifth Edition: The Hardware/Software Interface (The Morgan Kaufmann Series in Computer Architecture and Design)",Book,http://www.amazon.com/dp/0124077269/,12,1
-Automate the Boring Stuff with Python: Practical Programming for Total Beginners,Book,http://www.amazon.com/dp/1593275994/,10,1
-The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,Book,http://www.amazon.com/dp/0307887898/,10,1
-"Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython",Book,http://www.amazon.com/dp/1449319793/,6,1
-A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra),eBooks,http://www.amazon.com/dp/B00G3L19ZU/,6,1
-Accelerated C++: Practical Programming by Example,Book,http://www.amazon.com/dp/020170353X/,5,1
-Computer Networking: A Top-Down Approach (6th Edition),Book,http://www.amazon.com/dp/0132856204/,5,1
-"Toshiba 5TB SATA 6Gb/s 7200rpm, 128MB Cache, 3.5-Inch Internal Hard Drive (PH3500U-1I72)",Personal Computer,http://www.amazon.com/dp/B00OP2PKH2/,5,1
-"Learning Python, 5th Edition",Book,http://www.amazon.com/dp/1449355730/,5,1
-Getting Started in Electronics,Book,http://www.amazon.com/dp/0945053282/,4,1
-Design Patterns: Elements of Reusable Object-Oriented Software (Addison-Wesley Professional Computing Series),eBooks,http://www.amazon.com/dp/B000SEIBB8/,4,1
-Operating System Concepts,Book,http://www.amazon.com/dp/0470128720/,4,1
-Mens Funny Python Programming Pseudocode T-Shirt Large Black,Apparel,http://www.amazon.com/dp/B073QFXDG8/,2,1
-Python Data Science Handbook: Essential Tools for Working with Data,Book,http://www.amazon.com/dp/1491912057/,2,1
-Quantitative Trading: How to Build Your Own Algorithmic Trading Business,Book,http://www.amazon.com/dp/0470284889/,2,1
-"Python Cookbook, Third edition",Book,http://www.amazon.com/dp/1449340377/,2,1
-Gateway FX6840-57 Desktop (Black) (Discontinued by Manufacturer),Electronics,https://www.amazon.com/exec/obidos/ASIN/B003ZUXX4M/,1,1
-C++ Gotchas: Avoiding Common Problems in Coding and Design,Book,http://www.amazon.com/dp/0321125185/,1,1
-Python Programming On Win32: Help for Windows Programmers,Book,http://www.amazon.com/dp/1565926218/,1,1
-Algorithmic Trading and DMA: An introduction to direct access trading strategies,Book,http://www.amazon.com/dp/0956399207/,1,1
-Trading Systems: A New Approach to System Development and Portfolio Optimisation,Book,http://www.amazon.com/dp/1905641796/,1,1
+"Fluent Python: Clear, Concise, and Effective Programming",Book,http://www.amazon.com/dp/1491946008/,13,7
+Automate the Boring Stuff with Python: Practical Programming for Total Beginners,Book,http://www.amazon.com/dp/1593275994/,29,6
+"Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython",Book,http://www.amazon.com/dp/1449319793/,17,5
+Effective Python: 59 Specific Ways to Write Better Python (Effective Software Development Series),Book,http://www.amazon.com/dp/0134034287/,10,4
+"Code Complete: A Practical Handbook of Software Construction, Second Edition",Book,http://www.amazon.com/dp/0735619670/,85,4
+"Learning Python, 5th Edition",Book,http://www.amazon.com/dp/1449355730/,20,3
+"Python Crash Course: A Hands-On, Project-Based Introduction to Programming",Book,http://www.amazon.com/dp/1593276036/,19,3
+Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,236,3
+Python Data Science Handbook: Essential Tools for Working with Data,Book,http://www.amazon.com/dp/1491912057/,5,3
+Python Essential Reference (4th Edition),Book,http://www.amazon.com/dp/0672329786/,5,3
+A Primer on Scientific Programming with Python (Texts in Computational Science and Engineering),Book,http://www.amazon.com/dp/3642302920/,4,3
+Mens Funny Python Programming Pseudocode T-Shirt Large Black,Apparel,http://www.amazon.com/dp/B073QFXDG8/,3,2
+Design Patterns: Elements of Reusable Object-Oriented Software (Addison-Wesley Professional Computing Series),eBooks,http://www.amazon.com/dp/B000SEIBB8/,19,2
+Exploring C++ 11 (Expert's Voice in C++),Book,http://www.amazon.com/dp/1430261935/,2,2
+"Introduction to Algorithms, 3rd Edition (MIT Press)",Book,http://www.amazon.com/dp/0262033844/,112,2
+Cracking the Coding Interview: 189 Programming Questions and Solutions,Book,http://www.amazon.com/dp/0984782850/,90,2
+"Python Cookbook, Third edition",Book,http://www.amazon.com/dp/1449340377/,6,2
+High Performance Python: Practical Performant Programming for Humans,Book,http://www.amazon.com/dp/1449361595/,2,2
+Python Machine Learning,Book,http://www.amazon.com/dp/1783555130/,9,2
+Code: The Hidden Language of Computer Hardware and Software,Book,http://www.amazon.com/dp/0735611319/,158,2
+How to Design Programs: An Introduction to Programming and Computing,Book,http://www.amazon.com/dp/0262062186/,2,1
+Turtle Geometry: The Computer as a Medium for Exploring Mathematics (Artificial Intelligence),Book,http://www.amazon.com/dp/0262510375/,1,1
+Algorithms Unlocked (MIT Press),Book,http://www.amazon.com/dp/0262518805/,8,1
+The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,Book,http://www.amazon.com/dp/0307887898/,44,1
+C++ Gotchas: Avoiding Common Problems in Coding and Design,Book,http://www.amazon.com/dp/0321125185/,2,1
+Programming in Python 3: A Complete Introduction to the Python Language (2nd Edition),Book,http://www.amazon.com/dp/0321680561/,4,1
+The Python Standard Library by Example,Book,http://www.amazon.com/dp/0321767349/,2,1
+A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra),Book,http://www.amazon.com/dp/039916524X/,28,1
+Operating System Concepts,Book,http://www.amazon.com/dp/0470128720/,9,1
+Quantitative Trading: How to Build Your Own Algorithmic Trading Business,Book,http://www.amazon.com/dp/0470284889/,5,1
 Inside the Black Box: The Simple Truth About Quantitative Trading (Wiley Finance),Book,http://www.amazon.com/dp/0470432063/,1,1
-Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Controlling Risk,Book,http://www.amazon.com/dp/0070248826/,1,1
 Information Security: Principles and Practice,Book,http://www.amazon.com/dp/0470626399/,1,1
-Python Essential Reference (4th Edition),Book,http://www.amazon.com/dp/0672329786/,1,1
-Rapid GUI Programming with Python and Qt: The Definitive Guide to PyQt Programming (paperback),Book,http://www.amazon.com/dp/0134393333/,1,1
+The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling,Book,http://www.amazon.com/dp/0471200247/,2,1
+Beautiful Code: Leading Programmers Explain How They Think (Theory in Practice (O'Reilly)),Book,http://www.amazon.com/dp/0596510047/,4,1
+JavaScript: The Good Parts,Book,http://www.amazon.com/dp/0596517742/,60,1
+Head First Programming: A learner's guide to programming using the Python language,Book,http://www.amazon.com/dp/0596802374/,1,1
+But How Do It Know? - The Basic Principles of Computers for Everyone,Book,http://www.amazon.com/dp/0615303765/,4,1
+"Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering (Studies in Nonlinearity)",Book,http://www.amazon.com/dp/0813349109/,12,1
+Systematic Trading: A unique new method for designing trading and investing systems,Book,http://www.amazon.com/dp/0857194453/,1,1
+Getting Started in Electronics,Book,http://www.amazon.com/dp/0945053282/,34,1
+Algorithmic Trading and DMA: An introduction to direct access trading strategies,Book,http://www.amazon.com/dp/0956399207/,8,1
+Mean Reversion Trading Systems,Book,http://www.amazon.com/dp/0979183847/,1,1
+Two Scoops of Django: Best Practices for Django 1.8,Book,http://www.amazon.com/dp/0981467342/,4,1
+Programming in Scala: Updated for Scala 2.12,Book,http://www.amazon.com/dp/0981531687/,4,1
+"Annotated Algorithms in Python: with Applications in Physics, Biology, and Finance",Book,http://www.amazon.com/dp/0991160401/,1,1
+Computer Science Distilled: Learn the Art of Solving Computational Problems,Book,http://www.amazon.com/dp/0997316004/,3,1
+HTML and CSS: Design and Build Websites,Book,http://www.amazon.com/dp/1118008189/,26,1
+The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws,Book,http://www.amazon.com/dp/1118026470/,41,1
+Data Structures and Algorithms in Python,Book,http://www.amazon.com/dp/1118290275/,3,1
+Turing's Cathedral: The Origins of the Digital Universe,Book,http://www.amazon.com/dp/1400075998/,6,1
+"Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software",Book,http://www.amazon.com/dp/1400082471/,3,1
+Dive into Python 3,Book,http://www.amazon.com/dp/1430224150/,2,1
+Foundations of Python Network Programming: The comprehensive guide to building network applications with Python (Books for Professionals by Professionals),Book,http://www.amazon.com/dp/1430230037/,2,1
+Python Algorithms: Mastering Basic Algorithms in the Python Language (Expert's Voice in Open Source),Book,http://www.amazon.com/dp/1430232374/,2,1
+Foundations of Python Network Programming,Book,http://www.amazon.com/dp/1430258543/,3,1
+"Python Programming for the Absolute Beginner, 3rd Edition",Book,http://www.amazon.com/dp/1435455002/,8,1
+"Bayesian Data Analysis, Third Edition (Chapman & Hall/CRC Texts in Statistical Science)",Book,http://www.amazon.com/dp/1439840954/,7,1
+Think Python,Book,http://www.amazon.com/dp/144933072X/,2,1
+The Red Queen: Sex and the Evolution of Human Nature,Book,http://www.amazon.com/dp/0060556579/,23,1
+Web Scraping with Python: Collecting Data from the Modern Web,Book,http://www.amazon.com/dp/1491910291/,4,1
+Think Python: How to Think Like a Computer Scientist,Book,http://www.amazon.com/dp/1491939362/,1,1
+A Friendly Introduction to Software Testing,Book,http://www.amazon.com/dp/1523477377/,1,1
+Python Programming On Win32: Help for Windows Programmers,Book,http://www.amazon.com/dp/1565926218/,2,1
+Python Scripting for ArcGIS,Book,http://www.amazon.com/dp/1589482824/,9,1
+Python Programming: An Introduction to Computer Science,Book,http://www.amazon.com/dp/1590282418/,9,1
+"Hacking: The Art of Exploitation, 2nd Edition",Book,http://www.amazon.com/dp/1593271441/,41,1
+Gray Hat Python: Python Programming for Hackers and Reverse Engineers,Book,http://www.amazon.com/dp/1593271921/,5,1
+Python for Kids: A Playful Introduction To Programming,Book,http://www.amazon.com/dp/1593274076/,9,1
+"Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers",Book,http://www.amazon.com/dp/1597499579/,26,1
+Hello World!: Computer Programming for Kids and Other Beginners,Book,http://www.amazon.com/dp/1617290920/,4,1
+Learning Python Design Patterns,Book,http://www.amazon.com/dp/1783283378/,1,1
+Learning Robotics using Python,Book,http://www.amazon.com/dp/1783287535/,1,1
+Python High Performance Programming,Book,http://www.amazon.com/dp/1783288450/,1,1
+Python for Secret Agents,Book,http://www.amazon.com/dp/1783980427/,3,1
+Mastering Python Design Patterns,Book,http://www.amazon.com/dp/1783989327/,2,1
+Trading Systems: A New Approach to System Development and Portfolio Optimisation,Book,http://www.amazon.com/dp/1905641796/,1,1
+NumPy Cookbook,eBooks,http://www.amazon.com/dp/B009X5KIH8/,1,1
+"Treading on Python Series: Intermediate Python Programming: Learn Decorators, Generators, Functional Programming and More",eBooks,http://www.amazon.com/dp/B00BT95CWM/,1,1
+NumPy Beginner's Guide - Second Edition,eBooks,http://www.amazon.com/dp/B00CITNP76/,1,1
+"Realm of Racket: Learn to Program, One Game at a Time!",eBooks,http://www.amazon.com/dp/B00DHRV584/,1,1
+A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra),eBooks,http://www.amazon.com/dp/B00G3L19ZU/,22,1
+Hard Time,eBooks,http://www.amazon.com/dp/B00GY9SK4O/,1,1
 Uxcell 1-60L/Min DC 5-24V Hall Effect Water Flow Sensor FS300A Counter Meter,Home Improvement,http://www.amazon.com/dp/B00HR6BTYQ/,1,1
-Rapid GUI Programming with Python and Qt (Prentice Hall Open Source Software Development),Book,http://www.amazon.com/dp/0132354187/,1,1
-A Primer on Scientific Programming with Python (Texts in Computational Science and Engineering),Book,http://www.amazon.com/dp/3642302920/,1,1
+Mastering Python Regular Expressions,eBooks,http://www.amazon.com/dp/B00IM5UW3U/,2,1
+Learning NumPy Array,eBooks,http://www.amazon.com/dp/B00L2AP6KQ/,1,1
+"Toshiba 5TB SATA 6Gb/s 7200rpm, 128MB Cache, 3.5-Inch Internal Hard Drive (PH3500U-1I72)",Personal Computer,http://www.amazon.com/dp/B00OP2PKH2/,17,1
+Python Data Analysis,eBooks,http://www.amazon.com/dp/B00OZLVAW2/,1,1
+Effective Python: 59 Specific Ways to Write Better Python (Effective Software Development Series),eBooks,http://www.amazon.com/dp/B00TKGY0GU/,1,1
+"Fluent Python: Clear, Concise, and Effective Programming",eBooks,http://www.amazon.com/dp/B0131L3PW4/,1,1
+CanaKit Raspberry Pi 3 with 2.5A Micro USB Power Supply (UL Listed),PC Accessory,http://www.amazon.com/dp/B01C6FFNY4/,27,1
+"Raspberry PI 3 Model B 1.2GHz 64-bit quad-core ARMv8 CPU, 1GB RAM",Personal Computer,http://www.amazon.com/dp/B01CD5VC92/,76,1
+Make Your Own Neural Network,eBooks,http://www.amazon.com/dp/B01EER4Z4G/,5,1
+Data Science from Scratch: First Principles with Python,Book,http://www.amazon.com/dp/149190142X/,13,1
+Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Controlling Risk,Book,http://www.amazon.com/dp/0070248826/,2,1
+"Joe Celko's SQL Puzzles and Answers, Second Edition (The Morgan Kaufmann Series in Data Management Systems)",Book,http://www.amazon.com/dp/0123735963/,1,1
+"Joe Celko's SQL for Smarties, Fourth Edition: Advanced SQL Programming (The Morgan Kaufmann Series in Data Management Systems)",Book,http://www.amazon.com/dp/0123820227/,3,1
+"Doing Bayesian Data Analysis, Second Edition: A Tutorial with R, JAGS, and Stan",Book,http://www.amazon.com/dp/0124058884/,11,1
+"Computer Organization and Design MIPS Edition, Fifth Edition: The Hardware/Software Interface (The Morgan Kaufmann Series in Computer Architecture and Design)",Book,http://www.amazon.com/dp/0124077269/,26,1
+"C Programming Language, 2nd Edition",Book,http://www.amazon.com/dp/0131103628/,109,1
+Working Effectively with Legacy Code,Book,http://www.amazon.com/dp/0131177052/,59,1

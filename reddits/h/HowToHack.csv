@@ -1,23 +1,92 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws,Book,http://www.amazon.com/dp/1118026470/,18,4
-"Hacking: The Art of Exploitation, 2nd Edition",Book,http://www.amazon.com/dp/1593271441/,15,4
-Practical Malware Analysis: A Hands-On Guide to Dissecting Malicious Software,Book,http://www.amazon.com/dp/1593272901/,10,2
-The Hacker Playbook 2: Practical Guide To Penetration Testing,Book,http://www.amazon.com/dp/1512214566/,7,2
-Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code,Book,http://www.amazon.com/dp/0470613033/,5,2
-The Shellcoder's Handbook: Discovering and Exploiting Security Holes,Book,http://www.amazon.com/dp/047008023X/,4,2
-"Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation",Book,http://www.amazon.com/dp/1118787315/,4,2
-"Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers",Book,http://www.amazon.com/dp/1597499579/,4,2
-Ultimate Hacking Challenge: Train on dedicated machines to master the art of hacking (Hacking The Planet Book 3),eBooks,http://www.amazon.com/dp/B071ZXK2CR/,,1
-How to Hack Like a PORNSTAR: A step by step process for breaking into a BANK (Hacking the planet Book 1),eBooks,http://www.amazon.com/dp/B01MTDLGQQ/,,1
-How to Hack Like a GOD: Master the secrets of hacking through real life scenarios (Hacking the planet Book 2),eBooks,http://www.amazon.com/dp/B06Y4HWHXC/,,1
-Code: The Hidden Language of Computer Hardware and Software,Book,http://www.amazon.com/dp/0735611319/,48,1
-"Computer Organization and Design MIPS Edition, Fifth Edition: The Hardware/Software Interface (The Morgan Kaufmann Series in Computer Architecture and Design)",Book,http://www.amazon.com/dp/0124077269/,12,1
-"TP-Link N150 Wireless High Gain USB Adapter (TL-WN722N), Version 2.0",CE,http://www.amazon.com/dp/B002SZEOLG/,8,1
-The Linux Command Line: A Complete Introduction,Book,http://www.amazon.com/dp/1593273894/,7,1
-"Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (7th Edition)",Book,http://www.amazon.com/dp/0735684189/,2,1
-The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler,Book,http://www.amazon.com/dp/1593272898/,2,1
-Reversing: Secrets of Reverse Engineering,Book,http://www.amazon.com/dp/0764574817/,2,1
-"The Basics of Hacking and Penetration Testing, Second Edition: Ethical Hacking and Penetration Testing Made Easy",Book,http://www.amazon.com/dp/0124116442/,2,1
-Hacking with Kali: Practical Penetration Testing Techniques,Book,http://www.amazon.com/dp/0124077498/,1,1
-Red Team: How to Succeed By Thinking Like the Enemy,Book,http://www.amazon.com/dp/0465048943/,1,1
+"Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers",Book,http://www.amazon.com/dp/1597499579/,26,11
+"TP-Link N150 Wireless High Gain USB Adapter (TL-WN722N), Version 2.0",CE,http://www.amazon.com/dp/B002SZEOLG/,53,9
+"Hacking: The Art of Exploitation, 2nd Edition",Book,http://www.amazon.com/dp/1593271441/,41,8
+The Hacker Playbook 2: Practical Guide To Penetration Testing,Book,http://www.amazon.com/dp/1512214566/,27,6
+The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws,Book,http://www.amazon.com/dp/1118026470/,41,5
+Practical Malware Analysis: A Hands-On Guide to Dissecting Malicious Software,Book,http://www.amazon.com/dp/1593272901/,21,4
+Black Hat Python: Python Programming for Hackers and Pentesters,Book,http://www.amazon.com/dp/1593275900/,13,4
+The Shellcoder's Handbook: Discovering and Exploiting Security Holes,Book,http://www.amazon.com/dp/047008023X/,7,3
+Metasploit: The Penetration Tester's Guide,Book,http://www.amazon.com/dp/159327288X/,8,3
+The Basics of Hacking and Penetration Testing: Ethical Hacking and Penetration Testing Made Easy (Syngress Basics Series),Book,http://www.amazon.com/dp/1597496553/,2,2
+"How Computers Work: The Evolution of Technology, 10th Edition (How It Works)",Book,http://www.amazon.com/dp/078974984X/,3,2
+Hacking Exposed 7: Network Security Secrets and Solutions,Book,http://www.amazon.com/dp/0071780289/,3,2
+"The Basics of Hacking and Penetration Testing, Second Edition: Ethical Hacking and Penetration Testing Made Easy",Book,http://www.amazon.com/dp/0124116442/,6,2
+Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code,Book,http://www.amazon.com/dp/0470613033/,8,2
+"Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (7th Edition)",Book,http://www.amazon.com/dp/0735684189/,4,2
+The Hacker Playbook: Practical Guide To Penetration Testing,eBooks,http://www.amazon.com/dp/B00J5S9OPU/,2,2
+The Linux Command Line: A Complete Introduction,Book,http://www.amazon.com/dp/1593273894/,24,2
+"Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation",Book,http://www.amazon.com/dp/1118787315/,9,2
+Penetration Testing: A Hands-On Introduction to Hacking,Book,http://www.amazon.com/dp/1593275641/,20,2
+Rtfm: Red Team Field Manual,Book,http://www.amazon.com/dp/1494295504/,14,2
+Ethical Hacking and Countermeasures: Attack Phases (EC-Council Press),Book,http://www.amazon.com/dp/143548360X/,1,1
+Ethical Hacking and Countermeasures: Threats and Defense Mechanisms (EC-Council Press),Book,http://www.amazon.com/dp/1435483618/,1,1
+Ethical Hacking and Countermeasures: Web Applications and Data Servers (EC-Council Press),Book,http://www.amazon.com/dp/1435483626/,1,1
+"Ethical Hacking and Countermeasures: Linux, Macintosh and Mobile Systems (EC-Council Press)",Book,http://www.amazon.com/dp/1435483642/,1,1
+Ethical Hacking and Countermeasures: Secure Network Infrastructures (EC-Council Press),Book,http://www.amazon.com/dp/1435483650/,1,1
+"Cyber Operations: Building, Defending, and Attacking Modern Computer Networks",Book,http://www.amazon.com/dp/1484204581/,1,1
+"SQL for Beginners: Learn the Structured Query Language for the Most Popular Databases including Microsoft SQL Server, MySQL, MariaDB, PostgreSQL, and Oracle",Book,http://www.amazon.com/dp/1508503427/,1,1
+Hacking the Xbox: An Introduction to Reverse Engineering,Book,http://www.amazon.com/dp/1593270291/,1,1
+"The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference",Book,http://www.amazon.com/dp/159327047X/,6,1
+Steal This Computer Book 4.0: What They Won't Tell You About the Internet,Book,http://www.amazon.com/dp/1593271050/,1,1
+"The Art of Debugging with GDB, DDD, and Eclipse",Book,http://www.amazon.com/dp/1593271743/,2,1
+The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler,Book,http://www.amazon.com/dp/1593272898/,3,1
+Think Like a Programmer: An Introduction to Creative Problem Solving,Book,http://www.amazon.com/dp/1593274246/,19,1
+The Hardware Hacker: Adventures in Making and Breaking Hardware,Book,http://www.amazon.com/dp/159327758X/,2,1
+"Sockets, Shellcode, Porting, and Coding: Reverse Engineering Exploits and Tool Coding for Security Professionals",Book,http://www.amazon.com/dp/1597490059/,1,1
+"Professional Penetration Testing, Second Edition: Creating and Learning in a Hacking Lab",Book,http://www.amazon.com/dp/1597499935/,2,1
+Writing Security Tools and Exploits,Book,http://www.amazon.com/dp/1597499978/,1,1
+"Metasploit Penetration Testing Cookbook, Second Edition",Book,http://www.amazon.com/dp/1782166785/,1,1
+"Programming Linux Hacker Tools Uncovered: Exploits, Backdoors, Scanners, Sniffers, Brute-Forcers, Rootkits (Uncovered series)",Book,http://www.amazon.com/dp/1931769613/,1,1
+"Buffer Overflow Attacks: Detect, Exploit, Prevent",Book,http://www.amazon.com/dp/1932266674/,1,1
+CompTIA Security+: Get Certified Get Ahead: SY0-401 Study Guide,Book,http://www.amazon.com/dp/1939136024/,30,1
+Hackers,DVD,http://www.amazon.com/dp/6305047456/,2,1
+Quite Early One Morning,Book,http://www.amazon.com/dp/B000H8D2Q4/,1,1
+Ergotech Triple Horizontal LCD Monitor Arm Desk Stand (100-D16-B03),Office Product,http://www.amazon.com/dp/B001NPEC5A/,13,1
+Alfa 1000mW 1W 802.11b/g USB Wireless WiFi Network Adapter With Original Alfa Screw-On Swivel 9dBi Rubber Antenna,PC Accessory,http://www.amazon.com/dp/B001O9X9EU/,7,1
+Dualcomm DCSW-1005 USB Powered 5-Port 10/100 Fast Ethernet Switch TAP (Port Mirroring),PC Accessory,http://www.amazon.com/dp/B002BSF112/,4,1
+Alfa AWUSO36NH High Gain USB Wireless G / N Long-Rang WiFi Network Adapter,PC Accessory,http://www.amazon.com/dp/B0035APGP6/,10,1
+"TP-Link 2.4GHz 24dBi Directional Grid Parabolic Antenna, N Female Connector, Weather Resistant (TL-ANT2424B)",CE,http://www.amazon.com/dp/B003CFATOW/,8,1
+High Power USB-Yagi Plug and Play directional WiFi Antenna 802.11n 2200mW,PC Accessory,http://www.amazon.com/dp/B003LLS5JI/,4,1
+Alfa AWUS036H High power 1000mW 1W 802.11b/g High Gain USB Wireless Long-Rang WiFi network Adapter with 5dBi Rubber Antenna and a 7dBi Panel Antenna and Suction cup / Clip Window Mount - for Wardriving & Range Extension,PC Accessory,http://www.amazon.com/dp/B003YI4HRM/,2,1
+Alfa AWUS036NHA Wireless B/G/N USB Adaptor - 802.11n - 150 Mbps - 2.4 GHz - 5 dBi Antenna - Long Range - Atheros Chipset - Windows XP/Vista 64-Bit/128-Bit Windows 7 Compatible,Personal Computer,http://www.amazon.com/dp/B004Y6MIXS/,6,1
 Uncle Milton Radio Control Rat,Toy,http://www.amazon.com/dp/B0051MMFNW/,1,1
+"SainSmart Micro USB Host Cable (OTG Cable) For Samsung Galaxy S2 I9100 I9101,MOTO XOOM , Nokia N810 / N900, Toshiba TG01, Archos G9",PC Accessory,http://www.amazon.com/dp/B005OOJPKS/,3,1
+CM Storm QuickFire Rapid - Tenkeyless Mechanical Gaming Keyboard with Cherry MX Blue Switches,Personal Computer,http://www.amazon.com/dp/B0068INSUM/,143,1
+Micro SD card holder - BLUE,PC Accessory,http://www.amazon.com/dp/B006J73RAI/,2,1
+CM Storm QuickFire TK - Compact Mechanical Gaming Keyboard with CHERRY MX BLUE Switches and Fully LED Backlit,Personal Computer,http://www.amazon.com/dp/B00A378L4C/,49,1
+9 cell Dell E6420 Laptop Battery for Dell Latitude E6420 E5420 Series PRRRF,CE,http://www.amazon.com/dp/B00DEKZ06W/,1,1
+"G602 Lag-Free Wireless Gaming Mouse – 11 Programmable Buttons, Up to 2500 DPI",Personal Computer,http://www.amazon.com/dp/B00E4MQODC/,68,1
+"Panda 300Mbps Wireless N USB Adapter - Windows Vista/7/8/8.1/10, Mint, Ubuntu, Fedora, openSUSE, CentOS, Lubuntu, Zorin, Kali Linux and Raspbian Wheezy",PC Accessory,http://www.amazon.com/dp/B00EQT0YK2/,13,1
+CanaKit Raspberry Pi 2 Ultimate Starter Kit with WiFi,Personal Computer,http://www.amazon.com/dp/B00G1PNG54/,12,1
+Panda Wireless PAU06 300Mbps N USB Adapter,PC Accessory,http://www.amazon.com/dp/B00JDVRCI0/,12,1
+Penetration Testing: A Hands-On Introduction to Hacking,eBooks,http://www.amazon.com/dp/B00KME7GN8/,3,1
+Raspberry Pi Model B+ (B PLUS) 512MB Computer Board,Personal Computer,http://www.amazon.com/dp/B00LPESRUK/,11,1
+Kingston Digital 64 GB DataTraveler SE9 G2 USB 3.0 Flash Drive (DTSE9G2/64GB),Personal Computer,http://www.amazon.com/dp/B00SOL9Z1M/,10,1
+"Panda N600 Dual Band (2.4GHz and 5.0GHz) 300Mbps Wireless N USB Adapter - Windows Vista/7/8/8.1/10, Mint, Ubuntu, openSUSE, Fedora, CentOS, Zorin, Kali Linux and Raspbian Jessie",PC Accessory,http://www.amazon.com/dp/B00U2SIS0O/,2,1
+RTL-SDR Blog R820T2 RTL2832U 1PPM TCXO SMA Software Defined Radio with 2x Telescopic Antennas,CE,http://www.amazon.com/dp/B011HVUEME/,46,1
+Hacking Wireless Networks - The ultimate hands-on guide,eBooks,http://www.amazon.com/dp/B01F5186E0/,1,1
+Lenovo 110-15IBR 80T7000HUS - 15.6 HD - Intel Celeron N3060 - 4GB - 500GB HDD - Black,Personal Computer,http://www.amazon.com/dp/B01HAQBIVG/,1,1
+How to Hack Like a PORNSTAR: A step by step process for breaking into a BANK (Hacking the planet Book 1),eBooks,http://www.amazon.com/dp/B01MTDLGQQ/,1,1
+"Kingston Digital 2TB DataTraveler Ultimate GT USB 3.1/3.0 300MB/s R, 200MB/S Flash Drive (DTUGT/2TB)",Personal Computer,http://www.amazon.com/dp/B06X1CSCZB/,2,1
+How to Hack Like a GOD: Master the secrets of hacking through real life scenarios (Hacking the planet Book 2),eBooks,http://www.amazon.com/dp/B06Y4HWHXC/,1,1
+Ultimate Hacking Challenge: Train on dedicated machines to master the art of hacking (Hacking The Planet Book 3),eBooks,http://www.amazon.com/dp/B071ZXK2CR/,1,1
+"CompTIA A+ Certification All-in-One Exam Guide, 8th Edition (Exams 220-801 & 220-802)",Book,http://www.amazon.com/dp/007179512X/,8,1
+"Hacking Exposed Wireless, Third Edition: Wireless Security Secrets & Solutions",Book,http://www.amazon.com/dp/0071827633/,2,1
+"Gray Hat Hacking The Ethical Hacker's Handbook, Fourth Edition",Book,http://www.amazon.com/dp/0071832386/,2,1
+"Computer Organization and Design MIPS Edition, Fifth Edition: The Hardware/Software Interface (The Morgan Kaufmann Series in Computer Architecture and Design)",Book,http://www.amazon.com/dp/0124077269/,26,1
+Hacking with Kali: Practical Penetration Testing Techniques,Book,http://www.amazon.com/dp/0124077498/,1,1
+"Google Hacking for Penetration Testers, Third Edition",Book,http://www.amazon.com/dp/0128029641/,2,1
+Computer Networks (5th Edition),Book,http://www.amazon.com/dp/0132126958/,7,1
+Computer Networking: A Top-Down Approach (6th Edition),Book,http://www.amazon.com/dp/0132856204/,16,1
+Computer Networking: A Top-Down Approach (7th Edition),Book,http://www.amazon.com/dp/0133594149/,7,1
+Red Team: How to Succeed By Thinking Like the Enemy,Book,http://www.amazon.com/dp/0465048943/,1,1
+Assembly Language Step-by-Step: Programming with Linux,Book,http://www.amazon.com/dp/0470497025/,5,1
+Social Engineering: The Art of Human Hacking,Book,http://www.amazon.com/dp/0470639539/,12,1
+Hacking the Human,Book,http://www.amazon.com/dp/0566087731/,1,1
+Code: The Hidden Language of Computer Hardware and Software,Book,http://www.amazon.com/dp/0735611319/,158,1
+Reversing: Secrets of Reverse Engineering,Book,http://www.amazon.com/dp/0764574817/,6,1
+"Python Programming for Raspberry Pi, Sams Teach Yourself in 24 Hours",Book,http://www.amazon.com/dp/0789752050/,1,1
+SQL Database for Beginners,Book,http://www.amazon.com/dp/099040207X/,1,1
+Operating System Concepts,Book,http://www.amazon.com/dp/1118129385/,1,1
+Wireshark for Security Professionals: Using Wireshark and the Metasploit Framework,Book,http://www.amazon.com/dp/1118918215/,2,1

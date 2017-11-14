@@ -1,5 +1,6 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"Game Engine Architecture, Second Edition",Book,http://www.amazon.com/dp/1466560010/,16,1
-"Real-Time Rendering, Third Edition",Book,http://www.amazon.com/dp/1568814240/,3,1
-"3D Math Primer for Graphics and Game Development, 2nd Edition",Book,http://www.amazon.com/dp/1568817231/,3,1
-"OpenGL Programming Guide: The Official Guide to Learning OpenGL, Version 4.3 (8th Edition)",Book,http://www.amazon.com/dp/0321773039/,1,1
+"Real-Time Rendering, Third Edition",Book,http://www.amazon.com/dp/1568814240/,15,2
+"OpenGL Programming Guide: The Official Guide to Learning OpenGL, Version 4.3 (8th Edition)",Book,http://www.amazon.com/dp/0321773039/,2,1
+Building a 3D Game Engine in C++,Book,http://www.amazon.com/dp/0471123269/,2,1
+"Game Engine Architecture, Second Edition",Book,http://www.amazon.com/dp/1466560010/,42,1
+"3D Math Primer for Graphics and Game Development, 2nd Edition",Book,http://www.amazon.com/dp/1568817231/,20,1

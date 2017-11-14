@@ -1,57 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"People I Want to Punch in the Throat: Competitive Crafters, Drop-Off Despots, and Other Suburban Scourges",eBooks,http://www.amazon.com/dp/B00EGMHJQ6/,,1
-No Me Compares,Digital Music Track,http://www.amazon.com/dp/B0099G7YSM/,,1
-Someone I Touched,Movie,http://www.amazon.com/dp/B00A1JLIO2/,,1
-"Passion Lubes, Natural Water-Based Lubricant, 55 Gallon Drum",Health and Beauty,http://www.amazon.com/dp/B005MR3IVO/,273,1
-Montegrappa Chaos Gold and Enamel Automatic Watch,Watch,http://www.amazon.com/dp/B00E4WSB0G/,7,1
-Secret Garden: An Inky Treasure Hunt and Coloring Book,Book,http://www.amazon.com/dp/1780671067/,7,1
-Sushi Go! - The Pick and Pass Card Game,Toy,http://www.amazon.com/dp/B00J57VU44/,5,1
-Subversive Cross Stitch: 50 F*cking Clever Designs for Your Sassy Side,Book,http://www.amazon.com/dp/1576877558/,3,1
-"Omega Paw Self-Cleaning Litter Box, Pewter",Pet Products,http://www.amazon.com/dp/B005E2S77C/,3,1
-Mille Bornes Card Game,Toy,http://www.amazon.com/dp/B00KXSJSC0/,3,1
-Friends: The Complete Series,DVD,http://www.amazon.com/dp/B00B1LN8WY/,3,1
-"Flexible Flyer Snowball Maker, colors may vary",Sports,http://www.amazon.com/dp/B000FJ4AD4/,2,1
-"Glow Sticks 100 8"" Light-up Glowstick Bracelets",Toy,http://www.amazon.com/dp/B000IZ9N78/,2,1
-Fox 40 Pearl Safety Whistle Orange,Sports,http://www.amazon.com/dp/B0052AGEM6/,2,1
-Adult Coloring Book: Stress Relieving Animal Designs,Book,http://www.amazon.com/dp/1941325114/,2,1
-"Shower Tablets Relaxing Lavender, 3 OZ.- 3 Tablets of 1 OZ. Each",Health and Beauty,http://www.amazon.com/dp/B0029EQ9PU/,1,1
-"Brentwood 8022 Wordsmith Pillow, Live, Laugh, Love, 18-Inch",Home,http://www.amazon.com/dp/B00DUPXIQA/,1,1
+Better Bath Deep Water Bath,Home,http://www.amazon.com/dp/B0001YJIGW/,13,3
+Fred PASTASAURUS Pasta Server,Kitchen,http://www.amazon.com/dp/B002L162HQ/,16,3
+"Gardman R687 4-Tier Mini Greenhouse, 27"" Long x 18"" Wide x 63"" High",Lawn & Patio,http://www.amazon.com/dp/B000NCTGQE/,20,3
+All My Friends Are Dead,Book,http://www.amazon.com/dp/0811874559/,23,3
+Bluw Self Stirring Mug,Kitchen,http://www.amazon.com/dp/B00GPTJL32/,3,3
+"Aztec Secret Indian Healing Clay Deep Pore Cleansing, 1 Pound",Beauty,http://www.amazon.com/dp/B0014P8L9W/,66,3
+Nostalgia HDT600RETRORED Retro Series Pop-Up Hot Dog Toaster,Kitchen,http://www.amazon.com/dp/B005Q8X6IO/,12,3
+"Kikkerland Skull Shot Glasses, Set of 4",Kitchen,http://www.amazon.com/dp/B005FHMICG/,3,3
+"Tuscan Dairy Whole Vitamin D Milk, Gallon, 128 oz",Grocery,http://www.amazon.com/dp/B00032G1S0/,31,3
+"Omega Paw Self-Cleaning Litter Box, Pewter",Pet Products,http://www.amazon.com/dp/B005E2S77C/,21,3
+Cards Against Humanity,Toy,http://www.amazon.com/dp/B004S8F7QM/,25,3
+"Blood Type Kit - Also Includes: 1 Eldoncard, 1 Lancet, Alcohol Wipe, Plastic dropper, 4 Eldon Sticksn",Health and Beauty,http://www.amazon.com/dp/B000FSOCR4/,6,3
+"Ovente KG83 Series 1.5L Glass Electric Kettle, Black",Kitchen,http://www.amazon.com/dp/B00DEPGY7G/,10,3
+Go the F**k to Sleep,Book,http://www.amazon.com/dp/145584165X/,17,2
+20 (Twenty Pages) - BCW Pro 3-Pocket Currency Storage Page - Dollar Bill & Currency Collecting Supplies,Toy,http://www.amazon.com/dp/B002KDPEMY/,2,2
+"Philips SHS3200BK/37 Flexible Earhook Headphones, Black",Speakers,http://www.amazon.com/dp/B003CJTR82/,15,2
+Pandemic on the Brink Expansion Board Game 2nd Edition,Toy,http://www.amazon.com/dp/B00CAG5LJ2/,7,2
+"Angelina 12 Pair-Pack Non-Slip Silicone Patch Cotton No-Show Socks #911 Color,Lady's One Size",Apparel,http://www.amazon.com/dp/B00N4DF8DO/,2,2
+NFL New York Jets Team Thematic Garden Gnome,Sports,http://www.amazon.com/dp/B004ADX1R2/,2,2
+Jim Henson's Labyrinth Tales,Book,http://www.amazon.com/dp/1608869318/,2,2
+Lux Accessories Silvertone Pineapple Tropical Fruit Necklace,Jewelry,http://www.amazon.com/dp/B01M3Y77M4/,2,2
+"1byone Belt-Drive 3-Speed Portable Stereo Turntable with Built in Speakers, Turquoise",CE,http://www.amazon.com/dp/B00XVJF2JG/,2,2
+"Hamilton Beach 40998 1 L Stainless Steel Electric Kettle, Silver",Kitchen,http://www.amazon.com/dp/B00ZPN3O2I/,2,2
+"30-count Top Brand Coffee, Tea, Cider, Hot Cocoa and Cappuccino Variety Sampler Pack, Single-Serve Cups for Keurig-Compatible Brewers",Grocery,http://www.amazon.com/dp/B00KSIE39I/,2,2
+Unique plastic cat shaped desk tidy magnet,Home,http://www.amazon.com/dp/B00CLAL6VY/,6,2
+"Passion Lubes, Natural Water-Based Lubricant, 55 Gallon Drum",Health and Beauty,http://www.amazon.com/dp/B005MR3IVO/,713,2
+What If?: Serious Scientific Answers to Absurd Hypothetical Questions,Book,http://www.amazon.com/dp/0544272994/,33,2
+MUJI Japan Face Lotion Sheet 20 pieces [Compressed type],Beauty,http://www.amazon.com/dp/B00IJEDL9Q/,6,2
+VIP Bleacher 10 Row/140 Seat/21'-Fence,Sports,http://www.amazon.com/dp/B00016LLUQ/,2,2
+Subversive Cross Stitch: 50 F*cking Clever Designs for Your Sassy Side,Book,http://www.amazon.com/dp/1576877558/,12,2
+Street Trash - Special Meltdown Edition [Blu-ray],DVD,http://www.amazon.com/dp/B00C3KTFVU/,2,2
+Mischief Managed: Harry Potter Marauder's Map Inspired Shot Glass,Home,http://www.amazon.com/dp/B00KGOU52S/,2,2
+The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life,eBooks,http://www.amazon.com/dp/B019MMUA8S/,21,2
+"Uni-Ball Jetstream Retractable Ball Point Pens,0.7mm, Black Ink, 3-Count",Office Product,http://www.amazon.com/dp/B002FSZP5A/,13,2
+Waboba Surf Ball (Colors May Vary),Toy,http://www.amazon.com/dp/B004RGU0SK/,2,2
+Neutrogena Sensitive Skin Sunscreen Lotion SPF 60+ 3 oz,Beauty,http://www.amazon.com/dp/B001P97U6C/,6,2
+"NO-AD Sun Care Sport Sunscreen Lotion, SPF 50 16 oz",Sports,http://www.amazon.com/dp/B001U2FOSA/,8,2
+In Time [Blu-ray + DVD + Digital copy],DVD,http://www.amazon.com/dp/B004LWZW7O/,2,2
+"Bath & Body Works, Aromatherapy Stress Relief 3-Wick Candle, Eucalyptus Spearmint",Home,http://www.amazon.com/dp/B005O91CUE/,2,2
+The Lord of the Rings: The Motion Picture Trilogy (The Fellowship of the Ring / The Two Towers / The Return of the King Extended Editions)  [Blu-ray],DVD,http://www.amazon.com/dp/B007ZQAKHU/,15,2
+Steven Smith Teamaker: Meadow Tea 15 Sachets in Tip Top Carton 21152,Health and Beauty,http://www.amazon.com/dp/B00CQ7SZ0C/,4,2
+"Instant Pot DUO60 6 Qt 7-in-1 Multi-Use Programmable Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Sauté, Yogurt Maker and Warmer",Kitchen,http://www.amazon.com/dp/B00FLYWNYQ/,170,2
+City Color Cosmetics Contour Effects Palette,Beauty,http://www.amazon.com/dp/B00MYIIWP6/,3,2
+Air Mail Postcard Love for Finland Mouse Pad Mousepad,Wireless,http://www.amazon.com/dp/B00VF2TXFA/,2,2
+Happy Kitchen Mini Taiyaki cake Odango Kracie Popin' Cookin' DIY candy,Toy,http://www.amazon.com/dp/B016WUD2QK/,2,2
+"Zmart Women's Cotton Ankle Socks 3D Multi Pattern Printed Pack of 6,Multicoloured,US 5-9,Multicoloured,US 5-9",Apparel,http://www.amazon.com/dp/B01B2DIENI/,2,2
+Uchida 200-6A 6-Piece Decocolor Fine Point Paint Marker Set,Art and Craft Supply,http://www.amazon.com/dp/B0029LHN6W/,2,2
+Confessions of a Deathmaiden,Book,http://www.amazon.com/dp/0446614394/,3,2
+Funko POP! Marvel: Dancing Groot Bobble Action Figure,Toy,http://www.amazon.com/dp/B00N1EJXUU/,11,2
+"3M Precise Mouse Pad Enhances the Precision of Optical Mice at Fast Speeds and Extends the Battery Life of Wireless Mice up to 50%, 9 in x 8 in (MP114-BSD1)",Office Product,http://www.amazon.com/dp/B00L2AN9PK/,2,2
+Cat Dancer 301 Cat Charmer Interactive Cat Toy,Pet Products,http://www.amazon.com/dp/B0002DHV16/,14,2
+Greetings from the Simpsons: A Postcard Book,Book,http://www.amazon.com/dp/0060965800/,2,2
+"Hazer Baba Turkish Delight with Rose, 16 oz",Grocery,http://www.amazon.com/dp/B0062857M0/,4,2
+JL421 Badonkadonk Land Cruiser/Tank,Single Detail Page Misc,http://www.amazon.com/dp/B00067F1CE/,24,2
+Independence Day,DVD,http://www.amazon.com/dp/B00008G8M4/,2,2
+The Wisdom of Insecurity: A Message for an Age of Anxiety,Book,http://www.amazon.com/dp/0307741206/,10,2
+Brooklyn,Book,http://www.amazon.com/dp/1501106473/,2,2
+"Harry Potter and the Sorcerer's Stone: The Illustrated Edition (Harry Potter, Book 1)",Book,http://www.amazon.com/dp/0545790352/,25,2
+Mountain House Ice Cream Sandwich,Sports,http://www.amazon.com/dp/B0002YRJ6M/,2,2
+Rose Flavored Hard Candy 50 g by Les Anis de Flavigny,Beauty,http://www.amazon.com/dp/B000DZHUDW/,2,2
+Funko POP Movies: Harry Potter Action Figure - Luna Lovegood,Toy,http://www.amazon.com/dp/B019JIACJ2/,3,2
+Safe Baby Handling Tips,Book,http://www.amazon.com/dp/0762456582/,3,1
+"The Whole Goat Handbook: Recipes, Cheese, Soap, Crafts & More",Book,http://www.amazon.com/dp/0760342369/,1,1
+Seize the Night: A Novel (Christopher Snow),Book,http://www.amazon.com/dp/0345533437/,1,1
+Joy of Cooking,Book,http://www.amazon.com/dp/0743246268/,19,1
+Celebrating Peanuts: 60 Years,Book,http://www.amazon.com/dp/0740785486/,2,1
+The Hitchhiker's Guide to the Galaxy,Book,http://www.amazon.com/dp/0345391802/,17,1
+Leonardo da Vinci: Notebooks (Oxford World's Classics),Book,http://www.amazon.com/dp/0199299021/,2,1
+I am a Princess (Disney Princess) (Little Golden Book),Book,http://www.amazon.com/dp/0736429069/,1,1
+Fresh Fruits,Book,http://www.amazon.com/dp/0714845108/,1,1
+Exploring the World of Lucid Dreaming,Book,http://www.amazon.com/dp/034537410X/,47,1
+"The Path to Power (The Years of Lyndon Johnson, Volume 1)",Book,http://www.amazon.com/dp/0679729453/,3,1
+Little Owl's Night,Book,http://www.amazon.com/dp/0670015792/,4,1
+I Am Malala,Book,http://www.amazon.com/dp/031638156X/,1,1
+Fire (A Companion to Graceling),Book,http://www.amazon.com/dp/014241591X/,1,1
+"Fat Girl Walking: Sex, Food, Love, and Being Comfortable in Your Skin…Every Inch of It",Book,http://www.amazon.com/dp/0062343033/,1,1
+Taking Back What's Been Stolen: a STOP STEALING workbook,Book,http://www.amazon.com/dp/0615813925/,1,1
+Fuck You Sun,Book,http://www.amazon.com/dp/0615509142/,2,1
+The Girl With All the Gifts,Book,http://www.amazon.com/dp/0316334758/,2,1
+Allen Carr's Easy Way To Stop Smoking,Book,http://www.amazon.com/dp/0615482155/,83,1
+"Everything, Everything",Book,http://www.amazon.com/dp/0553496670/,1,1
+"Go Away, Big Green Monster!",Book,http://www.amazon.com/dp/0316236535/,2,1
 Woodswoman: Living  Alone in the  Adirondack Wilderness,Book,http://www.amazon.com/dp/0140153349/,1,1
-Kris&Ken 2 Pairs Clear Invisible Bra Shoulder Straps Metal Hook w/ Plastic Cover 10mm,Apparel,http://www.amazon.com/dp/B01IR6QKUC/,1,1
-"Big Little Felt Universe: Sew It, Stuff It, Squeeze It, Fun!",Book,http://www.amazon.com/dp/1600596754/,1,1
-"Dream Factory Dinosaur Prints Boys Comforter Set, Multi-Colored, Twin",Home,http://www.amazon.com/dp/B005MVGRQ8/,1,1
-"Nine West Women's Chrissy Platform Pump,Black/Black,7.5 M US",Shoes,http://www.amazon.com/dp/B00LGDZ4P6/,1,1
-JJMax Women's Ocean Friends Whales and Penguins Cotton Blend Cute Crew Socks (Penguins),Apparel,http://www.amazon.com/dp/B00V81XWZU/,1,1
-Fun Express Out-of-This-World Vinyl Aliens Action Figure (4 Dozen),Toy,http://www.amazon.com/dp/B003AH8AWA/,1,1
-"GROSCHE GLASGOW Glass Teapot with Infuser , 1000 ml 34 Fl Oz capacity",Kitchen,http://www.amazon.com/dp/B002I7FCMO/,1,1
-Just Chillin Like A Penguin 11 Ounces Funny Coffee Mug,Kitchen,http://www.amazon.com/dp/B01DSBBKOM/,1,1
-"BiteBuster Nitrile/Kevlar Bite Gauntlet Extreme Cat Glove, 18-Inch, Medium/Large, Blue",Pet Products,http://www.amazon.com/dp/B006YZVXBU/,1,1
-Glow-in-the-Dark Alien Head Boppers (1 dz),Toy,http://www.amazon.com/dp/B002DLR494/,1,1
-"Rhode Island Novelty Assorted Sparkle Head Boppers, 12-Piece",Toy,http://www.amazon.com/dp/B001VDR42M/,1,1
-BestOfferBuy Novelty Vampire Devil Wine Glass Cup With Drinking Tube Straw,Kitchen,http://www.amazon.com/dp/B00DY14X3C/,1,1
-Wilton Animal Pals 50-Piece Cookie Cutter Set,Kitchen,http://www.amazon.com/dp/B0000VMITA/,1,1
-Alice's Nightmare in Wonderland Colouring Book (Snowbooks Adventure Gamebooks),Book,http://www.amazon.com/dp/1909679828/,1,1
-"Skishie Aquarium Square, Sensory Fidget Stress Away Pac By Attainment",Single Detail Page Misc,http://www.amazon.com/dp/1578617510/,1,1
-Flour Sifter,Kitchen,http://www.amazon.com/dp/B00OVLVAVM/,1,1
-#1 Stress Relief Essential Oil - Anxiety Relief Blend by Living Pure Essential Oils - Promotes Relaxation and Stress Relief Naturally - 100% Organic Therapeutic & Aromatherapy Grade - 15ml,Health and Beauty,http://www.amazon.com/dp/B012O7W6NA/,1,1
-"ELITE White Pillowcases, Standard Size, T-180 Percale, 12-Pack",Home,http://www.amazon.com/dp/B01542SXJS/,1,1
-CherishBags Baby Multi-Purpose Diaper Bag with Padded Changing Mat and Insulated Bottle Bag,Baby Product,http://www.amazon.com/dp/B01D8K3HJE/,1,1
-Rainbow Star Swirl Lollipops (1 dz),Health and Beauty,http://www.amazon.com/dp/B003JJX83K/,1,1
-"Dr. Martens Women's Aimilita 9 Eye Toe Cap Boot,Black/Black,8 UK/10 M US",Shoes,http://www.amazon.com/dp/B00IO8XHG4/,1,1
-Breville BPI640XL Personal Pie Maker,Kitchen,http://www.amazon.com/dp/B004RF7QFQ/,1,1
-Goumikids Organic Soft Stay On Unisex Scratch Baby Mittens - Stops Scratches and Prevents Germs,Apparel,http://www.amazon.com/dp/B00JU4ZJH6/,1,1
-Intergalactic Bath Bomb by LUSH 6.3 ounce,Beauty,http://www.amazon.com/dp/B017FRGLQC/,1,1
-20 (Twenty Pages) - BCW Pro 3-Pocket Currency Storage Page - Dollar Bill & Currency Collecting Supplies,Toy,http://www.amazon.com/dp/B002KDPEMY/,1,1
-"ProAid Fashion Apple Shape Tissue Holder, Toilet Paper Holder, Tissue Holder with a Roll, Piggy Bank, Boxes for Home Bathroom and Office, Tissue Box Cover, Green",Home,http://www.amazon.com/dp/B01FXA6CLW/,1,1
-Blisstime Cast Iron Cleaner XL 7x7 Inch Premium Stainless Steel Chainmail Scrubber,Kitchen,http://www.amazon.com/dp/B00N7DCCEO/,1,1
-"Bath & Body Works, Aromatherapy Stress Relief 3-Wick Candle, Eucalyptus Spearmint",Home,http://www.amazon.com/dp/B005O91CUE/,1,1
-"Cottonelle CleanCare Family Roll Toilet Paper, Bath Tissue, 36 Toilet Paper Rolls",Health and Beauty,http://www.amazon.com/dp/B01BT3U312/,1,1
-EZ Drinker Toilet Golf - Putter Practice in the Bathroom Toy with this Potty Putter,Sports,http://www.amazon.com/dp/B008JHF9XY/,1,1
-Stuffed Plush Elephant Hat Costume Party Cap,Toy,http://www.amazon.com/dp/B002I51ILA/,1,1
-"Candle Warmers Pluggable Fragrance Warmer, Honeycomb Metallic",Home,http://www.amazon.com/dp/B009SJN7WC/,1,1
-Greetings from the Simpsons: A Postcard Book,Book,http://www.amazon.com/dp/0060965800/,1,1
-"Steiner 21923-L Welding Gloves, Burnt orange Y-Series 23-Inch Length Shoulder Split Cowhide, Foam Lined, Large",Home Improvement,http://www.amazon.com/dp/B00209QLM0/,1,1
-Air Mail Postcard Love for Finland Mouse Pad Mousepad,Wireless,http://www.amazon.com/dp/B00VF2TXFA/,1,1
-"Enesco Department 56 - Snow Village, the Sounds of Christmas Ceramic House",Home,http://www.amazon.com/dp/B00XBHHIJU/,1,1
-"Pop Rocks 3 Pack 12 Units Per Box Assorted Flavors,8.88 OZ",Grocery,http://www.amazon.com/dp/B003UPDBJO/,1,1
-Suncast GO3216 Golf Organizer,Home Improvement,http://www.amazon.com/dp/B0000V0L9Y/,1,1
+Headstrong: 52 Women Who Changed Science-and the World,Book,http://www.amazon.com/dp/0553446797/,3,1
+"Assassination Classroom, Vol. 4",Book,http://www.amazon.com/dp/1421576104/,1,1
+"The Legend of Eli Monpress: Book 1, 2 & 3 (Ominubus Edition)",Book,http://www.amazon.com/dp/0316193577/,3,1
+"Uzumaki (3-in-1, Deluxe Edition): Includes vols. 1, 2 & 3",Book,http://www.amazon.com/dp/1421561328/,17,1
+"How to Talk to Your Cat About Gun Safety: And Abstinence, Drugs, Satanism, and Other Dangers That Threaten Their Nine Lives",Book,http://www.amazon.com/dp/045149492X/,15,1
+Life After Life: A Novel,Book,http://www.amazon.com/dp/0316176494/,1,1
+Stop Me Because I Can't Stop Myself : Taking Control of Impulsive Behavior,Book,http://www.amazon.com/dp/0071433686/,1,1
+The Best of Punk Magazine,Book,http://www.amazon.com/dp/0061958352/,2,1
+Survive!: Essential Skills and Tactics to Get You Out of Anywhere - Alive,Book,http://www.amazon.com/dp/0061373516/,3,1
+Batman Vol. 1: The Court of Owls (The New 52) (Batman (DC Comics Paperback)),Book,http://www.amazon.com/dp/1401235425/,174,1
+"Batman & Robin, Vol. 3: Batman & Robin Must Die (Batman & Robin (Paperback))",Book,http://www.amazon.com/dp/1401235085/,7,1
+Batgirl Vol. 1: Batgirl of Burnside,Book,http://www.amazon.com/dp/1401257984/,4,1
+Sh*tty Mom: The Parenting Guide for the Rest of Us,Book,http://www.amazon.com/dp/1419704591/,1,1
+1st to Die (Women's Murder Club),Book,http://www.amazon.com/dp/0446696617/,1,1
+"Assassination Classroom, Vol. 3",Book,http://www.amazon.com/dp/1421576090/,1,1
+"Fables, Vol. 9: Sons of Empire",Book,http://www.amazon.com/dp/1401213162/,1,1
+Fables Vol. 8: Wolves,Book,http://www.amazon.com/dp/1401210015/,1,1

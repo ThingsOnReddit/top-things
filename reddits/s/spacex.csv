@@ -1,38 +1,99 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",Book,http://www.amazon.com/dp/0062301233/,21,6
-SpaceX From The Ground Up: 4th Edition,eBooks,http://www.amazon.com/dp/B01CUUUZZ2/,7,5
-The Case for Mars: The Plan to Settle the Red Planet and Why We Must,Book,http://www.amazon.com/dp/145160811X/,10,4
-NEW SPACE: Our Shiny Future,eBooks,http://www.amazon.com/dp/B00GK5XS44/,3,3
-Ignition!: An informal history of liquid rocket propellants,Book,http://www.amazon.com/dp/0813507251/,7,2
-First Alert PR710 10-Year Photoelectric Smoke and Fire Detector,Home Improvement,http://www.amazon.com/dp/B00ON6M532/,2,2
-Skunk Works: A Personal Memoir of My Years of Lockheed,eBooks,http://www.amazon.com/dp/B00A2DIW3C/,,1
-Euphoria (Euphoria Odyssey Book 1),eBooks,http://www.amazon.com/dp/B00E8K6NG8/,,1
-Muck Boot Women's Arctic Sport Ii Tall Snow Boot,"Clothing, Shoes & Jewelry",https://www.amazon.com/dp/B00TT385CO/ref=cm_sw_r_cp_api_wG0Szb7NZKSXH,,1
-"Superintelligence: Paths, Dangers, Strategies",Book,http://www.amazon.com/dp/1501227742/,12,1
-Seveneves: A Novel,Book,http://www.amazon.com/dp/0062190377/,6,1
-Samsung 256GB 95MB/s MicroSDXC EVO Select Memory Card with Adapter (MB-ME256DA/AM),Personal Computer,http://www.amazon.com/dp/B01G7L03OS/,5,1
-Rode VMGO Video Mic GO Lightweight On-Camera Microphone Super-Cardioid,Musical Instruments,http://www.amazon.com/dp/B00GQDORA4/,4,1
-Philips HeartStart Home Defibrillator,Health and Beauty,http://www.amazon.com/dp/B00064CED6/,4,1
-Fundamentals of Astrodynamics (Dover Books on Aeronautical Engineering),Book,http://www.amazon.com/dp/0486600610/,4,1
-"Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",Book,http://www.amazon.com/dp/006230125X/,3,1
-"LUXA2 P-MEGA 41,600mAh 6 USB Outputs Fast Charging External Battery Power Station for Smartphones and Tablets",Cell Phones & Accessories,https://www.amazon.com/LUXA2-Outputs-Charging-External-Smartphones/dp/B00HD8ZKMK,2,1
-Analysis and Design of Flight Vehicle Structures,Book,http://www.amazon.com/dp/0961523409/,2,1
-Theory of Wing Sections: Including a Summary of Airfoil Data (Dover Books on Aeronautical Engineering),Book,http://www.amazon.com/dp/0486605868/,2,1
-Heil PR-40 Dynamic Studio Recording Microphone,Musical Instruments,https://www.amazon.com/Heil-Dynamic-Studio-Recording-Microphone/dp/B00PQYBRNY,1,1
-"Elon Musk - ""Rockets Are Cool..."" - NEW Motivational Space Poster",Office Product,http://www.amazon.com/dp/B00K55GA9U/,1,1
-Dynamic Programming and Optimal Control (2 Vol Set),Book,http://www.amazon.com/dp/1886529086/,1,1
+SpaceX From The Ground Up: 4th Edition,eBooks,http://www.amazon.com/dp/B01CUUUZZ2/,22,14
+"Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",Book,http://www.amazon.com/dp/0062301233/,55,11
+The Case for Mars: The Plan to Settle the Red Planet and Why We Must,Book,http://www.amazon.com/dp/145160811X/,23,8
+NEW SPACE: Our Shiny Future,eBooks,http://www.amazon.com/dp/B00GK5XS44/,6,6
+Ignition!: An informal history of liquid rocket propellants,Book,http://www.amazon.com/dp/0813507251/,18,5
+Fundamentals of Astrodynamics (Dover Books on Aeronautical Engineering),Book,http://www.amazon.com/dp/0486600610/,21,2
+The Rocket Company (Library of Flight),Book,http://www.amazon.com/dp/1563476967/,2,2
+A Man on the Moon: The Voyages of the Apollo Astronauts,Book,http://www.amazon.com/dp/014311235X/,13,2
+Mack's 6 pair Pillow Soft Ear Plugs - Kid Size,Health and Beauty,http://www.amazon.com/dp/B007P8CZS0/,3,2
+The International Mars Research Station: An exciting new plan to create a permanent human presence on Mars,eBooks,http://www.amazon.com/dp/B00U4EE6EI/,2,2
+First Alert PR710 10-Year Photoelectric Smoke and Fire Detector,Home Improvement,http://www.amazon.com/dp/B00ON6M532/,3,2
+Exercises for the Feynman Lectures on Physics,Book,http://www.amazon.com/dp/0465060714/,2,1
+Rocket Propulsion Elements,Book,http://www.amazon.com/dp/0470080248/,8,1
+"Rocket Propulsion Elements, 7th Edition",Book,http://www.amazon.com/dp/0471326429/,4,1
+Spacecraft Systems Engineering 3rd Edition,Book,http://www.amazon.com/dp/0471619515/,1,1
+Hypersonic and Planetary Entry Flight Mechanics,Book,http://www.amazon.com/dp/0472100041/,1,1
 Optimal Control Theory: An Introduction (Dover Books on Electrical Engineering),Book,http://www.amazon.com/dp/0486434842/,1,1
+Theory of Wing Sections: Including a Summary of Airfoil Data (Dover Books on Aeronautical Engineering),Book,http://www.amazon.com/dp/0486605868/,4,1
+The Death and Life of Great American Cities,Book,http://www.amazon.com/dp/067974195X/,15,1
+"Undaunted Courage:  Meriwether Lewis, Thomas Jefferson, and the Opening of the American West",Book,http://www.amazon.com/dp/0684826976/,5,1
+The Case for Mars: The Plan to Settle the Red Planet and Why We Must,Book,http://www.amazon.com/dp/0684835509/,3,1
+Eccentric Orbits: The Iridium Story,Book,http://www.amazon.com/dp/0802121683/,1,1
+"Zero to One: Notes on Startups, or How to Build the Future",Book,http://www.amazon.com/dp/0804139296/,25,1
+"Truth, Lies, and O-Rings: Inside the Space Shuttle Challenger Disaster",Book,http://www.amazon.com/dp/0813041937/,8,1
+Grounded: The Case for Abolishing the United States Air Force (Studies In Conflict Diplomacy Peace),Book,http://www.amazon.com/dp/0813144957/,1,1
+Astronomical Algorithms,Book,http://www.amazon.com/dp/0943396611/,1,1
+Analysis and Design of Flight Vehicle Structures,Book,http://www.amazon.com/dp/0961523409/,4,1
+Tower of Secrets: A Real Life Spy Thriller,Book,http://www.amazon.com/dp/0985893052/,1,1
+Safe Is Not an Option,Book,http://www.amazon.com/dp/0989135519/,2,1
+Asteroid Mining 101: Wealth for the New Space Economy,Book,http://www.amazon.com/dp/0990584208/,1,1
+The New DOD Space Management Process: A Critical Analysis,Book,http://www.amazon.com/dp/1249592119/,1,1
+The Last Lecture,Book,http://www.amazon.com/dp/1401323251/,4,1
 "Classical Feedback Control: With MATLAB® and Simulink®, Second Edition (Automation and Control Engineering)",Book,http://www.amazon.com/dp/1439860173/,1,1
-Space Physiology,Book,http://www.amazon.com/dp/0195137256/,1,1
-"ProTapes Pro 950 Polyimide Film Tape, 7500V Dielectric Strength, 36 yds Length x 1/2"" Width (Pack of 1)",BISS,http://www.amazon.com/dp/B00DVBLKZE/,1,1
+SpaceX: Making Commercial Spaceflight a Reality (Springer Praxis Books),Book,http://www.amazon.com/dp/1461455138/,1,1
 "Taming Liquid Hydrogen: The Centaur: Upper Stage Rocket, 1958-2002",Book,http://www.amazon.com/dp/1478266538/,1,1
-Exercises for the Feynman Lectures on Physics,Book,http://www.amazon.com/dp/0465060714/,1,1
-The Rocket Company (Library of Flight),Book,http://www.amazon.com/dp/1563476967/,1,1
-"The Moon: Resources, Future Development and Settlement (Springer Praxis Books)",Book,http://www.amazon.com/dp/0387360557/,1,1
-Safe Is Not an Option,Book,http://www.amazon.com/dp/0989135519/,1,1
-AIBC AI-MK350S Advanced Handheld Spectrometer,BISS,http://www.amazon.com/dp/B00GSJZ4VM/,1,1
-"Hot Wheels 2015 HW Workshop Tesla Model S 217/250, Silver",Toy,http://www.amazon.com/dp/B01054IOY4/,1,1
-HiLetgo New GY-NEO6MV2 Flight Control GPS Module With EEPROM MWC APM2.5 Antenna,BISS,http://www.amazon.com/dp/B01I1JDCJ2/,1,1
-Diymall Mpu-9250 9dof Module Nine-axis Attitude Gyro Compass Acceleration Magnetic Field Sensor,Personal Computer,http://www.amazon.com/dp/B00OPNUO9U/,1,1
+Autodesk Inventor 2014 Tutorial Book,Book,http://www.amazon.com/dp/1491068736/,1,1
+"Superintelligence: Paths, Dangers, Strategies",Book,http://www.amazon.com/dp/1501227742/,25,1
+SOLIDWORKS 2015: A Power Guide for Beginner and Intermediate Users,Book,http://www.amazon.com/dp/1511798424/,1,1
+Space Probes: 50 Years of Exploration from Luna 1 to New Horizons,Book,http://www.amazon.com/dp/1554079446/,2,1
+"The Impact Of Ash Deposition On Coal Fired Plants: Proceedings of the Engineering Foundation Conference Held at the St. John's Swallow Hotel, Solihull, England",Book,http://www.amazon.com/dp/1560322934/,1,1
+Modern Engineering for Design of Liquid-Propellant Rocket Engines (Progress in Astronautics & Aeronautics),Book,http://www.amazon.com/dp/1563470136/,3,1
+Aerothermodynamics of Gas Turbine and Rocket Propulsion,Book,http://www.amazon.com/dp/1563472414/,1,1
+"Spacecraft Mission Design, 2nd Edition (AIAA Education Series)",Book,http://www.amazon.com/dp/1563472627/,1,1
 Laser Satellite Communication: The Third Generation,Book,http://www.amazon.com/dp/1567203299/,1,1
+Entering Space: Creating a Spacefaring Civilization,Book,http://www.amazon.com/dp/1585420360/,6,1
+Moon Lander: How We Developed the Apollo Lunar Module (Smithsonian History of Aviation and Spaceflight (Paperback)),Book,http://www.amazon.com/dp/1588342735/,7,1
+"Space Mission Analysis and Design, 3rd edition (Space Technology Library, Vol. 8)",Book,http://www.amazon.com/dp/1881883108/,6,1
+"Fundamentals of Astrodynamics and Applications, 4th ed. (Space Technology Library)",Book,http://www.amazon.com/dp/1881883183/,3,1
+Dynamic Programming and Optimal Control (2 Vol Set),Book,http://www.amazon.com/dp/1886529086/,1,1
+Explanatory Supplement to the Astronomical Almanac,Book,http://www.amazon.com/dp/1891389858/,1,1
+The High Frontier: Human Colonies in Space: Apogee Books Space Series 12,Book,http://www.amazon.com/dp/189652267X/,4,1
+Saturn V Apollo Lunar Orbital Rendezvous Planning Guide,Book,http://www.amazon.com/dp/1926837037/,1,1
+Here Be Dragons,Book,http://www.amazon.com/dp/1926837339/,1,1
+I Could Tell You But Then You Would Have to Be Destroyed By Me: Emblems from the Pentagon's Black World,Book,http://www.amazon.com/dp/193555414X/,6,1
+Philips HeartStart Home Defibrillator,Health and Beauty,http://www.amazon.com/dp/B00064CED6/,17,1
+"Wesco Spaceboy - German Made - X-Large Push Door Trash Can, Powder Coated Steel, 9.2 Gallons / 35 L, Silver",Home,http://www.amazon.com/dp/B00083HPCK/,2,1
+Rode Deadcat Wind Muff Microphone Cover,Musical Instruments,http://www.amazon.com/dp/B000BH437S/,3,1
+BARSKA Binocular Tripod Adaptor,Sports,http://www.amazon.com/dp/B000BYH8EQ/,13,1
+Slime 1034-A T-Handle Tire Plug Kit,Automotive Parts and Accessories,http://www.amazon.com/dp/B000ET525K/,22,1
+LD © Glossy Inkjet Photo Sticker Paper (8.5X11) 100 pack,Office Product,http://www.amazon.com/dp/B000VKV2H4/,5,1
+Half Way Home,eBooks,http://www.amazon.com/dp/B003QCIPGK/,2,1
+"EZM Vertical Dual LCD Monitor Mount Stand Freestanding up to 27"" (002-0014)",PC Accessory,http://www.amazon.com/dp/B003XZVTJ0/,2,1
+Audio-Technica ATR2100-USB Cardioid Dynamic USB/XLR Microphone,Musical Instruments,http://www.amazon.com/dp/B004QJOZS4/,118,1
+"Wings in Orbit: Scientific and Engineering Legacies of the Space Shuttle, 1971-2010 (Illustrated Edition, Part 1 of 2)",eBooks,http://www.amazon.com/dp/B006AKSDKI/,1,1
+Dive Rite ExtendAir CO2 Absorbent for Technical rebreather Divers,Sports,http://www.amazon.com/dp/B008B4BA7Y/,2,1
+Skunk Works: A Personal Memoir of My Years of Lockheed,eBooks,http://www.amazon.com/dp/B00A2DIW3C/,5,1
+"Mars Direct: Space Exploration, the Red Planet, and the Human Future: A Special from Tarcher/ Penguin",eBooks,http://www.amazon.com/dp/B00AMOO98I/,1,1
+The Rocket Company,eBooks,http://www.amazon.com/dp/B00BWEEWOI/,1,1
+"ProTapes Pro 950 Polyimide Film Tape, 7500V Dielectric Strength, 36 yds Length x 1/2"" Width (Pack of 1)",BISS,http://www.amazon.com/dp/B00DVBLKZE/,3,1
+Euphoria (Euphoria Odyssey Book 1),eBooks,http://www.amazon.com/dp/B00E8K6NG8/,1,1
+Rode VMGO Video Mic GO Lightweight On-Camera Microphone Super-Cardioid,Musical Instruments,http://www.amazon.com/dp/B00GQDORA4/,22,1
+AIBC AI-MK350S Advanced Handheld Spectrometer,BISS,http://www.amazon.com/dp/B00GSJZ4VM/,1,1
+"Fovitec  StudioPRO - 2x 7'6"" Classic Light Stand Kit - [Classic][For Photo and Video][Includes Carrying Bag]",Photography,http://www.amazon.com/dp/B00HNZJLG4/,14,1
+Iridium 9555 Satellite Phone,Car Audio or Theater,http://www.amazon.com/dp/B00IJHGSIO/,1,1
+"Elon Musk - ""Rockets Are Cool..."" - NEW Motivational Space Poster",Office Product,http://www.amazon.com/dp/B00K55GA9U/,1,1
+Diymall Mpu-9250 9dof Module Nine-axis Attitude Gyro Compass Acceleration Magnetic Field Sensor,Personal Computer,http://www.amazon.com/dp/B00OPNUO9U/,1,1
+Nvidia Tesla K80 24GB GDDR5 CUDA Cores Graphic Cards,PC Accessory,http://www.amazon.com/dp/B00Q7O7PQA/,6,1
+"Muck Boot Women's Arctic Sport II Tall Snow Boot, Black, 11 US/11 M US",Shoes,http://www.amazon.com/dp/B00TT385CO/,1,1
 "JBtek BMP180 Barometric Pressure, Temperature and Altitude Sensor",BISS,http://www.amazon.com/dp/B00UUS12PO/,1,1
+PNY 128GB High Speed MicroSDXC Memory Card (P-SDUX128U160G-GE),Personal Computer,http://www.amazon.com/dp/B00W77C1W4/,20,1
+"Hot Wheels 2015 HW Workshop Tesla Model S 217/250, Silver",Toy,http://www.amazon.com/dp/B01054IOY4/,1,1
+"Arunners™ Universal 360 Degree Viewing Immersive Vizor 3D Virtual Reality Headset VR Glasses for 3D Movies and Games fit 4 to 5.7 inch Smartphones, iPhone 5S/SE/6/6S Plus, Galaxy S5/S6/S7 Edge – Black",Wireless,http://www.amazon.com/dp/B0178ZH1WY/,1,1
+Samsung 256GB 95MB/s MicroSDXC EVO Select Memory Card with Adapter (MB-ME256DA/AM),Personal Computer,http://www.amazon.com/dp/B01G7L03OS/,16,1
+LJYH Men's Stand Collar Motorcycle Bomber Faux leather Jacket,Apparel,http://www.amazon.com/dp/B01HRFPKP0/,1,1
+HiLetgo New GY-NEO6MV2 Flight Control GPS Module With EEPROM MWC APM2.5 Antenna,BISS,http://www.amazon.com/dp/B01I1JDCJ2/,1,1
+How to Make Money on Mars: The Economic Case for Exploring Mars and Beyond,eBooks,http://www.amazon.com/dp/B01LYPJRLI/,1,1
+Seveneves: A Novel,Book,http://www.amazon.com/dp/0062190377/,15,1
+Spintu Mens PU Leather Tight Fit Motorcycle Plus Velvet Casual pants White,Apparel,http://www.amazon.com/dp/B01LZBJFQJ/,1,1
+"Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",Book,http://www.amazon.com/dp/006230125X/,8,1
+An Introduction to Combustion: Concepts and Applications,Book,http://www.amazon.com/dp/0073380199/,1,1
+Would the Insects Inherit the Earth? and Other Subjects of Concern to Those Who Worry About Nuclear War,Book,http://www.amazon.com/dp/0080359701/,1,1
+Space Physiology,Book,http://www.amazon.com/dp/0195137256/,1,1
+Spacesuit: Fashioning Apollo (MIT Press),Book,http://www.amazon.com/dp/026201520X/,5,1
+War Dogs,Book,http://www.amazon.com/dp/0316072834/,1,1
+"The Moon: Resources, Future Development and Settlement (Springer Praxis Books)",Book,http://www.amazon.com/dp/0387360557/,1,1
+Robotic Exploration of the Solar System: Part I: The Golden Age 1957-1982 (Springer Praxis Books),Book,http://www.amazon.com/dp/0387493263/,2,1
+October Sky (The Coalwood Series #1),Book,http://www.amazon.com/dp/0440235502/,1,1
+How to Build Your Own Spaceship: The Science of Personal Space Travel,Book,http://www.amazon.com/dp/0452295335/,1,1

@@ -1,56 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Presto 03430 Pizzazz Plus Rotating Oven,Kitchen,http://www.amazon.com/dp/B00005IBXJ/,10,3
-Natural Harvest,eBooks,http://www.amazon.com/dp/B00ANT5X82/,12,2
-"Cheddar Cheese Powder, 1 lb. by Barry Farm",Grocery,http://www.amazon.com/dp/B00016LZT8/,5,2
-Rollie Hands-Free Automatic Electric Vertical Nonstick Easy Quick Egg Cooker,Kitchen,http://www.amazon.com/dp/B00C77LNR8/,4,2
-"Kracie Popin Cookin 9 Item Bundle with Sushi, Hamburger, Bento, Takoyaki, Cake Shop and More",Grocery,http://www.amazon.com/dp/B00K5D4NDC/,3,2
-Natural Harvest: A collection of semen-based recipes,Book,http://www.amazon.com/dp/1481227041/,59,1
-Semenology - The Semen Bartender's Handbook,Book,http://www.amazon.com/dp/1482605228/,9,1
-"Reynolds Slow Cooker Liners, 4-Count (Pack of 12)",Health and Beauty,http://www.amazon.com/dp/B002U0KKK8/,7,1
-"WillPowder Sodium Citrate, 16-Ounce Jar",Grocery,http://www.amazon.com/dp/B00250Y9Y6/,6,1
-Rome Industries 1705 Pie Iron Sandwich Cooker,Kitchen,http://www.amazon.com/dp/B000FNLXWG/,5,1
-"Oreo Wafer, 23.1 Pound -- 1 each.",Grocery,http://www.amazon.com/dp/B00CHTYOKE/,3,1
-"Hoosier Hill Farm Cheddar Cheez Powder, 1 Pound",Grocery,http://www.amazon.com/dp/B0099XPG94/,3,1
-"23 Karat Edible Gold Loose Leaf (Pack of 25 leaves) 3-3/8""x3-3/8"" / 85mmx85mm",Grocery,http://www.amazon.com/dp/B0006GSQYK/,3,1
-"Lowrey's Original Bacon Curls, 1.75-Ounce (Pack of 18)",Grocery,http://www.amazon.com/dp/B000UPFWW6/,3,1
-"Johnny Apple Peeler by VICTORIO VKP1010, Cast Iron, Suction Base",Kitchen,http://www.amazon.com/dp/B001DLTD1C/,3,1
-"BLACK+DECKER 1.5-Cup Electric Food Chopper, White, HC306C",Kitchen,http://www.amazon.com/dp/B000I0DV6W/,3,1
-"Utz Cheese Balls, 2 Pound",Grocery,http://www.amazon.com/dp/B001HBEDWW/,2,1
-"Huy Fong Chili Garlic Sauce, 8 oz",Grocery & Gourmet Food,https://www.amazon.com/Huy-Fong-Vietnamese-Chili-Garlic/dp/B0006SKCVI,2,1
-Norpro Stainless Steel Vegetable Steamer,Kitchen,http://www.amazon.com/dp/B001FBCP7O/,2,1
-"The American Way of Eating: Undercover at Walmart, Applebee's, Farm Fields and the Dinner Table",Book,http://www.amazon.com/dp/1439171963/,2,1
-Dragees Silver Sugar Cake Cupcake Cookie Sprinkles 4 mm 2 oz,Kitchen,http://www.amazon.com/dp/B00B0H1GAU/,2,1
-"TravelMate Memory Foam Neck Pillow, Grey",Home,http://www.amazon.com/dp/B00A80N626/,1,1
-Sweet Sue Canned Whole Chicken without Giblets 50oz Can (Pack of 2),Grocery,http://www.amazon.com/dp/B00ERE3SEA/,1,1
-"The Eat-a-Bug Cookbook, Revised: 40 Ways to Cook Crickets, Grasshoppers, Ants, Water Bugs, Spiders, Centipedes, and Their Kin",Book,http://www.amazon.com/dp/1607744368/,1,1
-Schnitzel With Noodles Yankee Candle 22oz Jar Candle,Home,http://www.amazon.com/dp/B00A9BDJJO/,1,1
-Accoutrements Gravy Candy Canes - 6ct,Grocery,http://www.amazon.com/dp/B00FHNK596/,1,1
-Trolli Burger 24 Pieces (1200g),Grocery,http://www.amazon.com/dp/B00WGDRFXY/,1,1
-"(12 Pack) Reusable Plastic Paper Plate Holders for 9"" Plates, Colors May Vary",Kitchen,http://www.amazon.com/dp/B00TRBMIAI/,1,1
-"Don Miguel Monster Dog Chili Cheese Hot Dog, 5.6 Ounce -- 18 per case.",Grocery,http://www.amazon.com/dp/B00B42EDOM/,1,1
-"Creme Brulee Culinary Kitchen Torch - Cooking Torch & Multifunction Butane Torch Lighter - Intense Adjustable Jet Flame - Includes Child Safety Lock - Piezo Ignition - Quick Refill System - 6"" Silver",Kitchen,http://www.amazon.com/dp/B00TGGO2G2/,1,1
-The Fast-5 Diet and the Fast-5 Lifestyle,Book,http://www.amazon.com/dp/0977253406/,1,1
-"Grace Cock Flavored Soup Mix, 1.76 Oz (Pack of12)",Grocery,http://www.amazon.com/dp/B002AP2OS4/,1,1
+Rollie Hands-Free Automatic Electric Vertical Nonstick Easy Quick Egg Cooker,Kitchen,http://www.amazon.com/dp/B00C77LNR8/,12,4
+Presto 03430 Pizzazz Plus Rotating Oven,Kitchen,http://www.amazon.com/dp/B00005IBXJ/,24,3
+Natural Harvest,eBooks,http://www.amazon.com/dp/B00ANT5X82/,28,3
+"Reynolds Slow Cooker Liners, 4-Count (Pack of 12)",Health and Beauty,http://www.amazon.com/dp/B002U0KKK8/,18,3
+Natural Harvest: A collection of semen-based recipes,Book,http://www.amazon.com/dp/1481227041/,160,3
+"Hoosier Hill Bakers Bags, Bulk Sizes (Cheddar Cheese Powder / 8 lbs)",Grocery,http://www.amazon.com/dp/B011GYDMU8/,2,2
+"23 Karat Edible Gold Loose Leaf (Pack of 25 leaves) 3-3/8""x3-3/8"" / 85mmx85mm",Grocery,http://www.amazon.com/dp/B0006GSQYK/,9,2
+"Kracie Popin Cookin 9 Item Bundle with Sushi, Hamburger, Bento, Takoyaki, Cake Shop and More",Grocery,http://www.amazon.com/dp/B00K5D4NDC/,4,2
+Rome Industries 1705 Pie Iron Sandwich Cooker,Kitchen,http://www.amazon.com/dp/B000FNLXWG/,18,2
+Semenology - The Semen Bartender's Handbook,Book,http://www.amazon.com/dp/1482605228/,31,2
+"Cheddar Cheese Powder, 1 lb. by Barry Farm",Grocery,http://www.amazon.com/dp/B00016LZT8/,10,2
+"8 1/2"" Spring Roll Wrapper / Rice Paper",Grocery,http://www.amazon.com/dp/B0000CNU2W/,1,1
+Korean BBQ Stone Grill Stovetop Barbecue Steak Chicken Ribs Pork Belly Grill Pan,Kitchen,http://www.amazon.com/dp/B0000DIJBP/,1,1
+El Nacho Grande Bag Cheese,Sports,http://www.amazon.com/dp/B0000E2FI0/,1,1
 "Minor's Original Formula Beef Base, 16 ounce",Grocery,http://www.amazon.com/dp/B0001GUQ20/,1,1
+Matouk's West Indian Hot Sauce - 10oz,Grocery,http://www.amazon.com/dp/B00025DBEK/,2,1
+"Canfield's Soda Chocolate Fudge Diet,  6-Count(Pack of 4)",Grocery,http://www.amazon.com/dp/B0005YN6VG/,4,1
+JFC - Wasabi Fumi Furikake (Rice Seasoning) 1.7 Oz.,Grocery,http://www.amazon.com/dp/B0006G5KEE/,2,1
+"S.O.S. Steel Wool Soap Pads, 18 Count",Home,http://www.amazon.com/dp/B0009P687K/,3,1
+"Loma Linda Redi-Burger, Low Fat, 19-Ounce Cans (Pack of 12)",Grocery,http://www.amazon.com/dp/B000AYDFUI/,1,1
+Nordic Ware Microwave 10.5 Inch Spatter Cover (Assorted Colors),Kitchen,http://www.amazon.com/dp/B000BOA2D0/,3,1
+"BLACK+DECKER 1.5-Cup Electric Food Chopper, White, HC306C",Kitchen,http://www.amazon.com/dp/B000I0DV6W/,3,1
 Heinz Baked Beans 415g 4 Pack (England),Grocery,http://www.amazon.com/dp/B000JSOBSA/,1,1
-"Mehr Saffron, Premium All Red Saffron / 0.18 Oz (5 Gram)",Grocery,http://www.amazon.com/dp/B007P4X380/,1,1
-Transglutaminase (Meat Glue) - RM Formula - 50g/2oz,Grocery,http://www.amazon.com/dp/B00EIGV7MC/,1,1
-"Spicy Chicken Roasted Cup Noodles (x 6 Cups), Spicy Chicken Cup Ramyun Korean Noodle Ramen BULDAK BOKKEUM MYUN",Grocery,http://www.amazon.com/dp/B00J4AE61G/,1,1
-"Bela-Olhao Lightly Smoked Sardines in Olive Oil, 4.25 Ounce -- 12 per case",Grocery,http://www.amazon.com/dp/B001HTI3BQ/,1,1
+"Elizabeth Karmel's Beer Can Chicken Porcelain Chicken Sitter, 5-inch",Home,http://www.amazon.com/dp/B000LZB2U6/,1,1
 "King Oscar Mediterranean Sardines,  3.75 Ounce Tins (Pack of 12)",Grocery,http://www.amazon.com/dp/B000MDAT2E/,1,1
-Retro Food Fiascos: A Collection of Curious Concoctions,Book,http://www.amazon.com/dp/1888054883/,1,1
+Wilton 6-Cup Jumbo Muffin Pan,Kitchen,http://www.amazon.com/dp/B000NBSI32/,3,1
+Calphalon Easy Grip Apple Corer Slicer,Kitchen,http://www.amazon.com/dp/B000SOAT0Y/,9,1
+"Lowrey's Hot & Spicy Bacon Curls, Microwave Pork Rinds (Chicharrones), 1.75 Ounce Package, (Pack of 18)",Grocery,http://www.amazon.com/dp/B000UP8QQ0/,4,1
+"Lowrey's Original Bacon Curls, 1.75-Ounce (Pack of 18)",Grocery,http://www.amazon.com/dp/B000UPFWW6/,36,1
+"Eddingtons Italian Olive Wood Spatula, 12-Inch",Kitchen,http://www.amazon.com/dp/B001APPMKM/,3,1
+"Johnny Apple Peeler by VICTORIO VKP1010, Cast Iron, Suction Base",Kitchen,http://www.amazon.com/dp/B001DLTD1C/,7,1
+"Kool-Aid Drink Mix, Sugar Sweetened Invisible Cherry, 19-Ounce Container (Pack of 4)",Grocery,http://www.amazon.com/dp/B001EQ4W4Y/,1,1
+Norpro Stainless Steel Vegetable Steamer,Kitchen,http://www.amazon.com/dp/B001FBCP7O/,8,1
+"Utz Cheese Balls, 2 Pound",Grocery,http://www.amazon.com/dp/B001HBEDWW/,2,1
+"Bela-Olhao Lightly Smoked Sardines in Olive Oil, 4.25 Ounce -- 12 per case",Grocery,http://www.amazon.com/dp/B001HTI3BQ/,1,1
 "Kit Kat Candy Bar, Crisp Wafers in White Chocolate, 1.5-Ounce Bars (Pack of 24) (Halloween Candy)",Grocery,http://www.amazon.com/dp/B001IZBIRA/,1,1
-Clever Egg Cracker and Clever Scrambler,Kitchen,http://www.amazon.com/dp/B0044TIT4M/,1,1
-Campbell's Casseroles (Shaped Board Book),Book,http://www.amazon.com/dp/1412725879/,1,1
-"Hoosier Hill Bakers Bags, Bulk Sizes (Cheddar Cheese Powder / 8 lbs)",Grocery,http://www.amazon.com/dp/B011GYDMU8/,1,1
-"Pill Yums ~ Tasty Pocket Treat to Hide Your Pet's Medication ~ Simply Insert Pill or Capsule in Chewy Hole, Pinch the Ends Closed and Give As a Treat to Your Dog or Puppy ~ Recommended by Veterinarians Small 30 Count",Pet Products,http://www.amazon.com/dp/B00FX0IEC8/,1,1
-"Oh Boy! Oberto Classics Smok A Roni Smoked Sausage Sticks, 3-Ounce Package (Pack of 8)",Grocery,http://www.amazon.com/dp/B0026WL1DK/,1,1
-Callebaut Chocolate Block Semisweet 54.5% cocoa 5 kilo / 11 lbs,Grocery,http://www.amazon.com/dp/B005IOXBY0/,1,1
-2015 Military Grade XMRE 1300XT Individual Meal (Menu #4A Hashbrown Potatoes with Bacon),Grocery,http://www.amazon.com/dp/B016E9GRWA/,1,1
-"Van Holten’s Meet the Family Pickles Variety Pack 9 oz. - Pack of 4 Includes Big Papa, Hot Mama, Garlic Joe & Sour Sis with a Jarosa Bee Organic Peppermint Lip Balm",Grocery,http://www.amazon.com/dp/B01FPK720A/,1,1
-"Halloumi Cheese, 8.8oz",Grocery,http://www.amazon.com/dp/B001TJKIQ2/,1,1
-French Toast Crunch Cereal 19 oz Box,Pantry,http://www.amazon.com/dp/B00Z9ZUZ92/,1,1
-"Elite Cuisine EGC-007T Maxi-Matic Egg Poacher & Egg Cooker with 7 Egg Capacity, Teal",Kitchen,http://www.amazon.com/dp/B00N9TPNF6/,1,1
-Trader Joe's Dark Chocolate Covered Espresso Beans 14 oz.,Grocery,http://www.amazon.com/dp/B009RS7VIK/,1,1
-Grace Caribbean Traditions Cock Flavor Seasoning 12 Pack x 5.3oz,Grocery,http://www.amazon.com/dp/B010MMX89U/,1,1
+"Halloumi Cheese, 8.8oz",Grocery,http://www.amazon.com/dp/B001TJKIQ2/,2,1
+Tiny Treats: Fun Foods to Make and Eat [AG-TINY TREATS],Book,http://www.amazon.com/dp/B001TKTIDK/,1,1
+"WillPowder Sodium Citrate, 16-Ounce Jar",Grocery,http://www.amazon.com/dp/B00250Y9Y6/,15,1
 "Armour Appian Way Regular Pizza Crust Mix and Pizza Sauce, 12.5 Ounce (Pack of 12)",Grocery,http://www.amazon.com/dp/B0025UCFYC/,1,1
+"Maruchan Yakisoba Cheddar, 3.96-Ounce Packages (Pack of 8)",Grocery,http://www.amazon.com/dp/B0025UMAZQ/,2,1
+"BIGS Vlasic Dill Pickle Sunflower Seeds, 5.35-Ounce Bags (Pack of 12)",Grocery,http://www.amazon.com/dp/B0026LQW4Y/,1,1
+"Oh Boy! Oberto Classics Smok A Roni Smoked Sausage Sticks, 3-Ounce Package (Pack of 8)",Grocery,http://www.amazon.com/dp/B0026WL1DK/,1,1
+Kirkland Bacon Crumbs-20 oz,Grocery,http://www.amazon.com/dp/B0027EL85S/,1,1
+"Myojo Ippeichan Yakisoba Japanese Style Instant Noodles, 4.77-Ounce Tubs (Pack of 6)",Grocery,http://www.amazon.com/dp/B0028PDFQG/,3,1
+"Grace Cock Flavored Soup Mix, 1.76 Oz (Pack of12)",Grocery,http://www.amazon.com/dp/B002AP2OS4/,3,1
+"PB2 Powdered Peanut Butter,6.5 oz",Grocery,http://www.amazon.com/dp/B002GJ9JWS/,44,1
+"Ortega Que Bueno Nacho Cheese Sauce, 6 lb. 10 oz.",Grocery,http://www.amazon.com/dp/B002YGR0XI/,2,1
+Chocolate Cookie Crumbs--Giant 2 lb size (about 6.5 cups),Grocery,http://www.amazon.com/dp/B003A09LPW/,1,1
+DEVILED EGG TRAY WITH SNAP LOCK LID (HOLDS 18 DEVILED EGGS!),Kitchen,http://www.amazon.com/dp/B003ED0O06/,1,1
+CK Products 2-Inch Fish Chocolate Mold,Kitchen,http://www.amazon.com/dp/B003NCVPAG/,1,1
+Clever Egg Cracker and Clever Scrambler,Kitchen,http://www.amazon.com/dp/B0044TIT4M/,1,1
+Wilton Master Set of all 11 Ready-To-Use Icing Tube Colors (4.25 oz.Tubes),Grocery,http://www.amazon.com/dp/B00467H772/,1,1
+"Vietti Pork in BBQ Sauce, 10-Ounce (Pack of 8)",Grocery,http://www.amazon.com/dp/B00474G5T0/,1,1
+Popin' Cookin' Happy Sushi House by Hamee,Grocery,http://www.amazon.com/dp/B004N8LMFM/,5,1
+"Crick-ettes Sampler Gift Pack- Sour Cream & Onion, Bacon & Cheese, & Salt N' Vinegar by Hotlix",Grocery,http://www.amazon.com/dp/B005HBTNH8/,5,1
+Callebaut Chocolate Block Semisweet 54.5% cocoa 5 kilo / 11 lbs,Grocery,http://www.amazon.com/dp/B005IOXBY0/,2,1
+"Rubbermaid Commercial Stainless Steel Oven Monitoring Thermometer, FGTHO550",BISS Basic,http://www.amazon.com/dp/B005KDEIZ0/,6,1
+Margaret Holmes Peanut Patch Hot & Spicy Green Boiled Peanuts,Grocery,http://www.amazon.com/dp/B0062B0KNS/,1,1
+Biscoff Cookie Butter Spread (Creamy + Crunchy Combo Pack),Grocery,http://www.amazon.com/dp/B0073FSY76/,3,1
+"NongShim Shin Ramyun Noodle Soup, Gourmet Spicy, 4.2 Ounce (Pack of 20)",Grocery,http://www.amazon.com/dp/B00778B90S/,17,1
+"Koegel's pickled bologna packed in spiced vinegar, 40-oz plastic jar, refrigerate after opening",Grocery,http://www.amazon.com/dp/B007EVYCES/,1,1
+"Spring Roll Rice Paper Wrappers 22cm, Vietnamese (4-pack)",Grocery,http://www.amazon.com/dp/B007JCS216/,1,1
+"Mehr Saffron, Premium All Red Saffron / 0.18 Oz (5 Gram)",Grocery,http://www.amazon.com/dp/B007P4X380/,3,1
+Original 3D Crystal Puzzle - Deluxe Castle Clear,Toy,http://www.amazon.com/dp/B007ZFEH5C/,1,1
+Bob's Pickle Pops - Original Dill Flavor - Sack of 6 Pops (Pack of 2 Sacks),Grocery,http://www.amazon.com/dp/B0088PCJ1C/,1,1
+Hamburger Popin' Cookin' kit DIY candy by Kracie,Grocery,http://www.amazon.com/dp/B008CYW1CG/,7,1
+"Cheddar Cheese Powder by Hoosier Hill Farm, 1 lb",Grocery,http://www.amazon.com/dp/B008GG9ZS8/,12,1
+Perfect Tortilla Tortilla Pan Set 4 Pc.,Kitchen,http://www.amazon.com/dp/B008UA4POE/,1,1
+"Hoosier Hill Farm Cheddar Cheez Powder, 1 Pound",Grocery,http://www.amazon.com/dp/B0099XPG94/,6,1
+Trader Joe's Dark Chocolate Covered Espresso Beans 14 oz.,Grocery,http://www.amazon.com/dp/B009RS7VIK/,1,1
+"TravelMate Memory Foam Neck Pillow, Grey",Home,http://www.amazon.com/dp/B00A80N626/,1,1
+Schnitzel With Noodles Yankee Candle 22oz Jar Candle,Home,http://www.amazon.com/dp/B00A9BDJJO/,1,1
+Dragees Silver Sugar Cake Cupcake Cookie Sprinkles 4 mm 2 oz,Kitchen,http://www.amazon.com/dp/B00B0H1GAU/,5,1
+"Don Miguel Monster Dog Chili Cheese Hot Dog, 5.6 Ounce -- 18 per case.",Grocery,http://www.amazon.com/dp/B00B42EDOM/,1,1
+Assorted Dehydrated Cereal Marshmallow Bits - 20 Oz Package,Grocery,http://www.amazon.com/dp/B00BIA2X74/,1,1
+25 Placenta Recipes - Easy and Delicious recipes for cooking with placenta!,eBooks,http://www.amazon.com/dp/B00BN2JP78/,6,1
+Natural Cheese Curd,Grocery,http://www.amazon.com/dp/B00BWA0B6K/,3,1
+Mrs. Dash Marinade Salt-Free Sweet Teriyaki 12Oz,Grocery,http://www.amazon.com/dp/B00BXNPRKG/,1,1
+Trader Joe's Tuna for Cats (5.5 oz. each) 12 cans,Health and Beauty,http://www.amazon.com/dp/B00CF94JKQ/,1,1
+Oreo Pieces Small Crunch Cookie Crumbs 25 Lbs box,Grocery,http://www.amazon.com/dp/B00CHTVLXW/,1,1
+"Oreo Wafer Cookie, 18.16 Pound -- 1 each.",Grocery,http://www.amazon.com/dp/B00CHTX1PS/,3,1
+"Oreo Wafer, 23.1 Pound -- 1 each.",Grocery,http://www.amazon.com/dp/B00CHTYOKE/,11,1
+"Dr. Oetker Shirriff Pie Filling and Dessert Mix, Lemon, 425 Grams/15 Ounces",Grocery,http://www.amazon.com/dp/B00CYUEZBO/,1,1
+Sweet Sue Canned Whole Chicken without Giblets 50oz Can (Pack of 1),Grocery,http://www.amazon.com/dp/B00E3AYVA8/,5,1
+"Happy Tot Organic Superfoods Stage 4, 4.22 OZ Baby Food Pouches Variety Pack of 16",Grocery,http://www.amazon.com/dp/B00EHJPT1U/,1,1
+Transglutaminase (Meat Glue) - RM Formula - 50g/2oz,Grocery,http://www.amazon.com/dp/B00EIGV7MC/,5,1
+Sweet Sue Canned Whole Chicken without Giblets 50oz Can (Pack of 2),Grocery,http://www.amazon.com/dp/B00ERE3SEA/,1,1
+1/4 Sheet ~ Cluster of Skulls Drawing Birthday ~ Edible Cake/Cupcake Topper!!!,Grocery,http://www.amazon.com/dp/B00EUQW8ZU/,1,1
+Accoutrements Gravy Candy Canes - 6ct,Grocery,http://www.amazon.com/dp/B00FHNK596/,1,1
+"Cuisinart CC-10FR Cuisinart CC-10FR Grind & Brew 10-Cup Coffeemaker (Certified Refurbished), Silver",Kitchen,http://www.amazon.com/dp/B00FO7DZ2Y/,1,1
+"Pill Yums ~ Tasty Pocket Treat to Hide Your Pet's Medication ~ Simply Insert Pill or Capsule in Chewy Hole, Pinch the Ends Closed and Give As a Treat to Your Dog or Puppy ~ Recommended by Veterinarians Small 30 Count",Pet Products,http://www.amazon.com/dp/B00FX0IEC8/,1,1
+"Kracie Popin Cookin 5 Item Bundle with Sushi, Hamburger, Bento, Donuts, Decoration Cake",Wireless,http://www.amazon.com/dp/B00GA08B78/,1,1
+"New Samyang Ramen / Spicy Chicken Roasted Noodles, 4.93 oz (Pack of 5)",Grocery,http://www.amazon.com/dp/B00GE1XKHY/,2,1
+"Nalley Chili, Original Vegetarian, 14 Ounce (Pack of 24)",Grocery,http://www.amazon.com/dp/B00HBF3EZK/,1,1
+Juju Fish 2.5 pounds Bulk Assorted Colors - Comes in a Resealable Plastic Airtight Container,Grocery,http://www.amazon.com/dp/B00HS45BVO/,1,1
+"Rosarita Refried Beans, Traditional, 16 Oz",Pantry,http://www.amazon.com/dp/B00I9VCI66/,1,1
+Samyang Ramen / Spicy Chicken Roasted Noodles 140g(Pack of 5),Grocery,http://www.amazon.com/dp/B00ICT6ARS/,15,1
+"Spicy Chicken Roasted Cup Noodles (x 6 Cups), Spicy Chicken Cup Ramyun Korean Noodle Ramen BULDAK BOKKEUM MYUN",Grocery,http://www.amazon.com/dp/B00J4AE61G/,1,1
+Bamboo chopsticks safety 21cm Pokemon Squirtle,Kitchen,http://www.amazon.com/dp/B00JMEF2E4/,1,1

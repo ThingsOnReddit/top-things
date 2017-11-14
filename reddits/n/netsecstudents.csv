@@ -1,13 +1,58 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws,Book,http://www.amazon.com/dp/1118026470/,18,3
-Automate the Boring Stuff with Python: Practical Programming for Total Beginners,eBooks,http://www.amazon.com/dp/B00WJ049VU/,,1
-Black Hat Python: Python Programming for Hackers and Pentesters,eBooks,http://www.amazon.com/dp/B00QL616DW/,,1
-"Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers",eBooks,http://www.amazon.com/dp/B00ABY67JS/,,1
-"Hacking: The Art of Exploitation, 2nd Edition",Book,http://www.amazon.com/dp/1593271441/,15,1
-The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage,Book,http://www.amazon.com/dp/1416507787/,7,1
-Computer Networking: A Top-Down Approach (6th Edition),Book,http://www.amazon.com/dp/0132856204/,5,1
-The Shellcoder's Handbook: Discovering and Exploiting Security Holes,Book,http://www.amazon.com/dp/047008023X/,4,1
-CompTIA Network+ Study Guide: Exam N10-006 (Comptia Network + Study Guide Authorized Courseware),Book,http://www.amazon.com/dp/1119021243/,2,1
-Metasploit: The Penetration Tester's Guide,Book,http://www.amazon.com/dp/159327288X/,2,1
+"Hacking: The Art of Exploitation, 2nd Edition",Book,http://www.amazon.com/dp/1593271441/,41,7
+The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws,Book,http://www.amazon.com/dp/1118026470/,41,7
+Computer Networking: A Top-Down Approach (7th Edition),Book,http://www.amazon.com/dp/0133594149/,7,3
+Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder.,Book,http://www.amazon.com/dp/1500734756/,14,3
+Build Your Own Security Lab: A Field Guide for Network Testing,Book,http://www.amazon.com/dp/0470179864/,4,3
+The Shellcoder's Handbook: Discovering and Exploiting Security Holes,Book,http://www.amazon.com/dp/047008023X/,7,3
+Penetration Testing: A Hands-On Introduction to Hacking,Book,http://www.amazon.com/dp/1593275641/,20,3
+Building Virtual Machine Labs: A Hands-On Guide,Book,http://www.amazon.com/dp/1546932631/,7,2
+Metasploit: The Penetration Tester's Guide,Book,http://www.amazon.com/dp/159327288X/,8,2
+CompTIA Network+ Study Guide: Exam N10-006 (Comptia Network + Study Guide Authorized Courseware),Book,http://www.amazon.com/dp/1119021243/,12,2
+"Unix Network Programming, Volume 1: The Sockets Networking API (3rd Edition)",Book,http://www.amazon.com/dp/0131411551/,10,2
+Android Hacker's Handbook,Book,http://www.amazon.com/dp/111860864X/,5,2
+"Load Balancing Servers, Firewalls, and Caches",Book,http://www.amazon.com/dp/0471415502/,3,2
+Rtfm: Red Team Field Manual,Book,http://www.amazon.com/dp/1494295504/,14,2
+CompTIA Security+: Get Certified Get Ahead: SY0-401 Study Guide,Book,http://www.amazon.com/dp/1939136024/,30,2
+"CompTIA Network+ All-In-One Exam Guide, Sixth Edition (Exam N10-006)",Book,http://www.amazon.com/dp/0071848223/,16,2
+CompTIA Security+ Study Guide: SY0-401,Book,http://www.amazon.com/dp/1118875079/,11,1
 The Network Security Test Lab: A Step-by-Step Guide,Book,http://www.amazon.com/dp/1118987055/,1,1
-"CompTIA Network+ All-In-One Exam Guide, Sixth Edition (Exam N10-006)",Book,http://www.amazon.com/dp/0071848223/,1,1
+SSCP (ISC)2 Systems Security Certified Practitioner Official Study Guide,Book,http://www.amazon.com/dp/1119059658/,1,1
+Penetration Testing Essentials,Book,http://www.amazon.com/dp/1119235308/,1,1
+CompTIA CSA+ Study Guide: Exam CS0-001,Book,http://www.amazon.com/dp/1119348978/,2,1
+"SSCP Systems Security Certified Practitioner All-in-One Exam Guide, Second Edition",Book,http://www.amazon.com/dp/1259583074/,1,1
+The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage,Book,http://www.amazon.com/dp/1416507787/,16,1
+Android Malware and Analysis,Book,http://www.amazon.com/dp/1482252198/,1,1
+"Principles of Computer Security, Fourth Edition (Official Comptia Guide)",Book,http://www.amazon.com/dp/0071835970/,1,1
+Practical Malware Analysis: A Hands-On Guide to Dissecting Malicious Software,Book,http://www.amazon.com/dp/1593272901/,21,1
+The Tangled Web: A Guide to Securing Modern Web Applications,Book,http://www.amazon.com/dp/1593273886/,12,1
+The Practice of Network Security Monitoring: Understanding Incident Detection and Response,Book,http://www.amazon.com/dp/1593275099/,9,1
+Android Security Internals: An In-Depth Guide to Android's Security Architecture,Book,http://www.amazon.com/dp/1593275811/,2,1
+Black Hat Python: Python Programming for Hackers and Pentesters,Book,http://www.amazon.com/dp/1593275900/,13,1
+"Python Crash Course: A Hands-On, Project-Based Introduction to Programming",Book,http://www.amazon.com/dp/1593276036/,19,1
+Hacking Web Apps: Detecting and Preventing Web Application Security Problems,Book,http://www.amazon.com/dp/159749951X/,1,1
+"Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers",Book,http://www.amazon.com/dp/1597499579/,26,1
+Android Security Cookbook,Book,http://www.amazon.com/dp/1782167161/,1,1
+The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws,Book,http://www.amazon.com/dp/8126533404/,1,1
+"Android Forensics: Investigation, Analysis and Mobile Security for Google Android",eBooks,http://www.amazon.com/dp/B005PLWT0S/,1,1
+"Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers",eBooks,http://www.amazon.com/dp/B00ABY67JS/,1,1
+Ubiquiti EdgeMax EdgeRouter Lite ERLite-3 512MB Memory 3 Ethernet Ports Router,Personal Computer,http://www.amazon.com/dp/B00CPRVF5K/,36,1
+Black Hat Python: Python Programming for Hackers and Pentesters,eBooks,http://www.amazon.com/dp/B00QL616DW/,1,1
+"CompTIA Network+ All-In-One Exam Guide, Sixth Edition (Exam N10-006)",eBooks,http://www.amazon.com/dp/B00VMMRAWG/,2,1
+Automate the Boring Stuff with Python: Practical Programming for Total Beginners,eBooks,http://www.amazon.com/dp/B00WJ049VU/,3,1
+Blue Team Field Manual (BTFM) (RTFM),Book,http://www.amazon.com/dp/154101636X/,2,1
+The Basics of Web Hacking: Tools and Techniques to Attack the Web,Book,http://www.amazon.com/dp/0124166008/,1,1
+Network Forensics: Tracking Hackers through Cyberspace,Book,http://www.amazon.com/dp/0132564718/,2,1
+Computer Networking: A Top-Down Approach (6th Edition),Book,http://www.amazon.com/dp/0132856204/,16,1
+Assembly Language for x86 Processors (7th Edition),Book,http://www.amazon.com/dp/0133769402/,6,1
+"Windows System Programming, Paperback (4th Edition) (Addison-Wesley Microsoft Technology)",Book,http://www.amazon.com/dp/0134382250/,2,1
+The Tao of Network Security Monitoring: Beyond Intrusion Detection,Book,http://www.amazon.com/dp/0321246772/,3,1
+The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography,Book,http://www.amazon.com/dp/0385495323/,36,1
+Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code,Book,http://www.amazon.com/dp/0470613033/,8,1
+"Applied Cryptography: Protocols, Algorithms, and Source Code in C",Book,http://www.amazon.com/dp/0471117099/,7,1
+"The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers",Book,http://www.amazon.com/dp/0471782661/,4,1
+Network Intrusion Detection (3rd Edition),Book,http://www.amazon.com/dp/0735712654/,2,1
+The Art of Deception: Controlling the Human Element of Security,Book,http://www.amazon.com/dp/076454280X/,12,1
+iOS Hacker's Handbook,Book,http://www.amazon.com/dp/1118204123/,7,1
+Programming Interviews Exposed: Secrets to Landing Your Next Job,Book,http://www.amazon.com/dp/1118261364/,13,1
+"The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory",Book,http://www.amazon.com/dp/1118825098/,8,1

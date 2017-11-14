@@ -1,5 +1,17 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-The Grammar of Graphics (Statistics and Computing),Book,http://www.amazon.com/dp/0387245448/,3,1
-Introduction to Probability (Chapman & Hall/CRC Texts in Statistical Science),Book,http://www.amazon.com/dp/1466575573/,2,1
-Applied Longitudinal Data Analysis: Modeling Change and Event Occurrence,Book,http://www.amazon.com/dp/0195152964/,1,1
+"Doing Bayesian Data Analysis, Second Edition: A Tutorial with R, JAGS, and Stan",Book,http://www.amazon.com/dp/0124058884/,11,2
+Discovering Statistics Using R,Book,http://www.amazon.com/dp/1446200469/,18,2
+R for SAS and SPSS Users (Statistics and Computing),Book,http://www.amazon.com/dp/1461406846/,2,2
+A Beginner's Guide to R (Use R!),Book,http://www.amazon.com/dp/0387938362/,1,1
+Mathematical Statistics with Applications,Book,http://www.amazon.com/dp/0495110817/,6,1
+"R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics (O'Reilly Cookbooks)",Book,http://www.amazon.com/dp/0596809158/,3,1
+An R Companion to Applied Regression,Book,http://www.amazon.com/dp/141297514X/,1,1
 ggplot2: Elegant Graphics for Data Analysis (Use R!),Book,http://www.amazon.com/dp/331924275X/,1,1
+Wrist & Forearm Blaster by GoFit,Sports,http://www.amazon.com/dp/B0007W2FJA/,6,1
+Applied Predictive Modeling,Book,http://www.amazon.com/dp/1461468485/,8,1
+Introduction to Probability (Chapman & Hall/CRC Texts in Statistical Science),Book,http://www.amazon.com/dp/1466575573/,6,1
+"R for Data Science: Import, Tidy, Transform, Visualize, and Model Data",Book,http://www.amazon.com/dp/1491910399/,2,1
+Linear Models with R (Chapman & Hall/CRC Texts in Statistical Science),Book,http://www.amazon.com/dp/1584884258/,1,1
+R in Action,Book,http://www.amazon.com/dp/1935182390/,2,1
+Applied Longitudinal Data Analysis: Modeling Change and Event Occurrence,Book,http://www.amazon.com/dp/0195152964/,1,1
+The Grammar of Graphics (Statistics and Computing),Book,http://www.amazon.com/dp/0387245448/,6,1

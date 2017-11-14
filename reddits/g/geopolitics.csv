@@ -1,59 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden, from the Soviet Invasion to September 10, 2001",Book,http://www.amazon.com/dp/0143034669/,24,2
-The Israel Lobby and U.S. Foreign Policy,Book,http://www.amazon.com/dp/0374531501/,15,2
-"Arabs at War: Military Effectiveness, 1948-1991 (Studies in War, Society, and the Military)",Book,http://www.amazon.com/dp/0803287836/,7,2
-Obama and China's Rise: An Insider's Account of America's Asia Strategy,eBooks,http://www.amazon.com/dp/B007XULOK0/,,1
-"The Way of the Knife: The CIA, a Secret Army, and a War at the Ends of the Earth",Book,http://www.amazon.com/dp/014312501X/,6,1
-The Looming Tower: Al-Qaeda and the Road to 9/11,Book,http://www.amazon.com/dp/1400030846/,6,1
-The Three-Body Problem,Book,http://www.amazon.com/dp/0765382032/,6,1
-Fighting to the End: The Pakistan Army's Way of War,Book,http://www.amazon.com/dp/0199892709/,5,1
-"Taliban: Militant Islam, Oil and Fundamentalism in Central Asia, Second Edition",Book,http://www.amazon.com/dp/0300163681/,5,1
-The Coming War With Japan,Book,http://www.amazon.com/dp/0312058365/,5,1
-ISIS: Inside the Army of Terror,Book,http://www.amazon.com/dp/1941393578/,4,1
-How Asia Works,Book,http://www.amazon.com/dp/0802121322/,4,1
-Going to Tehran: Why America Must Accept the Islamic Republic of Iran,Book,http://www.amazon.com/dp/1250043530/,4,1
-White House Years,eBooks,http://www.amazon.com/dp/B004INHD46/,3,1
-Surge: My Journey with General David Petraeus and the Remaking of the Iraq War (Yale Library of Military History),Book,http://www.amazon.com/dp/0300209371/,3,1
-The Great War of Our Time: The CIA's Fight Against Terrorism--From al Qa'ida to ISIS,Book,http://www.amazon.com/dp/1455585661/,3,1
-"Al Qaeda, the Islamic State, and the Global Jihadist Movement: What Everyone Needs to Know®",Book,http://www.amazon.com/dp/019021726X/,3,1
-Obama's Wars,Book,http://www.amazon.com/dp/1439172501/,3,1
-The Arabs: A History,Book,http://www.amazon.com/dp/0465025048/,3,1
-The Persian Puzzle: The Conflict Between Iran and America,Book,http://www.amazon.com/dp/0812973364/,3,1
-Afghanistan: A Cultural and Political History (Princeton Studies in Muslim Politics),Book,http://www.amazon.com/dp/0691154414/,3,1
-"The Endgame: The Inside Story of the Struggle for Iraq, from George W. Bush to Barack Obama",Book,http://www.amazon.com/dp/0307388948/,3,1
-Dancing in the Glory of Monsters: The Collapse of the Congo and the Great War of Africa,Book,http://www.amazon.com/dp/1610391071/,3,1
-Superforecasting: The Art and Science of Prediction,Book,http://www.amazon.com/dp/0804136718/,2,1
-The Korean War: A History (Modern Library Chronicles),Book,http://www.amazon.com/dp/081297896X/,2,1
-Theories of International Politics and Zombies,Book,http://www.amazon.com/dp/0691147833/,2,1
-Bananas: How the United Fruit Company Shaped the World,Book,http://www.amazon.com/dp/1847671942/,2,1
-Effects of Nuclear Weapons,Book,http://www.amazon.com/dp/1258793555/,2,1
-Immortal: A Military History of Iran and Its Armed Forces,Book,http://www.amazon.com/dp/1626160325/,2,1
-The Mantle of the Prophet,Book,http://www.amazon.com/dp/1851686169/,2,1
-A History of the Arab Peoples: With a New Afterword,Book,http://www.amazon.com/dp/0674058194/,2,1
-"Anonymous Soldiers: The Struggle for Israel, 1917-1947",Book,http://www.amazon.com/dp/0307594718/,2,1
-The Arab Uprising: The Unfinished Revolutions of the New Middle East,eBooks,http://www.amazon.com/dp/B00B3M3WNQ/,2,1
-Israel's Wars: A History since 1947 (Warfare and History),Book,http://www.amazon.com/dp/0415424380/,2,1
-"Arabs at War: Military Effectiveness, 1948-1991 (Studies in War, Society, and the Military)",Book,http://www.amazon.com/dp/0803237332/,2,1
-Revolution Until Victory?: The Politics and History of the PLO (Selection of the History Book Club),Book,http://www.amazon.com/dp/0674768043/,2,1
-Theories of International Politics and Zombies: Revived Edition,eBooks,http://www.amazon.com/dp/B00LDC6TIQ/,2,1
-Duty: Memoirs of a Secretary at War,eBooks,http://www.amazon.com/dp/B00F8F3J2S/,2,1
-The Dragon's Gift: The Real Story of China in Africa,Book,http://www.amazon.com/dp/0199606293/,2,1
-"The Myth of America's Decline: Politics, Economics, and a Half Century of False Prophecies",Book,http://www.amazon.com/dp/0871404494/,1,1
-"Visions of Freedom: Havana, Washington, Pretoria, and the Struggle for Southern Africa, 1976-1991 (The New Cold War History)",Book,http://www.amazon.com/dp/1469628325/,1,1
-Saudi Arabia Enters the Twenty-First Century: The Military and International Security Dimensions (Vol 2),Book,http://www.amazon.com/dp/0275979970/,1,1
-"Instruments of Statecraft: U.S. Guerilla Warfare, Counter-Insurgency, Counter-Terrorism, 1940-1990",Book,http://www.amazon.com/dp/0394559452/,1,1
-The Power Game,Book,http://www.amazon.com/dp/1586484206/,1,1
-International Relations Theory: The Essentials,Book,http://www.amazon.com/dp/1446256243/,1,1
-Deadly Connections: States that Sponsor Terrorism,Book,http://www.amazon.com/dp/0521548683/,1,1
+The Coming War With Japan,Book,http://www.amazon.com/dp/0312058365/,16,6
+The Deadliest Lies: The Israel Lobby and the Myth of Jewish Control,Book,http://www.amazon.com/dp/1403984921/,4,4
+The Next 100 Years: A Forecast for the 21st Century,Book,http://www.amazon.com/dp/0767923057/,17,4
+The Looming Tower: Al-Qaeda and the Road to 9/11,Book,http://www.amazon.com/dp/1400030846/,22,3
+The Israel Lobby and U.S. Foreign Policy,Book,http://www.amazon.com/dp/0374531501/,29,3
+"Ghost Wars: The Secret History of the CIA, Afghanistan, and Bin Laden, from the Soviet Invasion to September 10, 2001",Book,http://www.amazon.com/dp/0143034669/,55,3
+How Asia Works,Book,http://www.amazon.com/dp/0802121322/,7,2
+"Arabs at War: Military Effectiveness, 1948-1991 (Studies in War, Society, and the Military)",Book,http://www.amazon.com/dp/0803237332/,6,2
+"Arabs at War: Military Effectiveness, 1948-1991 (Studies in War, Society, and the Military)",Book,http://www.amazon.com/dp/0803287836/,10,2
+Nothing Is True and Everything Is Possible: The Surreal Heart of the New Russia,eBooks,http://www.amazon.com/dp/B00L4FSVZ6/,8,2
+African Conflicts and Informal Power: Big Men and Networks (Africa Now),Book,http://www.amazon.com/dp/1848138822/,3,2
+"Treacherous Alliance: The Secret Dealings of Israel, Iran, and the United States",Book,http://www.amazon.com/dp/0300143117/,12,2
+"Al Qaeda, the Islamic State, and the Global Jihadist Movement: What Everyone Needs to Know®",Book,http://www.amazon.com/dp/019021726X/,9,2
+Imperial Hubris: Why the West Is Losing the War on Terror,Book,http://www.amazon.com/dp/1597971596/,4,2
+ISIS: Inside the Army of Terror,Book,http://www.amazon.com/dp/1941393578/,15,2
+Fighting to the End: The Pakistan Army's Way of War,Book,http://www.amazon.com/dp/0199892709/,11,2
+The Rise of Turkey: The Twenty-First Century's First Muslim Power,Book,http://www.amazon.com/dp/1612346502/,2,2
+"Taliban: Militant Islam, Oil and Fundamentalism in Central Asia, Second Edition",Book,http://www.amazon.com/dp/0300163681/,6,1
+Surge: My Journey with General David Petraeus and the Remaking of the Iraq War (Yale Library of Military History),Book,http://www.amazon.com/dp/0300209371/,6,1
+"The Endgame: The Inside Story of the Struggle for Iraq, from George W. Bush to Barack Obama",Book,http://www.amazon.com/dp/0307388948/,8,1
+The Devil We Know: Dealing with the New Iranian Superpower,Book,http://www.amazon.com/dp/0307408671/,1,1
+"Anonymous Soldiers: The Struggle for Israel, 1917-1947",Book,http://www.amazon.com/dp/0307594718/,4,1
+"Anonymous Soldiers: The Struggle for Israel, 1917-1947",Book,http://www.amazon.com/dp/0307741613/,1,1
+"The Blood Telegram: Nixon, Kissinger, and a Forgotten Genocide",Book,http://www.amazon.com/dp/0307744620/,8,1
+Duty: Memoirs of a Secretary at War,Book,http://www.amazon.com/dp/030794963X/,1,1
+The Origins of Political Order: From Prehuman Times to the French Revolution,Book,http://www.amazon.com/dp/0374533229/,5,1
+"The Passionate Attachment: America's Involvement With Israel, 1947 to the Present",Book,http://www.amazon.com/dp/0393029336/,1,1
+The Tragedy of Great Power Politics (Updated Edition),Book,http://www.amazon.com/dp/0393349276/,6,1
+The Spread of Nuclear Weapons: An Enduring Debate (Third Edition),Book,http://www.amazon.com/dp/0393920100/,4,1
+"Instruments of Statecraft: U.S. Guerilla Warfare, Counter-Insurgency, Counter-Terrorism, 1940-1990",Book,http://www.amazon.com/dp/0394559452/,2,1
+The Geopolitics Reader,Book,http://www.amazon.com/dp/0415341485/,1,1
+The Fog of Peace and War Planning: Military and Strategic Planning under Uncertainty (Strategy and History),Book,http://www.amazon.com/dp/0415366976/,1,1
+Israel's Wars: A History since 1947 (Warfare and History),Book,http://www.amazon.com/dp/0415424380/,5,1
+Non-Western International Relations Theory: Perspectives On and Beyond Asia (Politics in Asia),Book,http://www.amazon.com/dp/0415474744/,2,1
 International Relations Theory: A Critical Introduction,Book,http://www.amazon.com/dp/0415713064/,1,1
-International Relations Theories: Discipline and Diversity,Book,http://www.amazon.com/dp/0199696012/,1,1
-"A Secret Life: The Polish Officer, His Covert Mission, and the Price He Paid to Save His Country",Book,http://www.amazon.com/dp/1586483056/,1,1
-Roots of the State: Neighborhood Organization and Social Networks in Beijing and Taipei (Contemporary Issues in Asia and the Pacific),Book,http://www.amazon.com/dp/0804775656/,1,1
-The China Dream: Great Power Thinking and Strategic Posture in the Post-American Era,Book,http://www.amazon.com/dp/1627741402/,1,1
-Austerity: The History of a Dangerous Idea,Book,http://www.amazon.com/dp/0199389446/,1,1
-The War That Ended Peace: The Road to 1914,Book,http://www.amazon.com/dp/0812980662/,1,1
-The Colder War: How the Global Energy Trade Slipped from America's Grasp,Book,http://www.amazon.com/dp/1118799941/,1,1
-The Deadliest Lies: The Israel Lobby and the Myth of Jewish Control,Book,http://www.amazon.com/dp/1403984921/,1,1
-"Treacherous Alliance: The Secret Dealings of Israel, Iran, and the United States",Book,http://www.amazon.com/dp/0300143117/,1,1
-"Middle Kingdom and Empire of the Rising Sun: Sino-Japanese Relations, Past and Present",Book,http://www.amazon.com/dp/0195375661/,1,1
+"The 10,000 Year Explosion: How Civilization Accelerated Human Evolution",Book,http://www.amazon.com/dp/0465020429/,9,1
+The Arabs: A History,Book,http://www.amazon.com/dp/0465025048/,9,1
+The Grand Chessboard: American Primacy And Its Geostrategic Imperatives,Book,http://www.amazon.com/dp/0465027261/,29,1
+"Taxation and Governmental Finance in Sixteenth-Century Ming China (Cambridge Studies in Chinese History, Literature and Institutions)",Book,http://www.amazon.com/dp/0521104874/,1,1
+Deadly Connections: States that Sponsor Terrorism,Book,http://www.amazon.com/dp/0521548683/,1,1
+Diplomacy (Touchstone Book),Book,http://www.amazon.com/dp/0671510991/,9,1
+A History of the Arab Peoples: With a New Afterword,Book,http://www.amazon.com/dp/0674058194/,9,1
+Germany Unified and Europe Transformed: A Study in Statecraft,Book,http://www.amazon.com/dp/0674353250/,1,1
+Revolution Until Victory?: The Politics and History of the PLO (Selection of the History Book Club),Book,http://www.amazon.com/dp/0674768043/,4,1
+Lenin's Tomb: The Last Days of the Soviet Empire,Book,http://www.amazon.com/dp/0679751254/,6,1
+The Socialist System: The Political Economy of Communism,Book,http://www.amazon.com/dp/0691003939/,2,1
+Theories of International Politics and Zombies,Book,http://www.amazon.com/dp/0691147833/,7,1
+Afghanistan: A Cultural and Political History (Princeton Studies in Muslim Politics),Book,http://www.amazon.com/dp/0691154414/,8,1
+Nuclear Strategy in the Modern Era: Regional Powers and International Conflict (Princeton Studies in International History and Politics),Book,http://www.amazon.com/dp/0691159831/,1,1
+The Three-Body Problem,Book,http://www.amazon.com/dp/0765382032/,11,1
 Revolution and War (Cornell Studies in Security Affairs),Book,http://www.amazon.com/dp/0801482976/,1,1
+Superforecasting: The Art and Science of Prediction,Book,http://www.amazon.com/dp/0804136718/,5,1
+The Wizards of Armageddon (Stanford Nuclear Age Series),Book,http://www.amazon.com/dp/0804718849/,2,1
+Roots of the State: Neighborhood Organization and Social Networks in Beijing and Taipei (Contemporary Issues in Asia and the Pacific),Book,http://www.amazon.com/dp/0804775656/,1,1
+Devil's Game: How the United States Helped Unleash Fundamentalist Islam (American Empire Project),Book,http://www.amazon.com/dp/0805081372/,2,1
+"No Good Men Among the Living: America, the Taliban, and the War through Afghan Eyes",Book,http://www.amazon.com/dp/0805091793/,3,1
+China and Africa: A Century of Engagement,Book,http://www.amazon.com/dp/0812244192/,1,1
+The Persian Puzzle: The Conflict Between Iran and America,Book,http://www.amazon.com/dp/0812973364/,6,1
+The Korean War: A History (Modern Library Chronicles),Book,http://www.amazon.com/dp/081297896X/,6,1
+The War That Ended Peace: The Road to 1914,Book,http://www.amazon.com/dp/0812980662/,5,1
+Inside China's Grand Strategy: The Perspective from the People's Republic (Asia in the New Millennium),Book,http://www.amazon.com/dp/0813126452/,1,1
+"Black Garden: Armenia and Azerbaijan Through Peace and War, 10th Year Anniversary Edition, Revised and Updated",Book,http://www.amazon.com/dp/0814760325/,3,1
+"Axis of Convenience: Moscow, Beijing, and the New Geopolitics",Book,http://www.amazon.com/dp/0815753403/,1,1
+"The Myth of America's Decline: Politics, Economics, and a Half Century of False Prophecies",Book,http://www.amazon.com/dp/0871404494/,1,1
+At the Abyss: An Insider's History of the Cold War,Book,http://www.amazon.com/dp/0891418377/,1,1
+Assault on the Liberty,Book,http://www.amazon.com/dp/0972311602/,2,1
+"America's ""War on Terrorism""",Book,http://www.amazon.com/dp/0973714719/,2,1
+The Colder War: How the Global Energy Trade Slipped from America's Grasp,Book,http://www.amazon.com/dp/1118799941/,3,1
+Going to Tehran: Why America Must Accept the Islamic Republic of Iran,Book,http://www.amazon.com/dp/1250043530/,8,1
+Effects of Nuclear Weapons,Book,http://www.amazon.com/dp/1258793555/,3,1
+On Thermonuclear War,Book,http://www.amazon.com/dp/141280664X/,4,1
+"The Oil Kings: How the U.S., Iran, and Saudi Arabia Changed the Balance of Power in the Middle East",Book,http://www.amazon.com/dp/1439155186/,4,1
+Obama's Wars,Book,http://www.amazon.com/dp/1439172501/,7,1
+International Relations Theory: The Essentials,Book,http://www.amazon.com/dp/1446256243/,1,1
+System Under Stress: Homeland Security and American Politics (Public Affairs and Policy Administration),Book,http://www.amazon.com/dp/1452239908/,1,1
+The Accidental Superpower: The Next Generation of American Preeminence and the Coming Global Disorder,Book,http://www.amazon.com/dp/1455583669/,4,1
+The Great War of Our Time: The CIA's Fight Against Terrorism--From al Qa'ida to ISIS,Book,http://www.amazon.com/dp/1455585661/,5,1
+"Visions of Freedom: Havana, Washington, Pretoria, and the Struggle for Southern Africa, 1976-1991 (The New Cold War History)",Book,http://www.amazon.com/dp/1469628325/,1,1
+Putin's Kleptocracy: Who Owns Russia?,Book,http://www.amazon.com/dp/1476795193/,4,1
+Genghis Khan and the Making of the Modern World,Book,http://www.amazon.com/dp/1491513705/,9,1
+Civil–Military Relations in the Islamic World,Book,http://www.amazon.com/dp/1498518737/,1,1
+They Dare to Speak Out: People and Institutions Confront Israel's Lobby,Book,http://www.amazon.com/dp/155652482X/,1,1
+The Dominican Republic: A National History,Book,http://www.amazon.com/dp/1558765190/,1,1
+China: A Macro History (An East Gate Book),Book,http://www.amazon.com/dp/1563247313/,2,1
+"The Battle for Saudi Arabia: Royalty, Fundamentalism, and Global Power",Book,http://www.amazon.com/dp/1583226109/,10,1
+"A Young People's History of the United States, Volume 1: Columbus to the Spanish-American War (For Young People Series)",Book,http://www.amazon.com/dp/1583227598/,1,1
+"A Secret Life: The Polish Officer, His Covert Mission, and the Price He Paid to Save His Country",Book,http://www.amazon.com/dp/1586483056/,1,1
+The Power Game,Book,http://www.amazon.com/dp/1586484206/,1,1
+Kissinger: 1923-1968: The Idealist,Book,http://www.amazon.com/dp/1594206538/,1,1
+Dancing in the Glory of Monsters: The Collapse of the Congo and the Great War of Africa,Book,http://www.amazon.com/dp/1610391071/,7,1
+Brunelleschi's Dome: How a Renaissance Genius Reinvented Architecture,Book,http://www.amazon.com/dp/1620401932/,4,1
+Immortal: A Military History of Iran and Its Armed Forces,Book,http://www.amazon.com/dp/1626160325/,6,1
+The China Dream: Great Power Thinking and Strategic Posture in the Post-American Era,Book,http://www.amazon.com/dp/1627741402/,1,1
+Foreign Policy in Iran and Saudi Arabia: Economics and Diplomacy in the Middle East (Library of Modern Middle East Studies),Book,http://www.amazon.com/dp/1780767218/,1,1
+Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics,Book,http://www.amazon.com/dp/1783962437/,1,1
+Saudi Arabia & Iran: Power and Rivalry in the Middle East,Book,http://www.amazon.com/dp/1784534668/,1,1
+Bananas: How the United Fruit Company Shaped the World,Book,http://www.amazon.com/dp/1847671942/,5,1
+The Mantle of the Prophet,Book,http://www.amazon.com/dp/1851686169/,6,1
+Climate Wars: The Fight for Survival as the World Overheats,Book,http://www.amazon.com/dp/1851688145/,4,1
+"Iran, Saudi Arabia and the Gulf: Power Politics in Transition",Book,http://www.amazon.com/dp/1860648819/,1,1

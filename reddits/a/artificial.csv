@@ -1,13 +1,59 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-"Superintelligence: Paths, Dangers, Strategies",eBooks,http://www.amazon.com/dp/B00LOOCGB2/,4,2
-Make Your Own Neural Network,eBooks,http://www.amazon.com/dp/B01EER4Z4G/,2,2
-Introduction to the Math of Neural Networks,eBooks,http://www.amazon.com/dp/B00845UQL6/,,1
-Artificial Intelligence for Humans (3 Book Series),Ebook Bundle,http://www.amazon.com/dp/B0198BQ9VA/,,1
-Artificial Intelligence: A Modern Approach (3rd Edition),Book,http://www.amazon.com/dp/0136042597/,9,1
-1984 (Signet Classics),Book,http://www.amazon.com/dp/0451524934/,8,1
-"Superintelligence: Paths, Dangers, Strategies",Book,http://www.amazon.com/dp/0198739834/,7,1
-"The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)",Book,http://www.amazon.com/dp/0387848576/,4,1
-Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series),Book,http://www.amazon.com/dp/0262018020/,4,1
-Spikes: Exploring the Neural Code (Computational Neuroscience),Book,http://www.amazon.com/dp/0262681080/,3,1
-"Descartes' Error: Emotion, Reason, and the Human Brain",Book,http://www.amazon.com/dp/014303622X/,2,1
-Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning),Book,http://www.amazon.com/dp/0262193981/,1,1
+Artificial Intelligence: A Modern Approach (3rd Edition),Book,http://www.amazon.com/dp/0136042597/,36,11
+"Superintelligence: Paths, Dangers, Strategies",Book,http://www.amazon.com/dp/0198739834/,23,4
+"Superintelligence: Paths, Dangers, Strategies",Book,http://www.amazon.com/dp/1501227742/,25,3
+Behind Deep Blue: Building the Computer that Defeated the World Chess Champion,Book,http://www.amazon.com/dp/0691118183/,4,2
+"Superintelligence: Paths, Dangers, Strategies",eBooks,http://www.amazon.com/dp/B00LOOCGB2/,17,2
+One Jump Ahead: Computer Perfection at Checkers,Book,http://www.amazon.com/dp/0387765751/,3,2
+Make Your Own Neural Network,eBooks,http://www.amazon.com/dp/B01EER4Z4G/,5,2
+Our Final Invention: Artificial Intelligence and the End of the Human Era,Book,http://www.amazon.com/dp/1250058783/,5,2
+On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines,Book,http://www.amazon.com/dp/0805078533/,10,2
+Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series),Book,http://www.amazon.com/dp/0262018020/,16,2
+"Apocalyptic AI: Visions of Heaven in Robotics, Artificial Intelligence, and Virtual Reality",Book,http://www.amazon.com/dp/0199964009/,1,1
+Deep Learning (Adaptive Computation and Machine Learning series),Book,http://www.amazon.com/dp/0262035618/,5,1
+Evolutionary Computation,Book,http://www.amazon.com/dp/0262041944/,1,1
+How the Body Shapes the Way We Think: A New View of Intelligence (MIT Press),Book,http://www.amazon.com/dp/0262162393/,1,1
+Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning),Book,http://www.amazon.com/dp/0262193981/,2,1
+"The Mind within the Net: Models of Learning, Thinking, and Acting",Book,http://www.amazon.com/dp/0262194066/,1,1
+Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series),Book,http://www.amazon.com/dp/0262201623/,3,1
+The Technological Singularity (The MIT Press Essential Knowledge series),Book,http://www.amazon.com/dp/0262527804/,2,1
+Spikes: Exploring the Neural Code (Computational Neuroscience),Book,http://www.amazon.com/dp/0262681080/,4,1
+The Most Human Human: What Artificial Intelligence Teaches Us About Being Alive,Book,http://www.amazon.com/dp/0307476707/,1,1
+"The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)",Book,http://www.amazon.com/dp/0387848576/,9,1
+"The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies",Book,http://www.amazon.com/dp/0393350649/,4,1
+1984 (Signet Classics),Book,http://www.amazon.com/dp/0451524934/,17,1
+Rise of the Robots: Technology and the Threat of a Jobless Future,Book,http://www.amazon.com/dp/0465097537/,7,1
+Computational Intelligence: An Introduction,Book,http://www.amazon.com/dp/0470035617/,1,1
+Calculus: An Intuitive and Physical Approach (Second Edition) (Dover Books on Mathematics),Book,http://www.amazon.com/dp/0486404536/,7,1
+Common LISP: A Gentle Introduction to Symbolic Computation (Dover Books on Engineering),Book,http://www.amazon.com/dp/0486498204/,2,1
+The Quest for Artificial Intelligence,Book,http://www.amazon.com/dp/0521122937/,2,1
+Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts,Book,http://www.amazon.com/dp/0670025437/,4,1
+Neuroscience: Exploring the Brain,Book,http://www.amazon.com/dp/0781778174/,5,1
+"Neuroscience, Fifth Edition",Book,http://www.amazon.com/dp/0878936955/,9,1
+Artificial Intelligence: A Modern Approach,Book,http://www.amazon.com/dp/1292024208/,1,1
+A Field Guide to Genetic Programming,Book,http://www.amazon.com/dp/1409200736/,1,1
+Statistical Rethinking: A Bayesian Course with Examples in R and Stan (Chapman & Hall/CRC Texts in Statistical Science),Book,http://www.amazon.com/dp/1482253445/,5,1
+"Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems",Book,http://www.amazon.com/dp/1491962291/,5,1
+Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp,Book,http://www.amazon.com/dp/1558601910/,5,1
+Beyond AI: Creating the Conscience of the Machine,Book,http://www.amazon.com/dp/1591025117/,1,1
+"Land of Lisp: Learn to Program in Lisp, One Game at a Time!",Book,http://www.amazon.com/dp/1593272812/,3,1
+When the Machine Made Art: The Troubled History of Computer Art (International Texts in Critical Media Aesthetics),Book,http://www.amazon.com/dp/1623568846/,1,1
+Smarter Than Us: The Rise of Machine Intelligence,Book,http://www.amazon.com/dp/1939311098/,2,1
+Artificial General Intelligence (Cognitive Technologies),Book,http://www.amazon.com/dp/354023733X/,1,1
+Introduction to Evolutionary Computing (Natural Computing Series),Book,http://www.amazon.com/dp/3642072852/,2,1
+Titan #6: Synthesis (Star Trek: Titan),eBooks,http://www.amazon.com/dp/B002PMVQ86/,1,1
+"The Engine of Reason, the Seat of the Soul: A Philosophical Journey into the Brain (Bradford Books)",Book,http://www.amazon.com/dp/B005DIAZCW/,2,1
+Introduction to the Math of Neural Networks,eBooks,http://www.amazon.com/dp/B00845UQL6/,1,1
+Programming Collective Intelligence: Building Smart Web 2.0 Applications,eBooks,http://www.amazon.com/dp/B00F8QDZWG/,2,1
+Artificial Intelligence for Humans (3 Book Series),Ebook Bundle,http://www.amazon.com/dp/B0198BQ9VA/,1,1
+Machine Learning,Book,http://www.amazon.com/dp/0070428077/,1,1
+AI Civil Rights: Addressing Artificial Intelligence and Robot Rights,eBooks,http://www.amazon.com/dp/B01LYFUJYT/,1,1
+Artificial Intelligence for Games,Book,http://www.amazon.com/dp/0123747317/,3,1
+Neural Networks and Learning Machines (3rd Edition),Book,http://www.amazon.com/dp/0131471392/,1,1
+Clean Code: A Handbook of Agile Software Craftsmanship,Book,http://www.amazon.com/dp/0132350882/,236,1
+The Essence of Artificial Intelligence,Book,http://www.amazon.com/dp/0135717795/,1,1
+"Descartes' Error: Emotion, Reason, and the Human Brain",Book,http://www.amazon.com/dp/014303622X/,7,1
+How to Create a Mind: The Secret of Human Thought Revealed,Book,http://www.amazon.com/dp/0143124048/,2,1
+Principles of Synthetic Intelligence PSI: An Architecture of Motivated Cognition (Oxford Series on Cognitive Models and Architectures),Book,http://www.amazon.com/dp/0195370678/,1,1
+The Selfish Gene: 30th Anniversary Edition--with a new Introduction by the Author,Book,http://www.amazon.com/dp/0199291152/,18,1
+Moral Machines: Teaching Robots Right from Wrong,Book,http://www.amazon.com/dp/0199737975/,1,1

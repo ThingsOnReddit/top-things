@@ -1,62 +1,101 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Economics,Book,http://www.amazon.com/dp/0073511293/,2,2
-"And the Money Kept Rolling In (and Out) Wall Street, the IMF, and the Bankrupting of Argentina",eBooks,http://www.amazon.com/dp/B004WK30PQ/,,1
-"Zoned Out: Regulation, Markets, and Choices in Transportation and Metropolitan Land Use",eBooks,http://www.amazon.com/dp/B00872FOEU/,,1
-How to Lie with Statistics,Book,http://www.amazon.com/dp/0393310728/,24,1
-What's the Matter with Kansas?: How Conservatives Won the Heart of America,Book,http://www.amazon.com/dp/080507774X/,23,1
-"Why Nations Fail: The Origins of Power, Prosperity, and Poverty",Book,http://www.amazon.com/dp/0307719227/,17,1
-"The Rent Is Too Damn High: What To Do About It, And Why It Matters More Than You Think",eBooks,http://www.amazon.com/dp/B0078XGJXO/,14,1
-How to Avoid Huge Ships,Books,https://www.amazon.com/dp/0870334336/ref=cm_sw_r_cp_api_N9bzxbH6209S0,10,1
-"Debt: The First 5,000 Years",Book,http://www.amazon.com/dp/1612191290/,8,1
-Why Men Earn More: The Startling Truth Behind the Pay Gap -- and What Women Can Do About It,Book,http://www.amazon.com/dp/0814472109/,7,1
-Six Degrees: Our Future on a Hotter Planet,Book,http://www.amazon.com/dp/1426203853/,6,1
-"America's Bitter Pill: Money, Politics, Backroom Deals, and the Fight to Fix Our Broken Healthcare System",Book,http://www.amazon.com/dp/0812986687/,6,1
-Willpower: Rediscovering the Greatest Human Strength,Book,http://www.amazon.com/dp/0143122231/,5,1
-Austerity: The History of a Dangerous Idea,Book,http://www.amazon.com/dp/019982830X/,5,1
-The Hero with a Thousand Faces (The Collected Works of Joseph Campbell),Book,http://www.amazon.com/dp/1577315936/,5,1
-The Color of Law: A Forgotten History of How Our Government Segregated America,Book,http://www.amazon.com/dp/1631492853/,4,1
-How Asia Works,Book,http://www.amazon.com/dp/0802121322/,4,1
-"Walkable City: How Downtown Can Save America, One Step at a Time",Book,http://www.amazon.com/dp/0865477728/,3,1
-The Misbehavior of Markets: A Fractal View of Financial Turbulence,Book,http://www.amazon.com/dp/0465043577/,3,1
-Economics: The User's Guide,Book,http://www.amazon.com/dp/1620408120/,3,1
-The Moral Economy of the Peasant: Rebellion and Subsistence in Southeast Asia,Book,http://www.amazon.com/dp/0300021909/,3,1
-Microeconomic Theory,Book,http://www.amazon.com/dp/0195073401/,3,1
+Bionomics: Economy As Ecosystem,Book,http://www.amazon.com/dp/0805019790/,4,3
+Are You Missing the Real Estate Boom?: The Boom Will Not Bust and Why Property Values Will Continue to Climb Through the End of the Decade - And How to Profit From Them,Book,http://www.amazon.com/dp/0385514344/,2,2
+"The Worldly Philosophers: The Lives, Times And Ideas Of The Great Economic Thinkers, Seventh Edition",Book,http://www.amazon.com/dp/068486214X/,8,2
+Willpower: Rediscovering the Greatest Human Strength,Book,http://www.amazon.com/dp/0143122231/,14,2
+Fragile by Design: The Political Origins of Banking Crises and Scarce Credit (The Princeton Economic History of the Western World),Book,http://www.amazon.com/dp/0691155240/,3,2
+"Walkable City: How Downtown Can Save America, One Step at a Time",Book,http://www.amazon.com/dp/0865477728/,13,2
+Economics,Book,http://www.amazon.com/dp/0073511293/,3,2
+How to Lie with Statistics,Book,http://www.amazon.com/dp/0393310728/,84,2
+The White Man's Burden: Why the West's Efforts to Aid the Rest Have Done So Much Ill and So Little Good,Book,http://www.amazon.com/dp/0143038826/,6,1
+The World Until Yesterday: What Can We Learn from Traditional Societies?,Book,http://www.amazon.com/dp/0143124404/,4,1
+The Fourth Revolution: The Global Race to Reinvent the State,Book,http://www.amazon.com/dp/0143127608/,2,1
+Free to Choose: A Personal Statement,Book,http://www.amazon.com/dp/0156334607/,6,1
+Microeconomic Theory,Book,http://www.amazon.com/dp/0195073401/,13,1
 "Wall Street: A History, Updated Edition",Book,http://www.amazon.com/dp/0195396219/,2,1
-The White Man's Burden: Why the West's Efforts to Aid the Rest Have Done So Much Ill and So Little Good,Book,http://www.amazon.com/dp/0143038826/,2,1
-The New Geography of Jobs,Book,http://www.amazon.com/dp/0544028058/,2,1
-The Haves and the Have-Nots: A Brief and Idiosyncratic History of Global Inequality,Book,http://www.amazon.com/dp/0465031412/,1,1
+Inefficient Markets: An Introduction to Behavioral Finance (Clarendon Lectures in Economics),Book,http://www.amazon.com/dp/0198292279/,3,1
+The Mismanagement of Talent: Employability and Jobs in the Knowledge Economy,Book,http://www.amazon.com/dp/0199269548/,1,1
 The Oxford Handbook of Economic Inequality (Oxford Handbooks),Book,http://www.amazon.com/dp/0199606064/,1,1
-Why the West Fears Islam: An Exploration of Muslims in Liberal Democracies (Culture and Religion in International Relations),Book,http://www.amazon.com/dp/1403969809/,1,1
-Restoring Growth in Puerto Rico: Overview and Policy Options,Book,http://www.amazon.com/dp/0815715501/,1,1
-Economic Growth in an Open Developing Economy: The Role of Structure and Demand by A. P. Thirlwall (2013-06-30),Book,http://www.amazon.com/dp/B01K04YJ7A/,1,1
-"Manias, Panics, and Crashes: A History of Financial Crises (Wiley Investment Classics)",Book,http://www.amazon.com/dp/0471467146/,1,1
-Fragile by Design: The Political Origins of Banking Crises and Scarce Credit (The Princeton Economic History of the Western World),Book,http://www.amazon.com/dp/0691155240/,1,1
-Beggar Thy Neighbor: A History of Usury and Debt,Book,http://www.amazon.com/dp/0812244621/,1,1
-"Boom Bust: House Prices, Banking and the Depression of 2010",Book,http://www.amazon.com/dp/0856832545/,1,1
-"""Dow, 30,000 by 2008"" Why It's Different This Time - Second Printing",Book,http://www.amazon.com/dp/1893958701/,1,1
-The World Until Yesterday: What Can We Learn from Traditional Societies?,Book,http://www.amazon.com/dp/0143124404/,1,1
-Are You Missing the Real Estate Boom?: The Boom Will Not Bust and Why Property Values Will Continue to Climb Through the End of the Decade - And How to Profit From Them,Book,http://www.amazon.com/dp/0385514344/,1,1
-The Language Myth: Why Language Is Not an Instinct,Book,http://www.amazon.com/dp/1107619750/,1,1
-Against the Grain: A Deep History of the Earliest States,Book,http://www.amazon.com/dp/0300182910/,1,1
-Lieutenant Commander Data As Seen in the Episode Redemption - Star Trek: The Next Generation - Collector Series 7th Season by Playmates Toys Inc.,Toy,http://www.amazon.com/dp/B01LW6YEMW/,1,1
-Dark Pools: The Rise of the Machine Traders and the Rigging of the U.S. Stock Market,Book,http://www.amazon.com/dp/0307887189/,1,1
-STAR TREK CCG 1E AU ALTERNATE UNIVERSE DATA'S HEAD 2R,Toy,http://www.amazon.com/dp/B00L6G3ZC2/,1,1
-The Son Also Rises: Surnames and the History of Social Mobility (The Princeton Economic History of the Western World),Book,http://www.amazon.com/dp/0691168377/,1,1
-Counterfactuals and Causal Inference: Methods and Principles for Social Research (Analytical Methods for Social Research),Book,http://www.amazon.com/dp/0521671930/,1,1
-Active Learning Guide: Introduction to Economics,Book,http://www.amazon.com/dp/0324282656/,1,1
-Inequality: What Can Be Done?,Book,http://www.amazon.com/dp/0674504763/,1,1
-Marriage Markets: How Inequality is Remaking the American Family,Book,http://www.amazon.com/dp/0199916586/,1,1
-"Mismatch: How Affirmative Action Hurts Students It’s Intended to Help, and Why Universities Won’t Admit It",Book,http://www.amazon.com/dp/0465029965/,1,1
-The Blood Bankers: Tales from the Global Underground Economy,Book,http://www.amazon.com/dp/1560257156/,1,1
-What Went Wrong?: The Clash Between Islam and Modernity in the Middle East,Book,http://www.amazon.com/dp/0060516054/,1,1
-Batman Comics,Magazine,http://www.amazon.com/dp/B00006K5D5/,1,1
-"Debt - Updated and Expanded: The First 5,000 Years",Book,http://www.amazon.com/dp/1612194192/,1,1
-Making Money: A Novel of Discworld,Book,http://www.amazon.com/dp/0062334999/,1,1
-Nature's Metropolis: Chicago and the Great West,Book,http://www.amazon.com/dp/0393308731/,1,1
-What Do Economists Contribute? (Cato Institute Book),Book,http://www.amazon.com/dp/081474723X/,1,1
-Banking and Business in the Roman World (Key Themes in Ancient History),Book,http://www.amazon.com/dp/0521389321/,1,1
-A Piece of the Pie: Blacks and White Immigrants Since 1880,Book,http://www.amazon.com/dp/0520043626/,1,1
+Managed by the Markets: How Finance Re-Shaped America,Book,http://www.amazon.com/dp/0199691924/,1,1
+Austerity: The History of a Dangerous Idea,Book,http://www.amazon.com/dp/019982830X/,8,1
+Marriage Markets: How Inequality is Remaking the American Family,Book,http://www.amazon.com/dp/0199916586/,2,1
+The Bourgeois Virtues: Ethics for an Age of Commerce,Book,http://www.amazon.com/dp/0226556638/,1,1
+PGP: Source Code and Internals,Book,http://www.amazon.com/dp/0262240394/,2,1
+Market Volatility (MIT Press),Book,http://www.amazon.com/dp/0262691515/,1,1
+The Moral Economy of the Peasant: Rebellion and Subsistence in Southeast Asia,Book,http://www.amazon.com/dp/0300021909/,4,1
+Against the Grain: A Deep History of the Earliest States,Book,http://www.amazon.com/dp/0300182910/,2,1
+You Are Not a Gadget: A Manifesto,Book,http://www.amazon.com/dp/0307389979/,1,1
+"Why Nations Fail: The Origins of Power, Prosperity, and Poverty",Book,http://www.amazon.com/dp/0307719227/,47,1
+Dark Pools: The Rise of the Machine Traders and the Rigging of the U.S. Stock Market,Book,http://www.amazon.com/dp/0307887189/,5,1
 The Hare with Amber Eyes: A Hidden Inheritance,Book,http://www.amazon.com/dp/0312569378/,1,1
-Bionomics: Economy As Ecosystem,Book,http://www.amazon.com/dp/0805019790/,1,1
+Active Learning Guide: Introduction to Economics,Book,http://www.amazon.com/dp/0324282656/,1,1
+Dead Aid: Why Aid Is Not Working and How There Is a Better Way for Africa,Book,http://www.amazon.com/dp/0374532125/,14,1
+The Working Poor: Invisible in America,Book,http://www.amazon.com/dp/0375708219/,3,1
+The Economic Growth of the United States: 1790-1860 (The Norton Library : Economics/History ; N346),Book,http://www.amazon.com/dp/0393003469/,2,1
+The Courage to Act: A Memoir of a Crisis and Its Aftermath,Book,http://www.amazon.com/dp/039324721X/,7,1
+The Euro: How a Common Currency Threatens the Future of Europe,Book,http://www.amazon.com/dp/039325402X/,1,1
+Nature's Metropolis: Chicago and the Great West,Book,http://www.amazon.com/dp/0393308731/,1,1
+Global Capitalism: Its Fall and Rise in the Twentieth Century,Book,http://www.amazon.com/dp/039332981X/,4,1
+The Big Short: Inside the Doomsday Machine,Book,http://www.amazon.com/dp/0393338827/,24,1
+"The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies",Book,http://www.amazon.com/dp/0393350649/,4,1
+The Varieties of Economic Rationality: From Adam Smith to Contemporary Behavioural and Evolutionary Economics (Routledge Studies in the History of Economics),Book,http://www.amazon.com/dp/0415530849/,1,1
+The Evolution of Cooperation: Revised Edition,Book,http://www.amazon.com/dp/0465005640/,8,1
+"Mismatch: How Affirmative Action Hurts Students It’s Intended to Help, and Why Universities Won’t Admit It",Book,http://www.amazon.com/dp/0465029965/,2,1
+The Haves and the Have-Nots: A Brief and Idiosyncratic History of Global Inequality,Book,http://www.amazon.com/dp/0465031412/,3,1
+The Misbehavior of Markets: A Fractal View of Financial Turbulence,Book,http://www.amazon.com/dp/0465043577/,10,1
+"The Travels of a T-Shirt in the Global Economy: An Economist Examines the Markets, Power and Politics of the World Trade, 2nd Edition",Book,http://www.amazon.com/dp/0470287160/,1,1
+"Manias, Panics, and Crashes: A History of Financial Crises (Wiley Investment Classics)",Book,http://www.amazon.com/dp/0471467146/,2,1
+A Piece of the Pie: Blacks and White Immigrants Since 1880,Book,http://www.amazon.com/dp/0520043626/,2,1
+"Unequal Childhoods: Class, Race, and Family Life",Book,http://www.amazon.com/dp/0520239504/,4,1
+Banking and Business in the Roman World (Key Themes in Ancient History),Book,http://www.amazon.com/dp/0521389321/,1,1
+"Institutions, Institutional Change and Economic Performance (Political Economy of Institutions and Decisions)",Book,http://www.amazon.com/dp/0521397340/,7,1
+Counterfactuals and Causal Inference: Methods and Principles for Social Research (Analytical Methods for Social Research),Book,http://www.amazon.com/dp/0521671930/,1,1
+The New Geography of Jobs,Book,http://www.amazon.com/dp/0544028058/,5,1
+Inequality: What Can Be Done?,Book,http://www.amazon.com/dp/0674504763/,1,1
+"The Logic of Collective Action: Public Goods and the Theory of Groups, Second printing with new preface and appendix (Harvard Economic Studies)",Book,http://www.amazon.com/dp/0674537513/,5,1
+The Quest for Cosmic Justice,Book,http://www.amazon.com/dp/0684864630/,2,1
+"A Monetary History of the United States, 1867-1960",Book,http://www.amazon.com/dp/0691003548/,8,1
+A Farewell to Alms: A Brief Economic History of the World (The Princeton Economic History of the Western World),Book,http://www.amazon.com/dp/0691141282/,11,1
+The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War (The Princeton Economic History of the Western World),Book,http://www.amazon.com/dp/0691147728/,8,1
+Economics Evolving: A History of Economic Thought,Book,http://www.amazon.com/dp/0691148422/,1,1
+Codes of the Underworld: How Criminals Communicate,Book,http://www.amazon.com/dp/0691152470/,1,1
+Efficiently Inefficient: How Smart Money Invests and Market Prices Are Determined,Book,http://www.amazon.com/dp/0691166196/,2,1
+The Son Also Rises: Surnames and the History of Social Mobility (The Princeton Economic History of the Western World),Book,http://www.amazon.com/dp/0691168377/,1,1
+"Illiberal Reformers: Race, Eugenics, and American Economics in the Progressive Era",Book,http://www.amazon.com/dp/0691169594/,7,1
+The Curse of Cash: How Large-Denomination Bills Aid Crime and Tax Evasion and Constrain Monetary Policy,Book,http://www.amazon.com/dp/0691178364/,1,1
+Pushed: The Painful Truth About Childbirth and Modern Maternity Care,Book,http://www.amazon.com/dp/0738211664/,2,1
+Reclaiming Marx's 'Capital': A Refutation of the Myth of Inconsistency (The Raya Dunayevskaya Series in Marxism and Humanism),Book,http://www.amazon.com/dp/0739118528/,3,1
+Princes of the Yen: Japan's Central Bankers and the Transformation of the Economy (East Gate Books),Book,http://www.amazon.com/dp/0765610493/,1,1
+Wealth and Democracy: A Political History of the American Rich,Book,http://www.amazon.com/dp/0767905342/,3,1
 Ponzi: The Incredible True Story of the King of Financial Cons (Library of Larceny),Book,http://www.amazon.com/dp/0767914996/,1,1
-Our Kids: The American Dream in Crisis,Book,http://www.amazon.com/dp/1476769907/,1,1
+How Asia Works,Book,http://www.amazon.com/dp/0802121322/,7,1
+What's the Matter with Kansas?: How Conservatives Won the Heart of America,Book,http://www.amazon.com/dp/080507774X/,55,1
+Beggar Thy Neighbor: A History of Usury and Debt,Book,http://www.amazon.com/dp/0812244621/,1,1
+"America's Bitter Pill: Money, Politics, Backroom Deals, and the Fight to Fix Our Broken Healthcare System",Book,http://www.amazon.com/dp/0812986687/,7,1
+Between the World and Me,Book,http://www.amazon.com/dp/0812993543/,22,1
+Why Men Earn More: The Startling Truth Behind the Pay Gap -- and What Women Can Do About It,Book,http://www.amazon.com/dp/0814472109/,16,1
+What Do Economists Contribute? (Cato Institute Book),Book,http://www.amazon.com/dp/081474723X/,1,1
+Restoring Growth in Puerto Rico: Overview and Policy Options,Book,http://www.amazon.com/dp/0815715501/,1,1
+The Reconstruction of Southern Debtors: Bankruptcy after the Civil War (Studies in the Legal History of the South Ser.),Book,http://www.amazon.com/dp/0820326240/,1,1
+"Boom Bust: House Prices, Banking and the Depression of 2010",Book,http://www.amazon.com/dp/0856832545/,1,1
+"Uncle Sam, the monopoly man",Book,http://www.amazon.com/dp/0870001000/,1,1
+Fiat Paper Money; the History and Evolution of Our Currency,Book,http://www.amazon.com/dp/0964306611/,1,1
+The Language Myth: Why Language Is Not an Instinct,Book,http://www.amazon.com/dp/1107619750/,1,1
+The Hedge Fund Mirage: The Illusion of Big Money and Why It's Too Good to Be True,Book,http://www.amazon.com/dp/1118164318/,1,1
+Expected Returns: An Investor's Guide to Harvesting Market Rewards,Book,http://www.amazon.com/dp/1119990726/,8,1
+The First Tycoon: The Epic Life of Cornelius Vanderbilt,Book,http://www.amazon.com/dp/1400031745/,5,1
+Why Your World Is About to Get a Whole Lot Smaller: Oil and the End of Globalization,Book,http://www.amazon.com/dp/1400068509/,1,1
+Why the West Fears Islam: An Exploration of Muslims in Liberal Democracies (Culture and Religion in International Relations),Book,http://www.amazon.com/dp/1403969809/,1,1
+Six Degrees: Our Future on a Hotter Planet,Book,http://www.amazon.com/dp/1426203853/,17,1
+"Macroeconomics, 3rd Edition",Book,http://www.amazon.com/dp/1429283432/,3,1
+The Forgotten Depression: 1921: The Crash That Cured Itself,Book,http://www.amazon.com/dp/1451686455/,2,1
+Zillow Talk: The New Rules of Real Estate,Book,http://www.amazon.com/dp/1455574740/,2,1
+Our Kids: The American Dream in Crisis,Book,http://www.amazon.com/dp/1476769907/,2,1
+Program or Be Programmed: Ten Commands for a Digital Age,Book,http://www.amazon.com/dp/1501262823/,1,1
+The Blank Slate: The Modern Denial of Human Nature,Book,http://www.amazon.com/dp/1501264338/,8,1
+The Blood Bankers: Tales from the Global Underground Economy,Book,http://www.amazon.com/dp/1560257156/,1,1
+Focus: Middle School Economics,Book,http://www.amazon.com/dp/1561834939/,1,1
+The Hero with a Thousand Faces (The Collected Works of Joseph Campbell),Book,http://www.amazon.com/dp/1577315936/,26,1
+Retirement Heist: How Companies Plunder and Profit from the Nest Eggs of American Workers,Book,http://www.amazon.com/dp/1591845653/,2,1
+Mismeasuring Our Lives: Why GDP Doesn't Add Up,Book,http://www.amazon.com/dp/1595585192/,2,1
+"Good Money: Birmingham Button Makers, the Royal Mint, and the Beginnings of Modern Coinage, 1775–1821",Book,http://www.amazon.com/dp/1598130439/,1,1

@@ -1,9 +1,82 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Linux Kernel Development (Developer's Library),eBooks,http://www.amazon.com/dp/B003V4ATI0/,,1
-"UNIX and Linux System Administration Handbook, 4th Edition",Book,http://www.amazon.com/dp/0131480057/,13,1
-"Edimax EW-7811Un 150Mbps 11n Wi-Fi USB Adapter, Nano Size Lets You Plug it and Forget it, Ideal for Raspberry Pi / Pi2, Supports Windows, Mac OS, Linux (Black/Gold)",Personal Computer,http://www.amazon.com/dp/B003MTTJOY/,12,1
-"TP-Link N150 Wireless High Gain USB Adapter (TL-WN722N), Version 2.0",CE,http://www.amazon.com/dp/B002SZEOLG/,8,1
-"Lenovo Ideapad 700 - 15.6-Inch FHD Gaming Laptop (Intel Core i5 6300HQ, 12 GB RAM, 256 GB SSD, NVIDIA GeForce GTX950M 4GB, Windows 10) 80RU00FEUS",Personal Computer,http://www.amazon.com/dp/B01FJFN872/,1,1
-"Lenovo Ideapad 510 15.6"" Laptop, Silver (Intel Core i7-7500U, 8GB DDR4, 256GB SSD, Intel HD Graphics 620, Windows 10) 80SV0056US",Personal Computer,http://www.amazon.com/dp/B01LNOEKUW/,1,1
-Peter Norton's Assembly Language Book for the IBM PC,Book,http://www.amazon.com/dp/0136619010/,1,1
+"TP-Link N150 Wireless High Gain USB Adapter (TL-WN722N), Version 2.0",CE,http://www.amazon.com/dp/B002SZEOLG/,53,2
+Ultrabay 12.7MM   SATA 2nd HD Hard Drive Caddy Tray Lenovo ThinkPad T420i T510 W510 T520,PC Accessory,http://www.amazon.com/dp/B008MH9DFG/,5,2
+"StarTech USB 3.0 to 2.5"" SATA III Hard Drive Adapter Cable w/ UASP - SATA to USB 3.0 Converter for SSD/HDD",Personal Computer,http://www.amazon.com/dp/B00HJZJI84/,100,2
+"Uxcell a11072500ux0238 IRL7833 N Channel Power MOSFET, 200A, 33V TO-220AB, 3 Piece",BISS,http://www.amazon.com/dp/B00AKTLO4M/,2,2
+Panda Wireless PAU06 300Mbps N USB Adapter,PC Accessory,http://www.amazon.com/dp/B00JDVRCI0/,12,2
+"Edimax EW-7811Un 150Mbps 11n Wi-Fi USB Adapter, Nano Size Lets You Plug it and Forget it, Ideal for Raspberry Pi / Pi2, Supports Windows, Mac OS, Linux (Black/Gold)",Personal Computer,http://www.amazon.com/dp/B003MTTJOY/,127,2
+"High Performance MySQL: Optimization, Backups, and Replication",Book,http://www.amazon.com/dp/1449314287/,4,2
+"UNIX and Linux System Administration Handbook, 4th Edition",Book,http://www.amazon.com/dp/0131480057/,51,2
+CompTIA Linux+ Study Guide: Exams LX0-101 and LX0-102,Book,http://www.amazon.com/dp/1118531744/,1,1
+Pro Bash Programming: Scripting the Linux Shell (Expert's Voice in Linux),Book,http://www.amazon.com/dp/1430219971/,1,1
+Ethernet: The Definitive Guide: Designing and Managing Local Area Networks,Book,http://www.amazon.com/dp/1449361846/,4,1
+Hackers: Heroes of the Computer Revolution,Book,http://www.amazon.com/dp/1449388396/,16,1
+The Linux Programming Interface: A Linux and UNIX System Programming Handbook,Book,http://www.amazon.com/dp/1593272200/,10,1
+"How Linux Works, 2nd Edition: What Every Superuser Should Know",Book,http://www.amazon.com/dp/1593275676/,17,1
+SimCity 3000 - PC,Video Games,http://www.amazon.com/dp/B00000G16I/,1,1
+Canon CanoScan N1220U Scanner,CE,http://www.amazon.com/dp/B00004Y66M/,1,1
+Melissa & Doug Abacus - Classic Wooden Educational Counting Toy With 100 Beads,Toy,http://www.amazon.com/dp/B00005BVRQ/,2,1
+Memory Upgrade 1GB DDR333 PC2700 ( AA32C12864-PC333 ),CE,http://www.amazon.com/dp/B00009MVJM/,1,1
+StarTech.com THINTOSMIN6 6 feet Toslink to Mini Digital Optical SPDIF Audio Cable,Speakers,http://www.amazon.com/dp/B00016W6Y6/,3,1
+"TRENDnet 2-Port USB KVM Switch and Cable Kit with Audio, TK-209K",CE,http://www.amazon.com/dp/B000L4D42Q/,1,1
+U.S. Robotics USR5637 56K USB Controller Dial-Up External Fax Modem with Voice,CE,http://www.amazon.com/dp/B0013FDLM0/,2,1
+"IOGEAR 2-Port USB VGA Cable KVM Switch with Cables and Remote, GCS22U",CE,http://www.amazon.com/dp/B001D1UTC4/,6,1
+GrandStream HT503 1-FXS/1-FXO Port Analog Telephone,CE,http://www.amazon.com/dp/B002H29TGA/,1,1
+Linux Kernel Development (Developer's Library),eBooks,http://www.amazon.com/dp/B003V4ATI0/,1,1
+Alfa AWUS036NH 2000mW 2W 802.11g/n High Gain USB Wireless G / N Long-Range WiFi Network Adapter with 5dBi Screw-On Swivel Rubber Antenna and 7dBi Panel Antenna and Suction cup / Clip Window Mount,PC Accessory,http://www.amazon.com/dp/B003YIFHJY/,12,1
+"CyberPower CP1500PFCLCD PFC Sinewave UPS System, 1500VA/900W, 10 Outlets, AVR, Mini-Tower",Speakers,http://www.amazon.com/dp/B00429N19W/,48,1
+"TRENDnet 56K USB 2.0 Phone, Internet and Fax Modem, TFM-561U",CE,http://www.amazon.com/dp/B004BU8O9Y/,4,1
+"ASUS VH238H 23"" Full HD 1920x1080 2ms HDMI DVI VGA Back-lit LED Monitor",Personal Computer,http://www.amazon.com/dp/B004J6BIJ8/,9,1
+"Gateway LT2016U (KAV60) Black INTEL ATOM N270@1.60GHz 1GB RAM 160GB HDD 10.1"" LED Windows XP HOME",Personal Computer,http://www.amazon.com/dp/B004KRZOT6/,1,1
+"LG USB Powered 8 X DVD / 24 X CD Portable External Super Multi Drive for Netbooks, Laptops, Notebooks or Desktop Computers",PC Accessory,http://www.amazon.com/dp/B004W88SBE/,2,1
+"ASUS VS238H-P 23"" Full HD 1920x1080 2ms HDMI DVI VGA Back-lit LED Monitor",Personal Computer,http://www.amazon.com/dp/B005BZNEVQ/,15,1
+BTD 500 USB Dongle,Personal Computer,http://www.amazon.com/dp/B007C4D6A8/,1,1
+TP-Link Wireless Dual Band PCI Express Adapter (TL-WDN4800),Personal Computer,http://www.amazon.com/dp/B007GMPZ0A/,86,1
+"SanDisk Cruzer CZ36 32GB USB 2.0 Flash Drive, Frustration-Free Packaging- SDCZ36-032G-AFFP",CE,http://www.amazon.com/dp/B007JR532M/,11,1
+StarTech.com 1 Port Flush Mount ExpressCard SuperSpeed USB 3.0 Card Adapter,Personal Computer,http://www.amazon.com/dp/B00BB7TVMO/,1,1
+"Cooler Master Hyper T4 CPU Cooler with 4 Direct Contact Heatpipes RR-T4-18PK-R1, INTEL/AMD with AM4 Support",Personal Computer,http://www.amazon.com/dp/B00BSKY1M4/,16,1
+Kingston Digital 120GB SSDNow mS200 mSATA (6Gbps) Solid State Drive for Notebooks Tablets and Ultrabooks SMS200S3/120G,Personal Computer,http://www.amazon.com/dp/B00CG8GTPO/,4,1
+ASUS USB Adapter with Bluetooth (USB-BT400),Personal Computer,http://www.amazon.com/dp/B00DJ83070/,11,1
+Raspberry PI 5MP Camera Board Module,PC Accessory,http://www.amazon.com/dp/B00E1GGE40/,7,1
+"Panda 300Mbps Wireless N USB Adapter - Windows Vista/7/8/8.1/10, Mint, Ubuntu, Fedora, openSUSE, CentOS, Lubuntu, Zorin, Kali Linux and Raspbian Wheezy",PC Accessory,http://www.amazon.com/dp/B00EQT0YK2/,13,1
+MyDigitalSSD 64GB (60GB) OTG (On The Go) mSATA Based SuperSpeed USB 3.0 UASP Portable External Solid State Storage Drive SSD,Personal Computer,http://www.amazon.com/dp/B00EZ2FRVQ/,1,1
+"Hittime 3 in 1 USB OTG Cable Adapter, Micro USB Hub USB OTG Extension Adapter for Smartphone and Tablet",Personal Computer,http://www.amazon.com/dp/B00FGKXY9S/,9,1
+Generic USB 2.0 Easycap Dc60 Tv Dvd Vhs Video Adapter Capture Card Audio Av Capture Support Windows Xp/7/Vista 32,PC Accessory,http://www.amazon.com/dp/B00FILKNBM/,4,1
+EC Technology 22400mAh USB Portable Charger with 3 USB Outputs - White&Red,Wireless,http://www.amazon.com/dp/B00GBU0VPC/,1,1
+Gigabyte GC-WB867D-I REV Bluetooth 4.0/Wireless AC/B/G/N Band Dual Frequency 2.4Ghz/5.8Ghz Expansion Card,Personal Computer,http://www.amazon.com/dp/B00HF8K0O6/,122,1
+BenQ GL2460HM 24-Inch FHD 1920x1080 LED Monitor 2ms Response Time HDMI DVI,Personal Computer,http://www.amazon.com/dp/B00IKDFL4O/,38,1
+"Cellet 1Amp USB Wall Charger, Compatible with LG, Samsung. HTC, Iphone, Sony, Nokia, Blackberry, Apple and more. Small Design for travel and home use. Sturdy build with IC Chip for safe charging.",Wireless,http://www.amazon.com/dp/B00KJLMKTY/,1,1
+SanDisk Extreme 32GB USB 3.0 Flash Drive (SDCZ80-032G-GAM46),Personal Computer,http://www.amazon.com/dp/B00KT7DXIU/,14,1
+"BenQ GW2270HM 22-Inch 1080 LED Monitor, 5ms, 8-bit Display, HDMI",Personal Computer,http://www.amazon.com/dp/B00KYCSRQI/,4,1
+"ASUS X551 15.6-inch Laptop (Intel Celeron 2.16GHz Processor, 4GB RAM, 500GB HDD, Windows 8.1 includes Windows 10 upgrade), Black",Personal Computer,http://www.amazon.com/dp/B00L49X8E6/,10,1
+SanDisk Ultra Fit CZ43 32GB USB 3.0 Low-Profile Flash Drive Up To 130MB/s Read- SDCZ43-032G-G46 [Older Version],Personal Computer,http://www.amazon.com/dp/B00LLER2CS/,20,1
+CanaKit 5V 2.5A Raspberry Pi 3 Power Supply / Adapter / Charger (UL Listed),Personal Computer,http://www.amazon.com/dp/B00MARDJZ4/,45,1
+"Brother DCP-L2540DW Wireless Monochrome Compact Laser Multi-Function Printer, Up to 250-Sheet Capacity Tray, Amazon Dash Replenishment Enabled",CE,http://www.amazon.com/dp/B00MFG57ZK/,15,1
+"(Discontinued) HP Stream 13.3 Inch Laptop (Intel Celeron, 2 GB, 32 GB SSD, Horizon Blue) Includes Office 365 Personal for One Year",Personal Computer,http://www.amazon.com/dp/B00O65HZKS/,13,1
+"EnGenius 80211n 2x2, 5GHz, high-powered, long range, Wireless Outdoor Client Bridge/CPE/AP, directional antenna, long-range, point-to-point, IP55, 26 dBm,19 dBi, two Ethernet Port, PoE Injector included (EnStation5)",Personal Computer,http://www.amazon.com/dp/B00OJZPSBS/,1,1
+"AUKEY Bluetooth Transmitter, Wireless Stereo Music Adapter with A2DP for Cell Phones, TV, PC, iPod & other 3.5mm Audio Devices",Wireless,http://www.amazon.com/dp/B00PI62YVO/,3,1
+"SanDisk iXpand 64GB USB 2.0 Mobile Flash Drive with Lightning connector For iPhones, iPads & Computers- SDIX-064G-G57",Personal Computer,http://www.amazon.com/dp/B00RBGYPNE/,6,1
+"Dell Inspiron 15 3000 Series 15.6 Inch Laptop (Intel Core i3 5005U, 4 GB RAM, 500 GB HDD, Black, Window 10",Personal Computer,http://www.amazon.com/dp/B00RH69VT6/,27,1
+SanDisk SSD Plus 120GB 2.5-Inch SDSSDA-120G-G25 (Old Version),Personal Computer,http://www.amazon.com/dp/B00S9Q9UKS/,29,1
+Intel 1st Generation Compute Stick with Intel Atom Processor and Linux (BOXSTCK1A8LFC),Personal Computer,http://www.amazon.com/dp/B00UYHE60Y/,4,1
+TP-Link AC600 Wireless High Gain Dual Band USB Adapter (Archer T2UH),Personal Computer,http://www.amazon.com/dp/B00UZRVY12/,9,1
+Lenovo Thinkpad T420 - Intel Core i5 2410M 2.3G 8GB 320GB Windows Professional (Certified Refurbish),Personal Computer,http://www.amazon.com/dp/B00W4AMWCI/,10,1
+Cable Matters USB-C to HDMI Adapter Supporting 4K 60Hz in Black (Thunderbolt 3 Port Compatible),PC Accessory,http://www.amazon.com/dp/B00X4S5C7G/,15,1
+"StarTech.com USB 3.1 (10Gbps) Adapter Cable for 2.5"" SATA SSD/HDD Drives - Supports SATA III (6 Gbps) - USB Powered",Personal Computer,http://www.amazon.com/dp/B00XLAZODE/,3,1
+"Logitech MX Anywhere 2 Wireless Mobile Mouse – Track on Any Surface, Bluetooth or USB Connection, Easy-Switch up to 3 Devices, Hyper-fast Scrolling",Personal Computer,http://www.amazon.com/dp/B00Y09IWGQ/,13,1
 "Apple iPhone 5 16 GB Unlocked, White",Wireless Device,http://www.amazon.com/dp/B00ZSD25DE/,1,1
+Acer Aspire V15 Nitro Black Edition VN7-592G-788W 15.6-inch Ultra HD Notebook (Windows 10),Personal Computer,http://www.amazon.com/dp/B0161BJEDK/,5,1
+"Zalman ZM-VE350 USB 3.0 External 2.5"" Hard Drive Enclosure With Built-In Virtual CD Emulator (ZM-V350B)",Personal Computer,http://www.amazon.com/dp/B019C23H06/,4,1
+"BenQ GW2270 21.5"" 1080p LED Monitor,Low Blue Light Mode, True 8-bit Color Performance, VESA Mountable, D-Sub DVI-D",Personal Computer,http://www.amazon.com/dp/B019EFMK1I/,4,1
+SanDisk Ultra Fit 128GB USB 3.0 Flash Drive (SDCZ43-128G-GAM46) [Newest Version],Personal Computer,http://www.amazon.com/dp/B01BGTG2A0/,29,1
+"Lenovo Ideapad 700 - 15.6-Inch FHD Gaming Laptop (Intel Core i5 6300HQ, 12 GB RAM, 256 GB SSD, NVIDIA GeForce GTX950M 4GB, Windows 10) 80RU00FEUS",Personal Computer,http://www.amazon.com/dp/B01FJFN872/,61,1
+"Lenovo Ideapad 510 15.6"" Laptop, Silver (Intel Core i7-7500U, 8GB DDR4, 256GB SSD, Intel HD Graphics 620, Windows 10) 80SV0056US",Personal Computer,http://www.amazon.com/dp/B01LNOEKUW/,7,1
+"RHCSA/RHCE Red Hat Linux Certification Study Guide (Exams EX200 & EX300), 6th Edition (Certification Press)",Book,http://www.amazon.com/dp/0071765654/,10,1
+"USB Sound Card Adapter External USB 2.0 Audio Sound Card Adapter for Table PC Laptop Desktop Windows Mac OS Linux, Plug and Play, No drivers Needed",Personal Computer,http://www.amazon.com/dp/B072BMG9TB/,1,1
+"RHCSA/RHCE Red Hat Linux Certification Study Guide, Seventh Edition (Exams EX200 & EX300)",Book,http://www.amazon.com/dp/0071841962/,30,1
+"C Programming Language, 2nd Edition",Book,http://www.amazon.com/dp/0131103628/,109,1
+Advanced UNIX Programming (2nd Edition),Book,http://www.amazon.com/dp/0131411543/,3,1
+"A Practical Guide to Linux Commands, Editors, and Shell Programming (3rd Edition)",Book,http://www.amazon.com/dp/013308504X/,7,1
+Peter Norton's Assembly Language Book for the IBM PC,Book,http://www.amazon.com/dp/0136619010/,1,1
+The Unix Programming Environment (Prentice-Hall Software Series),Book,http://www.amazon.com/dp/013937681X/,6,1
+Unix System Architecture,Book,http://www.amazon.com/dp/0139498435/,1,1

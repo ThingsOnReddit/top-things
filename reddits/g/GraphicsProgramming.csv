@@ -1,6 +1,20 @@
 name,category,amazon_link,total_mentions,subreddit_mentions
-Ray Tracing in One Weekend (Ray Tracing Minibooks Book 1),eBooks,http://www.amazon.com/dp/B01B5AODD8/,,1
-Ray Tracing: the Next Week (Ray Tracing Minibooks Book 2),eBooks,http://www.amazon.com/dp/B01CO7PQ8C/,,1
-Ray Tracing: The Rest Of Your Life (Ray Tracing Minibooks Book 3),eBooks,http://www.amazon.com/dp/B01DN58P8C/,,1
-"Real-Time Rendering, Third Edition",Book,http://www.amazon.com/dp/1568814240/,3,1
-Computer Graphics: Principles and Practice (3rd Edition),Book,http://www.amazon.com/dp/0321399528/,1,1
+Introduction to 3D Game Programming with DirectX 11,Book,http://www.amazon.com/dp/1936420228/,9,3
+Computer Graphics: Principles and Practice (3rd Edition),Book,http://www.amazon.com/dp/0321399528/,3,2
+"Real-Time Rendering, Third Edition",Book,http://www.amazon.com/dp/1568814240/,15,2
+Ray Tracing in One Weekend (Ray Tracing Minibooks Book 1),eBooks,http://www.amazon.com/dp/B01B5AODD8/,4,2
+Fundamentals of Computer Graphics,Book,http://www.amazon.com/dp/1568814690/,4,2
+Practical Rendering and Computation with Direct3D 11,Book,http://www.amazon.com/dp/1568817207/,3,2
+Ray Tracing from the Ground Up,Book,http://www.amazon.com/dp/1568812728/,1,1
+Polygon Mesh Processing,Book,http://www.amazon.com/dp/1568814267/,1,1
+"Realistic Ray Tracing, Second Edition",Book,http://www.amazon.com/dp/1568814615/,1,1
+"3D Math Primer for Graphics and Game Development, 2nd Edition",Book,http://www.amazon.com/dp/1568817231/,20,1
+"Texturing and Modeling: A Procedural Approach (The Morgan Kaufmann Series in Computer Graphics) by Ebert, David S., Musgrave, F. Kenton, Peachey, Darwyn, Perli (2003) Hardcover",Book,http://www.amazon.com/dp/B00IJ0Q1FG/,1,1
+Ray Tracing: the Next Week (Ray Tracing Minibooks Book 2),eBooks,http://www.amazon.com/dp/B01CO7PQ8C/,1,1
+"Physically Based Rendering, Second Edition: From Theory to Implementation",Book,http://www.amazon.com/dp/0123750792/,5,1
+Ray Tracing: The Rest Of Your Life (Ray Tracing Minibooks Book 3),eBooks,http://www.amazon.com/dp/B01DN58P8C/,1,1
+Computer Graphics: Principles and Practice in C (2nd Edition),Book,http://www.amazon.com/dp/0201848406/,1,1
+C++ Primer (5th Edition),Book,http://www.amazon.com/dp/0321714113/,55,1
+"Mathematics for 3D Game Programming and Computer Graphics, Third Edition",Book,http://www.amazon.com/dp/1435458869/,16,1
+"Essential Mathematics for Games and Interactive Applications, Third Edition",Book,http://www.amazon.com/dp/1482250926/,5,1
+"A Sampler of Useful Computational Tools for Applied Geometry, Computer Graphics, and Image Processing",Book,http://www.amazon.com/dp/1498706282/,1,1
